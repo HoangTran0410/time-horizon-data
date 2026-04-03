@@ -1,0 +1,194 @@
+[
+  {
+    "id": "hong-bang-legend",
+    "title": "Hồng Bàng Dynasty (Legendary)",
+    "description": "According to legend, the first Vietnamese state began with Kinh Dương Vương, whose son Lạc Long Quân married Âu Cơ. Their descendants ruled 18 generations of the Hùng Vương (Hùng Kings) from Văn Lang.",
+    "time": [-2879],
+    "emoji": "👑",
+    "priority": 88
+  },
+  {
+    "id": "hung-kings-van-lang",
+    "title": "Văn Lang State under Hùng Vương",
+    "description": "The legendary Hùng Vương dynasty establishes Văn Lang as the first Vietnamese kingdom. Bronze drum culture flourishes. The period ends with the rise of Âu Lạc.",
+    "time": [-2579],
+    "emoji": "🥁",
+    "priority": 85
+  },
+  {
+    "id": "au-lac-founded",
+    "title": "Âu Lạc Kingdom Founded",
+    "description": "An Dương Vương (Thục Phán) conquers Văn Lang and establishes the Âu Lạc kingdom, unifying the Lạc Việt and Âu Việt peoples. He builds Cổ Loa Citadel as his capital.",
+    "time": [-258],
+    "emoji": "🏯",
+    "priority": 86
+  },
+  {
+    "id": "co-loa-citadel",
+    "title": "Construction of Cổ Loa Citadel",
+    "description": "An Dương Vương constructs Cổ Loa Citadel near present-day Hà Nội — the earliest known fortification in Vietnamese history. The spiraling structure is still visible today.",
+    "time": [-257],
+    "emoji": "🐍",
+    "priority": 82
+  },
+  {
+    "id": "no-than-archery",
+    "title": "Magic Crossbow (Nỏ Thần) Created",
+    "description": "According to legend, the wizard/architect Trần Thủ Độ forges the magic crossbow (nỏ thần) to defend Cổ Loa. The crossbow's arrows could shoot down enemy aircraft.",
+    "time": [-255],
+    "emoji": "🏹",
+    "priority": 78
+  },
+  {
+    "id": "an-duong-vuong-falls",
+    "title": "Fall of Âu Lạc",
+    "description": "Trieu Da (Zhao Tuo), a Chinese general from the Nanyue kingdom, conquers Âu Lạc. An Dương Vương dies, and Vietnam enters nearly a millennium of Chinese rule.",
+    "time": [-179],
+    "emoji": "⚔️",
+    "priority": 84
+  },
+  {
+    "id": "nanyue-kingdom",
+    "title": "Nanyue Kingdom",
+    "description": "Trieu Da establishes Nanyue (Nam Việt), briefly unifying modern Guangdong, Guangxi, and northern Vietnam under one rule before the Han dynasty conquers it in 111 BCE.",
+    "time": [-180],
+    "emoji": "🥢",
+    "priority": 72
+  },
+  {
+    "id": "hai-ba-trung-uprising",
+    "title": "Trưng Sisters' Uprising",
+    "description": "Trưng Trắc and Trưng Nhị lead a successful revolt against Chinese rule, defeating the governor Trieu Chanh and restoring Vietnamese independence for about 3 years.",
+    "time": [40],
+    "emoji": "⚔️",
+    "priority": 90
+  },
+  {
+    "id": "trung-sisters-independence",
+    "title": "Trưng Sisters Proclaim Independence",
+    "description": "The Trưng sisters capture 65 citadels across the Red River Delta and proclaim themselves queens (Trưng Nữ Vương), ruling over an independent Lĩnh Nam kingdom.",
+    "time": [40],
+    "emoji": "👑",
+    "priority": 88
+  },
+  {
+    "id": "trung-sisters-defeat",
+    "title": "Trưng Sisters Defeated by Han",
+    "description": "In 43 CE, Han general Ma Yuan crushes the Trưng sisters' rebellion. Both sisters drown themselves in the Hát River rather than be captured — becoming national heroines.",
+    "time": [43],
+    "emoji": "😢",
+    "priority": 85
+  },
+  {
+    "id": "ba-chanh",
+    "title": "Lady Triệu (Triệu Ẩu)",
+    "description": "Lady Triệu, a 3rd-century Vietnamese guerrilla leader, resists Chinese rule with a reported army of 1,000. She famously declared 'I'd like to ride the wind and sail the seas.'",
+    "time": [248],
+    "emoji": "⚔️",
+    "priority": 80
+  },
+  {
+    "id": "ly-bien",
+    "title": "Ly Biễn (Lý Bỉnh)",
+    "description": "The general Ly Biễn advises the local ruler Truc Bach before the Triệu Ẩu uprising and assists in anti-Chinese resistance efforts.",
+    "time": [247],
+    "emoji": "🗡️",
+    "priority": 72
+  },
+  {
+    "id": "chinese-colonization-peak",
+    "title": "Chinese Colonial Rule Peaks",
+    "description": "Under the Eastern Wu and Jin dynasties, Chinese control over Vietnam intensifies. Three major rebellion attempts fail in 190 CE, 230 CE, and 270 CE.",
+    "time": [200],
+    "emoji": "🏴",
+    "priority": 74
+  },
+  {
+    "id": "mai-thi-trung-tuc",
+    "title": "Mai Thì Trung Tự",
+    "description": "In 40 CE, the scholar-monk Mai Thì Trung Tự leads a rebellion against the Chinese administration, one of the first organized uprisings of the period.",
+    "time": [40],
+    "emoji": "📿",
+    "priority": 70
+  },
+  {
+    "id": "lam-son-uprising-early",
+    "title": "Early Resistance Movements",
+    "description": "Throughout the 3rd to 9th centuries, multiple Vietnamese uprisings attempt to throw off Chinese rule — including the rebellion of the two Triệu sisters, Lady Triệu, and numerous other local leaders.",
+    "time": [300],
+    "emoji": "🔥",
+    "priority": 76
+  },
+  {
+    "id": "ngos-reign-ends",
+    "title": "Chinese Rule Ends — Ngô Dynasty",
+    "description": "In 905 CE, the warlord Khúc Thừa Dụ overthrows the Chinese protectorate and establishes an autonomous rule, recognized by the Later Tang dynasty as 'Jiedushi' (governor).",
+    "time": [905],
+    "emoji": "🏛️",
+    "priority": 80
+  },
+  {
+    "id": "ngo-quyen-bach-dang",
+    "title": "Ngô Quyền Defeats Chinese at Bạch Đằng",
+    "description": "In 938 CE, Ngô Quyền defeats a large Chinese (Southern Han) naval force at the Battle of Bạch Đằng River, using iron-tipped stakes hidden in the riverbed at low tide. This ends over 1,000 years of Chinese rule.",
+    "time": [938],
+    "emoji": "⚔️",
+    "priority": 96
+  },
+  {
+    "id": "ngos-reign-established",
+    "title": "Ngô Dynasty Established",
+    "description": "Ngô Quyền declares himself king, establishing the first independent Vietnamese dynasty in over a millennium. His capital is at Cổ Loa. The dynasty lasts 45 years.",
+    "time": [939],
+    "emoji": "👑",
+    "priority": 88
+  },
+  {
+    "id": "ngo-quyen-death",
+    "title": "Death of Ngô Quyền",
+    "description": "Ngô Quyền dies in 944 CE. Without a clear succession, the young kingdom descends into the Twelve Warlords period (十二使君之亂), a chaotic era of internal conflict.",
+    "time": [944],
+    "emoji": "💀",
+    "priority": 72
+  },
+  {
+    "id": "twelve-warlords",
+    "title": "Period of the Twelve Warlords",
+    "description": "After Ngô Quyền's death, Vietnam fragments into twelve competing warlord fiefdoms (sĩ). This period lasts until Đinh Bộ Lĩnh unifies the country in 968.",
+    "time": [965],
+    "emoji": "🗡️",
+    "priority": 74
+  },
+  {
+    "id": "dinh-bo-linh-unifies",
+    "title": "Đinh Bộ Lĩnh Unifies Vietnam",
+    "description": "Đinh Bộ Lĩnh defeats all twelve warlords and unifies Vietnam for the first time in 30 years. He declares himself Đinh Tiên Hoàng in 968.",
+    "time": [968],
+    "emoji": "👑",
+    "priority": 86
+  },
+  {
+    "id": "dinh-tien-hoang",
+    "title": "Đinh Tiên Hoàng Becomes Emperor",
+    "description": "Đinh Bộ Lĩnh takes the title Emperor (Hoàng Đế) and establishes the Đinh dynasty. He founds the city of Hoa Lư as his capital.",
+    "time": [968],
+    "emoji": "🏯",
+    "priority": 84
+  },
+  {
+    "id": "le-hoan-defeats-song",
+    "title": "Lê Hoàn Defeats Song Dynasty",
+    "description": "General Lê Hoàn (later Lê Đại Hành) repels the Song dynasty's attempted invasion in 979 and defeats a naval attack in 981, securing Vietnamese independence.",
+    "time": [981],
+    "emoji": "⚔️",
+    "priority": 83
+  },
+  {
+    "id": "le-dai-hanh-reign",
+    "title": "Lê Đại Hành Rules",
+    "description": "Lê Hoàn becomes Lê Đại Hành emperor (980–1005), one of Vietnam's most capable early rulers. He builds roads, organizes agriculture, and maintains independence against Chinese threats.",
+    "time": [980],
+    "emoji": "👑",
+    "priority": 82
+  }
+]

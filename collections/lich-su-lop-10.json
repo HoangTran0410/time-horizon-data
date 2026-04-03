@@ -1,0 +1,316 @@
+[
+  {
+    "id": "hong-bang-dynasty-legend",
+    "title": "Hồng Bàng Dynasty — Truyền Thuyết Nguồn Gốc Việt Nam",
+    "description": "Theo truyền thuyết, nguồn gốc Việt Nam bắt đầu từ Kinh Dương Vương, con cháu của thần nước và rồng. Con ông là Lạc Long Quân cưới Âu Cơ, sinh ra một bọc trứng mở ra 100 con trai — tổ tiên của người Việt.",
+    "time": [-2879],
+    "emoji": "👑",
+    "priority": 88
+  },
+  {
+    "id": "hung-kings-18-generations",
+    "title": "Hùng Vương — 18 Đời Vua Hùng",
+    "description": "Truyền thuyết kể về 18 đời Hùng Vương, cai trị vương quốc Văn Lang ở đồng bằng sông Hồng. Văn Lang được cho là tồn tại khoảng năm 2579–258 TCN, với nền văn hóa Trống Đồng phát triển rực rỡ.",
+    "time": [-2579],
+    "emoji": "🥁",
+    "priority": 85
+  },
+  {
+    "id": "au-lac-kingdom",
+    "title": "Âu Lạc — An Dương Vương Thống Nhất",
+    "description": "An Dương Vương (Thục Phán) thôn tính Văn Lang, hợp nhất người Lạc Việt và Âu Việt thành nước Âu Lạc. Ông xây thành Cổ Loa theo kiểu xoắn ốc độc đáo, trở thành kinh đô đầu tiên có quy hoạch rõ ràng.",
+    "time": [-258],
+    "emoji": "🏯",
+    "priority": 86
+  },
+  {
+    "id": "co-loa-citadel-built",
+    "title": "Thành Cổ Loa Xây Dựng",
+    "description": "An Dương Vương xây thành Cổ Loa gần Hà Nội ngày nay — công trình phòng thủ đầu tiên được ghi nhận trong lịch sử Việt Nam. Thành có 9 vòng đai xoắn ốc, một kiến trúc độc đáo không có ở bất kỳ nơi nào khác.",
+    "time": [-257],
+    "emoji": "🐍",
+    "priority": 82
+  },
+  {
+    "id": "magic-crossbow-no-than",
+    "title": "Nỏ Thần Cổ Loa",
+    "description": "Theo truyền thuyết, thợ rèn/trạng Trần Thủ Độ chế tạo nỏ thần bảo vệ Cổ Loa. Mỗi mũi tên có thể bắn hạ hàng trăm quân địch. Vũ khí này là biểu tượng công nghệ quân sự tiên tiến nhất thời cổ đại Việt Nam.",
+    "time": [-255],
+    "emoji": "🏹",
+    "priority": 78
+  },
+  {
+    "id": "au-lac-conquered-nanyue",
+    "title": "Âu Lạc Bị Triệu Da Chiếm",
+    "description": "Tướng nhà Triệu (Zhao Tuo) từ Nam Việt xâm lược Âu Lạc, kết thúc thời kỳ Hùng Vương. An Dương Vương mất ngôi. Việt Nam bước vào hơn 1000 năm Bắc thuộc.",
+    "time": [-179],
+    "emoji": "⚔️",
+    "priority": 84
+  },
+  {
+    "id": "nanyue-kingdom-period",
+    "title": "Nam Việt — Vương Quốc Hùng Mạnh",
+    "description": "Triệu Da (Zhao Tuo) thành lập Nam Việt, hợp nhất Quảng Đông, Quảng Tây và miền Bắc Việt Nam. Nam Việt thịnh trị gần một thế kỷ trước khi nhà Hán chinh phục vào năm 111 TCN.",
+    "time": [-180],
+    "emoji": "🥢",
+    "priority": 72
+  },
+  {
+    "id": "bac-thuoc-han-dynasty",
+    "title": "Bắc Thuộc Thời Nhà Hán",
+    "description": "Từ năm 111 TCN, Việt Nam chính thức sáp nhập vào đế chế Hán. Nhà Hán áp đặt hệ thống quản lý hành chính, thuế khoá nặng nề và đồng hóa văn hóa, mở đầu một thiên niên kỷ đô hộ.",
+    "time": [-111],
+    "emoji": "🏴",
+    "priority": 78
+  },
+  {
+    "id": "hai-ba-trung-uprising",
+    "title": "Hai Bà Trưng Khởi Nghĩa",
+    "description": "Năm 40 SCN, Trưng Trắc và Trưng Nhị lãnh đạo cuộc khởi nghĩa chống đô hộ Hán, đánh bại thái thú Tô Định. Hai Bà tự xưng Nữ Vương, cai trị Lĩnh Nam trong 3 năm trước khi Hán quay lại.",
+    "time": [40],
+    "emoji": "⚔️",
+    "priority": 90
+  },
+  {
+    "id": "hai-ba-trung-defeat",
+    "title": "Hai Bà Trưng Hi Sinh",
+    "description": "Năm 43, Hán tướng Mã Viện đánh bại quân Trưng, tái lập Bắc thuộc. Hai Bà Trưng nhảy xuống sông Hát tự vẫn thay vì đầu hàng, trở thành anh hùng dân tộc được tôn thờ đến ngày nay.",
+    "time": [43],
+    "emoji": "😢",
+    "priority": 88
+  },
+  {
+    "id": "trieu-au-lady-trieu",
+    "title": "Bà Triệu (Triệu Ẩu)",
+    "description": "Năm 248, Triệu Ẩu (Bà Triệu) nổi dậy chống Bắc thuộc với quân số hàng nghìn người. Bà nổi tiếng với câu nói: 'Em muốn cưỡi sóng biển Đông, chống gió mà ra', thể hiện tinh thần bất khuất của phụ nữ Việt Nam.",
+    "time": [248],
+    "emoji": "⚔️",
+    "priority": 82
+  },
+  {
+    "id": "trieu-viet-vuong-rebellion",
+    "title": "Triệu Việt Vương Nổi Dậy",
+    "description": "Năm 190, Triệu Việt Vương (Triệu Quốc Đạt) lãnh đạo một trong những cuộc khởi nghĩa sớm nhất chống Bắc thuộc, thu hút đồng minh từ nhiều bộ lạc Lạc Việt và Hùng Việt.",
+    "time": [190],
+    "emoji": "🔥",
+    "priority": 76
+  },
+  {
+    "id": "nam-viet-rebellion-230",
+    "title": "Khởi Nghĩa Lớn Năm 230",
+    "description": "Đầu thế kỷ III, nhân dân Lĩnh Nam liên tiếp nổi dậy chống đô hộ Ngô, Đông Ngô. Các cuộc khởi nghĩa năm 190, 230 và 270 đều thất bại nhưng thể hiện tinh thần bất khuất liên tục của người Việt.",
+    "time": [230],
+    "emoji": "🔥",
+    "priority": 74
+  },
+  {
+    "id": "bac-thuoc-wu-jin",
+    "title": "Bắc Thuộc Dưới Nhà Ngô Và Tấn",
+    "description": "Từ thế kỷ III đến VI, Việt Nam lần lượt thuộc các triều đại Ngô, Tấn, Nam, Bắc. Nhiều cuộc khởi nghĩa nổ ra liên tục, trong đó có Bà Triệu (248), Lương Sơn (V thế kỷ), và cả Lý Nam Đế (Thế kỷ V).",
+    "time": [300],
+    "emoji": "🏴",
+    "priority": 74
+  },
+  {
+    "id": "ly-nam-de-rebellion",
+    "title": "Lý Nam Đế Khởi Nghĩa",
+    "description": "Năm 544, Lý Nam Đế (Lý Bát Xáo) lãnh đạo khởi nghĩa chống nhà Lương, thành lập nước Lam Sơn (độc lập trong thời gian ngắn). Đây là một trong những nỗ lực thoát ly Bắc thuộc thành công nhất trước thế kỷ X.",
+    "time": [544],
+    "emoji": "🔥",
+    "priority": 80
+  },
+  {
+    "id": "khuc-thua-du-autonomy",
+    "title": "Khúc Thừa Dụ — Quyền Tự Chủ Đầu Tiên",
+    "description": "Năm 905, Khúc Thừa Dụ được triều đình nhà Đường phong là 'Nam Hải đô hộ' (governor). Ông thiết lập quyền tự chủ thực tế cho Việt Nam, mở đường cho các nhà tự chủ tiếp theo và cuối cùng là độc lập.",
+    "time": [905],
+    "emoji": "🏛️",
+    "priority": 80
+  },
+  {
+    "id": "ngo-quyen-bach-dang-victory",
+    "title": "Ngô Quyền Đánh Bại Quân Nam Hán Tại Bạch Đằng",
+    "description": "Năm 938, Ngô Quyền đánh bại hải quân Nam Hán tại sông Bạch Đằng bằng chiến thuật cọc sắt và thủy triều. Chiến thắng vĩ đại này chấm dứt hơn 1000 năm Bắc thuộc, mở ra kỷ nguyên độc lập cho Việt Nam.",
+    "time": [938],
+    "emoji": "⚔️",
+    "priority": 96
+  },
+  {
+    "id": "ngo-dynasty-established",
+    "title": "Triều Ngô Thành Lập (939–965)",
+    "description": "Ngô Quyền tự xưng vương, lập ra triều Ngô — triều đại độc lập đầu tiên sau hàng nghìn năm. Ngô Xương Ngập và Ngô Xương Văn tiếp tục trị vì sau khi Ngô Quyền mất (944).",
+    "time": [939],
+    "emoji": "👑",
+    "priority": 88
+  },
+  {
+    "id": "twelve-warlords-period",
+    "title": "Thời Kỳ Thập Nhị Sứ Quân",
+    "description": "Sau khi Ngô Quyền mất (944), Việt Nam rơi vào thời kỳ hỗn loạn với 12 sứ quân tranh giành quyền lực. Thời kỳ này kéo dài khoảng 24 năm cho đến khi Đinh Bộ Lĩnh thống nhất đất nước.",
+    "time": [965],
+    "emoji": "🗡️",
+    "priority": 74
+  },
+  {
+    "id": "dinh-bo-linh-unification",
+    "title": "Đinh Bộ Lĩnh Thống Nhất Việt Nam",
+    "description": "Đinh Bộ Lĩnh đánh bại 12 sứ quân, thống nhất Việt Nam. Năm 968, ông xưng đế là Đinh Tiên Hoàng, lập triều Đinh, đóng đô tại Hoa Lư (Ninh Bình) — hoàng đế đầu tiên của Việt Nam trong lịch sử chính thức.",
+    "time": [968],
+    "emoji": "👑",
+    "priority": 86
+  },
+  {
+    "id": "le-dai-hanh-defeats-song",
+    "title": "Lê Đại Hành Đánh Bại Quân Tống",
+    "description": "Lê Hoàn lên ngôi năm 980 (Lê Đại Hành). Năm 981, ông đại phá quân Tống xâm lược từ phía bắc và trên sông Bạch Đằng, bảo vệ nền độc lập non trẻ của Việt Nam.",
+    "time": [981],
+    "emoji": "⚔️",
+    "priority": 83
+  },
+  {
+    "id": "ly-dynasty-founded",
+    "title": "Triều Lý Thành Lập (1009–1225)",
+    "description": "Sau khi Lê Đại Hành mất (1005), đất nước rơi vào loạn lạc. Lý Cố Uất cướp ngôi, thành lập triều Lý. Đây là triều đại kéo dài 215 năm, mở ra thời kỳ thịnh trị của Đại Việt.",
+    "time": [1009],
+    "emoji": "👑",
+    "priority": 84
+  },
+  {
+    "id": "ly-thai-to-thang-long",
+    "title": "Lý Thái Tổ Dời Đô Sang Thăng Long",
+    "description": "Năm 1010, Lý Thái Tổ rời Hoa Lư đến Thăng Long (Hà Nội), đổi tên nước thành Đại Việt. Thăng Long được xem là 'kinh đô vạn xuân', trở thành trung tâm chính trị suốt 8 thế kỷ.",
+    "time": [1010],
+    "emoji": "🏯",
+    "priority": 88
+  },
+  {
+    "id": "ly-thanh-tong-buddhism",
+    "title": "Lý Thánh Tông — Phật Giáo Phát Triển Mạnh",
+    "description": "Lý Thánh Tông (1054–1072) đánh bại nhà Tống và Chiêm Thành, mở rộng lãnh thổ. Ông cho xây Văn Miếu — quốc tự giáo dục đầu tiên. Phật giáo trở thành quốc giáo, các chùa lớn mọc khắp đất nước.",
+    "time": [1054],
+    "emoji": "🙏",
+    "priority": 80
+  },
+  {
+    "id": "ly-nhan-tong-examination",
+    "title": "Lý Nhân Tông — Khoa Thi Chính Thức",
+    "description": "Lý Nhân Tông (1072–1127) chính thức tổ chức khoa thi tam giáo (Nho, Phật, Đạo) năm 1075, mở đầu cho hệ thống thi cử kéo dài gần 900 năm. Đây là nền tảng cho giáo dục Nho giáo tại Việt Nam.",
+    "time": [1075],
+    "emoji": "📜",
+    "priority": 78
+  },
+  {
+    "id": "tran-dynasty-founded",
+    "title": "Triều Trần Thành Lập (1225–1400)",
+    "description": "Trần Cảnh nhường ngôi cho con rể (Lý Huệ Tông), lập triều Trần. Trần Thái Tông (1225–1258) mở ra thời kỳ cường thịnh nhất của Đại Việt, đặc biệt là 3 cuộc kháng chiến chống quân Nguyên Mông.",
+    "time": [1225],
+    "emoji": "👑",
+    "priority": 86
+  },
+  {
+    "id": "mongol-invasion-1",
+    "title": "Cuộc Kháng Chiến Chống Nguyên Mông Lần 1 (1258)",
+    "description": "Quân Nguyên Mông xâm lược Đại Việt lần đầu năm 1258. Trần Hưng Đạo chỉ huy quân dân đánh bại đại quân Mông Cổ tại sông Bạch Đằng, bảo vệ nền độc lập.",
+    "time": [1258],
+    "emoji": "⚔️",
+    "priority": 85
+  },
+  {
+    "id": "hoi-nghi-dien-hong-1282",
+    "title": "Hội Nghị Diên Hồng",
+    "description": "Năm 1282, trước nguy cơ quân Nguyên Mông xâm lược lần thứ 3, Trần Hưng Đạo triệu tập hội nghị các bô lão toàn quốc tại Diên Hồng (Hà Nội) để bàn kế hoạch chiến đấu. Các cụ già được hỏi 'đánh hay chịu' và đồng thanh hưởng ứng đánh.",
+    "time": [1282],
+    "emoji": "🏛️",
+    "priority": 84
+  },
+  {
+    "id": "mongol-invasion-3-defeat",
+    "title": "Đại Việt Đánh Bại Quân Nguyên Lần 3 (1288)",
+    "description": "Năm 1287–1288, quân Nguyên lần thứ ba xâm lược với quy mô lớn nhất (gồm hải quân). Trần Hưng Đạo đánh bại hoàn toàn tại sông Bạch Đằng, bắt sống nhiều tướng lĩnh, thu toàn bộ hải quân và tài chính chiến tranh.",
+    "time": [1288],
+    "emoji": "⚔️",
+    "priority": 88
+  },
+  {
+    "id": "ho-dynasty-founded",
+    "title": "Triều Hồ Thành Lập (1400–1407)",
+    "description": "Năm 1400, Hồ Quý Ly soán ngôi Trần последний emperor, thành lập triều Hồ. Ông di dời kinh đô đến Tây Đạo (Phú Thọ), ban hành lịch mới, cải cách kinh tế và quân sự. Triều Hồ chỉ tồn tại 7 năm.",
+    "time": [1400],
+    "emoji": "👑",
+    "priority": 82
+  },
+  {
+    "id": "ming-occupation-begins",
+    "title": "Nhà Minh Xâm Lược — Bắc Thuộc Lần 2",
+    "description": "Năm 1407, quân Minh xâm lược Đại Việt, bắt Hồ Quý Ly. Việt Nam sáp nhập vào Đại Minh. Gần 30 vạn quân Minh đồn trú, đồng hóa văn hóa, tịch thu ruộng đất và bắt dân làm nô.",
+    "time": [1407],
+    "emoji": "⚔️",
+    "priority": 84
+  },
+  {
+    "id": "lam-son-uprising",
+    "title": "Khởi Nghĩa Lam Sơn (1418–1427)",
+    "description": "Lê Lợi phất cờ khởi nghĩa tại Lam Sơn (Thanh Hóa) năm 1418. Cuộc kháng chiến kéo dài 10 năm, thu hút hàng vạn nông dân. Năm 1426, quân Lam Sơn đại phá quân Minh tại trận Tốt Động–Chúc Động.",
+    "time": [1418],
+    "emoji": "🔥",
+    "priority": 86
+  },
+  {
+    "id": "le-loi-becomes-emperor",
+    "title": "Lê Lợi Lên Ngôi — Lê Thái Tổ (1428)",
+    "description": "Năm 1428, Lê Lợi lên ngôi hoàng đế, tức Lê Thái Tổ, lập ra triều Lê sơ. Ông đàm phán với nhà Minh, giành độc lập hoàn toàn. Đây là cuộc kháng chiến thành công vẻ vang nhất trong lịch sử Việt Nam.",
+    "time": [1428],
+    "emoji": "👑",
+    "priority": 90
+  },
+  {
+    "id": "le-thanh-tong-golden-age",
+    "title": "Lê Thánh Tông — Thời Kỳ Hoàng Kim Của Lê Sơ",
+    "description": "Lê Thánh Tông (1460–1497) là vị vua vĩ đại nhất triều Lê sơ: hoàn thiện Luật Hồng Đức, mở rộng lãnh thổ, phát triển ngoại giao, giáo dục Nho giáo. Đại Việt đạt đến đỉnh cao về chính trị, kinh tế, văn hóa.",
+    "time": [1460],
+    "emoji": "👑",
+    "priority": 88
+  },
+  {
+    "id": "mac-dynasty-established",
+    "title": "Triều Mạc Thành Lập (1527–1592)",
+    "description": "Năm 1527, Mạc Đăng Dung soán ngôi, lập triều Mạc. Triều Lê chính thống rút về Thanh Hóa. Thời kỳ phân tranh Lê–Mạc kéo dài hơn 250 năm, chia cắt Việt Nam.",
+    "time": [1527],
+    "emoji": "⚔️",
+    "priority": 80
+  },
+  {
+    "id": "tay-son-dynasty-founded",
+    "title": "Nhà Tây Sơn Thành Lập (1788–1802)",
+    "description": "Năm 1788, Nguyễn Huệ (Quang Trung) lật đổ chính quyền Chúa Trịnh, thống nhất Việt Nam, lập ra nhà Tây Sơn. Đây là cuộc nội chiến đẫm máu nhất trong lịch sử Việt Nam.",
+    "time": [1788],
+    "emoji": "👑",
+    "priority": 84
+  },
+  {
+    "id": "quang-trung-defeats-qing",
+    "title": "Quang Trung Đại Phá Quân Thanh",
+    "description": "Đầu năm 1789, Quang Trung (Nguyễn Huệ) chỉ huy 10 vạn quân Tây Sơn đánh bại 20 vạn quân nhà Thanh (Qing) xâm lược tại Thăng Long. Chiến thắng này bảo vệ nền độc lập và chủ quyền Việt Nam.",
+    "time": [1789, 1, 5],
+    "duration": 0.01,
+    "emoji": "⚔️",
+    "priority": 90
+  },
+  {
+    "id": "nguyen-hue-passes",
+    "title": "Nguyễn Huệ (Quang Trung) Qua Đời",
+    "description": "Nguyễn Huệ mất năm 1792 ở tuổi 40, là một trong những vị tướng vĩ đại nhất lịch sử Đông Nam Á. Ông để lại một đất nước thống nhất nhưng cũng mở đường cho sự trỗi dậy của Nguyễn Ánh.",
+    "time": [1792, 9, 16],
+    "duration": 0.01,
+    "emoji": "💀",
+    "priority": 78
+  },
+  {
+    "id": "nguyen-anh-reunifies",
+    "title": "Nguyễn Ánh (Gia Long) Thống Nhất Việt Nam",
+    "description": "Năm 1802, Nguyễn Ánh (Gia Long) đánh bại nhà Tây Sơn, thống nhất toàn bộ Việt Nam lần đầu tiên sau nhiều thế kỷ chia cắt. Ông lập triều Nguyễn, đóng đô tại Huế. Đây là sự kiện kết thúc thời kỳ cổ–trung đại.",
+    "time": [1802],
+    "emoji": "👑",
+    "priority": 86
+  }
+]

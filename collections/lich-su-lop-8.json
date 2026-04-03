@@ -1,0 +1,183 @@
+[
+  {
+    "id": "gia-long-unifies-vietnam",
+    "title": "Nguyễn Ánh Thống Nhất Việt Nam",
+    "description": "Nguyễn Ánh (lấy hiệu Gia Long) đánh bại nhà Tây Sơn, thống nhất toàn bộ Việt Nam lần đầu tiên sau hàng thế kỷ chia cắt. Ông lập ra triều Nguyễn, đóng đô tại Huế.",
+    "time": [1802],
+    "emoji": "👑",
+    "priority": 88
+  },
+  {
+    "id": "hue-capital-founded",
+    "title": "Huế Trở Thành Kinh Đô",
+    "description": "Gia Long chọn Huế làm kinh đô, xây dựng cung điện, thành trì và lăng tẩm theo phong cách phương Đông. Đại Nội (Hoàng thành Huế) trở thành trung tâm quyền lực của triều Nguyễn.",
+    "time": [1802],
+    "emoji": "🏯",
+    "priority": 78
+  },
+  {
+    "id": "thieu-tri-reigns",
+    "title": "Thiệu Trị Trị vì (1841–1847)",
+    "description": "Thiệu Trị tiếp tục chính sách bảo thủ Nho giáo, hạn chế giao tiếp với nước ngoài. Ông cho trùng tu Văn Miếu Quốc Tử Giám và ban hành nhiều sắc lệnh cấm đạo.",
+    "time": [1841],
+    "emoji": "👑",
+    "priority": 70
+  },
+  {
+    "id": "tu-duc-reigns",
+    "title": "Tự Đức Trị vì (1847–1883)",
+    "description": "Tự Đức là vị hoàng đế cuối cùng của triều Nguyễn có thực quyền. Ông nổi tiếng vì xây dựng lăng tẩm lớn, nhưng cũng để mất độc lập vào tay thực dân Pháp trong thời gian trị vì.",
+    "time": [1847],
+    "emoji": "👑",
+    "priority": 75
+  },
+  {
+    "id": "french-attack-da-nang",
+    "title": "Pháp Tấn Công Đà Nẵng",
+    "description": "Tháng 9 năm 1858, hải quân Pháp dưới chỉ huy Rigault de Genouilly nã pháo vào Đà Nẵng, mở đầu cuộc chiến xâm lược Việt Nam. Đây là sự kiện mở đầu cho gần 100 năm thuộc địa.",
+    "time": [1858, 9],
+    "emoji": "💣",
+    "priority": 85
+  },
+  {
+    "id": "fall-of-sai-gon",
+    "title": "Sài Gòn Thất Thủ",
+    "description": "Tháng 2 năm 1859, quân Pháp chiếm Sài Gòn sau nhiều đợt tấn công. Tướng Nguyễn Phúc Vinh Soa không đủ quân để bảo vệ thành phố, đánh dấu bước ngoặt trong cuộc chiến tranh Pháp–Việt.",
+    "time": [1859, 2],
+    "emoji": "🏳️",
+    "priority": 83
+  },
+  {
+    "id": "treaty-of-saigon-1862",
+    "title": "Hiệp Ước Sài Gòn 1862",
+    "description": "Tự Đức ký Hiệp ước Sài Gòn với Pháp, nhượng ba tỉnh miền Đông Nam Kỳ (Biên Hòa, Gia Định, Định Tường) và một phần miền Tây. Pháp cũng được quyền tự do truyền đạo.",
+    "time": [1862, 6, 5],
+    "duration": 0.01,
+    "emoji": "📜",
+    "priority": 84
+  },
+  {
+    "id": "cochinchina-annexed",
+    "title": "Nam Kỳ Thuộc Pháp",
+    "description": "Đến năm 1867, Pháp mở rộng kiểm soát toàn bộ miền Nam Việt Nam (Cochinchina), chiếm thêm ba tỉnh (Vĩnh Long, An Giang, Hà Tiên) thông qua Hiệp ước 1867.",
+    "time": [1867],
+    "emoji": "🏴",
+    "priority": 82
+  },
+  {
+    "id": "tonkin-pacification",
+    "title": "Pháp Bình Định Bắc Kỳ",
+    "description": "Từ 1873 đến 1885, quân Pháp liên tục tấn công vào miền Bắc Việt Nam (Tonkin). Các cuộc kháng chiến của triều đình Huế và nhân dân liên tục bị đàn áp.",
+    "time": [1873],
+    "emoji": "⚔️",
+    "priority": 78
+  },
+  {
+    "id": "treaty-of-hue-1884",
+    "title": "Hiệp Ước Huế 1884",
+    "description": "Hiệp ước Patennotre ký tại Huế chính thức biến Việt Nam thành thuộc địa Pháp. Pháp đặt quânều lực bảo hộ (protectorat) lên toàn bộ Việt Nam, triều đình Huế chỉ còn danh nghĩa.",
+    "time": [1884, 6, 25],
+    "duration": 0.01,
+    "emoji": "📜",
+    "priority": 85
+  },
+  {
+    "id": "french-indochina-formed",
+    "title": "Đông Dương Thuộc Pháp Thành Lập",
+    "description": "Năm 1887, Pháp chính thức thành lập Liên bang Đông Dương (Indochine française), bao gồm Việt Nam (Bắc, Trung, Nam Kỳ), Campuchia và Lào. Đây là thuộc địa lớn nhất của Pháp ở châu Á.",
+    "time": [1887, 10, 17],
+    "duration": 0.01,
+    "emoji": "🏳️",
+    "priority": 86
+  },
+  {
+    "id": "can-vuong-movement",
+    "title": "Phong Trào Cần Vương",
+    "description": "Năm 1885, vua Hàm Nghi bị Pháp bắt khi tham gia kháng chiến chống Pháp. Phong trào Cần Vương (1885–1895) lan rộng khắp Trung Kỳ và Bắc Kỳ, kêu gọi 'Cần Vương cứu nước'.",
+    "time": [1885],
+    "emoji": "🔥",
+    "priority": 80
+  },
+  {
+    "id": "phan-dinh-phung-campaigns",
+    "title": "Phan Đình Phùng Chỉ Huy Kháng Chiến",
+    "description": "Phan Đình Phùng là thủ lĩnh quân sự chính của phong trào Cần Vương. Ông tổ chức lực lượng du kích ở Hà Tĩnh, đánh bại nhiều đợt càn quét của Pháp trong suốt 10 năm.",
+    "time": [1885],
+    "emoji": "⚔️",
+    "priority": 78
+  },
+  {
+    "id": "hoang-hoa-tham-resistance",
+    "title": "Hoàng Hoa Thám (Đề Thám) Kháng Pháp",
+    "description": "Đề Thám là thủ lĩnh nghĩa quân kháng Pháp ở Hưng Yên, Bắc Ninh. Ông trở thành nỗi khiếp sợ của quân Pháp suốt hàng chục năm, đánh bại nhiều trận lớn.",
+    "time": [1886],
+    "emoji": "🗡️",
+    "priority": 76
+  },
+  {
+    "id": "phan-boi-chau-reform",
+    "title": "Phan Bội Châu Tìm Đường Cứu Nước",
+    "description": "Phan Bội Châu là nhà yêu nước hàng đầu, chủ trương đấu tranh đòi độc lập bằng mọi biện pháp. Ông sang Nhật Bản năm 1905 tìm viện trợ và lập ra nhiều tổ chức cách mạng.",
+    "time": [1905],
+    "emoji": "🌏",
+    "priority": 80
+  },
+  {
+    "id": "dong-kinh-nghia-thuc",
+    "title": "Đông Kinh Nghĩa Thục",
+    "description": "Năm 1907, Phan Bội Châu thành lập Đông Kinh Nghĩa Thục — một trường học dạy tiếng Việt, khoa học và tư tưởng yêu nước tại Hà Nội, thay thế chương trình Pháp. Pháp đóng cửa trường sau 2 năm.",
+    "time": [1907],
+    "emoji": "📚",
+    "priority": 78
+  },
+  {
+    "id": "phan-chu-trinh-reform",
+    "title": "Phan Châu Trinh — Con Đường Cải Cách",
+    "description": "Phan Chu Trinh chủ trương cải cách hòa bình, đòi dân quyền thông qua giáo dục và văn minh hóa. Ông phản đối bạo lực, tin rằng Việt Nam cần tự thay đổi từ bên trong.",
+    "time": [1907],
+    "emoji": "📖",
+    "priority": 74
+  },
+  {
+    "id": "tonkin-free-school",
+    "title": "Trường Thượng Hải Tự Do",
+    "description": "Năm 1907, các nhà yêu nước ở Bắc Kỳ lập Trường Thượng Hải Tự Do (Trường Dân tộc), giảng dạy kiến thức hiện đại bằng tiếng Việt. Pháp nhanh chóng đàn áp phong trào này.",
+    "time": [1907],
+    "emoji": "🏫",
+    "priority": 72
+  },
+  {
+    "id": "nguyen-tat-thanh-departs",
+    "title": "Nguyễn Tất Thành Rời Việt Nam",
+    "description": "Năm 1911, Nguyễn Tất Thành (tương lai là Hồ Chí Minh) rời Sài Gòn trên tàu Latouche Tréville, bắt đầu cuộc sống lưu vong kéo dài 30 năm tìm đường cứu nước.",
+    "time": [1911, 6, 5],
+    "duration": 0.01,
+    "emoji": "🚢",
+    "priority": 90
+  },
+  {
+    "id": "young-vietnam-france",
+    "title": "Thanh Niên Việt Nam Tại Pháp",
+    "description": "Những năm 1910s, nhiều thanh niên Việt Nam được đưa sang Pháp làm công nhân hoặc du học. Họ tiếp xúc với tư tưởng dân chủ, cộng sản và chống thực dân của châu Âu.",
+    "time": [1914],
+    "emoji": "🇫🇷",
+    "priority": 68
+  },
+  {
+    "id": "colonial-exploitation",
+    "title": "Bóc Lột Thuộc Địa Dưới Thực Dân Pháp",
+    "description": "Suốt gần 100 năm thuộc Pháp, Việt Nam bị khai thác、资源 cực đoan: ruộng đất bị tịch thu, khoáng sản bị bóc, nghĩa vụ lao động cưỡng bức, và nhân dân sống trong nghèo đói triền miên.",
+    "time": [1900],
+    "emoji": "⛓️",
+    "priority": 76
+  },
+  {
+    "id": "nguyen-dynasty-ends",
+    "title": "Triều Nguyễn Chấm Dứt (1945)",
+    "description": "Năm 1945, vua Bảo Đại tuyên bố thoái vị dưới áp lực của Cách mạng tháng Tám, chấm dứt 143 năm triều Nguyễn và hơn 500 năm quân chủ Việt Nam.",
+    "time": [1945, 8, 25],
+    "duration": 0.01,
+    "emoji": "👑",
+    "priority": 88
+  }
+]

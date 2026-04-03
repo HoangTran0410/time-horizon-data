@@ -1,0 +1,218 @@
+[
+  {
+    "id": "ngo-quyen-bach-dang",
+    "title": "Ngô Quyền Đánh Bại Quân Nguyên Tại Bạch Đằng",
+    "description": "Năm 938, Ngô Quyền đánh bại quân Nam Hán tại sông Bạch Đằng bằng cọc tre gắn sắt cắm dưới sông khi nước triều xuống. Chiến thắng này chấm dứt hơn 1000 năm Bắc thuộc.",
+    "time": [938],
+    "emoji": "⚔️",
+    "priority": 96
+  },
+  {
+    "id": "ngo-dynasty-founded",
+    "title": "Ngô Dynasty Thành Lập",
+    "description": "Ngô Quyền tự xưng vương, đóng đô tại Cổ Loa, lập ra triều Ngô — triều đại độc lập đầu tiên của Việt Nam sau hơn một nghìn năm Bắc thuộc. Triều Ngô kéo dài 45 năm.",
+    "time": [939],
+    "emoji": "👑",
+    "priority": 88
+  },
+  {
+    "id": "ngo-quyen-passes",
+    "title": "Ngô Quyền qua đời",
+    "description": "Ngô Quyền mất năm 944. Không có người kế vị rõ ràng, đất nước rơi vào thời kỳ loạn lạc — Thập nhị sứ quân, kéo dài cho đến khi Đinh Bộ Lĩnh thống nhất.",
+    "time": [944],
+    "emoji": "💀",
+    "priority": 72
+  },
+  {
+    "id": "twelve-warlords-era",
+    "title": "Thời Kỳ Thập Nhị Sứ Quân",
+    "description": "Sau khi Ngô Quyền mất, Việt Nam chia thành 12 sứ quân tranh giành quyền lực. Thời kỳ hỗn loạn này kéo dài cho đến năm 968 khi Đinh Bộ Lĩnh thống nhất đất nước.",
+    "time": [965],
+    "emoji": "🗡️",
+    "priority": 74
+  },
+  {
+    "id": "dinh-bo-linh-unites",
+    "title": "Đinh Bộ Lĩnh Thống Nhất Việt Nam",
+    "description": "Đinh Bộ Lĩnh đánh bại tất cả 12 sứ quân, thống nhất Việt Nam lần đầu tiên sau 30 năm chia cắt. Năm 968, ông xưng Đinh Tiên Hoàng.",
+    "time": [968],
+    "emoji": "👑",
+    "priority": 86
+  },
+  {
+    "id": "dinh-tien-hoang-emperor",
+    "title": "Đinh Tiên Hoàng Lên Ngôi",
+    "description": "Đinh Bộ Lĩnh xưng đế, lập ra triều Đinh, đóng đô tại Hoa Lư (Ninh Bình). Ông là hoàng đế đầu tiên của Việt Nam trong lịch sử chính thức.",
+    "time": [968],
+    "emoji": "🏯",
+    "priority": 84
+  },
+  {
+    "id": "dinh-phe-de-reigns",
+    "title": "Đinh Phế Đế",
+    "description": "Đinh Liệt lên nối ngôi năm 979 ở tuổi 6, bị quân Kim (Đại Tề) bắt giết năm 980 khi đang trên đường vượt biển chạy sang Trung Quốc.",
+    "time": [979],
+    "emoji": "⚔️",
+    "priority": 75
+  },
+  {
+    "id": "le-dai-hanh-defeats-song",
+    "title": "Lê Đại Hành Đánh Bại Quân Tống",
+    "description": "Tướng Lê Hoàn lên ngôi năm 980. Năm 981, ông đại phá quân Tống xâm lược tại biên giới phía bắc và trên sông Bạch Đằng, bảo vệ nền độc lập Việt Nam.",
+    "time": [981],
+    "emoji": "⚔️",
+    "priority": 83
+  },
+  {
+    "id": "le-dai-hanh-reigns",
+    "title": "Lê Đại Hành Trị vì (980–1005)",
+    "description": "Lê Hoàn (Lê Đại Hành) trị vì từ 980 đến 1005, là một trong những vị vua năng lực nhất thời kỳ đầu. Ông xây dựng đường sá, tổ chức nông nghiệp và duy trì nền độc lập trước các угрозы Trung Quốc.",
+    "time": [980],
+    "emoji": "👑",
+    "priority": 82
+  },
+  {
+    "id": "ly-dynasty-founded",
+    "title": "Triều Lý Thành Lập",
+    "description": "Lê Đại Hành mất năm 1005, đất nước rơi vào loạn lạc. Lý Cố Uất cướp ngôi, lập ra triều Lý và đóng đô tại Hoa Lư. Triều Lý kéo dài 215 năm.",
+    "time": [1009],
+    "emoji": "👑",
+    "priority": 84
+  },
+  {
+    "id": "ly-thai-to-thang-long",
+    "title": "Lý Thái Tổ Dời Đô Sang Thăng Long",
+    "description": "Lý Thái Tổ rời đô từ Hoa Lư đến Thăng Long (Hà Nội ngày nay), đổi tên nước là Đại Việt. Thăng Long trở thành trung tâm chính trị và văn hóa suốt nhiều thế kỷ.",
+    "time": [1010],
+    "emoji": "🏯",
+    "priority": 88
+  },
+  {
+    "id": "ly-thanh-tong-reigns",
+    "title": "Lý Thánh Tông Trị vì",
+    "description": "Lý Thánh Tông (trị vì 1054–1072) mở rộng lãnh thổ, đánh bại nhà Tống và Chiêm Thành. Ông cho xây dựng Văn Miếu — quốc tự giáo dục đầu tiên của Việt Nam.",
+    "time": [1054],
+    "emoji": "👑",
+    "priority": 80
+  },
+  {
+    "id": "ly-nhan-tong-thi-cu",
+    "title": "Lý Nhân Tông — Khoa Thi Đầu Tiên",
+    "description": "Lý Nhân Tông (trị vì 1072–1127) chính thức tổ chức khoa thi tam giáo (Nho, Phật, Đạo), mở đầu cho hệ thống thi cử kéo dài 900 năm ở Việt Nam.",
+    "time": [1075],
+    "emoji": "📜",
+    "priority": 78
+  },
+  {
+    "id": "tran-dynasty-founded",
+    "title": "Triều Trần Thành Lập",
+    "description": "Trần Cảnh nhường ngôi cho con rể Lý Huệ Tông, lập ra triều Trần. Trần Thái Tông (1225–1258) mở ra thời kỳ cường thịnh nhất của Việt Nam trước các cuộc xâm lược Mông Cổ.",
+    "time": [1225],
+    "emoji": "👑",
+    "priority": 86
+  },
+  {
+    "id": "tran-hung-dao-chen-ki",
+    "title": "Trần Hưng Đạo Chống Quân Nguyên Lần 1",
+    "description": "Năm 1258, quân Nguyên Mông lần đầu xâm lược Đại Việt. Trần Hưng Đạo (con trai Trần Thái Tông) chỉ huy quân dân đánh bại đại quân Mông Cổ tại sông Bạch Đằng.",
+    "time": [1258],
+    "emoji": "⚔️",
+    "priority": 85
+  },
+  {
+    "id": "tran-hung-dao-chen-ki-2",
+    "title": "Trần Hưng Đạo Chống Quân Nguyên Lần 2",
+    "description": "Năm 1285, quân Nguyên quay lại xâm lược lần thứ hai. Trần Hưng Đạo một lần nữa chỉ huy chiến dịch phản công, đánh bại toàn quân Mông Cổ tại Vạn Kiến và Tây Kết.",
+    "time": [1285],
+    "emoji": "⚔️",
+    "priority": 86
+  },
+  {
+    "id": "hoi-nghi-dien-hong",
+    "title": "Hội Nghị Diên Hồng",
+    "description": "Năm 1282, Trần Hưng Đạo triệu tập hội nghị các bô lão toàn quốc tại Diên Hồng (Hà Nội) để bàn kế hoạch chống quân Nguyên lần 3. Các cụ già được hỏi về chiến tranh hay hòa bình.",
+    "time": [1282],
+    "emoji": "🏛️",
+    "priority": 84
+  },
+  {
+    "id": "tran-hung-dao-chen-ki-3",
+    "title": "Quân Nguyên Lần 3 Bị Đánh Bại",
+    "description": "Năm 1287–1288, quân Nguyên lần thứ ba xâm lược với quy mô lớn nhất, bao gồm hải quân. Trần Hưng Đạo đánh bại hoàn toàn tại sông Bạch Đằng, bắt sống nhiều tướng Nguyên.",
+    "time": [1288],
+    "emoji": "⚔️",
+    "priority": 88
+  },
+  {
+    "id": "tran-anh-tong-cham-wars",
+    "title": "Trần Anh Tông — Chiến Tranh Chiêm Thành",
+    "description": "Trần Anh Tông (trị vì 1293–1314) mở rộng xuống phía nam, tấn công Chiêm Thành nhiều lần, mở rộng lãnh thổ Đại Việt vào vùng Quảng Nam.",
+    "time": [1293],
+    "emoji": "🗺️",
+    "priority": 74
+  },
+  {
+    "id": "ho-quy-ly-seizes-power",
+    "title": "Hồ Quý Ly Cướp Ngôi",
+    "description": "Năm 1400, Hồ Quý Ly soán ngôi Trần最后一个皇帝, lập ra triều Hồ. Ông di dời kinh đô đến Tây Đạo (Phú Thọ), ban hành lịch mới và cải cách kinh tế.",
+    "time": [1400],
+    "emoji": "👑",
+    "priority": 82
+  },
+  {
+    "id": "ho-dynasty-falls",
+    "title": "Triều Hồ Sụp Đổ — Minh Xâm Lược",
+    "description": "Năm 1407, quân Minh xâm lược Đại Việt, bắt Hồ Quý Ly và Hồ Hân. Triều Hồ chỉ tồn tại 7 năm. Việt Nam chính thức sáp nhập vào Đại Minh.",
+    "time": [1407],
+    "emoji": "⚔️",
+    "priority": 80
+  },
+  {
+    "id": "lam-son-uprising-begins",
+    "title": "Khởi Nghĩa Lam Sơn Nổ Ra",
+    "description": "Năm 1418, Lê Lợi phất cờ khởi nghĩa tại làng Lam Sơn (Thanh Hóa), chống lại ách đô hộ nhà Minh. Cuộc kháng chiến kéo dài 10 năm, thu hút hàng vạn nông dân tham gia.",
+    "time": [1418],
+    "emoji": "🔥",
+    "priority": 86
+  },
+  {
+    "id": "le-loi-lam-son-victory",
+    "title": "Lê Lợi Giành Chiến Thắng",
+    "description": "Từ 1418 đến 1427, quân Lam Sơn của Lê Lợi liên tiếp đánh bại quân Minh, giải phóng nhiều vùng lãnh thổ. Năm 1426, quân Minh chịu thất bại nặng nề tại trận bờ sông.",
+    "time": [1426],
+    "emoji": "⚔️",
+    "priority": 88
+  },
+  {
+    "id": "le-loi-king",
+    "title": "Lê Lợi Lên Ngôi — Lê Thái Tổ",
+    "description": "Năm 1428, Lê Lợi lên ngôi hoàng đế, tức Lê Thái Tổ, lập ra triều Lê sơ (Later Lê). Ông đàm phán hòa bình với nhà Minh, giành lại độc lập hoàn toàn cho Việt Nam.",
+    "time": [1428],
+    "emoji": "👑",
+    "priority": 90
+  },
+  {
+    "id": "le-thai-to-reigns",
+    "title": "Lê Thái Tổ Trị vì (1428–1433)",
+    "description": "Lê Thái Tổ cai trị trong 5 năm, thực hiện cải cách ruộng đất, giảm thuế, phục hồi sản xuất sau chiến tranh. Ông mất năm 1433, truyền ngôi cho con trai.",
+    "time": [1428],
+    "emoji": "🏛️",
+    "priority": 80
+  },
+  {
+    "id": "le-thanh-tong-reigns",
+    "title": "Lê Thánh Tông Trị vì (1460–1497)",
+    "description": "Lê Thánh Tông là vị vua vĩ đại nhất của triều Lê sơ, mở rộng lãnh thổ, hoàn thiện hệ thống luật pháp (Hồng Đức Quốc Âm), phát triển giáo dục Nho giáo và ngoại giao. Đây là thời kỳ thịnh trị nhất của Đại Việt.",
+    "time": [1460],
+    "emoji": "👑",
+    "priority": 88
+  },
+  {
+    "id": "mac-dynasty-founded",
+    "title": "Triều Mạc Thành Lập",
+    "description": "Năm 1527, Mạc Đăng Dung soán ngôi Lê Chiêu Tông, lập ra triều Mạc. Triều Lê chính thống rút về Thanh Hóa, mở ra thời kỳ phân tranh Lê–Mạc kéo dài hơn 250 năm.",
+    "time": [1527],
+    "emoji": "⚔️",
+    "priority": 80
+  }
+]
