@@ -12,3 +12,4 @@ node server.cjs 8080      # custom port
 ```
 
 Then update app's dev config (`src/hooks/useCatalogCollections.ts`) to `http://localhost:5500/data`
+
