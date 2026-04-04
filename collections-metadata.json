@@ -6,7 +6,8 @@
     "description": "Big Bang, stars, galaxies, and solar-system origins.",
     "author": "Time Horizon",
     "createdAt": "2026-03-25",
-    "dataUrl": "/collections/cosmic.json"
+    "dataUrl": "/collections/cosmic.json",
+    "categories": ["Science"]
   },
   {
     "id": "earth",
@@ -15,7 +16,8 @@
     "description": "Planetary history, geology, evolution, and prehistory.",
     "author": "Time Horizon",
     "createdAt": "2026-03-25",
-    "dataUrl": "/collections/earth.json"
+    "dataUrl": "/collections/earth.json",
+    "categories": ["Science", "Prehistory"]
   },
   {
     "id": "dinosaur-age",
@@ -24,7 +26,8 @@
     "description": "Major milestones from the Mesozoic world of dinosaurs.",
     "author": "Time Horizon",
     "createdAt": "2026-03-26",
-    "dataUrl": "/collections/dinosaur-age.json"
+    "dataUrl": "/collections/dinosaur-age.json",
+    "categories": ["Science", "Prehistory"]
   },
   {
     "id": "ice-age",
@@ -33,7 +36,8 @@
     "description": "Glacial-era milestones from the Pleistocene into the Holocene.",
     "author": "Time Horizon",
     "createdAt": "2026-03-26",
-    "dataUrl": "/collections/ice-age.json"
+    "dataUrl": "/collections/ice-age.json",
+    "categories": ["Science", "Prehistory"]
   },
   {
     "id": "stone-age",
@@ -42,7 +46,8 @@
     "description": "Early tools, human evolution, cave art, and farming.",
     "author": "Time Horizon",
     "createdAt": "2026-03-26",
-    "dataUrl": "/collections/stone-age.json"
+    "dataUrl": "/collections/stone-age.json",
+    "categories": ["Prehistory", "History"]
   },
   {
     "id": "bronze-age",
@@ -51,7 +56,8 @@
     "description": "Cities, writing, kingdoms, and the rise of metallurgy.",
     "author": "Time Horizon",
     "createdAt": "2026-03-26",
-    "dataUrl": "/collections/bronze-age.json"
+    "dataUrl": "/collections/bronze-age.json",
+    "categories": ["History"]
   },
   {
     "id": "iron-age",
@@ -60,7 +66,8 @@
     "description": "Empires, classical states, and iron-powered societies.",
     "author": "Time Horizon",
     "createdAt": "2026-03-26",
-    "dataUrl": "/collections/iron-age.json"
+    "dataUrl": "/collections/iron-age.json",
+    "categories": ["History", "Politics"]
   },
   {
     "id": "medieval-age",
@@ -69,7 +76,8 @@
     "description": "Post-Roman kingdoms, world religions, plague, and print.",
     "author": "Time Horizon",
     "createdAt": "2026-03-26",
-    "dataUrl": "/collections/medieval-age.json"
+    "dataUrl": "/collections/medieval-age.json",
+    "categories": ["History", "Religion"]
   },
   {
     "id": "industrial-age",
@@ -78,7 +86,8 @@
     "description": "Machines, electricity, aviation, war, and the space race.",
     "author": "Time Horizon",
     "createdAt": "2026-03-26",
-    "dataUrl": "/collections/industrial-age.json"
+    "dataUrl": "/collections/industrial-age.json",
+    "categories": ["History", "Science", "Politics"]
   },
   {
     "id": "information-age",
@@ -87,7 +96,8 @@
     "description": "Networks, the web, smartphones, genomics, and AI.",
     "author": "Time Horizon",
     "createdAt": "2026-03-26",
-    "dataUrl": "/collections/information-age.json"
+    "dataUrl": "/collections/information-age.json",
+    "categories": ["History", "Science"]
   },
   {
     "id": "ho-chi-minh",
@@ -96,7 +106,8 @@
     "description": "Key milestones in the life and political career of Ho Chi Minh.",
     "author": "Time Horizon",
     "createdAt": "2026-03-26",
-    "dataUrl": "/collections/ho-chi-minh.json"
+    "dataUrl": "/collections/ho-chi-minh.json",
+    "categories": ["Biography", "Politics", "Vietnam"]
   },
   {
     "id": "lenin",
@@ -105,7 +116,8 @@
     "description": "Major turning points in Lenin's life and the Russian Revolution.",
     "author": "Time Horizon",
     "createdAt": "2026-03-26",
-    "dataUrl": "/collections/lenin.json"
+    "dataUrl": "/collections/lenin.json",
+    "categories": ["Biography", "Politics"]
   },
   {
     "id": "hitler",
@@ -114,7 +126,8 @@
     "description": "Key events in Hitler's rise, dictatorship, war, and downfall.",
     "author": "Time Horizon",
     "createdAt": "2026-03-26",
-    "dataUrl": "/collections/hitler.json"
+    "dataUrl": "/collections/hitler.json",
+    "categories": ["Biography", "Politics"]
   },
   {
     "id": "einstein",
@@ -123,7 +136,8 @@
     "description": "Milestones from Einstein's life and scientific career.",
     "author": "Time Horizon",
     "createdAt": "2026-03-26",
-    "dataUrl": "/collections/einstein.json"
+    "dataUrl": "/collections/einstein.json",
+    "categories": ["Biography", "Science"]
   },
   {
     "id": "buddhism",
@@ -132,7 +146,8 @@
     "description": "Key milestones in the development and spread of Buddhism.",
     "author": "Time Horizon",
     "createdAt": "2026-03-26",
-    "dataUrl": "/collections/buddhism.json"
+    "dataUrl": "/collections/buddhism.json",
+    "categories": ["Religion", "History"]
   },
   {
     "id": "buddha-life",
@@ -141,7 +156,8 @@
     "description": "Traditional and historical milestones in the life of Siddhartha Gautama, the Buddha.",
     "author": "Time Horizon",
     "createdAt": "2026-03-26",
-    "dataUrl": "/collections/buddha-life.json"
+    "dataUrl": "/collections/buddha-life.json",
+    "categories": ["Biography", "Religion"]
   },
   {
     "id": "hinduism",
@@ -150,7 +166,8 @@
     "description": "Major milestones in the long development of Hindu traditions.",
     "author": "Time Horizon",
     "createdAt": "2026-03-26",
-    "dataUrl": "/collections/hinduism.json"
+    "dataUrl": "/collections/hinduism.json",
+    "categories": ["Religion", "History"]
   },
   {
     "id": "christianity",
@@ -159,7 +176,8 @@
     "description": "Foundational events and turning points in Christian history.",
     "author": "Time Horizon",
     "createdAt": "2026-03-26",
-    "dataUrl": "/collections/christianity.json"
+    "dataUrl": "/collections/christianity.json",
+    "categories": ["Religion", "History"]
   },
   {
     "id": "islam",
@@ -168,7 +186,8 @@
     "description": "Major milestones from the rise and global spread of Islam.",
     "author": "Time Horizon",
     "createdAt": "2026-03-26",
-    "dataUrl": "/collections/islam.json"
+    "dataUrl": "/collections/islam.json",
+    "categories": ["Religion", "History"]
   },
   {
     "id": "art",
@@ -177,7 +196,8 @@
     "description": "Histography events grouped under art.",
     "author": "Histography",
     "createdAt": "2026-03-27",
-    "dataUrl": "/collections/histography/art.json"
+    "dataUrl": "/collections/histography/art.json",
+    "categories": ["Culture"]
   },
   {
     "id": "assassinations",
@@ -186,7 +206,8 @@
     "description": "Histography events grouped under assassinations.",
     "author": "Histography",
     "createdAt": "2026-03-27",
-    "dataUrl": "/collections/histography/assassinations.json"
+    "dataUrl": "/collections/histography/assassinations.json",
+    "categories": ["Politics", "History"]
   },
   {
     "id": "construction",
@@ -195,7 +216,8 @@
     "description": "Histography events grouped under construction.",
     "author": "Histography",
     "createdAt": "2026-03-27",
-    "dataUrl": "/collections/histography/construction.json"
+    "dataUrl": "/collections/histography/construction.json",
+    "categories": ["History", "Science"]
   },
   {
     "id": "disasters",
@@ -204,7 +226,8 @@
     "description": "Histography events grouped under disasters.",
     "author": "Histography",
     "createdAt": "2026-03-27",
-    "dataUrl": "/collections/histography/disasters.json"
+    "dataUrl": "/collections/histography/disasters.json",
+    "categories": ["Science", "History"]
   },
   {
     "id": "discoveries",
@@ -213,7 +236,8 @@
     "description": "Histography events grouped under discoveries.",
     "author": "Histography",
     "createdAt": "2026-03-27",
-    "dataUrl": "/collections/histography/discoveries.json"
+    "dataUrl": "/collections/histography/discoveries.json",
+    "categories": ["Science", "History"]
   },
   {
     "id": "empires",
@@ -222,7 +246,8 @@
     "description": "Histography events grouped under empires.",
     "author": "Histography",
     "createdAt": "2026-03-27",
-    "dataUrl": "/collections/histography/empires.json"
+    "dataUrl": "/collections/histography/empires.json",
+    "categories": ["History", "Politics"]
   },
   {
     "id": "evolution",
@@ -231,7 +256,8 @@
     "description": "Histography events grouped under evolution.",
     "author": "Histography",
     "createdAt": "2026-03-27",
-    "dataUrl": "/collections/histography/evolution.json"
+    "dataUrl": "/collections/histography/evolution.json",
+    "categories": ["Science", "Prehistory"]
   },
   {
     "id": "human-prehistory",
@@ -240,7 +266,8 @@
     "description": "Histography events grouped under human prehistory.",
     "author": "Histography",
     "createdAt": "2026-03-27",
-    "dataUrl": "/collections/histography/human-prehistory.json"
+    "dataUrl": "/collections/histography/human-prehistory.json",
+    "categories": ["Prehistory", "History"]
   },
   {
     "id": "inventions",
@@ -249,7 +276,8 @@
     "description": "Histography events grouped under inventions.",
     "author": "Histography",
     "createdAt": "2026-03-27",
-    "dataUrl": "/collections/histography/inventions.json"
+    "dataUrl": "/collections/histography/inventions.json",
+    "categories": ["Science", "History"]
   },
   {
     "id": "literature",
@@ -258,7 +286,8 @@
     "description": "Histography events grouped under literature.",
     "author": "Histography",
     "createdAt": "2026-03-27",
-    "dataUrl": "/collections/histography/literature.json"
+    "dataUrl": "/collections/histography/literature.json",
+    "categories": ["Culture"]
   },
   {
     "id": "music",
@@ -267,7 +296,8 @@
     "description": "Histography events grouped under music.",
     "author": "Histography",
     "createdAt": "2026-03-27",
-    "dataUrl": "/collections/histography/music.json"
+    "dataUrl": "/collections/histography/music.json",
+    "categories": ["Culture"]
   },
   {
     "id": "nationality",
@@ -276,7 +306,8 @@
     "description": "Histography events grouped under nationality.",
     "author": "Histography",
     "createdAt": "2026-03-27",
-    "dataUrl": "/collections/histography/nationality.json"
+    "dataUrl": "/collections/histography/nationality.json",
+    "categories": ["History", "Politics"]
   },
   {
     "id": "natural-history",
@@ -285,7 +316,8 @@
     "description": "Histography events grouped under natural history.",
     "author": "Histography",
     "createdAt": "2026-03-27",
-    "dataUrl": "/collections/histography/natural-history.json"
+    "dataUrl": "/collections/histography/natural-history.json",
+    "categories": ["Science", "Prehistory"]
   },
   {
     "id": "politics",
@@ -294,7 +326,8 @@
     "description": "Histography events grouped under politics.",
     "author": "Histography",
     "createdAt": "2026-03-27",
-    "dataUrl": "/collections/histography/politics.json"
+    "dataUrl": "/collections/histography/politics.json",
+    "categories": ["Politics", "History"]
   },
   {
     "id": "religion",
@@ -303,7 +336,8 @@
     "description": "Histography events grouped under religion.",
     "author": "Histography",
     "createdAt": "2026-03-27",
-    "dataUrl": "/collections/histography/religion.json"
+    "dataUrl": "/collections/histography/religion.json",
+    "categories": ["Religion", "History"]
   },
   {
     "id": "riots",
@@ -312,7 +346,8 @@
     "description": "Histography events grouped under riots.",
     "author": "Histography",
     "createdAt": "2026-03-27",
-    "dataUrl": "/collections/histography/riots.json"
+    "dataUrl": "/collections/histography/riots.json",
+    "categories": ["Politics", "History"]
   },
   {
     "id": "wars",
@@ -321,7 +356,8 @@
     "description": "Histography events grouped under wars.",
     "author": "Histography",
     "createdAt": "2026-03-27",
-    "dataUrl": "/collections/histography/wars.json"
+    "dataUrl": "/collections/histography/wars.json",
+    "categories": ["Politics", "History"]
   },
   {
     "id": "women-rights",
@@ -330,7 +366,8 @@
     "description": "Histography events grouped under women rights.",
     "author": "Histography",
     "createdAt": "2026-03-27",
-    "dataUrl": "/collections/histography/women-rights.json"
+    "dataUrl": "/collections/histography/women-rights.json",
+    "categories": ["Politics", "History"]
   },
   {
     "id": "lich-su-lop-6",
@@ -339,7 +376,8 @@
     "description": "Việt Nam cổ đại: từ Hồng Bàng, Hùng Vương, Âu Lạc, Bắc thuộc đến Ngô Quyền đánh Bạch Đằng (2879 TCN–938).",
     "author": "Time Horizon",
     "createdAt": "2026-04-03",
-    "dataUrl": "/collections/lich-su-lop-6.json"
+    "dataUrl": "/collections/sgk-vietnam/lich-su-lop-6.json",
+    "categories": ["Education", "History", "Vietnam"]
   },
   {
     "id": "lich-su-lop-7",
@@ -348,7 +386,8 @@
     "description": "Việt Nam trung đại: từ Ngô-Đinh-Lý-Trần-Hồ đến Lê sơ, qua các triều đại và cuộc kháng chiến chống Nguyên Mông (939–1527).",
     "author": "Time Horizon",
     "createdAt": "2026-04-03",
-    "dataUrl": "/collections/lich-su-lop-7.json"
+    "dataUrl": "/collections/sgk-vietnam/lich-su-lop-7.json",
+    "categories": ["Education", "History", "Vietnam"]
   },
   {
     "id": "lich-su-lop-8",
@@ -357,7 +396,8 @@
     "description": "Việt Nam cận đại phần 1: thực dân Pháp xâm lược, khai thác thuộc địa và các phong trào chống Pháp (1858–1918).",
     "author": "Time Horizon",
     "createdAt": "2026-04-03",
-    "dataUrl": "/collections/lich-su-lop-8.json"
+    "dataUrl": "/collections/sgk-vietnam/lich-su-lop-8.json",
+    "categories": ["Education", "History", "Vietnam"]
   },
   {
     "id": "lich-su-lop-9",
@@ -366,7 +406,8 @@
     "description": "Cách mạng Việt Nam: từ phong trào yêu nước đầu thế kỷ XX đến Cách mạng tháng Tám và thành lập nước Việt Nam Dân chủ Cộng hòa (1919–1945).",
     "author": "Time Horizon",
     "createdAt": "2026-04-03",
-    "dataUrl": "/collections/lich-su-lop-9.json"
+    "dataUrl": "/collections/sgk-vietnam/lich-su-lop-9.json",
+    "categories": ["Education", "History", "Vietnam"]
   },
   {
     "id": "lich-su-lop-10",
@@ -375,7 +416,8 @@
     "description": "Việt Nam từ nguồn gốc đến đầu thế kỷ XIX: Hồng Bàng, Bắc thuộc, các triều đại Ngô-Đinh-Lý-Trần-Hồ-Lê-Tây Sơn-Nguyễn (2879 TCN–1802).",
     "author": "Time Horizon",
     "createdAt": "2026-04-03",
-    "dataUrl": "/collections/lich-su-lop-10.json"
+    "dataUrl": "/collections/sgk-vietnam/lich-su-lop-10.json",
+    "categories": ["Education", "History", "Vietnam"]
   },
   {
     "id": "lich-su-lop-11",
@@ -384,7 +426,8 @@
     "description": "Việt Nam cận đại và hiện đại: thực dân Pháp xâm lược, các phong trào yêu nước, Đảng Cộng sản thành lập, và Cách mạng tháng Tám (1802–1945).",
     "author": "Time Horizon",
     "createdAt": "2026-04-03",
-    "dataUrl": "/collections/lich-su-lop-11.json"
+    "dataUrl": "/collections/sgk-vietnam/lich-su-lop-11.json",
+    "categories": ["Education", "History", "Vietnam"]
   },
   {
     "id": "lich-su-lop-12",
@@ -393,6 +436,7 @@
     "description": "Việt Nam đương đại: từ thành lập nước (1945) qua Chiến tranh Việt Nam, thống nhất đất nước đến Đổi Mới và hội nhập quốc tế (1945–nay).",
     "author": "Time Horizon",
     "createdAt": "2026-04-03",
-    "dataUrl": "/collections/lich-su-lop-12.json"
+    "dataUrl": "/collections/sgk-vietnam/lich-su-lop-12.json",
+    "categories": ["Education", "History", "Vietnam"]
   }
 ]

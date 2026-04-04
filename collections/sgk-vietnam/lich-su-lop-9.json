@@ -1,186 +1,226 @@
 [
   {
-    "id": "ho-chi-minh-versailles",
     "title": "Hồ Chí Minh Trình Bày Kiến Nghị Tại Versailles",
     "description": "Năm 1919, Nguyễn Ái Quốc (Hồ Chí Minh) gửi kiến nghị 8 điểm đến Hội nghị Versailles, đòi quyền bình đẳng cho người dân Đông Dương. Đây là lần đầu tiên tiếng nói người Việt được lắng nghe tại một diễn đàn quốc tế.",
-    "time": [1919],
+    "time": [
+      1919
+    ],
     "emoji": "📜",
     "priority": 84
   },
   {
-    "id": "ho-chi-minh-joins-communist",
     "title": "Hồ Chí Minh Gia Nhập Đảng Cộng Sản Pháp",
     "description": "Tháng 12 năm 1920, Nguyễn Ái Quốc gia nhập Đảng Cộng sản Pháp khi đảng xã hội Pháp chia rẽ. Ông trở thành đại biểu Việt Nam đầu tiên tại Quốc hội Pháp.",
-    "time": [1920, 12],
+    "time": [
+      1920,
+      12
+    ],
     "emoji": "📕",
     "priority": 80
   },
   {
-    "id": "vietnam-revolutionary-youth-league",
     "title": "Việt Nam Thanh Niên Cách Mạng Đồng Chí Hội",
     "description": "Năm 1925, Nguyễn Ái Quốc thành lập Việt Nam Thanh Niên Cách Mạng Đồng Chí Hội (tên gọi khác: Hội Việt Nam Cách Mạng Thanh Niên) tại Quảng Châu, Trung Quốc — tiền thân trực tiếp của Đảng Cộng sản Việt Nam.",
-    "time": [1925],
+    "time": [
+      1925
+    ],
     "emoji": "🌱",
     "priority": 86
   },
   {
-    "id": "dong-duong-cong-san-lien-doan",
     "title": "Đông Dương Cộng Sản Liên Đoàn Thành Lập",
     "description": "Năm 1930, ba tổ chức cộng sản (Nghĩa HTDC Việt Nam, Đông Dương Cộng sản Đảng, và An Nam Cộng sản Đảng) hợp nhất thành Đảng Cộng sản Việt Nam.",
-    "time": [1930, 2, 3],
-    "duration": 0.01,
+    "time": [
+      1930,
+      2,
+      3
+    ],
     "emoji": "🟥",
     "priority": 90
   },
   {
-    "id": "yen-bay-uprising",
     "title": "Khởi Nghĩa Yên Báy (Xô Viết Nghệ Tĩnh)",
     "description": "Tháng 2 năm 1930, Đảng CSVN phát động khởi nghĩa tại Pắc Bó (Yên Báy), lập ra Xô Viết Nghệ Tĩnh — chính quyền cách mạng đầu tiên ở Việt Nam. Pháp đàn áp dữ dội, hàng nghìn người bị殺.",
-    "time": [1930, 2],
+    "time": [
+      1930,
+      2
+    ],
     "emoji": "🔥",
     "priority": 88
   },
   {
-    "id": "nghe-tinh-soviet",
     "title": "Xô Viết Nghệ Tĩnh (1930–1931)",
     "description": "Từ tháng 9/1930 đến tháng 2/1931, phong trào Xô Viết Nghệ Tĩnh lan rộng ở Nghệ An và Hà Tĩnh. Nhân dân tổ chức chính quyền Xô Viết, tịch thu ruộng đất, chống đế quốc. Pháp dùng quân đàn áp.",
-    "time": [1930, 9],
+    "time": [
+      1930,
+      9
+    ],
     "emoji": "🏴",
     "priority": 85
   },
   {
-    "id": "icp-founded-1930",
     "title": "Đảng Cộng Sản Việt Nam Thành Lập",
     "description": "Ngày 3/2/1930, Đảng Cộng sản Việt Nam được thành lập tại Hồng Kông, sau đó đổi tên thành Đảng Cộng sản Đông Dương (1930–1945). Hồ Chí Minh giữ vai trò lãnh đạo trung ương.",
-    "time": [1930, 2, 3],
-    "duration": 0.01,
+    "time": [
+      1930,
+      2,
+      3
+    ],
     "emoji": "🟥",
     "priority": 92
   },
   {
-    "id": "tran-phu-arrested",
     "title": "Trần Phú — Tổng Bí Thư Đầu Tiên Bị Bắt",
     "description": "Trần Phú, Tổng Bí thư đầu tiên của Đảng Cộng sản Việt Nam, bị Pháp bắt năm 1931. Ông bị kết án và chết trong tù năm 1931, minh chứng cho sự hy sinh của thế hệ cách mạng.",
-    "time": [1931],
+    "time": [
+      1931
+    ],
     "emoji": "⛓️",
     "priority": 74
   },
   {
-    "id": "japanese-occupation-begins",
     "title": "Nhật Bản Chiếm Đóng Việt Nam",
     "description": "Tháng 9 năm 1940, quân đội Nhật Bản tràn vào Đông Dương, ban đầu dùng đồn trí Pháp làm đồng minh (Chính quyền Vichy). Nhật kiểm soát chặt chẽ Đông Dương từ 1940 đến 1945.",
-    "time": [1940, 9],
+    "time": [
+      1940,
+      9
+    ],
     "emoji": "🏴",
     "priority": 86
   },
   {
-    "id": "viet-minh-founded",
     "title": "Việt Minh Thành Lập",
     "description": "Ngày 10/5/1941, Hồ Chí Minh thành lập Việt Nam Độc Lập Đồng Minh Hội (Việt Minh) tại Pắc Bó (Cao Bằng). Việt Minh là mặt trận thống nhất các lực lượng yêu nước chống Pháp và Nhật.",
-    "time": [1941, 5, 10],
-    "duration": 0.01,
+    "time": [
+      1941,
+      5,
+      10
+    ],
     "emoji": "🌿",
     "priority": 90
   },
   {
-    "id": "ho-chi-minh-returns-vietnam",
     "title": "Hồ Chí Minh Quay Về Việt Nam",
     "description": "Tháng 1 năm 1941, sau 30 năm lưu vong, Hồ Chí Minh trở về Việt Nam qua biên giới Trung Quốc. Ông mang theo kế hoạch thành lập Việt Minh và chuẩn bị cho cuộc kháng chiến.",
-    "time": [1941, 1],
+    "time": [
+      1941,
+      1
+    ],
     "emoji": "🏞️",
     "priority": 82
   },
   {
-    "id": "viet-minh-base-cao-bang",
     "title": "Việt Minh Xây Dựng Căn Cứ Ở Cao Bằng",
     "description": "Pắc Bó (Cao Bằng) trở thành căn cứ địa đầu tiên của Việt Minh. Hồ Chí Minh tổ chức huấn luyện cán bộ, xây dựng lực lượng vũ trang, và ban hành chính sách dân tộc.",
-    "time": [1941, 5],
+    "time": [
+      1941,
+      5
+    ],
     "emoji": "🏕️",
     "priority": 78
   },
   {
-    "id": "ho-chi-minh-imprisoned-china",
     "title": "Hồ Chí Minh Bị Tù Ở Trung Quốc",
     "description": "Năm 1942, chính quyền Tưởng Giới Thạch bắt Hồ Chí Minh tại Trung Quốc. Ông bị giam 13 tháng, viết bài thơ 'Nhật Ký Trong Tù' nổi tiếng. Ông được thả năm 1943.",
-    "time": [1942],
+    "time": [
+      1942
+    ],
     "emoji": "⛓️",
     "priority": 74
   },
   {
-    "id": "vietnam-famine-1944",
     "title": "Nạn Đói Lớn Ở Việt Nam (1944–1945)",
     "description": "Từ tháng 10/1944 đến tháng 5/1945, nạn đói hoành hành ở đồng bằng sông Hồng. Hơn 2 triệu người chết vì đói, do chính sách cướp lúa và đánh thuế nặng nề của Nhật và Pháp Vichy.",
-    "time": [1944, 10],
+    "time": [
+      1944,
+      10
+    ],
     "emoji": "💀",
     "priority": 88
   },
   {
-    "id": "viet-minh-armed-forces",
     "title": "Việt Nam Tuyên Truyền Giải Phóng Quân Thành Lập",
     "description": "Ngày 22/12/1944, Việt Minh thành lập Đội Việt Nam Tuyên Truyền Giải Phóng Quân (tiền thân của Quân đội Nhân dân Việt Nam) do Võ Nguyên Giáp chỉ huy, gồm 34 chiến sĩ.",
-    "time": [1944, 12, 22],
-    "duration": 0.01,
+    "time": [
+      1944,
+      12,
+      22
+    ],
     "emoji": "⚔️",
     "priority": 86
   },
   {
-    "id": "march-uprising-1945",
     "title": "Cuộc Tổng Khởi Nghĩa Tháng Ba 1945",
     "description": "Tháng 3 năm 1945, nhân khi Nhật đảo chính lật đổ Pháp, Việt Minh phát động khởi nghĩa tại nhiều tỉnh. Quân và dân Tuyên Hóa, Nghệ Tĩnh, Thanh Hóa nổi dậy giành chính quyền.",
-    "time": [1945, 3],
+    "time": [
+      1945,
+      3
+    ],
     "emoji": "🔥",
     "priority": 84
   },
   {
-    "id": "japanese-coup-vichy",
     "title": "Nhật Đảo Chính Pháp Tại Đông Dương",
     "description": "Đêm 9/3/1945, quân Nhật đảo chính lật đổ chính quyền Pháp Vichy tại Đông Dương. Pháp nhanh chóng đầu hàng. Nhật tuyên bố 'trao trả độc lập' cho Việt Nam, Lào, Campuchia (nhưng thực chất là lập chính quyền bù nhìn).",
-    "time": [1945, 3, 9],
-    "duration": 0.01,
+    "time": [
+      1945,
+      3,
+      9
+    ],
     "emoji": "💣",
     "priority": 84
   },
   {
-    "id": "tannu-tuvalu-requires-hcm",
     "title": "Hồ Chí Minh Giải Phóng Hà Nội",
     "description": "Sau khi Nhật đầu hàng (15/8/1945), Hồ Chí Minh chỉ thị Việt Minh tiến quân giải phóng Hà Nội. Ngày 19/8, Hà Nội được giải phóng, mở đường cho Tổng khởi nghĩa.",
-    "time": [1945, 8, 19],
-    "duration": 0.01,
+    "time": [
+      1945,
+      8,
+      19
+    ],
     "emoji": "🏴",
     "priority": 86
   },
   {
-    "id": "bao-dai-abdicates",
     "title": "Bảo Đại Thoái Vị",
     "description": "Ngày 25/8/1945, vua Bảo Đại tuyên bố thoái vị tại Huế, nhận làm 'cố vấn' cho chính phủ mới. Hơn 500 năm quân chủ chính thức kết thúc tại Việt Nam.",
-    "time": [1945, 8, 25],
-    "duration": 0.01,
+    "time": [
+      1945,
+      8,
+      25
+    ],
     "emoji": "👑",
     "priority": 90
   },
   {
-    "id": "drV-proclaimed",
     "title": "Việt Nam Dân Chủ Cộng Hòa Ra Đời",
     "description": "Ngày 2/9/1945 tại Quảng trường Ba Đình, Hồ Chí Minh đọc Tuyên ngôn Độc lập, tuyên bố thành lập nước Việt Nam Dân chủ Cộng hòa — đánh dấu sự ra đời của nhà nước hiện đại đầu tiên của Việt Nam.",
-    "time": [1945, 9, 2],
-    "duration": 0.01,
+    "time": [
+      1945,
+      9,
+      2
+    ],
     "emoji": "🇻🇳",
     "priority": 95
   },
   {
-    "id": "ho-chi-minh-independence-declaration",
     "title": "Hồ Chí Minh Đọc Tuyên Ngôn Độc Lập",
     "description": "Trong bài phát biểu lịch sử tại Ba Đình (Hà Nội), Hồ Chí Minh trích dẫn Tuyên ngôn Nhân quyền và Độc lập của Pháp 1776 và 1791, khẳng định 'nước Việt Nam có quyền hưởng tự do và độc lập'.",
-    "time": [1945, 9, 2],
-    "duration": 0.01,
+    "time": [
+      1945,
+      9,
+      2
+    ],
     "emoji": "🎤",
     "priority": 95
   },
   {
-    "id": "french-return-indochina",
     "title": "Pháp Quay Lại Đông Dương",
     "description": "Sau khi Nhật đầu hàng, quân Pháp quay lại Đông Dương cuối năm 1945, đòi khôi phục chủ quyền thuộc địa. Chính phủ Hồ Chí Minh cố gắng đàm phán nhưng Pháp từ chối công nhận độc lập.",
-    "time": [1945, 10],
+    "time": [
+      1945,
+      10
+    ],
     "emoji": "⚔️",
     "priority": 84
   }

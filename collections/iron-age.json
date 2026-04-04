@@ -1,49 +1,55 @@
 [
   {
-    "id": "iron-age-begins",
     "title": "Iron Age Begins",
     "description": "Iron tools and weapons spread across parts of Eurasia after the Bronze Age.",
-    "time": [-1200],
+    "time": [
+      -1200
+    ],
     "emoji": "⚒️",
     "priority": 82
   },
   {
-    "id": "neo-assyrian-empire",
     "title": "Neo-Assyrian Empire Rises",
     "description": "Assyria becomes one of the first great military empires of the Iron Age.",
-    "time": [-911],
+    "time": [
+      -911
+    ],
     "emoji": "🛡️",
     "priority": 70
   },
   {
-    "id": "democracy-born",
     "title": "Athenian Democracy",
     "description": "Athens develops one of the earliest known systems of direct democracy.",
-    "time": [-507],
+    "time": [
+      -507
+    ],
     "emoji": "🏛️",
     "priority": 80
   },
   {
-    "id": "alexander-empire",
     "title": "Alexander's Conquests",
     "description": "Alexander the Great builds an empire stretching from Greece to India.",
-    "time": [-336],
+    "time": [
+      -336
+    ],
     "emoji": "👑",
     "priority": 78
   },
   {
-    "id": "qin-unifies-china",
     "title": "Qin Unifies China",
     "description": "Qin Shi Huang unifies the Warring States into China's first imperial dynasty.",
-    "time": [-221],
+    "time": [
+      -221
+    ],
     "emoji": "🐉",
     "priority": 82
   },
   {
-    "id": "roman-empire",
     "title": "Roman Empire Begins",
     "description": "Octavian becomes Augustus, marking the start of the Roman Empire.",
-    "time": [-27],
+    "time": [
+      -27
+    ],
     "emoji": "🦅",
     "priority": 84
   }

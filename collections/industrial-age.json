@@ -1,50 +1,55 @@
 [
   {
-    "id": "industrial-revolution",
     "title": "Industrial Revolution",
     "description": "Mechanized production transforms industry, labor, and transportation.",
-    "time": [1760],
+    "time": [
+      1760
+    ],
     "emoji": "🏭",
     "priority": 88
   },
   {
-    "id": "electricity-harnessed",
     "title": "Electric Power Station",
     "description": "Edison's Pearl Street Station helps launch the age of practical electric power.",
-    "time": [1882],
+    "time": [
+      1882
+    ],
     "emoji": "💡",
     "priority": 82
   },
   {
-    "id": "first-flight",
     "title": "First Powered Flight",
     "description": "The Wright brothers achieve the first sustained powered flight at Kitty Hawk.",
-    "time": [1903],
+    "time": [
+      1903
+    ],
     "emoji": "✈️",
     "priority": 80
   },
   {
-    "id": "world-war-1",
     "title": "World War I",
     "description": "The First World War reshapes empires and global politics.",
-    "time": [1914],
+    "time": [
+      1914
+    ],
     "emoji": "⚔️",
     "priority": 78
   },
   {
-    "id": "world-war-2",
     "title": "World War II",
     "description": "The deadliest war in history transforms geopolitics, science, and society.",
-    "time": [1939],
+    "time": [
+      1939
+    ],
     "emoji": "💣",
     "priority": 84
   },
   {
-    "id": "moon-landing",
     "title": "Moon Landing",
     "description": "Apollo 11 lands humans on the Moon.",
-    "time": [1969],
-    "duration": 1,
+    "time": [
+      1969
+    ],
     "emoji": "🌕",
     "priority": 90
   }

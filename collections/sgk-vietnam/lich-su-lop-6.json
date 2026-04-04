@@ -1,0 +1,218 @@
+[
+  {
+    "title": "Triều đại Hồng Bàng (truyền thuyết)",
+    "description": "Theo truyền thuyết, nhà nước đầu tiên của người Việt bắt đầu với Kinh Dương Vương, có con là Lạc Long Quân kết duyên với Âu Cơ. Con cháu của họ nối nhau cai trị qua 18 đời Hùng Vương ở nước Văn Lang.",
+    "time": [
+      -2879
+    ],
+    "emoji": "👑",
+    "priority": 88
+  },
+  {
+    "title": "Nhà nước Văn Lang thời Hùng Vương",
+    "description": "Theo truyền thuyết, các vua Hùng lập nên nước Văn Lang, được xem là quốc gia đầu tiên của người Việt. Văn hóa trống đồng phát triển rực rỡ. Giai đoạn này kết thúc khi nước Âu Lạc ra đời.",
+    "time": [
+      -2579
+    ],
+    "emoji": "🥁",
+    "priority": 85
+  },
+  {
+    "title": "Thành lập nước Âu Lạc",
+    "description": "An Dương Vương (Thục Phán) đánh bại Văn Lang và lập nên nước Âu Lạc, thống nhất các nhóm Lạc Việt và Âu Việt. Ông xây thành Cổ Loa làm kinh đô.",
+    "time": [
+      -258
+    ],
+    "emoji": "🏯",
+    "priority": 86
+  },
+  {
+    "title": "Xây dựng thành Cổ Loa",
+    "description": "An Dương Vương cho xây thành Cổ Loa gần khu vực Hà Nội ngày nay. Đây là công trình phòng thủ sớm nhất được biết đến trong lịch sử Việt Nam. Cấu trúc xoáy trôn ốc của thành vẫn còn dấu tích đến nay.",
+    "time": [
+      -257
+    ],
+    "emoji": "🐍",
+    "priority": 82
+  },
+  {
+    "title": "Chế tạo nỏ thần",
+    "description": "Theo truyền thuyết, nỏ thần được chế tạo để bảo vệ thành Cổ Loa. Câu chuyện này gắn với việc An Dương Vương có được một vũ khí kỳ diệu giúp chống lại quân thù.",
+    "time": [
+      -255
+    ],
+    "emoji": "🏹",
+    "priority": 78
+  },
+  {
+    "title": "Nước Âu Lạc sụp đổ",
+    "description": "Triệu Đà, một tướng người Hoa của nước Nam Việt, thôn tính Âu Lạc. An Dương Vương thất bại, và đất nước bước vào thời kỳ gần một nghìn năm bị các triều đại phương Bắc đô hộ.",
+    "time": [
+      -179
+    ],
+    "emoji": "⚔️",
+    "priority": 84
+  },
+  {
+    "title": "Nước Nam Việt",
+    "description": "Triệu Đà lập ra nước Nam Việt, trong một thời gian ngắn cai quản vùng Quảng Đông, Quảng Tây và miền bắc Việt Nam ngày nay, trước khi bị nhà Hán chinh phục vào năm 111 TCN.",
+    "time": [
+      -180
+    ],
+    "emoji": "🥢",
+    "priority": 72
+  },
+  {
+    "title": "Khởi nghĩa Hai Bà Trưng",
+    "description": "Trưng Trắc và Trưng Nhị lãnh đạo cuộc nổi dậy chống ách đô hộ phương Bắc, đánh bại thái thú Tô Định và khôi phục nền tự chủ của người Việt trong khoảng 3 năm.",
+    "time": [
+      40
+    ],
+    "emoji": "⚔️",
+    "priority": 90
+  },
+  {
+    "title": "Hai Bà Trưng giành độc lập",
+    "description": "Hai Bà Trưng chiếm được 65 thành ở vùng đồng bằng sông Hồng và xưng vương, cai quản một đất nước độc lập trong một thời gian ngắn.",
+    "time": [
+      40
+    ],
+    "emoji": "👑",
+    "priority": 88
+  },
+  {
+    "title": "Hai Bà Trưng bị nhà Hán đàn áp",
+    "description": "Năm 43, tướng Mã Viện của nhà Hán dập tắt cuộc khởi nghĩa Hai Bà Trưng. Hai bà gieo mình xuống sông Hát để giữ khí tiết và trở thành những anh hùng dân tộc của Việt Nam.",
+    "time": [
+      43
+    ],
+    "emoji": "😢",
+    "priority": 85
+  },
+  {
+    "title": "Bà Triệu (Triệu Ẩu)",
+    "description": "Bà Triệu, một nữ thủ lĩnh khởi nghĩa ở thế kỷ III, đứng lên chống ách đô hộ phương Bắc với đội quân được cho là khoảng 1.000 người. Bà nổi tiếng với câu nói thể hiện chí khí lớn lao của mình.",
+    "time": [
+      248
+    ],
+    "emoji": "⚔️",
+    "priority": 80
+  },
+  {
+    "title": "Lý Bí",
+    "description": "Lý Bí là một vị tướng, người có vai trò trong các nỗ lực chống lại chính quyền đô hộ phương Bắc trong lịch sử Việt Nam thời kỳ đầu.",
+    "time": [
+      247
+    ],
+    "emoji": "🗡️",
+    "priority": 72
+  },
+  {
+    "title": "Ách đô hộ phương Bắc đạt đến đỉnh điểm",
+    "description": "Dưới thời Đông Ngô và nhà Tấn, sự kiểm soát của chính quyền phương Bắc đối với Giao Châu ngày càng chặt chẽ. Nhiều cuộc nổi dậy lớn nổ ra nhưng không thành công.",
+    "time": [
+      200
+    ],
+    "emoji": "🏴",
+    "priority": 74
+  },
+  {
+    "title": "Mai Thì Trung Tự",
+    "description": "Theo một số tư liệu, Mai Thì Trung Tự là một nhân vật tham gia các phong trào chống chính quyền đô hộ phương Bắc trong giai đoạn đầu Công nguyên.",
+    "time": [
+      40
+    ],
+    "emoji": "📿",
+    "priority": 70
+  },
+  {
+    "title": "Những phong trào đấu tranh thời kỳ đầu",
+    "description": "Từ thế kỷ III đến thế kỷ IX, nhiều cuộc nổi dậy của người Việt đã nổ ra nhằm thoát khỏi ách đô hộ phương Bắc, trong đó có các cuộc khởi nghĩa của Hai Bà Trưng, Bà Triệu và nhiều thủ lĩnh địa phương khác.",
+    "time": [
+      300
+    ],
+    "emoji": "🔥",
+    "priority": 76
+  },
+  {
+    "title": "Chấm dứt ách đô hộ phương Bắc - bước đầu tự chủ",
+    "description": "Năm 905, Khúc Thừa Dụ lật đổ chính quyền đô hộ và thiết lập quyền tự chủ của người Việt. Ông được nhà Hậu Đường công nhận là Tiết độ sứ.",
+    "time": [
+      905
+    ],
+    "emoji": "🏛️",
+    "priority": 80
+  },
+  {
+    "title": "Ngô Quyền đánh bại quân Nam Hán trên sông Bạch Đằng",
+    "description": "Năm 938, Ngô Quyền đánh bại thủy quân Nam Hán trong trận Bạch Đằng bằng chiến thuật đóng cọc nhọn bịt sắt dưới lòng sông. Chiến thắng này chấm dứt hơn 1.000 năm Bắc thuộc.",
+    "time": [
+      938
+    ],
+    "emoji": "⚔️",
+    "priority": 96
+  },
+  {
+    "title": "Nhà Ngô được thành lập",
+    "description": "Ngô Quyền xưng vương, lập nên triều Ngô - triều đại độc lập đầu tiên của người Việt sau hơn một thiên niên kỷ bị đô hộ. Kinh đô đặt tại Cổ Loa. Triều đại này tồn tại khoảng 45 năm.",
+    "time": [
+      939
+    ],
+    "emoji": "👑",
+    "priority": 88
+  },
+  {
+    "title": "Ngô Quyền qua đời",
+    "description": "Ngô Quyền mất năm 944. Do không có sự kế vị ổn định, đất nước rơi vào thời kỳ Loạn 12 sứ quân, một giai đoạn đầy biến động và xung đột nội bộ.",
+    "time": [
+      944
+    ],
+    "emoji": "💀",
+    "priority": 72
+  },
+  {
+    "title": "Thời kỳ Loạn 12 sứ quân",
+    "description": "Sau khi Ngô Quyền mất, đất nước bị chia cắt thành 12 vùng do các sứ quân cát cứ. Tình trạng này kéo dài cho đến khi Đinh Bộ Lĩnh thống nhất đất nước vào năm 968.",
+    "time": [
+      965
+    ],
+    "emoji": "🗡️",
+    "priority": 74
+  },
+  {
+    "title": "Đinh Bộ Lĩnh thống nhất đất nước",
+    "description": "Đinh Bộ Lĩnh lần lượt đánh bại các sứ quân và thống nhất đất nước sau khoảng 30 năm phân liệt. Năm 968, ông lên ngôi, mở ra một thời kỳ mới trong lịch sử dân tộc.",
+    "time": [
+      968
+    ],
+    "emoji": "👑",
+    "priority": 86
+  },
+  {
+    "title": "Đinh Tiên Hoàng xưng đế",
+    "description": "Đinh Bộ Lĩnh xưng Hoàng đế, lập ra nhà Đinh và chọn Hoa Lư làm kinh đô. Đây là bước khẳng định mạnh mẽ nền độc lập và chủ quyền của quốc gia.",
+    "time": [
+      968
+    ],
+    "emoji": "🏯",
+    "priority": 84
+  },
+  {
+    "title": "Lê Hoàn đánh bại quân Tống",
+    "description": "Lê Hoàn, sau này là vua Lê Đại Hành, đã đẩy lùi cuộc xâm lược của nhà Tống và bảo vệ nền độc lập của đất nước trước mối đe dọa từ phương Bắc.",
+    "time": [
+      981
+    ],
+    "emoji": "⚔️",
+    "priority": 83
+  },
+  {
+    "title": "Lê Đại Hành trị vì",
+    "description": "Lê Hoàn lên ngôi, lấy hiệu là Lê Đại Hành (980-1005), là một trong những vị vua tài năng thời kỳ đầu độc lập. Ông chú trọng xây dựng giao thông, phát triển nông nghiệp và giữ vững nền tự chủ của đất nước.",
+    "time": [
+      980
+    ],
+    "emoji": "👑",
+    "priority": 82
+  }
+]

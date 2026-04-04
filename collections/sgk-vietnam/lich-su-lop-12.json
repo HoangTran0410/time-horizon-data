@@ -1,273 +1,329 @@
 [
   {
-    "id": "drv-established",
     "title": "Việt Nam Dân Chủ Cộng Hòa Thành Lập",
     "description": "Ngày 2/9/1945, Hồ Chí Minh đọc Tuyên ngôn Độc lập tại Quảng trường Ba Đình, tuyên bố thành lập nước Việt Nam Dân chủ Cộng hòa — nhà nước hiện đại đầu tiên của Việt Nam.",
-    "time": [1945, 9, 2],
-    "duration": 0.01,
+    "time": [
+      1945,
+      9,
+      2
+    ],
     "emoji": "🇻🇳",
     "priority": 95
   },
   {
-    "id": "first-indochina-war-begins",
     "title": "Chiến Tranh Đông Dương Lần Thứ Nhất Bùng Nổ",
     "description": "Tháng 12/1946, xung đột vũ trang giữa Việt Minh và quân Pháp leo thang thành chiến tranh toàn diện. Hồ Chí Minh cố gắng đàm phán hòa bình nhưng Pháp từ chối công nhận độc lập của Việt Nam.",
-    "time": [1946, 12, 19],
-    "duration": 0.01,
+    "time": [
+      1946,
+      12,
+      19
+    ],
     "emoji": "⚔️",
     "priority": 90
   },
   {
-    "id": "ho-chi-minh-diplomacy",
     "title": "Ngoại Giao Của Hồ Chí Minh (1946–1953)",
     "description": "Hồ Chí Minh liên tục viết thư cho các nhà lãnh đạo phương Tây (Roosevelt, Truman, de Gaulle) kêu gọi công nhận độc lập Việt Nam. Ông sẵn sàng nhượng bộ để đạt hòa bình nhưng Pháp không chấp nhận.",
-    "time": [1946],
+    "time": [
+      1946
+    ],
     "emoji": "🕊️",
     "priority": 78
   },
   {
-    "id": "land-reform-north",
     "title": "Cải Cách Ruộng Đất Ở Miền Bắc (1953–1956)",
     "description": "Chính phủ DRV thực hiện cải cách ruộng đất tại miền Bắc, tịch thu ruộng đất của địa chủ phân phát cho nông dân. Cuộc vận động này gây ra nhiều bất công và phản ứng mạnh mẽ trong dân.",
-    "time": [1953],
+    "time": [
+      1953
+    ],
     "emoji": "🌾",
     "priority": 76
   },
   {
-    "id": "dien-bien-phu",
     "title": "Chiến Dịch Điện Biên Phủ",
     "description": "Ngày 7/5/1954, Quân đội Nhân dân Việt Nam đánh bại hoàn toàn tập đoàn cứ điểm Điện Biên Phủ của Pháp. Đây là trận đánh quan trọng nhất trong Chiến tranh Đông Dương lần thứ nhất, buộc Pháp phải ngồi vào bàn đàm phán.",
-    "time": [1954, 5, 7],
-    "duration": 0.01,
+    "time": [
+      1954,
+      5,
+      7
+    ],
     "emoji": "🏔️",
     "priority": 94
   },
   {
-    "id": "geneva-accords",
     "title": "Hiệp Định Genève (21/7/1954)",
     "description": "Hiệp định Genève ký kết, chia tạm thời Việt Nam tại vĩ tuyến 17. Miền Bắc (DRV) do Việt Minh kiểm soát, miền Nam (RVN) do chính quyền Ngô Đình Diệm và Mỹ hậu thuẫn. Toàn quốc sẽ thống nhất qua tổng tuyển cử năm 1956.",
-    "time": [1954, 7, 21],
-    "duration": 0.01,
+    "time": [
+      1954,
+      7,
+      21
+    ],
     "emoji": "🗺️",
     "priority": 92
   },
   {
-    "id": "north-south-partition",
     "title": "Việt Nam Bị Chia Cắt",
     "description": "Sau Hiệp định Genève, Việt Nam chính thức bị chia cắt. Hơn 1 triệu người miền Bắc di cư vào Nam, trong khi hàng vạn người miền Nam đi ra Bắc. Đây là vết thương chia cắt để lại trong dân tộc Việt Nam.",
-    "time": [1954, 7],
+    "time": [
+      1954,
+      7
+    ],
     "emoji": "🕊️",
     "priority": 84
   },
   {
-    "id": "three-reds-campaign",
     "title": "Chiến Dịch Ba Đỏ Tại Miền Bắc (1955–1956)",
     "description": "Sau cải cách ruộng đất, chiến dịch 'ba đỏ' (cán bộ đỏ, công nhân đỏ, thanh niên đỏ) tại miền Bắc gây ra nhiều sai lầm. Hội nghị Trung ương tháng 11/1956 chỉnh đốn, Trường Chinh thừa nhận sai sót.",
-    "time": [1955],
+    "time": [
+      1955
+    ],
     "emoji": "🏴",
     "priority": 72
   },
   {
-    "id": "kennedy-escalation",
     "title": "Mỹ Tăng Cường Can Thiệp Tại Việt Nam (1961–1963)",
     "description": "Tổng thống Kennedy tăng cường viện trợ quân sự và cử 'cố vấn' chiến đấu đến miền Nam Việt Nam. Đến năm 1963, có 16.000 quân Mỹ tại Việt Nam. Chính sách này mở đường cho chiến tranh leo thang dưới Johnson.",
-    "time": [1961],
+    "time": [
+      1961
+    ],
     "emoji": "🛩️",
     "priority": 80
   },
   {
-    "id": "gulf-of-tonkin-incident",
     "title": "Sự Kiện Vịnh Bắc Bộ (2–4/8/1964)",
     "description": "Ngày 2/8/1964, tàu khu trục Mỹ USS Maddox bị tấn công tại Vịnh Bắc Bộ (theo thông tin từ phía Mỹ). Mỹ lập tức đổ lỗi cho miền Bắc và sử dụng sự kiện này để thông qua Nghị quyết Vịnh Bắc Bộ, mở đường cho chiến tranh toàn diện.",
-    "time": [1964, 8, 2],
-    "duration": 0.01,
+    "time": [
+      1964,
+      8,
+      2
+    ],
     "emoji": "💣",
     "priority": 86
   },
   {
-    "id": "rolling-thunder",
     "title": "Chiến Dịch Rolling Thunder (1965–1968)",
     "description": "Không quân Mỹ tiến hành chiến dịch ném bom hàng loạt miền Bắc Việt Nam, kéo dài 3 năm. Hơn 800.000 tấn bom được thả xuống miền Bắc, phá hủy cơ sở hạ tầng và gây thiệt hại dân sự lớn.",
-    "time": [1965],
+    "time": [
+      1965
+    ],
     "emoji": "💥",
     "priority": 82
   },
   {
-    "id": "tet-offensive",
     "title": "Tổng Tiến Công và Nổi Dậy Tết Mậu Thân (31/1/1968)",
     "description": "Đêm giao thừa Tết Mậu Thân (31/1/1968), Quân Giải phóng và Việt Cộng phát động tổng tiến công trên toàn miền Nam, bao gồm đánh vào đại sứ quán Mỹ tại Sài Gòn. Dù không đạt mục tiêu quân sự, sự kiện này làm thay đổi hoàn toàn cuộc chiến.",
-    "time": [1968, 1, 31],
-    "duration": 0.01,
+    "time": [
+      1968,
+      1,
+      31
+    ],
     "emoji": "🔥",
     "priority": 90
   },
   {
-    "id": "nixon-doctrine-vietnamization",
     "title": "Học Thuyết Nixon — Việt Nam Hóa Chiến Tranh (1969–1973)",
     "description": "Tổng thống Nixon công bố học thuyết 'Việt Nam hóa chiến tranh': rút dần quân Mỹ, chuyển giao chiến đấu cho quân đội Sài Gòn. Chiến dịch bom Bắc Việt Nam và Campuchia tiếp tục, gây phản ứng dữ dội trong nước Mỹ.",
-    "time": [1969],
+    "time": [
+      1969
+    ],
     "emoji": "🕊️",
     "priority": 78
   },
   {
-    "id": "paris-peace-accords",
     "title": "Hiệp Định Paris Về Việt Nam (27/1/1973)",
     "description": "Hiệp định Paris ký kết ngừng bắn, Mỹ rút toàn bộ quân khỏi miền Nam Việt Nam trong vòng 60 ngày. Chính quyền Sài Gòn vẫn được Mỹ hậu thuẫn về tài chính và vũ khí nhưng không có sự hiện diện quân sự trực tiếp.",
-    "time": [1973, 1, 27],
-    "duration": 0.01,
+    "time": [
+      1973,
+      1,
+      27
+    ],
     "emoji": "🕊️",
     "priority": 88
   },
   {
-    "id": "us-troops-leave",
     "title": "Quân Mỹ Rút Khỏi Việt Nam (29/3/1973)",
     "description": "Ngày 29/3/1973, đơn vị cuối cùng của quân đội Mỹ rời Việt Nam. Gần 58.000 lính Mỹ đã thiệt mạng và hơn 300.000 người bị thương trong cuộc chiến. Tuy nhiên, chiến tranh vẫn tiếp tục giữa miền Nam và miền Bắc.",
-    "time": [1973, 3, 29],
-    "duration": 0.01,
+    "time": [
+      1973,
+      3,
+      29
+    ],
     "emoji": "🚢",
     "priority": 80
   },
   {
-    "id": "spring-victory",
     "title": "Đại Thắng Mùa Xuân — Sài Gòn Giải Phóng (30/4/1975)",
     "description": "Ngày 30/4/1975, xe tăng Quân đội Nhân dân Việt Nam tiến vào Dinh Độc Lập, chính thức kết thúc Chiến tranh Việt Nam. 'Tổng thống' Dương Văn Minh đầu hàng vô điều kiện. Sài Gòn được giải phóng.",
-    "time": [1975, 4, 30],
-    "duration": 0.01,
+    "time": [
+      1975,
+      4,
+      30
+    ],
     "emoji": "🏴",
     "priority": 95
   },
   {
-    "id": "vietnam-reunified",
     "title": "Việt Nam Thống Nhất (2/7/1976)",
     "description": "Ngày 2/7/1976, Quốc hội lâm thời Việt Nam thống nhất thông qua Hiến pháp mới, officially reunifying North and South Vietnam into the Socialist Republic of Vietnam. Hà Nội trở thành thủ đô của cả nước.",
-    "time": [1976, 7, 2],
-    "duration": 0.01,
+    "time": [
+      1976,
+      7,
+      2
+    ],
     "emoji": "🇻🇳",
     "priority": 92
   },
   {
-    "id": "socialist-transformation-south",
     "title": "Cải Tạo Xã Hội Chủ Nghĩa Tại Miền Nam (1975–1985)",
     "description": "Sau khi thống nhất, chính phủ Việt Nam thực hiện 'cải tạo xã hội chủ nghĩa' tại miền Nam: quốc hữu hóa doanh nghiệp, hợp tác xã hóa nông nghiệp. Chính sách này gây ra khó khăn kinh tế nghiêm trọng.",
-    "time": [1975],
+    "time": [
+      1975
+    ],
     "emoji": "🏛️",
     "priority": 74
   },
   {
-    "id": "cambodia-vietnam-war",
     "title": "Chiến Tranh Việt–Campuchia (1978–1979)",
     "description": "Tháng 12/1978, Việt Nam tấn công Campuchia, lật đổ chế độ Khmer Đỏ của Pol Pot (3/1/1979). Chiến tranh kéo dài 10 năm (cho đến 1989). Đây là hệ quả trực tiếp của xung đột biên giới Việt–Campuchia và sự xâm lược của Pol Pot.",
-    "time": [1978, 12, 25],
-    "duration": 0.01,
+    "time": [
+      1978,
+      12,
+      25
+    ],
     "emoji": "⚔️",
     "priority": 80
   },
   {
-    "id": "doi-moi-launched",
     "title": "Đổi Mới Khởi Động (12/1986)",
     "description": "Đại hội Đảng Cộng sản Việt Nam lần thứ VI (tháng 12/1986) do Nguyễn Văn Linh lãnh đạo, chính thức khởi động chính sách Đổi Mới (Renovation). Chính sách này chuyển đổi Việt Nam từ kinh tế kế hoạch hóa tập trung sang kinh tế thị trường định hướng XHCN.",
-    "time": [1986, 12],
+    "time": [
+      1986,
+      12
+    ],
     "emoji": "🔄",
     "priority": 92
   },
   {
-    "id": "soviet-aid-ends",
     "title": "Liên Xô Ngừng Viện Trợ Việt Nam",
     "description": "Năm 1989, với sự sụp đổ của Liên Xô, viện trợ kinh tế cho Việt Nam chấm dứt. Việt Nam rơi vào khủng hoảng kinh tế nghiêm trọng, thúc đẩy nhanh quá trình Đổi Mới và mở cửa đối ngoại.",
-    "time": [1989],
+    "time": [
+      1989
+    ],
     "emoji": "💔",
     "priority": 72
   },
   {
-    "id": "vietnam-withdraws-cambodia",
     "title": "Việt Nam Rút Quân Khỏi Campuchia (1989)",
     "description": "Tháng 9/1989, Việt Nam hoàn toàn rút quân khỏi Campuchia sau 10 năm can thiệp. Đây là một trong những điều kiện để Việt Nam bình thường hóa quan hệ với ASEAN và phương Tây.",
-    "time": [1989, 9],
+    "time": [
+      1989,
+      9
+    ],
     "emoji": "🚶",
     "priority": 78
   },
   {
-    "id": "asean-membership",
     "title": "Việt Nam Gia Nhập ASEAN (28/7/1995)",
     "description": "Ngày 28/7/1995, Việt Nam chính thức gia nhập ASEAN (Hiệp hội các Quốc gia Đông Nam Á), trở thành thành viên thứ 7 của tổ chức. Đây là bước ngoặt quan trọng trong chính sách đối ngoại và hội nhập khu vực của Việt Nam.",
-    "time": [1995, 7, 28],
-    "duration": 0.01,
+    "time": [
+      1995,
+      7,
+      28
+    ],
     "emoji": "🌏",
     "priority": 82
   },
   {
-    "id": "us-vietnam-normalization",
     "title": "Việt Nam–Mỹ Bình Thường Hóa Quan Hệ (19/7/1995)",
     "description": "Ngày 19/7/1995, Tổng thống Mỹ Bill Clinton tuyên bố bình thường hóa quan hệ ngoại giao với Việt Nam, chấm dứt 20 năm thù địch sau Chiến tranh Việt Nam. Hai nước thiết lập quan hệ đại sứ.",
-    "time": [1995, 7, 19],
-    "duration": 0.01,
+    "time": [
+      1995,
+      7,
+      19
+    ],
     "emoji": "🤝",
     "priority": 86
   },
   {
-    "id": "wto-accession",
     "title": "Việt Nam Gia Nhập WTO (11/1/2007)",
     "description": "Ngày 11/1/2007, Việt Nam chính thức trở thành thành viên Tổ chức Thương mại Thế giới (WTO), mở ra cơ hội lớn cho xuất khẩu và đầu tư nước ngoài. Việt Nam là thành viên thứ 150 của WTO.",
-    "time": [2007, 1, 11],
-    "duration": 0.01,
+    "time": [
+      2007,
+      1,
+      11
+    ],
     "emoji": "🌐",
     "priority": 80
   },
   {
-    "id": "party-congress-vi",
     "title": "Đảng Cộng Sản Việt Nam Đại Hội VI (12/1986)",
     "description": "Đại hội VI của Đảng Cộng sản Việt Nam khởi động Đổi Mới, do Nguyễn Văn Linh làm Tổng Bí thư. Đây là bước ngoặt lịch sử, chuyển đổi mô hình kinh tế và mở cửa đối ngoại.",
-    "time": [1986, 12],
+    "time": [
+      1986,
+      12
+    ],
     "emoji": "🟥",
     "priority": 88
   },
   {
-    "id": "party-congress-vii",
     "title": "Đảng Cộng Sản Việt Nam Đại Hội VII (6/1991)",
     "description": "Đại hội VII tiếp tục Đổi Mới trong bối cảnh Liên Xô sụp đổ. Đảng xác định 4 đối tác chiến lược (Lào, Campuchia, Trung Quốc, Nga) và đa phương hóa quan hệ quốc tế.",
-    "time": [1991, 6],
+    "time": [
+      1991,
+      6
+    ],
     "emoji": "🟥",
     "priority": 74
   },
   {
-    "id": "party-congress-xiii",
     "title": "Đảng Cộng Sản Việt Nam Đại Hội XIII (1/2021)",
     "description": "Đại hội XIII của Đảng Cộng sản Việt Nam bầu Nguyễn Phú Trọng làm Tổng Bí thư nhiệm kỳ 2021–2026. Đại hội đề ra các mục tiêu phát triển đến 2030 và 2045, bao gồm mục tiêu trở thành nước phát triển.",
-    "time": [2021, 1, 25],
-    "duration": 0.01,
+    "time": [
+      2021,
+      1,
+      25
+    ],
     "emoji": "🟥",
     "priority": 80
   },
   {
-    "id": "constitution-2013",
     "title": "Hiến Pháp Việt Nam 2013",
     "description": "Hiến pháp năm 2013 được Quốc hội khóa XIII thông qua với 97,59% phiếu tán thành. Hiến pháp xác định Đảng Cộng sản Việt Nam là lực lượng lãnh đạo, hệ thống kinh tế đa thành phần, và quyền con người.",
-    "time": [2013, 11, 28],
-    "duration": 0.01,
+    "time": [
+      2013,
+      11,
+      28
+    ],
     "emoji": "📜",
     "priority": 78
   },
   {
-    "id": "covid-19-vietnam",
     "title": "Đại Dịch COVID-19 Tại Việt Nam (2020–2022)",
     "description": "Từ 2020 đến 2022, Việt Nam trải qua 4 đợt dịch COVID-19. Việt Nam từng được ca ngợi vì kiểm soát dịch tốt giai đoạn đầu nhưng sau đó chịu đợt bùng phát nghiêm trọng do biến thể Omicron, với hàng triệu ca nhiễm và hơn 43.000 ca tử vong.",
-    "time": [2020, 3],
+    "time": [
+      2020,
+      3
+    ],
     "emoji": "🦠",
     "priority": 76
   },
   {
-    "id": "resolution-18-nghi-quyet",
     "title": "Nghị Quyết 18-NQ/TW Về Đổi Mới Tổ Chức Bộ Máy (2023)",
     "description": "Nghị quyết số 18-NQ/TW của Ban Chấp hành Trung ương Đảng (tháng 6/2023) nhằm đổi mới, sắp xếp tổ chức bộ máy hệ thống chính trị tinh gọn, hiệu quả. Đây là một phần của cuộc đấu tranh chống tham nhũng do Nguyễn Phú Trọng lãnh đạo.",
-    "time": [2023, 6],
+    "time": [
+      2023,
+      6
+    ],
     "emoji": "⚖️",
     "priority": 72
   },
   {
-    "id": "resolution-27-reform",
     "title": "Nghị Quyết 27-NQ/TW Về Cải Cách Chính Sách Tiền Lương",
     "description": "Nghị quyết 27-NQ/TW (tháng 5/2018) đề ra lộ trình cải cách tiền lương, tinh giản biên chế, xóa bỏ cơ chế 'lương bằng lương' và áp dụng hệ thống lương mới dựa trên chức vụ, hiệu quả công tác.",
-    "time": [2018, 5],
+    "time": [
+      2018,
+      5
+    ],
     "emoji": "💰",
     "priority": 70
   }
