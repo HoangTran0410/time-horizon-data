@@ -1,0 +1,842 @@
+[
+  {
+    "title": "Người tối cổ xuất hiện",
+    "description": "Vượn cổ tiến hóa thành người tối cổ cách đây khoảng 4 triệu năm. Họ biết đứng thẳng, sử dụng công cụ thô sơ, kiếm thức ăn. Di cốt tìm thấy ở Đông Phi, Gia-va, Bắc Kinh.",
+    "time": -4000000,
+    "emoji": "🦴",
+    "priority": 75
+  },
+  {
+    "title": "Công nghiệp đồ đá cũ ra đời",
+    "description": "Người tối cổ biết chế tác công cụ đá thô sơ (rìu đá), biết giữ và tạo lửa. Đây là bước tiến lớn trong lịch sử loài người nguyên thủy.",
+    "time": -2500000,
+    "emoji": "🔥",
+    "priority": 74
+  },
+  {
+    "title": "Người tinh khôn xuất hiện",
+    "description": "Khoảng 4 vạn năm trước, con người hoàn toàn loại bỏ dấu tích vượn, trở thành Người tinh khôn (Người hiện đại), biết chế tác công cụ đá mới và cung tên.",
+    "time": -40000,
+    "emoji": "🧑",
+    "priority": 75
+  },
+  {
+    "title": "Cách mạng thời đá mới",
+    "description": "Khoảng 1 vạn năm trước, con người chuyển từ săn bắn, lượm hái sang trồng trọt và chăn nuôi. Đây được coi là một cuộc cách mạng trong lịch sử loài người.",
+    "time": -8000,
+    "emoji": "🌾",
+    "priority": 80
+  },
+  {
+    "title": "Đồng được sử dụng sớm nhất ở Tây Á và Ai Cập",
+    "description": "Cư dân Tây Á và Ai Cập biết sử dụng đồng đỏ vào khoảng 5500 năm trước đây. Cách ngày nay khoảng 4000 năm, nhiều cư dân đã biết dùng đồng thau.",
+    "time": -3500,
+    "emoji": "⚒️",
+    "priority": 73
+  },
+  {
+    "title": "Chữ viết ra đời ở Ai Cập và Lưỡng Hà",
+    "description": "Vào khoảng thiên niên kỉ IV TCN, chữ viết xuất hiện ở Ai Cập và Lưỡng Hà — một phát minh vĩ đại của loài người, cho phép ghi chép và lưu giữ tri thức.",
+    "time": -3500,
+    "emoji": "✍️",
+    "priority": 82
+  },
+  {
+    "title": "Nhà nước Ai Cập thống nhất ra đời",
+    "description": "Khoảng năm 3200 TCN, một quý tộc có thế lực đã chinh phục tất cả các Nôm (liên minh công xã) và thành lập nhà nước Ai Cập thống nhất đầu tiên trên lưu vực sông Nin.",
+    "time": -3200,
+    "emoji": "🏛️",
+    "priority": 83
+  },
+  {
+    "title": "Sắt được sử dụng đầu tiên ở Tây Á và Nam Âu",
+    "description": "Khoảng 3000 năm trước, cư dân ở Tây Á và Nam Âu là những người đầu tiên biết đúc và sử dụng đồ sắt, mở ra thời đại kim khí với năng suất lao động vượt xa thời đồ đá.",
+    "time": -3000,
+    "emoji": "⚒️",
+    "priority": 76
+  },
+  {
+    "title": "Kim tự tháp Giza được xây dựng",
+    "description": "Kim tự tháp lớn ở Giza, Ai Cập là một trong những kỳ tích kiến trúc cổ đại, thể hiện sức lao động và tài năng sáng tạo của con người thời cổ đại.",
+    "time": -2550,
+    "emoji": "🧱",
+    "priority": 80
+  },
+  {
+    "title": "Thành Ba-bi-lon được xây dựng ở Lưỡng Hà",
+    "description": "Thành Ba-bi-lon là một công trình kiến trúc đồ sộ ở Lưỡng Hà, gắn liền với văn minh cổ đại phương Đông và các đế chế như người Su-me.",
+    "time": -1800,
+    "emoji": "🏰",
+    "priority": 76
+  },
+  {
+    "title": "Đế quốc Achaemenid (Ba Tư) thành lập",
+    "description": "Đế quốc Achaemenid được thành lập ở Ba Tư, trở thành một trong những đế quốc lớn nhất thế giới cổ đại với hệ thống quản lý hành chính tinh vi.",
+    "time": -550,
+    "emoji": "👑",
+    "priority": 79
+  },
+  {
+    "title": "Chiến tranh Hy Lạp-Ba Tư lần thứ nhất",
+    "description": "Năm 490 TCN, quân Ba Tư xâm lược Hy Lạp nhưng bị đánh bại tại trận Marathon nhờ chiến thuật quân sự xuất sắc của người Hy Lạp.",
+    "time": -490,
+    "emoji": "⚔️",
+    "priority": 84
+  },
+  {
+    "title": "Chiến tranh Hy Lạp-Ba Tư lần thứ hai",
+    "description": "Năm 480-479 TCN, quân Ba Tư dưới hoàng đế Xerxes xâm lược Hy Lạp. Trận Thermopylae và Salamis là các trận đánh nổi tiếng, Hy Lạp chiến thắng quyết định.",
+    "time": -480,
+    "emoji": "⚔️",
+    "priority": 84
+  },
+  {
+    "title": "Đế quốc Athens dưới thời Pê-ri-clê",
+    "description": "Thế kỉ V TCN, dưới sự lãnh đạo của Pê-ri-clê, Athens phát triển thịnh vượng, xây dựng đền Pác-tê-nông, đạt đỉnh cao về văn hóa và thể chế dân chủ.",
+    "time": -450,
+    "emoji": "🏛️",
+    "priority": 83
+  },
+  {
+    "title": "A-ten xây dựng đền Pác-tê-nông",
+    "description": "Đền Pác-tê-nông được xây dựng trên đồi Acropolis ở Athens, là biểu tượng rực rỡ nhất của nền văn hóa và kiến trúc Hy Lạp cổ đại.",
+    "time": -447,
+    "emoji": "🏛️",
+    "priority": 78
+  },
+  {
+    "title": "Alexander Đại đế thống nhất Macedonia và chinh phục Ba Tư",
+    "description": "Năm 334 TCN, Alexander Đại đế rời Macedonia, chinh phục Ba Tư, Ai Cập, và tiến đến tận Ấn Độ, thành lập đế quốc Hy Lạp hóa rộng lớn.",
+    "time": -334,
+    "emoji": "⚔️",
+    "priority": 86
+  },
+  {
+    "title": "Cái chết của Alexander Đại đế, đế quốc tan rã",
+    "description": "Năm 323 TCN, Alexander Đại đế qua đời đột ngột ở Babylon. Đế quốc rộng lớn nhanh chóng tan rã thành nhiều vương quốc chuyên chế của các tướng lĩnh.",
+    "time": -323,
+    "emoji": "💀",
+    "priority": 82
+  },
+  {
+    "title": "Trận Cannae: Hannibal đánh bại quân La Mã",
+    "description": "Năm 216 TCN, trận Cannae là thất bại nặng nề nhất của La Mã trước Carthage. Hannibal Barca dùng chiến thuật bao vây điệp chiến lược vượt trội.",
+    "time": -216,
+    "emoji": "⚔️",
+    "priority": 82
+  },
+  {
+    "title": "Chế độ đô hộ của phong kiến Trung Quốc ở Việt Nam",
+    "description": "Từ thế kỉ II TCN, các triều đình phong kiến Trung Quốc (Tần, Hán) xâm lược và đô hộ Việt Nam trong hơn một nghìn năm, thiết lập chế độ thuộc địa.",
+    "time": -111,
+    "emoji": "⚔️",
+    "priority": 84
+  },
+  {
+    "title": "Julius Caesar chinh phục Gaul",
+    "description": "Từ năm 58 đến 50 TCN, Julius Caesar chỉ huy quân đội La Mã chinh phục toàn bộ vùng Gaul (Pháp ngày nay), mở rộng đáng kể lãnh thổ Cộng hòa La Mã.",
+    "time": -58,
+    "emoji": "⚔️",
+    "priority": 82
+  },
+  {
+    "title": "Julius Caesar bị ám sát",
+    "description": "Ngày 15 tháng 3 năm 44 TCN (IDES của March), Julius Caesar bị một nhóm quý tộc La Mã dẫn đầu bởi Brutus và Cassius ám sát tại Thượng viện La Mã.",
+    "time": -44,
+    "emoji": "🗡️",
+    "priority": 85
+  },
+  {
+    "title": "Augustus thành lập Đế quốc La Mã",
+    "description": "Năm 27 TCN, Augustus (Octavianus) kết thúc Nội chiến La Mã, trở thành hoàng đế đầu tiên, thành lập Principate — hình thức chính quyền đế quốc La Mã kéo dài nhiều thế kỉ.",
+    "time": -27,
+    "emoji": "👑",
+    "priority": 87
+  },
+  {
+    "title": "Khởi nghĩa Hai Bà Trưng",
+    "description": "Năm 40 SCN, Hai Bà Trưng (Trưng Trắc và Trưng Nhị) khởi nghĩa chống đô hộ nhà Hán, giành lại độc lập cho Việt Nam, lập ra nước Vạn Xuân.",
+    "time": 40,
+    "emoji": "⚔️",
+    "priority": 88
+  },
+  {
+    "title": "Khởi nghĩa Bà Triệu",
+    "description": "Năm 248, Bà Triệu (Triệu Trinh Nhị) khởi nghĩa chống đô hộ nhà Ngô, được nhân dân tôn làm nữ tướng, thể hiện tinh thần yêu nước kiên cường của người Việt.",
+    "time": 248,
+    "emoji": "⚔️",
+    "priority": 84
+  },
+  {
+    "title": "Lý Bí thành lập nước Vạn Xuân",
+    "description": "Năm 544, Lý Bí khởi nghĩa đánh đuổi quân Lương, lập ra nước Vạn Xuân, đánh dấu bước ngoặt lịch sử dựng nước của người Việt sau hơn một nghìn năm Bắc thuộc.",
+    "time": 544,
+    "emoji": "🏯",
+    "priority": 88
+  },
+  {
+    "title": "Triều đình nhà Đường thành lập",
+    "description": "Năm 618, Lý Uyên dẹp tan phe đối lập và lập ra nhà Đường (618-907), mở ra thời kỳ thịnh vượng nhất của chế độ phong kiến Trung Quốc.",
+    "time": 618,
+    "emoji": "👑",
+    "priority": 82
+  },
+  {
+    "title": "Học thuyết Nho giáo phổ biến rộng rãi ở Trung Quốc",
+    "description": "Dưới thời nhà Đường, Nho giáo được triều đình trung ương tôn vinh, trở thành hệ tư tưởng chính thống của chế độ phong kiến Trung Quốc trong nhiều thế kỷ.",
+    "time": 650,
+    "emoji": "📜",
+    "priority": 76
+  },
+  {
+    "title": "Khởi nghĩa Hoàng Sào",
+    "description": "Năm 874, Hoàng Sào lãnh đạo nông dân khởi nghĩa lớn chống nhà Đường, đánh dấu sự suy sụp của triều đình và góp phần làm sụp đổ nhà Đường.",
+    "time": 874,
+    "emoji": "⚔️",
+    "priority": 82
+  },
+  {
+    "title": "Nhà Đường sụp đổ",
+    "description": "Năm 907, nhà Đường chính thức sụp đổ sau nhiều năm khủng hoảng, Trung Quốc rơi vào thời kỳ Ngũ đại - Thập quốc chia cắt.",
+    "time": 907,
+    "emoji": "💔",
+    "priority": 80
+  },
+  {
+    "title": "Ngô Quyền đánh bại quân Nam Hán",
+    "description": "Năm 938, Ngô Quyền đại phá quân Nam Hán trên sông Bạch Đằng, mở ra thời kỳ độc lập lâu dài cho Việt Nam, đặt nền móng cho các triều đình tự chủ.",
+    "time": 938,
+    "emoji": "⚔️",
+    "priority": 88
+  },
+  {
+    "title": "Nhà Tống thành lập",
+    "description": "Năm 960, Triệu Khuông Dẫn thống nhất phần lớn Trung Quốc, lập ra nhà Tống (960-1279), mở ra thời kỳ phát triển kinh tế và văn hóa rực rỡ.",
+    "time": 960,
+    "emoji": "👑",
+    "priority": 81
+  },
+  {
+    "title": "Đinh Bộ Lĩnh thống nhất Việt Nam",
+    "description": "Năm 968, Đinh Bộ Lĩnh dẹp loạn 12 sứ quân, thống nhất đất nước, lập ra nhà Đinh (968-980), xưng Đinh Tiên Hoàng, đặt quốc hiệu Đại Cồ Việt.",
+    "time": 968,
+    "emoji": "👑",
+    "priority": 87
+  },
+  {
+    "title": "Vua Đinh Tiên Hoàng đặt ra luật pháp",
+    "description": "Đinh Tiên Hoàng ban hành bộ luật hình luật đầu tiên của Việt Nam, đánh dấu sự hình thành nhà nước phong kiến trung ương tập quyền.",
+    "time": 974,
+    "emoji": "📜",
+    "priority": 82
+  },
+  {
+    "title": "Văn Miếu - Quốc Tử Giám được xây dựng",
+    "description": "Năm 1070, vua Lý Thánh Tông cho xây dựng Văn Miếu để thờ Khổng Tử và là nơi đào tạo nhân tài, đánh dấu sự phát triển của giáo dục Nho học ở Việt Nam.",
+    "time": 1070,
+    "emoji": "🏛️",
+    "priority": 82
+  },
+  {
+    "title": "Khoa thi quốc gia đầu tiên ở Việt Nam",
+    "description": "Năm 1075, khoa thi quốc gia đầu tiên được tổ chức tại Văn Miếu, mở ra hệ thống thi cử tuyển chọn nhân tài theo Nho giáo kéo dài gần 900 năm ở Việt Nam.",
+    "time": 1075,
+    "emoji": "📝",
+    "priority": 83
+  },
+  {
+    "title": "Cuộc chiến tranh Nam Tống - Kim",
+    "description": "Năm 1126-1234, Nam Tống và Kim (Mãn Châu) giao chiến quyết liệt. Năm 1126, Kim đánh bại Nam Tống, năm 1127 bắt hai hoàng đế Tống, năm 1234 tiêu diệt Nam Tống.",
+    "time": 1126,
+    "emoji": "⚔️",
+    "priority": 82
+  },
+  {
+    "title": "Đế quốc Mông Cổ thống nhất dưới Thành Cát Tư Hãn",
+    "description": "Đầu thế kỉ XIII, Gien-gít Khan thống nhất các bộ lạc Mông Cổ, thành lập đế quốc Mông Cổ rộng lớn nhất lịch sử, mở ra các cuộc xâm lược hung bạo khắp Á-Âu.",
+    "time": 1206,
+    "emoji": "🏴",
+    "priority": 86
+  },
+  {
+    "title": "Chiến thắng quân Nguyên Mông lần thứ nhất",
+    "description": "Năm 1258, quân Nguyên Mông lần đầu xâm lược Đại Việt. Trần Thái Tông chỉ huy quân dân đánh bại, buộc quân địch rút lui khỏi lãnh thổ.",
+    "time": 1258,
+    "emoji": "⚔️",
+    "priority": 87
+  },
+  {
+    "title": "Chiến thắng quân Nguyên Mông lần thứ hai",
+    "description": "Năm 1285, quân Nguyên Mông xâm lược lần thứ hai. Trần Quang Khải và Trần Hưng Đạo phối hợp đánh bại, bảo vệ nền độc lập dân tộc.",
+    "time": 1285,
+    "emoji": "⚔️",
+    "priority": 87
+  },
+  {
+    "title": "Hịch tướng sĩ của Trần Hưng Đạo",
+    "description": "Trần Hưng Đạo viết Hịch tướng sĩ kêu gọi tướng sĩ đoàn kết, nam quốc sơn hà hữu đả khai, thể hiện tinh thần yêu nước, đoàn kết chống ngoại xâm của dân tộc.",
+    "time": 1285,
+    "emoji": "📜",
+    "priority": 85
+  },
+  {
+    "title": "Trần Hưng Đạo chỉ huy kháng chiến chống Nguyên",
+    "description": "Trần Hưng Đạo là tổng chỉ huy ba cuộc kháng chiến chống quân Nguyên Mông xâm lược (1258, 1285, 1287-1288), giữ vững nền độc lập dân tộc cho Đại Việt.",
+    "time": 1285,
+    "emoji": "⚔️",
+    "priority": 88
+  },
+  {
+    "title": "Chiến thắng quân Tống xâm lược trên sông Bạch Đằng",
+    "description": "Năm 1288, Trần Hưng Đạo chỉ huy quân dân Đại Việt đánh bại quân Nguyên Mông lần thứ ba trên sông Bạch Đằng, sử dụng chiến thuật cọc gỗ ngầm dưới nước.",
+    "time": 1288,
+    "emoji": "⚔️",
+    "priority": 88
+  },
+  {
+    "title": "Bài thơ Nam quốc sơn hà ra đời",
+    "description": "Bài thơ Nam quốc sơn hà được truyền tụng từ thời Trần, khẳng định chủ quyền thiêng liêng của Việt Nam: Nam quốc sơn hà hữu đả khai, định danh tự diện phong sơn hà.",
+    "time": 1288,
+    "emoji": "📜",
+    "priority": 86
+  },
+  {
+    "title": "Cuộc chiến tranh 100 năm (Pháp-Anh)",
+    "description": "Từ năm 1337 đến 1453, Pháp và Anh giao chiến trong cuộc chiến tranh 100 năm. Goutxali (Joan of Arc) nổi lên năm 1429 cứu Pháp khỏi thất bại và đánh bại quân Anh.",
+    "time": 1337,
+    "emoji": "⚔️",
+    "priority": 84
+  },
+  {
+    "title": "Phong trào Văn hóa Phục Hưng bắt đầu ở Ý",
+    "description": "Từ thế kỉ XIV, phong trào Văn hóa Phục Hưng bắt đầu ở các thành bang miền Bắc nước Ý như Phirentxơ, khởi xướng cuộc cách mạng về văn hóa, nghệ thuật và tư tưởng.",
+    "time": 1350,
+    "emoji": "🎨",
+    "priority": 85
+  },
+  {
+    "title": "Cuộc khởi nghĩa Lam Sơn (1418-1427)",
+    "description": "Lê Lợi khởi nghĩa chống quân Minh từ năm 1418 đến 1427, giải phóng hoàn toàn Việt Nam. Trận chiến quyết định tại Chi Lăng-Xương Giang (1427) đánh bại quân Minh.",
+    "time": 1418,
+    "emoji": "⚔️",
+    "priority": 89
+  },
+  {
+    "title": "Chiến thắng Chi Lăng-Xương Giang",
+    "description": "Năm 1427, quân Lam Sơn dưới sự chỉ huy của Lê Lợi và Nguyễn Trãi đánh bại quân Minh trong trận Chi Lăng-Xương Giang, kết thúc cuộc khởi nghĩa thắng lợi.",
+    "time": 1427,
+    "emoji": "⚔️",
+    "priority": 88
+  },
+  {
+    "title": "Bình Ngô đại cáo ra đời",
+    "description": "Năm 1428, Nguyễn Trãi soạn Bình Ngô đại cáo — áng văn chính luận lừng lẫy, khẳng định nền độc lập dân tộc và lý tưởng yêu nước của nhân dân Việt Nam.",
+    "time": 1428,
+    "emoji": "📜",
+    "priority": 88
+  },
+  {
+    "title": "Johannes Gutenberg phát minh máy in",
+    "description": "Khoảng năm 1440, Gutenberg phát minh máy in kiểu khung rời có thể di chuyển được, cách mạng hóa việc phổ biến tri thức và thúc đẩy phong trào Văn hóa Phục Hưng và Cải cách tôn giáo.",
+    "time": 1440,
+    "emoji": "📖",
+    "priority": 88
+  },
+  {
+    "title": "Cristophe Colombe phát hiện châu Mỹ",
+    "description": "Năm 1492, Cristophe Colombe đổ bộ lên đảo Guanahani ở vùng biển Ca-ri-bê, đánh dấu sự tiếp xúc đầu tiên giữa châu Âu và châu Mỹ trong thời đại hiện đại.",
+    "time": 1492,
+    "emoji": "🌍",
+    "priority": 89
+  },
+  {
+    "title": "Phong trào Cải cách Tin Lành bắt đầu",
+    "description": "Năm 1517, Martin Luther đóng 95 điều kết tội lên cửa nhà thờ Wittenberg, khởi xướng phong trào Cải cách Tin Lành, chia rẽ Kitô giáo thành nhiều giáo phái.",
+    "time": 1517,
+    "emoji": "✝️",
+    "priority": 87
+  },
+  {
+    "title": "Martin Luther công bố 95 điều kết tội",
+    "description": "Năm 1517, Luther đóng 95 điều kết tội lên cửa nhà thờ ở Wittenberg, Đức, phản đối việc bán xá giá và các thực hành sai trái của Giáo hội Công giáo.",
+    "time": 1517,
+    "emoji": "✝️",
+    "priority": 88
+  },
+  {
+    "title": "Ferdinand Magellan khởi hành vòng quanh thế giới",
+    "description": "Năm 1519, Magellan khởi hành từ Tây Ban Nha với 5 chiếc tàu, thực hiện chuyến đi vòng quanh thế giới đầu tiên, chứng minh Trái Đất hình cầu.",
+    "time": 1519,
+    "emoji": "⛵",
+    "priority": 87
+  },
+  {
+    "title": "Charles V đắc cử Hoàng đế La Mã thần thánh",
+    "description": "Năm 1519, Charles V của Tây Ban Nha đắc cử Hoàng đế La Mã thần thánh, trở thành người quyền lực nhất châu Âu, cai trị cả Tây Ban Nha, Đức và các vùng đất rộng lớn.",
+    "time": 1519,
+    "emoji": "👑",
+    "priority": 82
+  },
+  {
+    "title": "Cách mạng Hà Lan (1566-1648)",
+    "description": "Cuộc đấu tranh giành độc lập của nhân dân Hà Lan chống ách thống trị của Tây Ban Nha (1566-1609) dẫn đến sự ra đời của nước Cộng hòa Hà Lan — nhà nước tư sản đầu tiên ở châu Âu.",
+    "time": 1566,
+    "emoji": "🌷",
+    "priority": 85
+  },
+  {
+    "title": "William Shakespeare viết kiệt tác văn học",
+    "description": "Shakespeare là nhà viết kịch vĩ đại nhất của văn học Anh, để lại kho tàng văn học phong phú gồm 37 vở kịch và nhiều bài thơ sonnet, ảnh hưởng sâu rộng đến văn hóa nhân loại.",
+    "time": 1590,
+    "emoji": "🎭",
+    "priority": 84
+  },
+  {
+    "title": "William Shakespeare viết các vở kịch nổi tiếng",
+    "description": "Giai đoạn cuối thế kỉ XVI và đầu thế kỉ XVII, William Shakespeare viết nhiều vở kịch vĩ đại như Hamlet, Macbeth, Romeo và Juliet, trở thành nhà viết kịch vĩ đại nhất mọi thời.",
+    "time": 1600,
+    "emoji": "🎭",
+    "priority": 85
+  },
+  {
+    "title": "Miguel de Cervantes viết Don Quixote",
+    "description": "Năm 1605, Miguel de Cervantes xuất bản Don Quixote — kiệt tác văn học Tây Ban Nha, đánh dấu đỉnh cao của văn học Phục Hưng và ảnh hưởng sâu rộng đến văn hóa thế giới.",
+    "time": 1605,
+    "emoji": "📚",
+    "priority": 83
+  },
+  {
+    "title": "Cuộc chiến tranh Trịnh-Nguyễn (1627-1672)",
+    "description": "Cuộc nội chiến giữa họ Trịnh ở Đàng Ngoài và họ Nguyễn ở Đàng Trong kéo dài từ 1627 đến 1672, chia cắt Việt Nam thành hai vùng.",
+    "time": 1627,
+    "emoji": "⚔️",
+    "priority": 84
+  },
+  {
+    "title": "Cách mạng tư sản Anh (1640-1688)",
+    "description": "Cuộc cách mạng tư sản Anh bắt đầu năm 1640 với nội chiến chống vua Charles I, tiếp tục dưới thời Oliver Cromwell (1649-1658), kết thúc bằng Cách mạng vinh quang 1688 lập chính quyền tư sản.",
+    "time": 1640,
+    "emoji": "⚔️",
+    "priority": 87
+  },
+  {
+    "title": "Cách mạng công nghiệp bắt đầu ở Anh",
+    "description": "Từ nửa sau thế kỉ XVIII, Cách mạng công nghiệp bùng nổ ở Anh với các phát minh máy kéo sợi và máy hơi nước, chuyển đổi xã hội từ nông nghiệp sang công nghiệp.",
+    "time": 1760,
+    "emoji": "🏭",
+    "priority": 87
+  },
+  {
+    "title": "Máy kéo sợi Spinning Jenny được phát minh",
+    "description": "Năm 1764, James Hargreaves phát minh Spinning Jenny, máy kéo sợi nhiều sợi cùng lúc, tăng năng suất lao động trong ngành dệt, đánh dấu bước khởi đầu Cách mạng công nghiệp.",
+    "time": 1764,
+    "emoji": "🏭",
+    "priority": 84
+  },
+  {
+    "title": "Boston Tea Party (Tiệc trà Boston)",
+    "description": "Ngày 16 tháng 12 năm 1773, nhân dân Boston đổ 342 thùng trà của Đông Ấn vào biển để phản đối thuế má của Anh, là sự kiện dẫn đến Cách mạng Mỹ.",
+    "time": 1773,
+    "emoji": "🍵",
+    "priority": 83
+  },
+  {
+    "title": "Cách mạng Mỹ: Tuyên ngôn độc lập",
+    "description": "Ngày 4 tháng 7 năm 1776, 13 thuộc địa Anh ở Bắc Mỹ tuyên bố độc lập, thành lập Hợp chủng quốc Hoa Kỳ, mở ra phong trào giải phóng dân tộc trên toàn thế giới.",
+    "time": 1776,
+    "emoji": "🗽",
+    "priority": 89
+  },
+  {
+    "title": "Trận Saratoga quyết định thắng lợi cho Mỹ",
+    "description": "Tháng 10 năm 1777, quân Mỹ đánh bại quân Anh tại Saratoga, đây là bước ngoặt quyết định của Cách mạng Mỹ, mở đường cho sự công nhận quốc tế.",
+    "time": 1777,
+    "emoji": "⚔️",
+    "priority": 86
+  },
+  {
+    "title": "Hiệp ước Versailles công nhận độc lập Mỹ",
+    "description": "Tháng 9 năm 1783, Hiệp ước Versailles được ký kết, Anh chính thức công nhận độc lập của Hợp chủng quốc Hoa Kỳ, chấm dứt Chiến tranh giành độc lập.",
+    "time": 1783,
+    "emoji": "🤝",
+    "priority": 87
+  },
+  {
+    "title": "Máy hơi nước ứng dụng vào sản xuất công nghiệp",
+    "description": "Năm 1784, James Watt cải tiến máy hơi nước và ứng dụng rộng rãi vào sản xuất công nghiệp, đánh dấu bước tiến quan trọng của Cách mạng công nghiệp lần thứ nhất.",
+    "time": 1784,
+    "emoji": "🏭",
+    "priority": 86
+  },
+  {
+    "title": "Chiến dịch Rạch Gầm-Xoài Mút",
+    "description": "Năm 1785, Nguyễn Huệ (Quang Trung) đánh tan quân Xiêm Lan Na ở Rạch Gầm-Xoài Mút (Tiền Giang), bảo vệ nền độc lập của Tây Sơn và Việt Nam.",
+    "time": 1785,
+    "emoji": "⚔️",
+    "priority": 87
+  },
+  {
+    "title": "Hiến pháp Hoa Kỳ được thông qua",
+    "description": "Năm 1787, Hiến pháp Hoa Kỳ được thông qua, thiết lập hệ thống chính quyền liên bang với ba nhánh quyền lực, trở thành hiến pháp lâu đời nhất còn hiệu lực.",
+    "time": 1787,
+    "emoji": "📜",
+    "priority": 87
+  },
+  {
+    "title": "Chiến dịch Ngọc Hồi-Đống Đa (Tết 1789)",
+    "description": "Ngày mùng 5 Tết 1789, Quang Trung (Nguyễn Huệ) đánh bại 20 vạn quân nhà Thanh xâm lược tại Ngọc Hồi và Đống Đa, khẳng định chủ quyền Việt Nam.",
+    "time": 1789,
+    "emoji": "⚔️",
+    "priority": 90
+  },
+  {
+    "title": "Cách mạng tư sản Pháp bùng nổ",
+    "description": "Ngày 14 tháng 7 năm 1789, nhân dân Paris đánh chiếm nhà tù Bastille, mở đầu cho cuộc cách mạng tư sản Pháp lớn nhất thế giới, lật đổ chế độ quân chủ chuyên chế.",
+    "time": 1789,
+    "emoji": "⚔️",
+    "priority": 90
+  },
+  {
+    "title": "Tuyên ngôn Nhân quyền và Quyền Công dân",
+    "description": "Tháng 8 năm 1789, Quốc hội lập hiến Pháp thông qua Tuyên ngôn Nhân quyền và Quyền Công dân — văn bản nền tảng của các phong trào nhân quyền và dân chủ trên thế giới.",
+    "time": 1789,
+    "emoji": "📜",
+    "priority": 89
+  },
+  {
+    "title": "George Washington được bầu làm Tổng thống Mỹ",
+    "description": "Năm 1789, George Washington được bầu làm Tổng thống đầu tiên của Hợp chủng quốc Hoa Kỳ, thiết lập các thể chế dân chủ tư sản và chính phủ liên bang.",
+    "time": 1789,
+    "emoji": "🗽",
+    "priority": 86
+  },
+  {
+    "title": "Vua Louis XVI bị xử chém ở Paris",
+    "description": "Ngày 21 tháng 1 năm 1793, vua Louis XVI bị xử chém tại quảng trường Cách mạng Paris, đánh dấu sự kết thúc hoàn toàn của chế độ quân chủ Pháp.",
+    "time": 1793,
+    "emoji": "⚔️",
+    "priority": 87
+  },
+  {
+    "title": "Cuộc khủng hoảng tư sản Pháp dưới thời Giacobin",
+    "description": "Từ 1793-1794, chính quyền Giacobin khủng bố triển khai 'Thời kỳ Khủng bố', xử tử hơn 17.000 người bị kết án, tập trung quyền lực nhà nước và tay chế độ độc tài.",
+    "time": 1793,
+    "emoji": "⚔️",
+    "priority": 85
+  },
+  {
+    "title": "Đảo chính 18 Brumaire của Napoleon Bonaparte",
+    "description": "Ngày 9 tháng 11 năm 1799, Napoleon Bonaparte đảo chính lật đổ Chính quyền Đốc nhượng, nắm quyền đệ nhất tể tướng, chấm dứt giai đoạn cách mạng Pháp.",
+    "time": 1799,
+    "emoji": "⚔️",
+    "priority": 86
+  },
+  {
+    "title": "Vương triều Nguyễn thành lập",
+    "description": "Năm 1802, Nguyễn Ánh lên ngôi với hiệu Gia Long, thống nhất Việt Nam, đặt kinh đô tại Huế. Năm 1804 đổi quốc hiệu thành Việt Nam, áp dụng bộ luật Gia Long.",
+    "time": 1802,
+    "emoji": "👑",
+    "priority": 87
+  },
+  {
+    "title": "Napoleon Bonaparte lên ngôi Hoàng đế",
+    "description": "Ngày 2 tháng 12 năm 1804, Napoleon Bonaparte tự phong Hoàng đế Pháp tại Nhà thờ Đức Bà Paris, chấm dứt Cộng hòa và mở ra thời kỳ Đế chế thứ nhất.",
+    "time": 1804,
+    "emoji": "👑",
+    "priority": 87
+  },
+  {
+    "title": "Đầu máy xe lửa đầu tiên chạy thành công",
+    "description": "Năm 1814, George Stephenson chế tạo đầu máy xe lửa đầu tiên chạy thành công ở Anh, mở ra kỷ nguyên đường sắt và vận tải công nghiệp.",
+    "time": 1814,
+    "emoji": "🚂",
+    "priority": 84
+  },
+  {
+    "title": "Trận Waterloo: Napoleon thất bại hoàn toàn",
+    "description": "Ngày 18 tháng 6 năm 1815, Napoleon Bonaparte bị đánh bại hoàn toàn tại trận Waterloo (Bỉ) bởi quân đội Anh-Phổ, chấm dứt sự nghiệp quân sự lừng lẫy của ông.",
+    "time": 1815,
+    "emoji": "⚔️",
+    "priority": 89
+  },
+  {
+    "title": "Karl Marx sinh ra",
+    "description": "Ngày 5 tháng 5 năm 1818, Karl Marx sinh ra tại Trier, Đức, trong gia đình luật sư gốc Do Thái. Ông là nhà triết học, kinh tế chính trị và nhà hoạt động cách mạng vĩ đại.",
+    "time": 1818,
+    "emoji": "📚",
+    "priority": 84
+  },
+  {
+    "title": "Friedrich Engels sinh ra",
+    "description": "Ngày 28 tháng 11 năm 1820, Friedrich Engels sinh ra tại Barmen, Đức. Ông là đồng tác giả Tuyên ngôn của Đảng Cộng sản cùng Marx và là nhà lý luận chủ nghĩa xã hội khoa học.",
+    "time": 1820,
+    "emoji": "📚",
+    "priority": 83
+  },
+  {
+    "title": "Tuyến đường sắt đầu tiên trên thế giới",
+    "description": "Năm 1825, tuyến đường sắt đầu tiên trên thế giới được khai trương ở Anh (đoạn Stokton-Darlington), mở ra cuộc cách mạng trong vận tải và giao thông.",
+    "time": 1825,
+    "emoji": "🚂",
+    "priority": 85
+  },
+  {
+    "title": "Cải cách hành chính thời Minh Mang",
+    "description": "Năm 1831-1832, vua Minh Mang thực hiện cải cách hành chính, chia Việt Nam thành 30 tỉnh, củng cố bộ máy nhà nước phong kiến trung ương tập quyền.",
+    "time": 1831,
+    "emoji": "🏛️",
+    "priority": 83
+  },
+  {
+    "title": "Cuộc khởi nghĩa công nhân dệt Li-ông 1831",
+    "description": "Năm 1831, công nhân dệt thành phố Li-ông (Pháp) khởi nghĩa đòi tăng lương và giảm giờ làm, làm chủ thành phố trong 10 ngày với khẩu hiệu 'Sống trong lao động hoặc chết trong chiến đấu!'.",
+    "time": 1831,
+    "emoji": "⚔️",
+    "priority": 84
+  },
+  {
+    "title": "Cuộc khởi nghĩa công nhân dệt Li-ông 1834",
+    "description": "Năm 1834, công nhân các nhà máy tơ ở Li-ông (Pháp) lại khởi nghĩa đòi thiết lập nền cộng hòa, cuộc đấu tranh quyết liệt diễn ra 4 ngày nhưng cuối cùng bị dập tắt.",
+    "time": 1834,
+    "emoji": "⚔️",
+    "priority": 83
+  },
+  {
+    "title": "Phong trào Hiến chương ở Anh (1836-1848)",
+    "description": "Từ 1836-1848, phong trào Hiến chương (Chartism) ở Anh là phong trào công nhân rộng lớn có tổ chức, đòi quyền phổ thông đầu phiếu, tăng lương và giảm giờ làm.",
+    "time": 1836,
+    "emoji": "📜",
+    "priority": 83
+  },
+  {
+    "title": "Nước Việt Nam đổi tên Đại Nam",
+    "description": "Năm 1839, vua Minh Mang đổi tên nước từ Việt Nam thành Đại Nam, thể hiện tham vọng mở rộng lãnh thổ về phía nam.",
+    "time": 1839,
+    "emoji": "👑",
+    "priority": 80
+  },
+  {
+    "title": "Cuộc khởi nghĩa công nhân dệt Sơ-lê-din ở Đức",
+    "description": "Năm 1844, công nhân dệt vùng Sơ-lê-din (Đức) khởi nghĩa phá huỷ nhà xưởng, là cuộc đấu tranh tiêu biểu của giai cấp công nhân Đức hồi nửa đầu thế kỉ XIX.",
+    "time": 1844,
+    "emoji": "⚔️",
+    "priority": 82
+  },
+  {
+    "title": "C.Mác và Ph.Ăng-ghen gặp nhau lần đầu",
+    "description": "Năm 1844, Engels sang Paris và gặp Marx lần đầu tiên. Cuộc gặp gỡ này đã mở đầu tình bạn và sự cộng tác giữa hai ông, dẫn đến sự ra đời của chủ nghĩa Marx.",
+    "time": 1844,
+    "emoji": "🤝",
+    "priority": 85
+  },
+  {
+    "title": "Karl Marx và Friedrich Engels hình thành học thuyết",
+    "description": "Từ 1844 đến 1847, Karl Marx và Friedrich Engels phát triển các quan điểm triết học, kinh tế-chính trị và chủ nghĩa xã hội khoa học, từng bước hình thành học thuyết Mác.",
+    "time": 1845,
+    "emoji": "📚",
+    "priority": 85
+  },
+  {
+    "title": "Tổ chức Đồng minh những người cộng sản được thành lập",
+    "description": "Tháng 6 năm 1847, Đồng minh những người cộng sản được thành lập tại London, mục đích là lật đổ giai cấp tư sản và thiết lập sự thống trị của vô sản.",
+    "time": 1847,
+    "emoji": "⚒️",
+    "priority": 85
+  },
+  {
+    "title": "Tuyên ngôn của Đảng Cộng sản được công bố",
+    "description": "Tháng 2 năm 1848, Cương lĩnh của Đồng minh (do Marx và Engels soạn thảo) được công bố tại London dưới hình thức Tuyên ngôn của Đảng Cộng sản — văn kiện cương lĩnh đầu tiên của CNXHKH.",
+    "time": 1848,
+    "emoji": "📜",
+    "priority": 88
+  },
+  {
+    "title": "Chiến dịch Thống nhất Ý của Garibaldi",
+    "description": "Năm 1860, Giuseppe Garibaldi chỉ huy đội quân Áo đỏ (Hood Shirts) tiến hành chiến dịch giải phóng Sicily và miền Nam nước Ý, đóng góp quan trọng vào quá trình thống nhất Ý.",
+    "time": 1860,
+    "emoji": "⚔️",
+    "priority": 84
+  },
+  {
+    "title": "Vương quốc Ý được tuyên bố thành lập",
+    "description": "Năm 1861, Vương quốc Ý thống nhất được tuyên bố thành lập dưới sự lãnh đạo của Vua Vittorio Emanuele II, với sự đóng góp quan trọng của Cavour và Garibaldi.",
+    "time": 1861,
+    "emoji": "👑",
+    "priority": 86
+  },
+  {
+    "title": "Nội chiến Hoa Kỳ bùng nổ",
+    "description": "Ngày 12 tháng 4 năm 1861, quân đội Liên minh miền Nam tấn công Pháo đài Sumter, bắt đầu Nội chiến Hoa Kỳ (1861-1865), cuộc xung đột đẫm máu nhất trong lịch sử Mỹ.",
+    "time": 1861,
+    "emoji": "⚔️",
+    "priority": 88
+  },
+  {
+    "title": "Tuyên ngôn Giải phóng nô lệ (Emancipation Proclamation)",
+    "description": "Ngày 1 tháng 1 năm 1863, Tổng thống Lincoln ban bố Tuyên ngôn Giải phóng nô lệ, tuyên bố tự do cho tất cả nô lệ ở các bang ly khai, thay đổi bản chất cuộc chiến.",
+    "time": 1863,
+    "emoji": "📜",
+    "priority": 89
+  },
+  {
+    "title": "Trận Gettysburg quyết định thắng lợi cho miền Bắc",
+    "description": "Ngày 1-3 tháng 7 năm 1863, trận Gettysburg diễn ra — trận đánh lớn nhất của Nội chiến Hoa Kỳ, quyết định thắng lợi cho Liên minh miền Bắc dưới quyền Tổng thống Lincoln.",
+    "time": 1863,
+    "emoji": "⚔️",
+    "priority": 88
+  },
+  {
+    "title": "Chiến tranh Đức-Đan Mạch (1864)",
+    "description": "Năm 1864, Phổ và Áo liên minh đánh bại Đan Mạch, chiếm hai công quốc Slesvig và Holstein, mở đầu quá trình thống nhất nước Đức dưới sự lãnh đạo của Bismarck.",
+    "time": 1864,
+    "emoji": "⚔️",
+    "priority": 82
+  },
+  {
+    "title": "Quốc tế thứ nhất được thành lập",
+    "description": "Ngày 28 tháng 9 năm 1864, Hội Liên hiệp Lao động Quốc tế (Quốc tế thứ nhất) được thành lập tại London với sự tham gia tích cực của Marx, nhằm đoàn kết phong trào công nhân quốc tế.",
+    "time": 1864,
+    "emoji": "🌍",
+    "priority": 86
+  },
+  {
+    "title": "Tướng Lee đầu hàng, Nội chiến Mỹ kết thúc",
+    "description": "Ngày 9 tháng 4 năm 1865, Tướng Robert E. Lee đầu hàng tại Appomattox Court House, chấm dứt Nội chiến Hoa Kỳ. Miền Bắc thắng lợi, liên bang được bảo tồn và chế độ nô lệ bị xóa bỏ.",
+    "time": 1865,
+    "emoji": "🕊️",
+    "priority": 89
+  },
+  {
+    "title": "Chiến tranh Áo-Phổ (1866)",
+    "description": "Năm 1866, Phổ dưới sự lãnh đạo của Bismarck đánh bại Áo trong cuộc chiến tranh kéo dài 7 tuần, loại Áo khỏi các vấn đề nội bộ nước Đức và thống nhất miền Bắc Đức.",
+    "time": 1866,
+    "emoji": "⚔️",
+    "priority": 83
+  },
+  {
+    "title": "Venice được giải phóng khỏi ách đô hộ của Áo",
+    "description": "Năm 1866, sau Chiến tranh Áo-Phổ, Venice được nhượng lại cho Pháp và sau đó sáp nhập vào Vương quốc Ý thống nhất, hoàn thành thống nhất lãnh thổ Ý.",
+    "time": 1866,
+    "emoji": "⚔️",
+    "priority": 83
+  },
+  {
+    "title": "Chiến tranh Pháp-Phổ và thống nhất Đức",
+    "description": "Chiến tranh Pháp-Phổ 1870-1871 kết thúc với thất bại của Pháp, tạo điều kiện cho Đức thống nhất dưới sự lãnh đạo của Otto von Bismarck và Phổ.",
+    "time": 1870,
+    "emoji": "⚔️",
+    "priority": 86
+  },
+  {
+    "title": "Roma được giải phóng khỏi quân đội Giáo hoàng",
+    "description": "Năm 1870, quân đội Ý tiến vào Roma, giải phóng thành phố khỏi sự kiểm soát của Giáo hoàng, hoàn thành quá trình thống nhất nước Ý.",
+    "time": 1870,
+    "emoji": "🏛️",
+    "priority": 84
+  },
+  {
+    "title": "Đế quốc Đức được tuyên bố thành lập",
+    "description": "Ngày 18 tháng 1 năm 1871, Đế quốc Đức chính thức được tuyên bố thành lập tại Phòng Gương ở Versailles, Wilhelm I trở thành Hoàng đế Đức đầu tiên.",
+    "time": 1871,
+    "emoji": "👑",
+    "priority": 87
+  },
+  {
+    "title": "Công xã Paris 1871",
+    "description": "Ngày 18 tháng 3 năm 1871, nhân dân Paris nổi dậy lật đổ chính quyền tư sản, thành lập Công xã Paris — chính quyền vô sản đầu tiên trong lịch sử, tồn tại 72 ngày.",
+    "time": 1871,
+    "emoji": "⚔️",
+    "priority": 89
+  },
+  {
+    "title": "Cách mạng 18-3-1871 ở Paris",
+    "description": "Ngày 18 tháng 3 năm 1871, Quốc dân quân Paris làm chủ thủ đô sau khi Chính phủ tư sản rút chạy về Versailles, mở ra kỷ nguyên chính quyền vô sản đầu tiên.",
+    "time": 1871,
+    "emoji": "⚔️",
+    "priority": 88
+  },
+  {
+    "title": "Tuần lễ đẫm máu ở Paris",
+    "description": "Từ ngày 21 đến 28 tháng 5 năm 1871, quân đội tư sản phản công dữ dội vào Công xã Paris. 'Tuần lễ đẫm máu' là thời kỳ đẫm máu nhất, Công xã cuối cùng bị trấn áp.",
+    "time": 1871,
+    "emoji": "⚔️",
+    "priority": 87
+  },
+  {
+    "title": "Các cuộc khủng hoảng kinh tế thế giới",
+    "description": "Từ nửa sau thế kỉ XIX, chủ nghĩa tư bản trải qua nhiều cuộc khủng hoảng kinh tế thế giới (1873, 1882-1883, 1900-1903), thúc đẩy sự hình thành các tổ chức độc quyền.",
+    "time": 1873,
+    "emoji": "📉",
+    "priority": 81
+  },
+  {
+    "title": "Đảng Công nhân Xã hội Dân chủ Đức được thành lập",
+    "description": "Năm 1875, Đảng Công nhân Xã hội Dân chủ Đức (SDAP) được thành lập tại Gotha từ sự sáp nhập hai tổ chức, tiền thân của Đảng Dân chủ Xã hội Đức (SPD).",
+    "time": 1875,
+    "emoji": "🏛️",
+    "priority": 82
+  },
+  {
+    "title": "Quốc tế thứ nhất giải tán",
+    "description": "Năm 1876, Quốc tế thứ nhất tuyên bố giải tán sau 12 năm hoạt động, trong thời gian đó đã truyền bá rộng rãi chủ nghĩa Mác và đoàn kết phong trào công nhân quốc tế.",
+    "time": 1876,
+    "emoji": "📜",
+    "priority": 82
+  },
+  {
+    "title": "Karl Marx qua đời",
+    "description": "Ngày 14 tháng 3 năm 1883, Karl Marx qua đời tại London, để lại di sản tư tưởng và lý luận cách mạng vô cùng to lớn cho phong trào công nhân và giải phóng xã hội.",
+    "time": 1883,
+    "emoji": "💀",
+    "priority": 84
+  },
+  {
+    "title": "Cuộc tổng bãi công Si-ca-gô (1 tháng 5 năm 1886)",
+    "description": "Ngày 1 tháng 5 năm 1886, gần 40 vạn công nhân dệt Si-ca-gô (Mỹ) tổng bãi công đòi ngày làm 8 giờ, buộc giới chủ nhượng bộ. Ngày này trở thành Ngày Quốc tế Lao động.",
+    "time": 1886,
+    "emoji": "⚔️",
+    "priority": 88
+  },
+  {
+    "title": "Quốc tế thứ hai được thành lập",
+    "description": "Ngày 14 tháng 7 năm 1889, Đại hội thành lập Quốc tế thứ hai được tổ chức tại Paris, thông qua nghị quyết đòi ngày làm 8 giờ và lấy ngày 1-5 hằng năm làm ngày Quốc tế Lao động.",
+    "time": 1889,
+    "emoji": "🌍",
+    "priority": 86
+  },
+  {
+    "title": "Hệ thống tổ chức độc quyền hình thành ở Đức",
+    "description": "Ở Đức, các tổ chức độc quyền (cacten, xyndica) hình thành sớm và mạnh mẽ, đặc biệt là Hội than đá và thép Rhénan-Westphalie, cho thấy xu hướng tập trung sản xuất điển hình của CNTB.",
+    "time": 1893,
+    "emoji": "🏭",
+    "priority": 80
+  },
+  {
+    "title": "Wilhelm Röntgen phát hiện tia X",
+    "description": "Năm 1895, Wilhelm Röntgen vô tình phát hiện tia X (bức xạ Rontgen), mở ra kỷ nguyên mới trong y học chẩn đoán và vật lý học hiện đại.",
+    "time": 1895,
+    "emoji": "🔬",
+    "priority": 85
+  },
+  {
+    "title": "Ph.Ăng-ghen qua đời",
+    "description": "Năm 1895, Friedrich Engels qua đời — tổn thất lớn đối với phong trào công nhân quốc tế. Ông là người kế thừa và phát triển sự nghiệp của Marx sau khi Marx qua đời năm 1883.",
+    "time": 1895,
+    "emoji": "💀",
+    "priority": 83
+  },
+  {
+    "title": "Henri Becquerel phát hiện hiện tượng phóng xạ",
+    "description": "Năm 1896, Henri Becquerel phát hiện hiện tượng phóng xạ ở hợp chất urani, mở đường cho nghiên cứu vật lý nguyên tử và sau này là thuyết tương đối của Einstein.",
+    "time": 1896,
+    "emoji": "🔬",
+    "priority": 86
+  },
+  {
+    "title": "Anh em nhà Wright chế tạo máy bay đầu tiên",
+    "description": "Ngày 17 tháng 12 năm 1903, hai anh em Orville và Wilbur Wright thực hiện chuyến bay đầu tiên bằng máy bay có động cơ tại Kitty Hawk, Bắc Carolina, mở ra kỷ nguyên hàng không.",
+    "time": 1903,
+    "emoji": "✈️",
+    "priority": 88
+  }
+]

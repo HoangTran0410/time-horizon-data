@@ -1,0 +1,345 @@
+[
+  {
+    "title": "Cách mạng Hà Lan chống chế độ phong kiến Tây Ban Nha",
+    "description": "Cuộc cách mạng tư sản đầu tiên ở châu Âu, diễn ra từ 1566 đến 1648, lật đổ ách thống trị của Tây Ban Nha, dẫn đến sự ra đời của nước Cộng hòa Hà Lan độc lập.",
+    "time": 1566,
+    "emoji": "🌷",
+    "priority": 82
+  },
+  {
+    "title": "Cách mạng tư sản Anh lật đổ vương quyền",
+    "description": "Cuộc cách mạng từ 1640 đến 1688, lật đổ chế độ phong kiến, thiết lập nền quân chủ lập hiến và mở đường cho chủ nghĩa tư bản phát triển ở Anh.",
+    "time": 1640,
+    "emoji": "👑",
+    "priority": 84
+  },
+  {
+    "title": "Tuyên ngôn Độc lập Hợp chúng quốc Mỹ",
+    "description": "Văn bản tuyên bố ly khai khỏi Anh, thành lập Hợp chúng quốc Hoa Kỳ, đánh dấu sự ra đời của nhà nước tư sản đầu tiên trên thế giới.",
+    "time": 1776,
+    "emoji": "🗽",
+    "priority": 86
+  },
+  {
+    "title": "Cách mạng tư sản Pháp lật đổ chế độ phong kiến",
+    "description": "Cuộc cách mạng từ 1789 đến 1794, lật đổ chế độ phong kiến, xóa bỏ chế độ phong kiến tại Pháp, có ảnh hưởng sâu rộng đến toàn thế giới.",
+    "time": 1789,
+    "emoji": "🏛️",
+    "priority": 88
+  },
+  {
+    "title": "Cách mạng công nghiệp Anh mở thời đại máy móc",
+    "description": "Cuộc cách mạng công nghiệp từ 1760 đến 1840, chuyển đổi từ kinh tế nông nghiệp sang công nghiệp hóa, đánh dấu bước ngoặt lớn trong lịch sử nhân loại.",
+    "time": 1760,
+    "emoji": "⚙️",
+    "priority": 83
+  },
+  {
+    "title": "Khởi nghĩa Lyon chống bóc lột của công nhân tơ lụa",
+    "description": "Hai cuộc nổi dậy của công nhân tơ lụa ở Lyon (Pháp) năm 1831 và 1834, đòi tăng lương và cải thiện điều kiện lao động, bị đàn áp đẫm máu.",
+    "time": 1831,
+    "emoji": "✊",
+    "priority": 81
+  },
+  {
+    "title": "Khởi nghĩa Silesia khởi nghĩa đói nghèo của công nhân dệt",
+    "description": "Cuộc nổi dậy của công nhân dệt ở Silesia (Đức) năm 1844, đòi tăng lương và cải thiện điều kiện sống cực kỳ khắc nghiệt, bị quân đội Phổ đàn áp.",
+    "time": 1844,
+    "emoji": "⚒️",
+    "priority": 80
+  },
+  {
+    "title": "Phong trào Hiến chương Anh đòi quyền bầu cử cho giai cấp công nhân",
+    "description": "Phong trào chính trị ở Anh từ 1836 đến 1847, đòi cải cách bầu cử và quyền lợi chính trị cho giai cấp công nhân, dù thất bại nhưng để lại ảnh hưởng lớn.",
+    "time": 1836,
+    "emoji": "📜",
+    "priority": 78
+  },
+  {
+    "title": "Chiến tranh thuốc phiện Anh - Trung Quốc",
+    "description": "Hai cuộc chiến tranh (1840-1842 và 1856-1860) do Anh phát động nhằm buộc Trung Quốc mở cửa thị trường, kết quả Trung Quốc thất bại và suy yếu nghiêm trọng.",
+    "time": 1840,
+    "emoji": "💊",
+    "priority": 80
+  },
+  {
+    "title": "Khởi nghĩa Thái Bình Thiên Quốc hàng triệu người tham gia",
+    "description": "Cuộc khởi nghĩa nông dân lớn nhất trong lịch sử do Hồng Tú Chương lãnh đạo, từ 1851 đến 1864, chống triều đình Mãn Thanh, kết thúc bằng thất bại.",
+    "time": 1851,
+    "emoji": "☀️",
+    "priority": 82
+  },
+  {
+    "title": "Cách mạng 1848 châu Âu làn sóng nổi dậy quy mô lớn",
+    "description": "Các cuộc cách mạng bùng nổ đồng loạt ở nhiều nước châu Âu năm 1848, đòi dân chủ và thống nhất quốc gia, đánh dấu sự trỗi dậy của giai cấp tư sản.",
+    "time": 1848,
+    "emoji": "🌊",
+    "priority": 84
+  },
+  {
+    "title": "Tuyên ngôn Đảng Cộng sản khai sinh chủ nghĩa Marx",
+    "description": "Tác phẩm của Marx và Engels công bố năm 1848, đặt cơ sở lý luận cho chủ nghĩa cộng sản, ảnh hưởng sâu rộng đến phong trào công nhân quốc tế.",
+    "time": 1848,
+    "emoji": "🔨",
+    "priority": 87
+  },
+  {
+    "title": "Duy tân Minh Trị Nhật Bản hiện đại hóa đất nước",
+    "description": "Cuộc cải cách từ 1868, chuyển đổi Nhật Bản từ xã hội phong kiến sang quốc gia công nghiệp hóa hiện đại, đánh bại Trung Quốc và Nga trong các cuộc chiến tranh.",
+    "time": 1868,
+    "emoji": "🌸",
+    "priority": 85
+  },
+  {
+    "title": "Thống nhất Ý từ các quốc gia phân mảnh",
+    "description": "Quá trình thống nhất Ý từ 1859 đến 1870, với sự lãnh đạo của Cavour, Garibaldi và Victor Emmanuel II, hoàn thành với việc sáp nhập Roma.",
+    "time": 1859,
+    "emoji": "🗼",
+    "priority": 82
+  },
+  {
+    "title": "Chiến tranh Pháp-Phổ và thống nhất Đức dưới quyền Otto von Bismarck",
+    "description": "Cuộc chiến từ 1870 đến 1871 kết thúc với thất bại của Pháp, Đức thống nhất dưới sự lãnh đạo của Bismarck, lập ra Đế chế Đức.",
+    "time": 1864,
+    "emoji": "🦅",
+    "priority": 83
+  },
+  {
+    "title": "Công xã Paris chính quyền công nhân đầu tiên trong lịch sử",
+    "description": "Cuộc cách mạng công nhân tại Paris năm 1871, thiết lập chính quyền công nhân đầu tiên trong lịch sử, tồn tại 72 ngày trước khi bị đàn áp.",
+    "time": 1871,
+    "emoji": "🔴",
+    "priority": 89
+  },
+  {
+    "title": "Chiến tranh Nga-Nhật Nhật Bản đánh bại đế quốc Nga",
+    "description": "Cuộc chiến từ 1904 đến 1905, Nhật Bản giành chiến thắng lịch sử, cho thấy sức mạnh của các nước châu Á và thúc đẩy phong trào cách mạng ở Nga.",
+    "time": 1904,
+    "emoji": "⚔️",
+    "priority": 84
+  },
+  {
+    "title": "Cách mạng Nga 1905 dẫn đến các cải cách dân chủ",
+    "description": "Cuộc cách mạng từ 1905 đến 1907 nổ ra sau sự kiện Chủ Nhật Đẫm Máu, đòi cải cách dân chủ, bị đàn áp nhưng thúc đẩy sự trưởng thành của giai cấp vô sản.",
+    "time": 1905,
+    "emoji": "⭐",
+    "priority": 85
+  },
+  {
+    "title": "Quốc tế thứ hai thành lập hợp nhất phong trào cộng sản quốc tế",
+    "description": "Tổ chức quốc tế của giai cấp công nhân được thành lập năm 1889, thống nhất phong trào cộng sản quốc tế, đóng góp quan trọng vào phong trào hòa bình.",
+    "time": 1889,
+    "emoji": "🌍",
+    "priority": 76
+  },
+  {
+    "title": "Phong trào Ngũ Tứ Trung Quốc phong trào dân chủ tư sản",
+    "description": "Phong trào từ năm 1919 chống chủ nghĩa đế quốc và phong kiến, đòi văn hóa mới, dân chủ và khoa học, ảnh hưởng sâu rộng đến giới trẻ và trí thức Trung Quốc.",
+    "time": 1919,
+    "emoji": "🎓",
+    "priority": 82
+  },
+  {
+    "title": "Cao trào cách mạng châu Âu 1918-1923 đánh dấu khủng hoảng chủ nghĩa tư bản",
+    "description": "Làn sóng cách mạng từ 1918 đến 1923 ở nhiều nước châu Âu sau Chiến tranh thế giới thứ nhất, giai cấp vô sản đấu tranh giành chính quyền.",
+    "time": 1918,
+    "emoji": "⚡",
+    "priority": 83
+  },
+  {
+    "title": "Quốc tế Cộng sản (Comintern) thành lập năm 1919",
+    "description": "Tổ chức quốc tế của các đảng cộng sản được thành lập năm 1919, lãnh đạo phong trào cách mạng thế giới theo con đường cách mạng vô sản.",
+    "time": 1919,
+    "emoji": "☭",
+    "priority": 85
+  },
+  {
+    "title": "Chiến tranh thế giới thứ nhất bùng nổ từ Sarajevo",
+    "description": "Cuộc chiến tranh từ 1914 đến 1918, quy mô lớn nhất lúc đó, kết thúc với sự sụp đổ của nhiều đế chế phong kiến ở châu Âu và sự thành lập nhiều nhà nước mới.",
+    "time": 1914,
+    "emoji": "💣",
+    "priority": 87
+  },
+  {
+    "title": "Cách mạng tháng Hai Nga lật đổ chế độ Sa hoàng",
+    "description": "Cuộc cách mạng tháng 2 năm 1917 lật đổ chế độ Sa hoàng Nicholas II, kết thúc triều đại phong kiến 300 năm ở Nga, mở đường cho cách mạng vô sản.",
+    "time": 1917,
+    "emoji": "🏳️",
+    "priority": 86
+  },
+  {
+    "title": "Cách mạng tháng Mười Nga thành lập nhà nước Xô viết",
+    "description": "Cuộc cách mạng vô sản tháng 10 năm 1917 do Lenin lãnh đạo, lật đổ chính phủ lâm thời, thiết lập chính quyền Xô viết, mở ra kỷ nguyên mới cho nhân loại.",
+    "time": 1917,
+    "emoji": "🔨",
+    "priority": 90
+  },
+  {
+    "title": "Hòa ước Brest-Litovsk Nga ký hiệp ước hòa bình với Đức",
+    "description": "Hiệp ước năm 1918 chấm dứt sự tham chiến của Nga trong Thế chiến I, Nga mất nhiều vùng lãnh thổ nhưng thoát khỏi chiến tranh để tập trung xây dựng chế độ Xô viết.",
+    "time": 1918,
+    "emoji": "🤝",
+    "priority": 81
+  },
+  {
+    "title": "Đảng Cộng sản Trung Quốc thành lập",
+    "description": "Đảng Cộng sản Trung Quốc được thành lập năm 1921, sau này lãnh đạo cách mạng thành công và xây dựng nước Cộng hòa Nhân dân Trung Hoa.",
+    "time": 1921,
+    "emoji": "🇨🇳",
+    "priority": 84
+  },
+  {
+    "title": "Chính sách kinh tế mới (NEP) của Liên Xô",
+    "description": "Chính sách kinh tế mới do Lenin khởi xướng năm 1921, cho phép kinh tế thị trường hoạt động trở lại trong thời kỳ quá độ, giúp phục hồi kinh tế sau nội chiến.",
+    "time": 1921,
+    "emoji": "📈",
+    "priority": 75
+  },
+  {
+    "title": "Liên Xô thành lập liên bang nhà nước xã hội chủ nghĩa đầu tiên",
+    "description": "Liên bang Cộng hòa Xã hội Chủ nghĩa Xô viết được thành lập năm 1922, nhà nước xã hội chủ nghĩa đầu tiên trong lịch sử, kéo dài đến năm 1991.",
+    "time": 1922,
+    "emoji": "☭",
+    "priority": 86
+  },
+  {
+    "title": "Kế hoạch 5 năm đầu tiên của Liên Xô",
+    "description": "Kế hoạch phát triển kinh tế 5 năm đầu tiên bắt đầu từ năm 1928, tập trung vào công nghiệp hóa nhanh chóng và tập thể hóa nông nghiệp.",
+    "time": 1928,
+    "emoji": "🏭",
+    "priority": 78
+  },
+  {
+    "title": "Khủng hoảng kinh tế 1929-1933 tê liệt nền kinh tế tư bản chủ nghĩa",
+    "description": "Cuộc khủng hoảng kinh tế lớn nhất trong lịch sử tư bản chủ nghĩa, bắt đầu từ Phố Wall năm 1929, lan rộng toàn thế giới, dẫn đến suy thoái kinh tế nghiêm trọng.",
+    "time": 1929,
+    "emoji": "📉",
+    "priority": 84
+  },
+  {
+    "title": "Mặt trận Nhân dân Pháp chống phát xít",
+    "description": "Mặt trận nhân dân từ 1934 đến 1936 quy tụ các lực lượng dân chủ và cánh tả Pháp, đánh bại nguy cơ phát xít nắm quyền nhưng sau đó tan rã.",
+    "time": 1934,
+    "emoji": "⚖️",
+    "priority": 80
+  },
+  {
+    "title": "Nội chiến Tây Ban Nha 1936-1939",
+    "description": "Cuộc nội chiến giữa Cộng hòa và lực lượng phát xít do Franco lãnh đạo, có sự can thiệp của Đức, Ý và Liên Xô, kết thúc với chiến thắng của phát xít.",
+    "time": 1936,
+    "emoji": "🗡️",
+    "priority": 83
+  },
+  {
+    "title": "Chiến tranh Trung-Nhật toàn diện bùng nổ",
+    "description": "Chiến tranh từ 1937, Nhật Bản xâm lược toàn diện Trung Quốc, mở đầu cho Chiến tranh thế giới thứ hai ở châu Á, gây ra thảm họa nhân đạo khủng khiếp.",
+    "time": 1937,
+    "emoji": "⚔️",
+    "priority": 85
+  },
+  {
+    "title": "Phong trào Xô viết Nghệ-Tĩnh 1930-1931",
+    "description": "Phong trào cách mạng nổ ra ở Nghệ An và Hà Tĩnh năm 1930-1931, thiết lập chính quyền Xô viết, bị thực dân Pháp đàn áp dữ dội sau hàng loạt chiến dịch quân sự.",
+    "time": 1930,
+    "emoji": "🔴",
+    "priority": 86
+  },
+  {
+    "title": "Chiến tranh thế giới thứ hai 1939-1945",
+    "description": "Cuộc chiến tranh lớn nhất trong lịch sử loài người, kết thúc với 60 triệu người chết, sự sụp đổ của chủ nghĩa phát xít, mở ra thời kỳ chiến tranh lạnh.",
+    "time": 1939,
+    "emoji": "💥",
+    "priority": 90
+  },
+  {
+    "title": "Thực dân Pháp xâm lược Việt Nam",
+    "description": "Ngày 1/9/1858, thực dân Pháp nổ súng tấn công Đà Nẵng, mở đầu cuộc xâm lược nước ta, bắt đầu giai đoạn đấu tranh chống thực dân kéo dài gần một thế kỷ.",
+    "time": 1858,
+    "emoji": "🇻🇳",
+    "priority": 90
+  },
+  {
+    "title": "Khởi nghĩa Trương Định chống Pháp xâm lược",
+    "description": "Trương Định từ chối hạ vũ khí theo lệnh triều đình, tiếp tục kháng chiến chống Pháp ở Nam Kỳ từ 1861, anh dũng hy sinh năm 1864, tượng trưng cho tinh thần bất khuất.",
+    "time": 1861,
+    "emoji": "⚔️",
+    "priority": 85
+  },
+  {
+    "title": "Hiệp ước Nhâm Tuất triều đình Huế đầu hàng Pháp",
+    "description": "Hiệp ước ngày 5/6/1862 giữa triều đình Huế và Pháp, nhượng ba tỉnh miền Đông Nam Kỳ, mở cửa biển, cho phép tự do truyền đạo và bồi thường chiến phí.",
+    "time": 1862,
+    "emoji": "📜",
+    "priority": 87
+  },
+  {
+    "title": "Hiệp ước Giáp Tuất công nhận Nam Kỳ thuộc Pháp",
+    "description": "Hiệp ước năm 1874 giữa triều đình Huế và Pháp, chính thức thừa nhận sáu tỉnh Nam Kỳ hoàn toàn thuộc Pháp, làm mất một phần quan trọng chủ quyền lãnh thổ Việt Nam.",
+    "time": 1874,
+    "emoji": "📜",
+    "priority": 86
+  },
+  {
+    "title": "Phong trào Cần Vương chống Pháp",
+    "description": "Phong trào yêu nước chống Pháp từ 1885 đến 1896, được phát động sau Chiếu Cần Vương, quy tụ hàng triệu người tham gia, tiêu biểu qua khởi nghĩa Ba Đình, Bãi Sậy và Hương Khê.",
+    "time": 1885,
+    "emoji": "🇻🇳",
+    "priority": 88
+  },
+  {
+    "title": "Hiệp ước Patenot chấm dứt nền độc lập Việt Nam",
+    "description": "Hiệp ước ngày 6/6/1884 đánh dấu sự sụp đổ hoàn toàn của triều đại phong kiến Nguyễn, chấm dứt nền độc lập của Việt Nam, mở đầu chế độ thuộc địa kéo dài đến 1945.",
+    "time": 1884,
+    "emoji": "📜",
+    "priority": 89
+  },
+  {
+    "title": "Khởi nghĩa Yên Thế kháng chiến chống Pháp liên tục",
+    "description": "Cuộc khởi nghĩa nông dân từ 1884 đến 1918 ở Bắc Giang, dưới sự lãnh đạo của Đề Thám (Hoàng Hoa Thám), là cuộc kháng chiến chống Pháp kéo dài nhất trong lịch sử Việt Nam.",
+    "time": 1884,
+    "emoji": "🏔️",
+    "priority": 84
+  },
+  {
+    "title": "Phong trào Đông Du sang Nhật học hỏi cách cứu nước",
+    "description": "Phong trào từ 1905 đến 1909 do Hội Duy Tân và Phan Bội Châu tổ chức, đưa hàng trăm thanh niên Việt Nam sang Nhật học hỏi con đường cứu nước theo mô hình Nhật Bản.",
+    "time": 1905,
+    "emoji": "🚢",
+    "priority": 83
+  },
+  {
+    "title": "Đông Kinh nghĩa thục mở trường dạy học mới",
+    "description": "Trường Đông Kinh nghĩa thục thành lập năm 1907 tại Hà Nội, truyền bá học thuật mới, văn hóa tiến bộ, bị Pháp đàn áp nhưng có ảnh hưởng lớn đến phong trào yêu nước.",
+    "time": 1907,
+    "emoji": "📚",
+    "priority": 82
+  },
+  {
+    "title": "Khai thác thuộc địa lần thứ nhất của thực dân Pháp",
+    "description": "Thực dân Pháp đẩy mạnh khai thác kinh tế Việt Nam từ 1897 đến 1914, xây dựng bộ máy cai trị, cướp đoạt ruộng đất, phát triển công nghiệp khai thác và giao thông.",
+    "time": 1897,
+    "emoji": "⛏️",
+    "priority": 79
+  },
+  {
+    "title": "Khởi nghĩa ở Huế đòi lật đổ ách thực dân",
+    "description": "Cuộc khởi nghĩa năm 1916 do Thái Phiên và Trần Cao Vân lãnh đạo tại Huế, kết hợp với vua Duy Tân, nhằm lật đổ chính quyền thực dân Pháp nhưng bị phát hiện và đàn áp.",
+    "time": 1916,
+    "emoji": "⚔️",
+    "priority": 83
+  },
+  {
+    "title": "Khởi nghĩa Thái Nguyên của binh lính và tù chính trị",
+    "description": "Cuộc khởi nghĩa năm 1917 do Trịnh Văn Cấn (Đội Cấn) và Lương Ngọc Quyến lãnh đạo, chiếm làm chủ tỉnh Thái Nguyên, Lương Ngọc Quyến anh dũng hi sinh trong chiến đấu.",
+    "time": 1917,
+    "emoji": "🇻🇳",
+    "priority": 84
+  },
+  {
+    "title": "Nguyễn Tất Thành ra đi tìm đường cứu nước",
+    "description": "Năm 1911, Nguyễn Tất Thành (Hồ Chí Minh) xuống tàu tại Sài Gòn, bắt đầu hành trình 6 năm qua nhiều châu lục để tìm con đường cứu nước mới cho dân tộc Việt Nam.",
+    "time": 1911,
+    "emoji": "🚢",
+    "priority": 88
+  }
+]

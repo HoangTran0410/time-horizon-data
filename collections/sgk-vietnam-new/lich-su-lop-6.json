@@ -1,0 +1,202 @@
+[
+  {
+    "id": "ls6-001",
+    "title": "Người Ai Cập cổ đại thống nhất quốc gia",
+    "description": "Vua Menes (Men) thống nhất vùng Ai Cập trên và Ai Cập dưới, mở đầu thời kỳ nhà nước Vương triều cổ đại, đặt nền móng cho nền văn minh sông Nile kéo dài hàng nghìn năm.",
+    "time": [-3200],
+    "emoji": "🏛️",
+    "priority": 75
+  },
+  {
+    "id": "ls6-002",
+    "title": "Nước Văn Lang ra đời",
+    "description": "Khoảng giữa thế kỷ VII TCN, Kinh Dương Vương lập nước Văn Lang, tộc Việt định cư dọc theo sông Hồng và sông Đá Dộng, mở ra thời kỳ dựng nước và định cư lâu dài trên đất Việt.",
+    "time": [-650],
+    "emoji": "🏛️",
+    "priority": 88
+  },
+  {
+    "id": "ls6-003",
+    "title": "Lăng mộ Tần Thuỷ Hoàng được xây dựng",
+    "description": "Vua Tần Thuỷ Hoàng cho xây dựng lăng mộ quy mô lớn tại Hàm Dương, kèm theo hơn 8.000 tượng binh sĩ đất nung trong đội quân hỗn chiến, một trong những công trình thể hiện sức mạnh và tham vọng của nhà Tần.",
+    "time": [-227],
+    "emoji": "🏰",
+    "priority": 74
+  },
+  {
+    "id": "ls6-004",
+    "title": "Nhà Tần thống nhất Trung Quốc",
+    "description": "Năm 221 TCN, Tần Thuỷ Hoàng thống nhất sáu nước chư hầu, kết thúc thời kỳ Chiến Quốc, xây dựng đế chế Trung Quốc thống nhất đầu tiên, áp dụng hệ thống chuẩn đo lường, tiền tệ và chữ viết chung trên toàn quốc.",
+    "time": [-221],
+    "emoji": "⚔️",
+    "priority": 76
+  },
+  {
+    "id": "ls6-005",
+    "title": "Vạn Lý Trường Thành được xây dựng",
+    "description": "Tần Thuỷ Hoàng cho khởi công xây dựng Vạn Lý Trường Thành bằng đất nện và đá, kéo dài hàng nghìn km để ngăn chặn sự xâm nhập từ phía bắc, trở thành công trình vĩ đại nhất trong lịch sử xây dựng cổ đại.",
+    "time": [-215],
+    "emoji": "🏰",
+    "priority": 73
+  },
+  {
+    "id": "ls6-006",
+    "title": "Nước Âu Lạc ra đời",
+    "description": "An Dương Vương Thục Phán sáp nhập Lạc Việt vào Văn Lang, lập nước Âu Lạc, đóng đô ở Cổ Loa (Hà Nội), xây thành Cổ Loa và chế tác nỏ thần để bảo vệ đất nước khỏi quân xâm lược.",
+    "time": [-208],
+    "emoji": "⚔️",
+    "priority": 87
+  },
+  {
+    "id": "ls6-007",
+    "title": "Nhà Hán thiết lập và mở rộng quyền lực",
+    "description": "Nhà Hán kế tục nhà Tần, thiết lập chế độ quân chủ tập quyền trung ương, mở rộng lãnh thổ qua nhiều chiến dịch quân sự, đặt nền móng cho sự phát triển văn hoá và kinh tế Trung Quốc trong hơn 400 năm.",
+    "time": [-206],
+    "emoji": "🏛️",
+    "priority": 75
+  },
+  {
+    "id": "ls6-008",
+    "title": "Khởi nghĩa Spartacus ở La Mã",
+    "description": "Spartacus, một nô lệ người Thracia, cùng hàng chục nghìn nô lệ khởi nghĩa chống Đế chế La Mã, từng đánh bại nhiều đội quân La Mã và tiến về phía bắc, tạo nên cuộc nội chiến lớn nhất trong lịch sử La Mã cổ đại.",
+    "time": [-73],
+    "emoji": "⚔️",
+    "priority": 75
+  },
+  {
+    "id": "ls6-009",
+    "title": "Hoàng đế Augustus cai trị La Mã",
+    "description": "Octavianus được thượng hội đồng La Mã phong là Augustus, mở đầu thời kỳ Hoàng đế, chấm dứt nội chiến kéo dài, thiết lập hòa bình và sự thịnh vượng cho đế chế La Mã trong gần 200 năm (Pax Romana).",
+    "time": [-27],
+    "emoji": "🏛️",
+    "priority": 76
+  },
+  {
+    "id": "ls6-010",
+    "title": "Khởi nghĩa Hai Bà Trưng",
+    "description": "Hai Bà Trưng (Trưng Trắc và Trưng Nhị) khởi nghĩa chống ách đô hộ nhà Hán, giành lại độc lập cho Việt Nam sau hơn một thế kỷ bị đô thống trị, lập ra nhà nước độc lập đầu tiên trong lịch sử Việt Nam.",
+    "time": [43],
+    "emoji": "⚔️",
+    "priority": 88
+  },
+  {
+    "id": "ls6-011",
+    "title": "Phật giáo du nhập vào Trung Quốc",
+    "description": "Phật giáo từ Ấn Độ du nhập vào Trung Quốc qua con đường Tây Vực, bắt đầu quá trình Phật giáo hóa kéo dài nhiều thế kỷ, từ đó ảnh hưởng sâu rộng đến văn hóa, nghệ thuật và đời sống tinh thần của nhân dân Trung Quốc.",
+    "time": [50],
+    "emoji": "🛕",
+    "priority": 74
+  },
+  {
+    "id": "ls6-012",
+    "title": "Nước Phú Nam được thành lập",
+    "description": "Sau khi nhà Hán dẹp tan cuộc khởi nghĩa của Hai Bà Trưng, nhà Hán tái lập quyền đô hộ tại Giao Chỉ, đồng thời thành lập nước Phú Nam, mở ra giai đoạn kéo dài đô hộ và xây dựng hệ thống hành chính tại vùng đất Việt Nam ngày nay.",
+    "time": [50],
+    "emoji": "🏛️",
+    "priority": 80
+  },
+  {
+    "id": "ls6-013",
+    "title": "Khởi nghĩa Boudica ở Britannia",
+    "description": "Boudica, nữ hoàng của bộ tộc Iceni ở Britannia (Anh ngày nay), lãnh đạo cuộc khởi nghĩa lớn chống Đế chế La Mã, đánh chiếm và phá hủy nhiều thành phố La Mã trước khi bị đánh bại hoàn toàn.",
+    "time": [60],
+    "emoji": "⚔️",
+    "priority": 74
+  },
+  {
+    "id": "ls6-014",
+    "title": "Cuộc nổi dậy của người Do Thái chống La Mã",
+    "description": "Người Do Thái ở Judea khởi nghĩa chống ách đô hộ La Mã, đánh dấu sự kiện trong các văn bản sử học Kitô giáo và Do Thái, mở đầu một loạt các cuộc xung đột kéo dài giữa người Do Thái và Đế chế La Mã.",
+    "time": [66],
+    "emoji": "⚔️",
+    "priority": 74
+  },
+  {
+    "id": "ls6-015",
+    "title": "Chùa Dâu được xây dựng",
+    "description": "Chùa Dâu (Thiên Phúc Tự) ở Giao Châu được xây dựng, là một trong những ngôi chùa Phật giáo lâu đời nhất Việt Nam, đánh dấu sự phát triển của Phật giáo tại vùng đất Giao Chỉ trong thời kỳ đô hộ.",
+    "time": [226],
+    "emoji": "🛕",
+    "priority": 72
+  },
+  {
+    "id": "ls6-016",
+    "title": "Khởi nghĩa Bà Triệu",
+    "description": "Bà Triệu (Triệu Thị Trinh) cùng anh trai Triệu Quốc Đạt tập hợp nghĩa quân khởi nghĩa chống nhà Hán, tượng trưng cho tinh thần bất khuất của phụ nữ Việt Nam, Bà được suy tôn là Bà Triệu Anh hùng dân tộc.",
+    "time": [248],
+    "emoji": "⚔️",
+    "priority": 86
+  },
+  {
+    "id": "ls6-017",
+    "title": "Khởi nghĩa Lý Bí",
+    "description": "Lý Bí (Lý Nam Đế) khởi nghĩa đánh đuổi quan lại nhà Lương, lập nước Vạn Xuân, mở ra thời kỳ các triều đại tự chủ đầu tiên của Việt Nam sau hơn một nghìn năm Bắc thuộc.",
+    "time": [542],
+    "emoji": "⚔️",
+    "priority": 85
+  },
+  {
+    "id": "ls6-018",
+    "title": "Nước Vạn Xuân thành lập",
+    "description": "Lý Nam Đế (Lý Bí) lên ngôi vua, đặt quốc hiệu Vạn Xuân, đóng đô tại Phong Chương (Phú Thọ), mở ra triều đại đầu tiên trong thời kỳ tự chủ của Việt Nam sau thời Bắc thuộc.",
+    "time": [544],
+    "emoji": "🏛️",
+    "priority": 86
+  },
+  {
+    "id": "ls6-019",
+    "title": "Văn bia Xá Lợi được dựng ở Vĩnh Nghiêm",
+    "description": "Văn bia Xá Lợi được dựng tại Vĩnh Nghiêm (Quảng Ninh), ghi chép sự kiện tôn vinh 9 vị tăng sĩ có công trong việc truyền bá Phật pháp, là văn bia Phật giáo lâu đời nhất Việt Nam được bảo tồn đến ngày nay.",
+    "time": [650],
+    "emoji": "📜",
+    "priority": 72
+  },
+  {
+    "id": "ls6-020",
+    "title": "Khởi nghĩa Mai Thúc Loan",
+    "description": "Mai Thúc Loan lãnh đạo nhân dân khởi nghĩa chống ách đô hộ nhà Đường, từng làm chủ vùng Hoan Châu và được nhân dân tôn làm vua trong một thời gian ngắn, thể hiện tinh thần đấu tranh bất khuất của người Việt.",
+    "time": [713],
+    "emoji": "⚔️",
+    "priority": 82
+  },
+  {
+    "id": "ls6-021",
+    "title": "Khởi nghĩa Phùng Hung",
+    "description": "Phùng Hung khởi nghĩa chống ách đô hộ nhà Đường tại vùng Sơn Nam, giành quyền tự chủ cho nhân dân, tiếp nối truyền thống đấu tranh giải phóng dân tộc bất khuất trong suốt thời kỳ Bắc thuộc.",
+    "time": [775],
+    "emoji": "⚔️",
+    "priority": 82
+  },
+  {
+    "id": "ls6-022",
+    "title": "Quả Chuông Thanh Mai được đúc",
+    "description": "Quả chuông Thanh Mai được đúc tại chùa Thanh Mai (Hà Nội), nặng gần một tấn, là hiện vật đồng đúc có niên đại sớm nhất Việt Nam được bảo tồn, minh chứng cho trình độ nghề thủ công và đúc đồng tinh xảo của người Việt.",
+    "time": [798],
+    "emoji": "🔔",
+    "priority": 72
+  },
+  {
+    "id": "ls6-023",
+    "title": "Khúc Thừa Dụ được phong làm Tiết độ sứ",
+    "description": "Khúc Thừa Dụ được triều Đường phong làm Tiết độ sứ Giao Châu, mở ra thời kỳ các thế lực địa phương giành quyền tự chủ ngày càng lớn hơn, đặt nền móng cho quá trình giải phóng dân tộc hoàn toàn về sau.",
+    "time": [905],
+    "emoji": "🏛️",
+    "priority": 83
+  },
+  {
+    "id": "ls6-024",
+    "title": "Dương Đình Nghệ đánh đuổi quân Nam Hán",
+    "description": "Dương Đình Nghệ đánh bại quân Nam Hán xâm lược tại vùng Tứ Lĩnh, giành lại độc lập cho Việt Nam, chấm dứt thời kỳ chia cắt kéo dài và mở đường cho chiến thắng lịch sử Bạch Đằng năm 938.",
+    "time": [931],
+    "emoji": "⚔️",
+    "priority": 84
+  },
+  {
+    "id": "ls6-025",
+    "title": "Chiến thắng Bạch Đằng",
+    "description": "Ngô Quyền dùng kế đóng cọc gỗ xuống lòng sông Bạch Đằng, khi thủy triều lên cho quân Nam Hán tiến vào rồi hạ thủy triều, kéo thuyền địch mắc cọc, đại phá quân Nam Hán, giành chiến thắng vẻ vang, mở ra kỷ nguyên độc lập cho Việt Nam.",
+    "time": [938],
+    "emoji": "⚔️",
+    "priority": 90
+  }
+]

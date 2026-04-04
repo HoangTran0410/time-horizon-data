@@ -1,0 +1,611 @@
+[
+  {
+    "title": "Cách mạng Tháng Mười Nga thắng lợi",
+    "description": "Cách mạng vô sản Tháng Mười Nga do Lênin lãnh đạo đã lật đổ chính quyền tư sản, thành lập nhà nước Xô viết đầu tiên trên thế giới, mở ra kỷ nguyên đấu tranh giải phóng dân tộc.",
+    "time": [1917],
+    "emoji": "🔴",
+    "priority": 85
+  },
+  {
+    "title": "Nguyễn Ái Quốc gia nhập Đảng Cộng sản Pháp",
+    "description": "Nguyễn Ái Quốc trở thành đảng viên cộng sản và là một trong những người sáng lập Đảng Cộng sản Pháp, bước ngoặt quan trọng trên con đường tìm kiếm con đường cứu nước cho Việt Nam.",
+    "time": [1920],
+    "emoji": "🏛️",
+    "priority": 85
+  },
+  {
+    "title": "Hội Liên hiệp thuộc địa ra đời ở Paris",
+    "description": "Năm 1921, Nguyễn Ái Quốc cùng với những người yêu nước từ các nước thuộc địa Pháp thành lập Hội Liên hiệp thuộc địa tại Paris. Báo Người cùng khổ là cơ quan ngôn luận của Hội.",
+    "time": [1921],
+    "emoji": "📰",
+    "priority": 75
+  },
+  {
+    "title": "Hội Những người lao động trí óc Đông Dương ra đời",
+    "description": "Năm 1925, Hội Những người lao động trí óc Đông Dương được thành lập, tập hợp trí thức yêu nước Đông Dương tham gia phong trào đấu tranh chống thực dân Pháp.",
+    "time": [1925],
+    "emoji": "📖",
+    "priority": 75
+  },
+  {
+    "title": "Phong trào Tâm Tâm Xã ra đời tại Quảng Châu",
+    "description": "Năm 1923, tại Quảng Châu (Trung Quốc), Lê Hồng Sơn, Hồ Tùng Mậu và Nguyễn Công Viễn thành lập tổ chức Tâm Tâm Xã, tiền thân của phong trào cách mạng Việt Nam.",
+    "time": [1923],
+    "emoji": "🏯",
+    "priority": 75
+  },
+  {
+    "title": "Nguyễn Ái Quốc sáng lập Việt Nam Cách Mạng Thanh Niên",
+    "description": "Năm 1925, Nguyễn Ái Quốc sáng lập tổ chức Việt Nam Cách Mạng Thanh Niên tại Quảng Châu, đánh dấu bước trưởng thành về tổ chức của phong trào yêu nước Việt Nam.",
+    "time": [1925],
+    "emoji": "🚩",
+    "priority": 82
+  },
+  {
+    "title": "Phong trào Ngũ Giao Khai hình thành",
+    "description": "Phong trào Ngũ Giao Khai (cánh mạng, phong kiến, tư sản, tiểu tư sản, bình dân) do Phan Bội Châu sáng lập tập hợp nhiều tầng lớp yêu nước chống thực dân Pháp.",
+    "time": [1925],
+    "emoji": "🏴",
+    "priority": 72
+  },
+  {
+    "title": "Phong trào đấu tranh ở Việt Nam bùng nổ mạnh mẽ",
+    "description": "Cuối những năm 1920, phong trào đấu tranh của nhân dân Việt Nam chống thực dân Pháp diễn ra sôi nổi với nhiều hình thức, từ biểu tình, bãi công đến khởi nghĩa vũ trang.",
+    "time": [1927],
+    "emoji": "🔥",
+    "priority": 72
+  },
+  {
+    "title": "Việt Nam Quốc dân Đảng thành lập",
+    "description": "Việt Nam Quốc dân Đảng (Việt Nam Quốc dân Đảng) được thành lập năm 1927, là tổ chức chính trị có tôn chỉ đánh đuổi thực dân Pháp, thành lập nước Việt Nam Dân chủ Cộng hòa.",
+    "time": [1927],
+    "emoji": "🏴",
+    "priority": 80
+  },
+  {
+    "title": "Khởi nghĩa Yên Bái nổ ra",
+    "description": "Đêm 9/2/1930, Việt Nam Quốc dân Đảng phát động khởi nghĩa vũ trang tại Yên Bái, Phú Thọ, Sơn Tây, Hải Dương chống thực dân Pháp. Cuộc khởi nghĩa bị đàn áp nhưng cổ vũ mạnh mẽ tinh thần đấu tranh của dân tộc.",
+    "time": [1930],
+    "emoji": "⚔️",
+    "priority": 83
+  },
+  {
+    "title": "Đảng Cộng sản Việt Nam thành lập",
+    "description": "Ngày 3/2/1930, Đảng Cộng sản Việt Nam được thành lập tại Hương Cảng (Trung Quốc), do Nguyễn Ái Quốc chủ trì. Đây là tổ chức tiên phong lãnh đạo cách mạng Việt Nam đi theo con đường cách mạng vô sản.",
+    "time": [1930],
+    "emoji": "🔴",
+    "priority": 90
+  },
+  {
+    "title": "Xô viết Nghệ Tĩnh ra đời",
+    "description": "Tháng 9/1930, nhân dân Nghệ An và Hà Tĩnh nổi dậy lật đổ chính quyền thực dân, thành lập chính quyền Xô viết — chính quyền kiểu mới của nhân dân lao khổ, được mệnh danh là 'Xứ Nghệ đỏ'.",
+    "time": [1930],
+    "emoji": "🔴",
+    "priority": 85
+  },
+  {
+    "title": "Luận cương chính trị tháng 10/1930 của Đảng Cộng sản Đông Dương",
+    "description": "Luận cương do Nguyễn Ái Quốc soạn thảo xác định cách mạng Đông Dương là cách mạng tư sản kiểu mới, dân chủ nhân dân, đánh đổ đế quốc và phong kiến, là cơ sở lý luận cho con đường cách mạng Việt Nam.",
+    "time": [1930],
+    "emoji": "📜",
+    "priority": 85
+  },
+  {
+    "title": "Cách mạng Trung Quốc thắng lợi",
+    "description": "Năm 1949, Đảng Cộng sản Trung Quốc do Mao Trạch Đông lãnh đạo lật đổ chính quyền Tưởng Giới Thạch, thành lập nước Cộng hòa Nhân dân Trung Hoa, thay đổi trật tự thế giới.",
+    "time": [1949],
+    "emoji": "🏮",
+    "priority": 85
+  },
+  {
+    "title": "Liên Xô thử thành công bom nguyên tử đầu tiên",
+    "description": "Năm 1949, Liên Xô thử nghiệm thành công bom nguyên tử đầu tiên, phá vỡ thế độc quyền vũ khí hạt nhân của Hoa Kỳ, đẩy mạnh cuộc chạy đua vũ trang trong Chiến tranh Lạnh.",
+    "time": [1949],
+    "emoji": "☢️",
+    "priority": 80
+  },
+  {
+    "title": "Chiến tranh Lạnh bùng nổ",
+    "description": "Chiến tranh Lạnh là cuộc đối đầu căng thẳng giữa hai phe — phe tư bản chủ nghĩa do Mỹ đứng đầu và phe xã hội chủ nghĩa do Liên Xô làm trụ cột — diễn ra trên hầu hết các lĩnh vực trong gần nửa thế kỷ.",
+    "time": [1947],
+    "emoji": "🧊",
+    "priority": 88
+  },
+  {
+    "title": "Học thuyết Truman được công bố",
+    "description": "Năm 1947, Tổng thống Mỹ Harry S. Truman công bố học thuyết Truman, cam kết hỗ trợ các quốc gia tự do chống lại sự lớn mạnh của chủ nghĩa cộng sản, mở đầu cho chính sách ngăn chặn trên toàn cầu.",
+    "time": [1947],
+    "emoji": "🦅",
+    "priority": 80
+  },
+  {
+    "title": "Kế hoạch Marshall được công bố",
+    "description": "Năm 1947, Mỹ công bố Kế hoạch Marshall (European Recovery Program) nhằm tái thiết châu Âu sau Chiến tranh Thế giới thứ hai, đồng thời ngăn chặn sự lan rộng của chủ nghĩa cộng sản ở châu Âu.",
+    "time": [1947],
+    "emoji": "💶",
+    "priority": 82
+  },
+  {
+    "title": "NATO được thành lập",
+    "description": "Ngày 4/4/1949, Tổ chức Hiệp ước Bắc Đại Tây Dương (NATO) được thành lập tại Washington, là liên minh quân sự chính thức đầu tiên giữa Mỹ và các nước phương Tây nhằm đối phó với Liên Xô.",
+    "time": [1949],
+    "emoji": "🛡️",
+    "priority": 85
+  },
+  {
+    "title": "Hai miền Đức ra đời",
+    "description": "Năm 1949, Đức bị chia cắt thành hai nhà nước: Cộng hòa Dân chủ Đức (Đông Đức) và Cộng hòa Liên bang Đức (Tây Đức), phản ánh sự đối đầu Đông-Tây trong Chiến tranh Lạnh.",
+    "time": [1949],
+    "emoji": "🏳️",
+    "priority": 82
+  },
+  {
+    "title": "Phong trào Cứu quốc Việt Nam phát triển mạnh",
+    "description": "Bước sang năm 1941, các đội du kích Bắc Sơn phát triển thành Cứu quốc quân (14/2/1941), phát động chiến tranh du kích chống thực dân Pháp, đặt nền móng cho Việt Nam cách mạng.",
+    "time": [1941],
+    "emoji": "⚔️",
+    "priority": 80
+  },
+  {
+    "title": "Trung đội Cứu quốc quân thành lập",
+    "description": "Ngày 14/2/1941, tại Bắc Sơn, các đội du kích Bắc Sơn thống nhất thành Trung đội Cứu quốc quân — tiền thân của Quân đội Nhân dân Việt Nam, mở ra giai đoạn đấu tranh vũ trang mới.",
+    "time": [1941],
+    "emoji": "🎖️",
+    "priority": 82
+  },
+  {
+    "title": "Hội nghị Bắc Sơn — bước ngoặt lịch sử",
+    "description": "Hội nghị Bắc Sơn (5-6/1941) do Nguyễn Ái Quốc chủ trì quyết định thành lập Mặt trận Việt Nam độc lập đồng minh (Việt Minh), xác định nhiệm vụ chuẩn bị khởi nghĩa là trung tâm của toàn Đảng.",
+    "time": [1941],
+    "emoji": "🗺️",
+    "priority": 87
+  },
+  {
+    "title": "Mặt trận Việt Minh thành lập",
+    "description": "Tháng 5/1941, Mặt trận Việt Nam độc lập đồng minh (Việt Minh) được thành lập dưới sự lãnh đạo của Nguyễn Ái Quốc, tập hợp rộng rãi các lực lượng yêu nước chống thực dân Pháp và phát xít Nhật.",
+    "time": [1941],
+    "emoji": "🤝",
+    "priority": 88
+  },
+  {
+    "title": "Chiến tranh Thế giới thứ hai bùng nổ",
+    "description": "Năm 1939, Chiến tranh Thế giới thứ hai bùng nổ tại châu Âu với sự tham chiến của hầu hết các cường quốc lớn, tạo điều kiện cho phong trào giải phóng dân tộc ở các nước thuộc địa.",
+    "time": [1939],
+    "emoji": "⚔️",
+    "priority": 85
+  },
+  {
+    "title": "Cách mạng Nhật Bản tháng 3/1945",
+    "description": "Tháng 3/1945, Nhật Bản đảo chính lật đổ chính quyền thực dân Pháp ở Đông Dương, nắm quyền kiểm soát trực tiếp. Đây là bước ngoặt then chốt mở ra thời cơ ngàn vàng cho cách mạng Việt Nam.",
+    "time": [1945],
+    "emoji": "🌸",
+    "priority": 82
+  },
+  {
+    "title": "Hội nghị Yalta",
+    "description": "Tháng 2/1945, hội nghị Yalta giữa Roosevelt, Churchill và Stalin bàn về tương lai hậu chiến tranh, phân chia phạm vi ảnh hưởng, lập ra Liên Hợp Quốc và xác lập trật tự thế giới mới sau Đệ nhị thế chiến.",
+    "time": [1945],
+    "emoji": "🗺️",
+    "priority": 80
+  },
+  {
+    "title": "Hội nghị Potsdam",
+    "description": "Tháng 7/1945, hội nghị Potsdam quyết định đầu hàng vô điều kiện của Đức, phân chia Đức và Berlin thành bốn vùng chiếm đóng, đặt nền móng cho Chiến tranh Lạnh tại châu Âu.",
+    "time": [1945],
+    "emoji": "🗺️",
+    "priority": 80
+  },
+  {
+    "title": "Tổng khởi nghĩa tháng Tám 1945 thắng lợi",
+    "description": "Từ ngày 14-15/8/1945, quân dân Việt Nam đồng loạt khởi nghĩa trên cả nước, lật đổ chính quyền phát xít Nhật và thực dân Pháp. Ngày 2/9/1945, Chủ tịch Hồ Chí Minh đọc Tuyên ngôn độc lập, thành lập nước Việt Nam Dân chủ Cộng hòa.",
+    "time": [1945],
+    "emoji": "🏳️",
+    "priority": 90
+  },
+  {
+    "title": "Liên Hợp Quốc được thành lập",
+    "description": "Ngày 24/10/1945, Liên Hợp Quốc chính thức ra đời tại San Francisco với sứ mệnh duy trì hòa bình và an ninh quốc tế, thay thế Tổ chức các Quốc gia (Hội Quốc Liên) sau Chiến tranh Thế giới thứ hai.",
+    "time": [1945],
+    "emoji": "🌐",
+    "priority": 88
+  },
+  {
+    "title": "Hiến pháp 1946 của nước Việt Nam Dân chủ Cộng hòa",
+    "description": "Tháng 11/1946, Hiến pháp đầu tiên của nước Việt Nam Dân chủ Cộng hòa được Quốc hội thông qua, xác lập nền cộng hòa dân chủ — hình thức chính thể mới của Việt Nam.",
+    "time": [1946],
+    "emoji": "📜",
+    "priority": 80
+  },
+  {
+    "title": "Toàn quốc kháng chiến chống thực dân Pháp",
+    "description": "Ngày 19/12/1946, Chủ tịch Hồ Chí Minh kêu gọi nhân dân Việt Nam đứng lên kháng chiến chống thực dân Pháp xâm lược, mở đầu cuộc kháng chiến trường kỳ 9 năm bảo vệ nền độc lập dân tộc.",
+    "time": [1946],
+    "emoji": "⚔️",
+    "priority": 90
+  },
+  {
+    "title": "Ấn Độ tuyên bố độc lập",
+    "description": "Ngày 26/1/1950, Ấn Độ tuyên bố thành lập nước Cộng hòa, đánh dấu thắng lợi to lớn của nhân dân Ấn Độ trong cuộc đấu tranh giành độc lập dân tộc dưới sự lãnh đạo của Đảng Quốc đại.",
+    "time": [1950],
+    "emoji": "🕉️",
+    "priority": 83
+  },
+  {
+    "title": "Trận Điện Biên Phủ",
+    "description": "Từ tháng 3 đến tháng 5/1954, quân đội nhân dân Việt Nam dưới sự chỉ huy của Đại tướng Võ Nguyên Giáp bao vây và tiêu diệt hoàn toàn cứ điểm Điện Biên Phủ của thực dân Pháp, buộc Pháp phải ký Hiệp định Geneva.",
+    "time": [1954],
+    "emoji": "🗻",
+    "priority": 90
+  },
+  {
+    "title": "Hiệp định Geneva được ký kết",
+    "description": "Ngày 20/7/1954, Hiệp định Geneva được ký kết, công nhận chủ quyền, độc lập, thống nhất và toàn vẹn lãnh thổ của Việt Nam. Pháp rút quân khỏi Việt Nam, Đông Dương giành lại hòa bình.",
+    "time": [1954],
+    "emoji": "🤝",
+    "priority": 90
+  },
+  {
+    "title": "Hội nghị Bandung",
+    "description": "Tháng 4/1955, Hội nghị Bandung quy tụ 29 nước Á, Phi tại Indonesia, mở đường cho phong trào không liên kết và hợp tác Nam-Nam, đánh dấu sự trỗi dậy của các quốc gia thuộc địa giành độc lập.",
+    "time": [1955],
+    "emoji": "🌏",
+    "priority": 82
+  },
+  {
+    "title": "Miền Bắc Việt Nam tiến hành cải cách ruộng đất",
+    "description": "Từ 1953 đến 1956, miền Bắc Việt Nam thực hiện cải cách ruộng đất nhằm xóa bỏ giai cấp địa chủ phong kiến, phân phát đất đai cho nông dân, xây dựng cơ sở kinh tế-xã hội chủ nghĩa.",
+    "time": [1954],
+    "emoji": "🌾",
+    "priority": 80
+  },
+  {
+    "title": "Miền Bắc Việt Nam bước vào thời kỳ quá độ lên CNXH",
+    "description": "Sau Hiệp định Geneva, miền Bắc Việt Nam bước vào thời kỳ quá độ lên chủ nghĩa xã hội, thực hiện khôi phục kinh tế, cải tạo xã hội chủ nghĩa, xây dựng cơ sở vật chất cho cuộc kháng chiến chống Mỹ.",
+    "time": [1955],
+    "emoji": "⚙️",
+    "priority": 78
+  },
+  {
+    "title": "Kế hoạch 5 năm của Trung Quốc hoàn thành thắng lợi",
+    "description": "Giai đoạn 1953-1957, nhờ nỗ lực lao động toàn dân và sự giúp đỡ của Liên Xô, kế hoạch 5 năm đầu tiên của Trung Quốc hoàn thành thắng lợi. Sản lượng công nghiệp tăng 140%, nông nghiệp tăng 25%.",
+    "time": [1957],
+    "emoji": "🏭",
+    "priority": 75
+  },
+  {
+    "title": "Phong trào Nhân dân thế giới ủng hộ Việt Nam",
+    "description": "Phong trào phản đối chiến tranh Việt Nam lan rộng khắp thế giới với hàng triệu người tham gia biểu tình tại Mỹ, châu Âu và nhiều quốc gia, tạo áp lực quốc tế buộc chính quyền Mỹ phải rút quân.",
+    "time": [1965],
+    "emoji": "✊",
+    "priority": 78
+  },
+  {
+    "title": "Miền Bắc Việt Nam chống chiến tranh phá hoại của Mỹ",
+    "description": "Từ ngày 5/8/1964 đến ngày 1/11/1968, quân và dân miền Bắc bắn rơi 3.243 máy bay, bắn cháy 143 tàu chiến của Mỹ. Ngày 1/11/1968, Mỹ phải tuyên bố ngừng ném bom bắn phá miền Bắc.",
+    "time": [1968],
+    "emoji": "✈️",
+    "priority": 85
+  },
+  {
+    "title": "Tổng tiến công và nổi dậy Tết Mậu Thân 1968",
+    "description": "Đêm Giao thừa Tết Mậu Thân (30-31/1/1968), Quân Giải phóng miền Nam Việt Nam đồng loạt tổng tiến công và nổi dậy trên toàn miền Nam, đánh dấu bước ngoặt chiến lược trong cuộc kháng chiến chống Mỹ.",
+    "time": [1968],
+    "emoji": "🎆",
+    "priority": 88
+  },
+  {
+    "title": "Mỹ đổ bộ lực lượng quân sự lớn vào Việt Nam",
+    "description": "Năm 1965, Mỹ chính thức đưa quân viễn chinh vào Việt Nam Nam với quy mô lên đến hơn 500.000 quân, tiến hành chiến tranh phá hoại bằng không quân, hải quân và lục quân trên toàn lãnh thổ Việt Nam.",
+    "time": [1965],
+    "emoji": "🦅",
+    "priority": 87
+  },
+  {
+    "title": "Chiến tranh Việt Nam leo thang nghiêm trọng",
+    "description": "Năm 1965, Mỹ tăng cường đánh phá miền Bắc Việt Nam và mở rộng chiến tranh ra Lào và Campuchia. Quân đội Mỹ đạt đỉnh 543.000 quân tại Việt Nam, trở thành cuộc chiến tranh cục bộ lớn nhất của Mỹ.",
+    "time": [1965],
+    "emoji": "💥",
+    "priority": 87
+  },
+  {
+    "title": "Cuộc đấu tranh bảo vệ biên giới phía Bắc của Trung Quốc",
+    "description": "Giai đoạn 1969-1970, Trung Quốc tập trung đối phó với các cuộc xung đột biên giới với Liên Xô tại đảo Đại Mỗ (1969) và đảo Trạm Giang (1969), đồng thời duy trì chiến lược ba thế giới.",
+    "time": [1969],
+    "emoji": "🗺️",
+    "priority": 72
+  },
+  {
+    "title": "Phong trào phản chiến lan rộng tại Mỹ",
+    "description": "Cuối những năm 1960, phong trào phản chiến tranh Việt Nam bùng nổ mạnh mẽ tại Mỹ và nhiều nước phương Tây. Hàng triệu người tham gia biểu tình, gây áp lực chính trị lớn buộc chính quyền Nixon phải rút quân.",
+    "time": [1969],
+    "emoji": "✊",
+    "priority": 80
+  },
+  {
+    "title": "Cách mạng Cuba thắng lợi",
+    "description": "Ngày 1/1/1959, cuộc cách mạng Cuba do Fidel Castro và Che Guevara lãnh đạo lật đổ chế độ độc tài Batista, mở ra kỷ nguyên cách mạng tại Mỹ Latinh và làm trầm trọng thêm cuộc đối đầu Mỹ-Liên Xô.",
+    "time": [1959],
+    "emoji": "🍋",
+    "priority": 85
+  },
+  {
+    "title": "Chiến tranh Đông Dương lần thứ nhất",
+    "description": "Cuộc chiến tranh Đông Dương lần thứ nhất (1946-1954) kết thúc với thắng lợi của Việt Minh tại Điện Biên Phủ, buộc Pháp ký Hiệp định Geneva và chấm dứt sự hiện diện thực dân Pháp tại Đông Dương.",
+    "time": [1954],
+    "emoji": "⚔️",
+    "priority": 88
+  },
+  {
+    "title": "Chiến tranh Đông Dương lần thứ hai bùng nổ",
+    "description": "Năm 1954, sau Hiệp định Geneva, Mỹ thay thế Pháp trở thành lực lượng xâm lược chính tại miền Nam Việt Nam, tiến hành Chiến tranh Đông Dương lần thứ hai với quy mô ngày càng lớn, đẩy Việt Nam vào cuộc chiến tranh kéo dài 21 năm.",
+    "time": [1955],
+    "emoji": "⚔️",
+    "priority": 88
+  },
+  {
+    "title": "Chiến tranh Triều Tiên bùng nổ",
+    "description": "Ngày 25/6/1950, Chiến tranh Triều Tiên bùng nổ khi quân đội Bắc Triều Tiên vượt vĩ tuyến 38 tấn công miền Nam. Mỹ can thiệp quân sự trực tiếp với sự hậu thuẫn của Liên Hợp Quốc, biến cuộc nội chiến thành cuộc chiến tranh ủy nhiệm.",
+    "time": [1950],
+    "emoji": "🇰🇵",
+    "priority": 85
+  },
+  {
+    "title": "Khủng hoảng tên lửa Cuba",
+    "description": "Tháng 10/1962, Liên Xô đặt tên lửa hạt nhân tại Cuba, dẫn đến khủng hoảng tên lửa Cuba kéo dài 13 ngày, đưa thế giới đứng trên bờ vực chiến tranh hạt nhân. Sau cùng, Liên Xô rút tên lửa, Mỹ cam kết không xâm lược Cuba.",
+    "time": [1962],
+    "emoji": "🚀",
+    "priority": 88
+  },
+  {
+    "title": "Mùa Xuân Prague 1968",
+    "description": "Mùa Xuân Prague (1968) là phong trào cải cách tại Tiệp Khắc nhằm dân chủ hóa đời sống chính trị, kinh tế. Liên Xô đàn áp bằng xe tăng vào tháng 8/1968, chấm dứt hy vọng cải cách và để lại vết thương sâu sắc trong phe xã hội chủ nghĩa.",
+    "time": [1968],
+    "emoji": "🌸",
+    "priority": 82
+  },
+  {
+    "title": "Tổng thống Mỹ Nixon thăm Trung Quốc",
+    "description": "Tháng 2/1972, Tổng thống Mỹ Richard Nixon bí mật thăm Trung Quốc, gặp Mao Trạch Đông, mở đường cho việc bình thường hóa quan hệ Mỹ-Trung và thay đổi cục diện Chiến tranh Lạnh.",
+    "time": [1972],
+    "emoji": "🤝",
+    "priority": 85
+  },
+  {
+    "title": "Chiến dịch Điện Biên Phủ trên không",
+    "description": "Từ ngày 18-29/12/1972, không quân Mỹ ném bom chiến lược hòng buộc Việt Nam khuất phục trong 'Điện Biên Phủ trên không'. Quân dân miền Bắc bắn rơi 81 máy bay, buộc Mỹ quay trở lại đàm phán Paris.",
+    "time": [1972],
+    "emoji": "💣",
+    "priority": 85
+  },
+  {
+    "title": "Hiệp định Paris được ký kết",
+    "description": "Ngày 27/1/1973, Hiệp định Paris về chấm dứt chiến tranh và lập lại hòa bình ở Việt Nam được ký kết. Mỹ rút toàn bộ quân viễn chính khỏi miền Nam Việt Nam. Tuy nhiên, chính quyền Sài Gòn không thực hiện đúng các điều khoản.",
+    "time": [1973],
+    "emoji": "🤝",
+    "priority": 88
+  },
+  {
+    "title": "Chiến dịch Phước Long — mở đầu cuộc tổng tiến công",
+    "description": "Từ tháng 12/1974 đến tháng 1/1975, Quân Giải phóng tiến hành Chiến dịch Phước Long, lần đầu tiên trong chiến tranh Việt Nam có một tỉnh được giải phóng hoàn toàn, chứng minh sức mạnh quân sự vượt trội của cách mạng.",
+    "time": [1975],
+    "emoji": "🎖️",
+    "priority": 82
+  },
+  {
+    "title": "Chiến dịch Tây Nguyên giải phóng miền Trung Tây Nguyên",
+    "description": "Tháng 3/1975, Chiến dịch Tây Nguyên phát triển thắng lợi rực rỡ, giải phóng Pleiku, Kontum, Đà Lạt. Lực lượng vũ trang nhân dân giành thắng lợi quyết định, tạo đà cho cuộc tổng tiến công mùa Xuân 1975.",
+    "time": [1975],
+    "emoji": "🏔️",
+    "priority": 83
+  },
+  {
+    "title": "Chiến dịch Huế - Đà Nẵng",
+    "description": "Tháng 3/1975, Chiến dịch Huế-Đà Nẵng giành thắng lợi hoàn toàn, giải phóng Đà Nẵng — thành phố lớn thứ hai của miền Nam, đánh dấu bước quyết định dẫn đến tổng tấn công và nổi dậy trên toàn miền Nam.",
+    "time": [1975],
+    "emoji": "🏙️",
+    "priority": 83
+  },
+  {
+    "title": "Chiến dịch Hồ Chí Minh — giải phóng Sài Gòn",
+    "description": "Ngày 26/4/1975, Chiến dịch Hồ Chí Minh được phát động. Ngày 30/4/1975, xe tăng Quân Giải phóng ào ạt tiến vào Dinh Độc Lập, chính quyền Sài Gòn đầu hàng vô điều kiện. Giặc Mỹ xâm lược hoàn toàn bị đánh bại, đất nước thống nhất.",
+    "time": [1975],
+    "emoji": "🏳️",
+    "priority": 90
+  },
+  {
+    "title": "Đại hội Đảng Cộng sản Quốc tế lần thứ IX",
+    "description": "Hội nghị các Đảng Cộng sản và Công nhân quốc tế lần thứ IX bàn về chiến lược cách mạng thế giới, trong bối cảnh phong trào cộng sản quốc tế đối mặt với những thách thức mới từ chiến tranh và khủng hoảng.",
+    "time": [1969],
+    "emoji": "🌐",
+    "priority": 72
+  },
+  {
+    "title": "Hòa bình, hợp tác và phát triển tại Lào và Campuchia",
+    "description": "Sau khi giành độc lập, Lào (1975) và Campuchia (1975) bước vào giai đoạn phát triển kinh tế trong điều kiện khó khăn. Campuchia rơi vào chế độ diệt chủng Pol Pot từ 1975-1979 gây thảm họa nhân đạo.",
+    "time": [1975],
+    "emoji": "🏝️",
+    "priority": 78
+  },
+  {
+    "title": "Các nước Đông Dương phát triển kinh tế sau chiến tranh",
+    "description": "Sau khi giành độc lập, các nước Đông Dương phát triển theo hướng kinh tế tập trung, đạt được một số thành tựu nhưng gặp nhiều khó khăn. Vào những năm 80-90, các nước từng bước chuyển đổi cơ chế quản lý kinh tế.",
+    "time": [1975],
+    "emoji": "🏭",
+    "priority": 72
+  },
+  {
+    "title": "Việt Nam thống nhất đất nước",
+    "description": "Sau Chiến dịch Hồ Chí Minh, Quốc hội khóa VI họp từ ngày 25/6 đến 3/7/1976 thống nhất nước Việt Nam, thành lập nước Cộng hòa Xã hội Chủ nghĩa Việt Nam, đánh dấu kỷ nguyên mới trong lịch sử dân tộc.",
+    "time": [1976],
+    "emoji": "🏳️",
+    "priority": 88
+  },
+  {
+    "title": "Việt Nam gia nhập Liên Hợp Quốc",
+    "description": "Ngày 20/9/1977, Việt Nam chính thức trở thành thành viên thứ 149 của Liên Hợp Quốc, đánh dấu sự công nhận quốc tế về chủ quyền và vị thế của nước Việt Nam thống nhất trên trường quốc tế.",
+    "time": [1977],
+    "emoji": "🌐",
+    "priority": 85
+  },
+  {
+    "title": "Xung đột biên giới Tây Nam",
+    "description": "Tháng 12/1978, quân đội Việt Nam tiến vào Campuchia, lật đổ chế độ diệt chủng Pol Pot (7/1/1979) nhằm bảo vệ biên giới Tây Nam và ngăn chặn các cuộc càn quét từ Campuchia vào Việt Nam.",
+    "time": [1979],
+    "emoji": "⚔️",
+    "priority": 83
+  },
+  {
+    "title": "Chiến tranh biên giới phía Bắc Việt-Trung",
+    "description": "Tháng 2-3/1979, xung đột vũ trang bùng nổ tại biên giới Việt-Trung sau khi Trung Quốc điều quân xâm lược. Quân dân Việt Nam kiên cường bảo vệ biên giới, đánh bại mọi âm mưu xâm lược của quân Trung Quốc.",
+    "time": [1979],
+    "emoji": "⚔️",
+    "priority": 83
+  },
+  {
+    "title": "Công đoàn Đoàn kết Ba Lan ra đời",
+    "description": "Năm 1980, Công đoàn Đoàn kết (Solidarność) được thành lập tại Ba Lan dưới sự lãnh đạo của Lech Wałęsa, nhanh chóng thu hút 10 triệu thành viên, trở thành phong trào công nhân lớn nhất trong khối xã hội chủ nghĩa.",
+    "time": [1980],
+    "emoji": "✊",
+    "priority": 83
+  },
+  {
+    "title": "Hội đồng tương trợ kinh tế (COMECON) giải thể",
+    "description": "Năm 1991, Hội đồng Tương trợ Kinh tế (COMECON) chính thức giải thể sau hơn 40 năm hoạt động, đánh dấu sự tan rã của hệ thống kinh tế kế hoạch hóa tập trung ở Đông Âu và sự kết thúc Chiến tranh Lạnh về kinh tế.",
+    "time": [1991],
+    "emoji": "🏛️",
+    "priority": 78
+  },
+  {
+    "title": "Đổi Mới — bước ngoặt lịch sử của Việt Nam",
+    "description": "Đại hội Đảng Cộng sản Việt Nam lần thứ VI (tháng 12/1986) mở đường cho công cuộc Đổi Mới, chuyển đổi từ cơ chế kế hoạch hóa tập trung sang nền kinh tế thị trường có sự quản lý của Nhà nước, mở cửa hội nhập quốc tế.",
+    "time": [1986],
+    "emoji": "🔄",
+    "priority": 90
+  },
+  {
+    "title": "Việt Nam kiềm chế lạm phát thành công",
+    "description": "Năm 1989, Việt Nam kiềm chế được đà lạm phát — chỉ số tăng giá bình quân hằng tháng giảm từ 20% (1986) xuống còn 4,1% (1990). Nước ta xuất khẩu 1,5 triệu tấn gạo, tiến gần đến cân bằng xuất-nhập khẩu.",
+    "time": [1989],
+    "emoji": "📉",
+    "priority": 80
+  },
+  {
+    "title": "Bức tường Berlin sụp đổ",
+    "description": "Ngày 9/11/1989, Bức tường Berlin — biểu tượng của sự chia cắt châu Âu thời Chiến tranh Lạnh — bị phá bỏ. Nhân dân Đông và Tây Berlin đoàn tụ trong vui mừng, mở đường cho sự thống nhất nước Đức.",
+    "time": [1989],
+    "emoji": "🧱",
+    "priority": 90
+  },
+  {
+    "title": "Nước Đức thống nhất",
+    "description": "Ngày 3/10/1990, hai miền Đông và Tây Đức chính thức thống nhất thành Cộng hòa Liên bang Đức, chấm dứt gần 45 năm chia cắt và đánh dấu sự kết thúc thời kỳ Chiến tranh Lạnh tại châu Âu.",
+    "time": [1990],
+    "emoji": "🇩🇪",
+    "priority": 88
+  },
+  {
+    "title": "Chiến tranh vùng Vịnh",
+    "description": "Tháng 1/1991, Liên quân do Mỹ dẫn đầu tiến hành Chiến dịch Bão táp sa mạc, giải phóng Kuwait khỏi sự chiếm đóng của Iraq sau cuộc xâm lược tháng 8/1990. Chiến tranh kết thúc nhanh chóng với thắng lợi áp đảo của liên quân.",
+    "time": [1991],
+    "emoji": "🏜️",
+    "priority": 82
+  },
+  {
+    "title": "Liên Xô tan rã",
+    "description": "Ngày 26/12/1991, Liên Xô chính thức tan rã thành 15 quốc gia độc lập, chấm dứt gần 70 năm tồn tại của nhà nước xã hội chủ nghĩa đầu tiên trên thế giới và mở ra kỷ nguyên đơn cực do Mỹ thống trị.",
+    "time": [1991],
+    "emoji": "🔴",
+    "priority": 90
+  },
+  {
+    "title": "Đại hội Đảng Cộng sản Việt Nam lần thứ VII",
+    "description": "Tháng 6/1991, Đại hội Đảng Cộng sản Việt Nam lần thứ VII tiếp tục đẩy mạnh công cuộc Đổi Mới, xác định đường lối đổi mới toàn diện về kinh tế, chính trị, văn hóa, hướng tới mục tiêu 'dân giàu, nước mạnh, dân chủ, công bằng'.",
+    "time": [1991],
+    "emoji": "🔴",
+    "priority": 85
+  },
+  {
+    "title": "Hiệp định Maastricht — nền tảng Liên minh châu Âu",
+    "description": "Năm 1992, Hiệp định Maastricht được ký kết tại Hà Lan, đặt nền móng cho sự ra đời của Liên minh châu Âu (EU) với đồng tiền chung Euro, thể chế chính trị-thể chế chung và chính sách đối ngoại chung.",
+    "time": [1992],
+    "emoji": "🇪🇺",
+    "priority": 82
+  },
+  {
+    "title": "Công nghệ sinh học cách mạng hóa nông nghiệp và y học",
+    "description": "Những năm 1990 chứng kiến cuộc cách mạng công nghệ sinh học với việc giải mã bản đồ genome người (2003), phát triển cây trồng biến đổi gen, thuốc sinh học và liệu pháp gen, mở ra kỷ nguyên y học cá nhân hóa.",
+    "time": [1990],
+    "emoji": "🧬",
+    "priority": 78
+  },
+  {
+    "title": "Cuộc cách mạng thông tin và Internet",
+    "description": "Những năm 1990 là thập niên của cuộc cách mạng thông tin toàn cầu. Internet mở rộng nhanh chóng từ vài triệu lên hàng trăm triệu người dùng, tạo nền tảng cho nền kinh tế số, thương mại điện tử và mạng xã hội.",
+    "time": [1990],
+    "emoji": "🌐",
+    "priority": 80
+  },
+  {
+    "title": "Toàn cầu hóa kinh tế thế giới",
+    "description": "Những năm 1990 chứng kiến quá trình toàn cầu hóa kinh tế mạnh mẽ với sự mở rộng của Tổ chức Thương mại Thế giới (WTO), thương mại tự do xuyên biên giới và dòng vốn quốc tế, thu hẹp khoảng cách giữa các nền kinh tế.",
+    "time": [1995],
+    "emoji": "🌍",
+    "priority": 78
+  },
+  {
+    "title": "Hiệp định NAFTA được ký kết",
+    "description": "Ngày 1/1/1994, Hiệp định Thương mại Tự do Bắc Mỹ (NAFTA) giữa Mỹ, Canada và Mexico có hiệu lực, tạo khu vực thương mại tự do lớn nhất thế giới, thúc đẩy thương mại và đầu tư xuyên biên giới tại Bắc Mỹ.",
+    "time": [1994],
+    "emoji": "🌎",
+    "priority": 78
+  },
+  {
+    "title": "Việt Nam gia nhập ASEAN",
+    "description": "Ngày 28/7/1995, Việt Nam chính thức gia nhập Hiệp hội các Quốc gia Đông Nam Á (ASEAN), đánh dấu bước ngoặt quan trọng trong chính sách đối ngoại, mở ra giai đoạn hội nhập khu vực và quốc tế toàn diện.",
+    "time": [1995],
+    "emoji": "🇻🇳",
+    "priority": 88
+  },
+  {
+    "title": "Việt Nam và Mỹ bình thường hóa quan hệ",
+    "description": "Ngày 19/7/1995, Tổng thống Mỹ Bill Clinton tuyên bố bình thường hóa quan hệ ngoại giao với Việt Nam, chấm dứt 20 năm cô lập và mở đường cho hợp tác kinh tế, văn hóa, giáo dục giữa hai nước.",
+    "time": [1995],
+    "emoji": "🤝",
+    "priority": 88
+  },
+  {
+    "title": "Khủng hoảng tài chính châu Á 1997-1998",
+    "description": "Năm 1997-1998, khủng hoảng tài chính nghiêm trọng bùng phát từ Thái Lan lan rộng khắp châu Á, tấn công vào Thái Lan, Indonesia, Hàn Quốc, Malaysia, Philippines. Nền kinh tế suy thoái, một số nước chính trị bất ổn. ASEAN chịu thiệt hại nặng nề.",
+    "time": [1997],
+    "emoji": "💹",
+    "priority": 83
+  },
+  {
+    "title": "Đông Timor giành lại độc lập",
+    "description": "Sau cuộc trưng cầu dân ý tách khỏi Indonesia (tháng 8/1999), Đông Timor tuyên bố độc lập và chính thức trở thành quốc gia độc lập vào ngày 20/5/2002, là quốc gia mới nhất thành lập tại Đông Nam Á trong thế kỷ 21.",
+    "time": [2002],
+    "emoji": "🏳️",
+    "priority": 80
+  },
+  {
+    "title": "Chiến tranh Kosovo và can thiệp nhân đạo",
+    "description": "Năm 1999, NATO can thiệp quân sự vào Kosovo chống lại Serbia không có sự chấp thuận của Liên Hợp Quốc, mở ra tiền lệ can thiệp nhân đạo quốc tế. Kosovo tuyên bố độc lập năm 2008, trở thành quốc gia mới nhất châu Âu.",
+    "time": [1999],
+    "emoji": "💔",
+    "priority": 82
+  },
+  {
+    "title": "Việt Nam gia nhập Tổ chức Thương mại Thế giới (WTO)",
+    "description": "Ngày 7/11/2006, Việt Nam chính thức trở thành thành viên thứ 150 của Tổ chức Thương mại Thế giới (WTO), đánh dấu bước tiến quan trọng trong hội nhập kinh tế quốc tế và mở rộng thị trường xuất khẩu.",
+    "time": [2006],
+    "emoji": "🌍",
+    "priority": 85
+  },
+  {
+    "title": "Việt Nam tái đắc cử vào Hội đồng Bảo an Liên Hợp Quốc",
+    "description": "Ngày 16/10/2007, Đại hội đồng Liên Hợp Quốc bầu Việt Nam làm Ủy viên không thường trực Hội đồng Bảo an nhiệm kỳ 2008-2009, thể hiện vị thế và uy tín quốc tế ngày càng cao của Việt Nam trên trường quốc tế.",
+    "time": [2008],
+    "emoji": "🕊️",
+    "priority": 85
+  }
+]

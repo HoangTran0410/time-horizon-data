@@ -1,0 +1,387 @@
+[
+  {
+    "title": "Hội Việt Nam Cách mạng Thanh niên thành lập",
+    "description": "Tổ chức tiền thân của Đảng Cộng sản Việt Nam, thành lập tại Pháp năm 1925, do Nguyễn Ái Quốc sáng lập và lãnh đạo.",
+    "time": 1925,
+    "emoji": "🏛️",
+    "priority": 85
+  },
+  {
+    "title": "Việt Nam Quốc dân Đảng thành lập",
+    "description": "Đảng chính trị quốc gia đầu tiên của Việt Nam, thành lập cuối năm 1925, đặt nền móng cho phong trào chính trị hiện đại.",
+    "time": 1925,
+    "emoji": "🏛️",
+    "priority": 82
+  },
+  {
+    "title": "Tân Việt Cách mạng Đảng thành lập",
+    "description": "Tổ chức chính trị yêu nước được thành lập cuối năm 1927, góp phần đào tạo cán bộ cách mạng.",
+    "time": 1927,
+    "emoji": "🏛️",
+    "priority": 80
+  },
+  {
+    "title": "Đông Dương Cộng sản Đảng thành lập",
+    "description": "Đảng cộng sản đầu tiên tại Việt Nam, thành lập tháng 6/1929, mở đầu cho sự phát triển của chủ nghĩa Mác tại Đông Dương.",
+    "time": 1929,
+    "emoji": "🏛️",
+    "priority": 87
+  },
+  {
+    "title": "An Nam Cộng sản Đảng thành lập",
+    "description": "Tổ chức cộng sản thành lập tháng 8/1929 tại Nam Kỳ, góp phần vào quá trình thống nhất các tổ chức cộng sản.",
+    "time": 1929,
+    "emoji": "🏛️",
+    "priority": 84
+  },
+  {
+    "title": "Đông Dương Cộng sản Liên đoàn thành lập",
+    "description": "Tổ chức cộng sản thành lập tháng 9/1929 tại Bắc Kỳ, cùng thời điểm với các tổ chức cộng sản khác tại Việt Nam.",
+    "time": 1929,
+    "emoji": "🏛️",
+    "priority": 84
+  },
+  {
+    "title": "Đảng Cộng sản Việt Nam thành lập",
+    "description": "Đảng Cộng sản Việt Nam chính thức ra đời ngày 3/2/1930 tại Hương Cảng, thống nhất các tổ chức cộng sản Đông Dương, mở ra kỷ nguyên mới cho cách mạng Việt Nam.",
+    "time": 1930,
+    "emoji": "🔴",
+    "priority": 90
+  },
+  {
+    "title": "Khởi nghĩa Yên Bái",
+    "description": "Cuộc khởi nghĩa vũ trang đầu tiên do Việt Nam Quốc dân Đảng tổ chức tại Yên Bái ngày 9/2/1930, đánh dấu bước ngoặt trong đấu tranh chính trị.",
+    "time": 1930,
+    "emoji": "⚔️",
+    "priority": 86
+  },
+  {
+    "title": "Sô viết Nghệ-Tĩnh",
+    "description": "Chính quyền cách mạng được nhân dân thành lập cuối năm 1930 tại vùng Nghệ An - Tĩnh, hình thức chính quyền công nông đầu tiên ở Việt Nam.",
+    "time": 1930,
+    "emoji": "🏛️",
+    "priority": 87
+  },
+  {
+    "title": "Đại hội lần thứ nhất của Đảng Cộng sản Việt Nam",
+    "description": "Đại hội đại biểu toàn quốc lần I của Đảng họp tháng 3/1935, xác định nhiệm vụ và đường lối cách mạng trong giai đoạn mới.",
+    "time": 1935,
+    "emoji": "🗳️",
+    "priority": 85
+  },
+  {
+    "title": "Nguyễn Ái Quốc về nước",
+    "description": "Nguyễn Ái Quốc (Hồ Chí Minh) trở về Tổ quốc tháng 5/1941 sau 30 năm hoạt động ở nước ngoài, trực tiếp lãnh đạo cách mạng Việt Nam.",
+    "time": 1941,
+    "emoji": "🇻🇳",
+    "priority": 88
+  },
+  {
+    "title": "Mặt trận Việt Minh ra đời",
+    "description": "Mặt trận Việt Minh được thành lập tháng 5/1941 do Hồ Chí Minh sáng lập, tập hợp lực lượng yêu nước để đấu tranh chống Pháp và Nhật.",
+    "time": 1941,
+    "emoji": "🟥",
+    "priority": 88
+  },
+  {
+    "title": "Đội Việt Nam Tuyên truyền Giải phóng quân ra đời",
+    "description": "Tiền thân của Quân đội Nhân dân Việt Nam, thành lập ngày 22/12/1944 tại Cao Bằng, do Hồ Chí Minh sáng lập và lãnh đạo.",
+    "time": 1944,
+    "emoji": "⚔️",
+    "priority": 87
+  },
+  {
+    "title": "Nhật đảo chính Pháp tại Đông Dương",
+    "description": "Nhật lật đổ chính quyền Pháp tại Đông Dương ngày 9/3/1945, mở ra thời cơ ngàn vàng cho cách mạng Việt Nam.",
+    "time": 1945,
+    "emoji": "🇯🇵",
+    "priority": 85
+  },
+  {
+    "title": "Cách mạng tháng Tám thành công",
+    "description": "Tổng khởi nghĩa ngày 14-15/8/1945 do Hồ Chí Minh lãnh đạo, nhân dân Việt Nam nổi dậy giành chính quyền trên phạm vi toàn quốc.",
+    "time": 1945,
+    "emoji": "🔴",
+    "priority": 90
+  },
+  {
+    "title": "Nước Việt Nam Dân chủ Cộng hòa thành lập",
+    "description": "Nước Việt Nam Dân chủ Cộng hòa chính thức ra đời ngày 2/9/1945 tại Hà Nội, đánh dấu kỷ nguyên độc lập dân tộc và dân chủ của Việt Nam.",
+    "time": 1945,
+    "emoji": "🇻🇳",
+    "priority": 90
+  },
+  {
+    "title": "Hiệp định Sơ bộ Pháp-Việt ký kết",
+    "description": "Hiệp định Sơ bộ được ký ngày 6/3/1946 giữa Chính phủ Việt Nam Dân chủ Cộng hòa và Pháp, mở đường cho các cuộc đàm phán tiếp theo.",
+    "time": 1946,
+    "emoji": "📜",
+    "priority": 87
+  },
+  {
+    "title": "Quốc hội khóa I họp phiên đầu tiên",
+    "description": "Quốc hội khóa I của nước Việt Nam Dân chủ Cộng hòa họp phiên đầu tiên ngày 2/3/1946 tại Hà Nội.",
+    "time": 1946,
+    "emoji": "🏛️",
+    "priority": 80
+  },
+  {
+    "title": "Tạm ước Việt-Pháp ký kết",
+    "description": "Tạm ước Việt-Pháp được ký ngày 14/9/1946, tiếp nối Hiệp định Sơ bộ, điều chỉnh quan hệ giữa Việt Nam và Pháp.",
+    "time": 1946,
+    "emoji": "📜",
+    "priority": 85
+  },
+  {
+    "title": "Quân Pháp đánh úp Hà Nội, chiến tranh bùng cháy",
+    "description": "Quân Pháp nổ súng tấn công Hà Nội đêm 19/12/1946, mở đầu cuộc kháng chiến toàn quốc chống thực dân Pháp.",
+    "time": 1946,
+    "emoji": "💥",
+    "priority": 88
+  },
+  {
+    "title": "Chiến dịch Việt Bắc thu-đông",
+    "description": "Chiến dịch quân sự lớn đầu tiên của Việt Nam trong cuộc kháng chiến chống Pháp, diễn ra từ tháng 10/1947, buộc Pháp phải rút lui.",
+    "time": 1947,
+    "emoji": "⚔️",
+    "priority": 85
+  },
+  {
+    "title": "Trung Quốc và Liên Xô công nhận Việt Nam Dân chủ Cộng hòa",
+    "description": "Trung Quốc công nhận Việt Nam Dân chủ Cộng hòa năm 1949, Liên Xô công nhận năm 1950, mở ra giai đoạn quốc tế hóa cách mạng Việt Nam.",
+    "time": 1949,
+    "emoji": "🌍",
+    "priority": 84
+  },
+  {
+    "title": "Chiến dịch Biên giới thu-đông",
+    "description": "Chiến dịch quân sự quy mô lớn từ 16/9 đến 22/10/1950, mở màn cho giai đoạn tiến công của quân đội Việt Nam, buộc Pháp chuyển sang phòng ngự.",
+    "time": 1950,
+    "emoji": "⚔️",
+    "priority": 87
+  },
+  {
+    "title": "Đại hội II Đảng Cộng sản Đông Dương / Đảng Lao động Việt Nam",
+    "description": "Đại hội II họp tháng 2/1951, đổi tên Đảng Cộng sản Đông Dương thành Đảng Lao động Việt Nam, xác định nhiệm vụ kháng chiến kiến quốc.",
+    "time": 1951,
+    "emoji": "🗳️",
+    "priority": 86
+  },
+  {
+    "title": "Mặt trận Liên Việt thành lập",
+    "description": "Mặt trận Liên Việt được thành lập ngày 3/3/1951, tập hợp rộng rãi các lực lượng yêu nước trong cuộc kháng chiến chống Pháp.",
+    "time": 1951,
+    "emoji": "🟥",
+    "priority": 83
+  },
+  {
+    "title": "Liên minh Việt-Miên-Lào thành lập",
+    "description": "Liên minh quân sự ba nước Việt Nam-Miên-Lào được thành lập ngày 11/3/1951, củng cố sức mạnh đấu tranh chung của các dân tộc Đông Dương.",
+    "time": 1951,
+    "emoji": "🤝",
+    "priority": 83
+  },
+  {
+    "title": "Chiến thắng Điện Biên Phủ",
+    "description": "Quân đội Việt Nam đánh bại hoàn toàn tập đoàn cứ điểm Điện Biên Phủ của Pháp ngày 7/5/1954, kết thúc 9 năm kháng chiến chống Pháp.",
+    "time": 1954,
+    "emoji": "🏆",
+    "priority": 90
+  },
+  {
+    "title": "Hiệp định Genève ký kết",
+    "description": "Hiệp định Genève về lập lại hòa bình ở Đông Dương được ký ngày 21/7/1954, công nhận chủ quyền của Việt Nam, Lào, Campuchia; Pháp rút khỏi miền Bắc.",
+    "time": 1954,
+    "emoji": "📜",
+    "priority": 90
+  },
+  {
+    "title": "Pháp rút khỏi Hà Nội",
+    "description": "Quân đội Pháp chính thức rút khỏi Hà Nội ngày 10/10/1954, bàn giao thành phố cho chính quyền Việt Nam Dân chủ Cộng hòa.",
+    "time": 1954,
+    "emoji": "🏙️",
+    "priority": 80
+  },
+  {
+    "title": "Mỹ lập Ngô Đình Diệm ở miền Nam",
+    "description": "Mỹ hậu thuẫn đưa Ngô Đình Diệm về miền Nam Việt Nam năm 1955, thiết lập chính quyền tay sai chống lại Hiệp định Genève.",
+    "time": 1955,
+    "emoji": "🇺🇸",
+    "priority": 84
+  },
+  {
+    "title": "Tổng tuyển cử tại miền Bắc",
+    "description": "Tổng tuyển cử bầu Quốc hội khóa I được tổ chức ngày 6/1/1956 tại miền Bắc Việt Nam theo Hiệp định Genève.",
+    "time": 1956,
+    "emoji": "🗳️",
+    "priority": 80
+  },
+  {
+    "title": "Cải cách ruộng đất hoàn thành tại miền Bắc",
+    "description": "Chính sách cải cách ruộng đất được hoàn thành năm 1956, phân phối lại đất đai cho nông dân, xóa bỏ tàn tích phong kiến trong nông nghiệp.",
+    "time": 1956,
+    "emoji": "🌾",
+    "priority": 82
+  },
+  {
+    "title": "Phong trào Đồng khởi nổ ra tại miền Nam",
+    "description": "Phong trào Đồng khởi bùng nổ đầu năm 1959 tại Bình Định, mở đầu cho cuộc đấu tranh vũ trang quần chúng tại miền Nam Việt Nam.",
+    "time": 1959,
+    "emoji": "⚔️",
+    "priority": 87
+  },
+  {
+    "title": "Đường Hồ Chí Minh khai thông",
+    "description": "Tuyến đường vận tải chiến lược nối miền Bắc với miền Nam qua Lào được khai thông tháng 5/1959, đảm bảo hậu cần cho chiến trường miền Nam.",
+    "time": 1959,
+    "emoji": "🛤️",
+    "priority": 83
+  },
+  {
+    "title": "Đồng khởi Bến Tre",
+    "description": "Phong trào Đồng khởi bùng nổ tại Bến Tre ngày 17/1/1960, đánh dấu bước ngoặt trong cuộc đấu tranh vũ trang của quân dân miền Nam.",
+    "time": 1960,
+    "emoji": "⚔️",
+    "priority": 86
+  },
+  {
+    "title": "Mặt trận Dân tộc Giải phóng miền Nam Việt Nam ra đời",
+    "description": "Mặt trận Dân tộc Giải phóng miền Nam Việt Nam chính thức thành lập ngày 20/12/1960, tập hợp các lực lượng yêu nước tại miền Nam.",
+    "time": 1960,
+    "emoji": "🟥",
+    "priority": 88
+  },
+  {
+    "title": "Đại hội III Đảng Lao động Việt Nam",
+    "description": "Đại hội đại biểu toàn quốc lần thứ III của Đảng họp tháng 9/1960, xác định đường lối đưa sự nghiệp xây dựng chủ nghĩa xã hội và chống Mỹ.",
+    "time": 1960,
+    "emoji": "🗳️",
+    "priority": 84
+  },
+  {
+    "title": "Trận Ấp Bắc",
+    "description": "Trận đánh quy mô lớn đầu tiên giữa quân Giải phóng miền Nam và quân đội Sài Gòn ngày 2/11/1963, mở đầu chiến lược đánh bại chiến thuật Ấp chiến lược.",
+    "time": 1963,
+    "emoji": "⚔️",
+    "priority": 85
+  },
+  {
+    "title": "Phật tử Huế biểu tình, Thích Quảng Đức tự thiêu",
+    "description": "Nhà sư Thích Quảng Đức tự thiêu tại Huế ngày 11/6/1963 để phản đối chính quyền Ngô Đình Diệm đàn áp Phật giáo, gây chấn động thế giới.",
+    "time": 1963,
+    "emoji": "☸️",
+    "priority": 85
+  },
+  {
+    "title": "Đảo chính lật đổ Ngô Đình Diệm",
+    "description": "Chính quyền Ngô Đình Diệm bị đảo chính lật đổ ngày 1/11/1963, kết thúc giai đoạn đàn áp Phật giáo và mở ra biến động chính trị tại miền Nam.",
+    "time": 1963,
+    "emoji": "🔄",
+    "priority": 84
+  },
+  {
+    "title": "Sự kiện Vịnh Bắc Bộ",
+    "description": "Hải quân Mỹ tuyên bố bị tấn công tại Vịnh Bắc Bộ ngày 2/8/1964, dùng làm cớ để Mỹ leo thang chiến tranh chống miền Bắc Việt Nam.",
+    "time": 1964,
+    "emoji": "💥",
+    "priority": 85
+  },
+  {
+    "title": "Mỹ ném bom miền Bắc Việt Nam lần đầu tiên",
+    "description": "Mỹ chính thức ném bom miền Bắc Việt Nam lần đầu ngày 7/2/1965, đánh dấu bước leo thang chiến tranh của Mỹ tại Việt Nam.",
+    "time": 1965,
+    "emoji": "💥",
+    "priority": 87
+  },
+  {
+    "title": "Chiến tranh cục bộ bắt đầu",
+    "description": "Mỹ chính thức phát động Chiến tranh cục bộ tại miền Nam Việt Nam năm 1965, đưa quân viễn chinh Mỹ và đồng minh trực tiếp tham chiến.",
+    "time": 1965,
+    "emoji": "⚔️",
+    "priority": 87
+  },
+  {
+    "title": "Trận Vạn Tường",
+    "description": "Trận đánh anh dũng của Quân đội Nhân dân Việt Nam chống lại quân Mỹ tại Vạn Tường (Quảng Ngãi) tháng 8/1965, một trong những trận đánh huyền thoại.",
+    "time": 1965,
+    "emoji": "⚔️",
+    "priority": 84
+  },
+  {
+    "title": "Chiến dịch Tây Nguyên giải phóng",
+    "description": "Chiến dịch quân sự giải phóng Tây Nguyên từ 10-24/3/1975, đập tan phòng tuyến cuối cùng của ngụy quân tại miền Trung Việt Nam.",
+    "time": 1975,
+    "emoji": "🏔️",
+    "priority": 88
+  },
+  {
+    "title": "Chiến dịch Huế-Đà Nẵng",
+    "description": "Chiến dịch giải phóng Huế và Đà Nẵng từ 21-29/3/1975, giải phóng toàn bộ miền Trung và miền Nam Việt Nam, buộc ngụy quân tan rã.",
+    "time": 1975,
+    "emoji": "⚔️",
+    "priority": 88
+  },
+  {
+    "title": "Chiến dịch Hồ Chí Minh",
+    "description": "Tổng tiến công quy mô lớn nhất của Quân đội Nhân dân Việt Nam từ 26-30/4/1975, giải phóng Sài Gòn, kết thúc hoàn toàn chiến tranh Việt Nam.",
+    "time": 1975,
+    "emoji": "🏆",
+    "priority": 90
+  },
+  {
+    "title": "Sài Gòn giải phóng, chiến tranh kết thúc",
+    "description": "Ngày 30/4/1975, Sài Gòn được giải phóng hoàn toàn, kết thúc hơn 100 năm đô hộ và gần 30 năm chiến tranh, thống nhất đất nước.",
+    "time": 1975,
+    "emoji": "🇻🇳",
+    "priority": 90
+  },
+  {
+    "title": "Tổng tuyển cử trên toàn quốc",
+    "description": "Tổng tuyển cử bầu Quốc hội khóa VI được tổ chức ngày 25/4/1976 trên toàn quốc, sau khi đất nước thống nhất.",
+    "time": 1976,
+    "emoji": "🗳️",
+    "priority": 83
+  },
+  {
+    "title": "Quốc hội khóa VI họp, đổi tên nước",
+    "description": "Quốc hội khóa VI họp từ 24/6 đến 3/7/1976, quyết định đổi tên nước thành Cộng hòa xã hội chủ nghĩa Việt Nam và thành lập TP. Hồ Chí Minh.",
+    "time": 1976,
+    "emoji": "🏛️",
+    "priority": 84
+  },
+  {
+    "title": "Việt Nam gia nhập Liên Hợp Quốc",
+    "description": "Nước Việt Nam thống nhất chính thức gia nhập Liên Hợp Quốc ngày 20/9/1977, khẳng định vị thế quốc tế của Việt Nam.",
+    "time": 1977,
+    "emoji": "🌍",
+    "priority": 82
+  },
+  {
+    "title": "Phản công Pôn Pốt xâm lược biên giới Tây-Nam",
+    "description": "Quân đội Việt Nam phản công đẩy lùi cuộc xâm lược của Khmer Đỏ tại biên giới Tây-Nam tháng 12/1978, bảo vệ chủ quyền quốc gia.",
+    "time": 1978,
+    "emoji": "⚔️",
+    "priority": 87
+  },
+  {
+    "title": "Chiến tranh biên giới phía Bắc với Trung Quốc",
+    "description": "Xung đột quân sự tại biên giới phía Bắc Việt-Trung từ 17/2 đến 18/3/1979, để lại hậu quả nghiêm trọng cho quan hệ hai nước.",
+    "time": 1979,
+    "emoji": "⚔️",
+    "priority": 87
+  },
+  {
+    "title": "Đổi mới - Đại hội VI Đảng Cộng sản Việt Nam",
+    "description": "Đại hội đại biểu toàn quốc lần thứ VI của Đảng họp tháng 12/1986, mở đầu công cuộc Đổi mới kinh tế, chính trị, xã hội tại Việt Nam.",
+    "time": 1986,
+    "emoji": "🔄",
+    "priority": 89
+  },
+  {
+    "title": "Việt Nam gia nhập ASEAN",
+    "description": "Việt Nam chính thức gia nhập ASEAN ngày 28/7/1995, đánh dấu bước ngoặt trong quan hệ quốc tế và hội nhập khu vực của Việt Nam.",
+    "time": 1995,
+    "emoji": "🌏",
+    "priority": 86
+  }
+]

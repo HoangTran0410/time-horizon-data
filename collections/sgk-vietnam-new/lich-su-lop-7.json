@@ -1,0 +1,402 @@
+[
+  {
+    "title": "Đế chế Tây La Mã sụp đổ, chế độ phong kiến hình thành ở Tây Âu",
+    "description": "Năm 476, đế chế Tây La Mã chính thức sụp đổ do sức tấn công liên tiếp của các bộ lạc Germanic. Sự kiện này đánh dấu sự kết thúc của thời kỳ Cổ đại và mở ra kỷ nguyên phong kiến tại Tây Âu.",
+    "time": [476],
+    "emoji": "🏛️",
+    "color": null,
+    "priority": 88
+  },
+  {
+    "title": "Vương triều Gupta - Thời kỳ hoàng kim của Ấn Độ cổ đại",
+    "description": "Vương triều Gupta trị vì Ấn Độ từ khoảng năm 320 đến khoảng năm 550, được coi là thời kỳ hoàng kim của nền văn minh Ấn Độ cổ đại với những thành tựu rực rỡ về văn học, nghệ thuật, khoa học và triết học.",
+    "time": [320],
+    "emoji": "🏛️",
+    "color": null,
+    "priority": 82
+  },
+  {
+    "title": "Vương triều Tống được thành lập ở Trung Quốc",
+    "description": "Năm 960, Triệu Khuông Dẫn lập ra vương triều Tống, mở ra một trong những thời kỳ thịnh vượng nhất của Trung Quốc phong kiến với sự phát triển mạnh mẽ về kinh tế, văn hóa và công nghệ.",
+    "time": [960],
+    "emoji": "🏯",
+    "color": null,
+    "priority": 82
+  },
+  {
+    "title": "Ngô Quyền giành độc lập, kết thúc hơn 1000 năm Bắc thuộc",
+    "description": "Năm 938, Ngô Quyền đánh bại quân Nam Hán tại trận Bạch Đằng, chấm dứt hơn một nghìn năm Bắc thuộc và mở ra thời kỳ độc lập cho Việt Nam.",
+    "time": [938],
+    "emoji": "🗡️",
+    "color": null,
+    "priority": 90
+  },
+  {
+    "title": "Đinh Tiên Hoàng thống nhất và xưng đế ở Việt Nam",
+    "description": "Năm 968, Đinh Tiên Hoàng thống nhất các sứ quân, lên ngôi hoàng đế và đặt tên nước là Đại Cồ Việt. Ông cho xây dựng kinh đô ở Hoa Lư, mở ra thời kỳ phong kiến trung ương tập quyền đầu tiên của Việt Nam.",
+    "time": [968],
+    "emoji": "👑",
+    "color": null,
+    "priority": 88
+  },
+  {
+    "title": "Lê Hoàn lên ngôi, mở ra nhà Tiền Lê",
+    "description": "Năm 980, Lê Hoàn lên ngôi sau khi Đinh Tiên Hoàng qua đời, mở ra nhà Tiền Lê và tiếp tục công cuộc xây dựng nền phong kiến trung ương tập quyền ở Đại Cồ Việt.",
+    "time": [980],
+    "emoji": "👑",
+    "color": null,
+    "priority": 82
+  },
+  {
+    "title": "Nhà Tống xâm lược Đại Việt lần đầu tiên",
+    "description": "Năm 981, nhà Tống (Trung Quốc) tiến hành cuộc xâm lược Đại Việt lần đầu tiên nhưng bị quân dân Đại Việt dưới thời Lê Hoàn đánh bại, bảo vệ được nền độc lập.",
+    "time": [981],
+    "emoji": "⚔️",
+    "color": null,
+    "priority": 88
+  },
+  {
+    "title": "Lý Công Uẩn dời đô về Thăng Long, mở ra nhà Lý",
+    "description": "Năm 1010, Lý Công Uẩn dời đô từ Hoa Lư về Thăng Long (Hà Nội ngày nay), mở ra nhà Lý và xây dựng Thăng Long thành kinh đô rộng lớn, đánh dấu bước phát triển quan trọng của Việt Nam phong kiến.",
+    "time": [1010],
+    "emoji": "🏯",
+    "color": null,
+    "priority": 88
+  },
+  {
+    "title": "Chăm Pa lập Chiêm Thành (Panduranga)",
+    "description": "Khoảng năm 1050, Chăm Pa chính thức lập ra vương quốc Chiêm Thành (Panduranga), trở thành một trong những vương triều quan trọng ở vùng Đông Nam Á thời phong kiến.",
+    "time": [1050],
+    "emoji": "🕌",
+    "color": null,
+    "priority": 80
+  },
+  {
+    "title": "Sáng chế thuốc súng và ứng dụng quân sự ở Trung Quốc",
+    "description": "Khoảng thế kỷ XI, thuốc súng được phát minh và ứng dụng vào quân sự ở Trung Quốc, tạo ra cuộc cách mạng về công nghệ chiến tranh và ảnh hưởng sâu sắc đến lịch sử quân sự thế giới.",
+    "time": [1050],
+    "emoji": "💥",
+    "color": null,
+    "priority": 85
+  },
+  {
+    "title": "Nguyễn Nghiễm tiến vào Tống, mở đầu cuộc kháng chiến chống xâm lược",
+    "description": "Năm 1075, Nguyễn Nghiễm và Lý Thường Kiệt tiến quân vào lãnh thổ nhà Tống, mở đầu cuộc kháng chiến chống xâm lược quy mô lớn, thể hiện tinh thần quyết đấu bảo vệ độc lập dân tộc.",
+    "time": [1075],
+    "emoji": "⚔️",
+    "color": null,
+    "priority": 88
+  },
+  {
+    "title": "Lý Thường Kiệt kháng chiến chống quân Tống xâm lược, đại phá ở Như Nguyệt",
+    "description": "Năm 1077, Lý Thường Kiệt chỉ huy quân đội Đại Việt kháng chiến chống quân Tống xâm lược, lập chiến công đại phá quân giặc tại bến Như Nguyệt (sông Hồng), bảo vệ nền độc lập dân tộc.",
+    "time": [1077],
+    "emoji": "⚔️",
+    "color": null,
+    "priority": 88
+  },
+  {
+    "title": "Khmer thành lập vương triều Angkor",
+    "description": "Năm 802, vương triều Khmer thành lập và phát triển kinh đô Angkor, trở thành một trong những đế chế hùng mạnh nhất Đông Nam Á với di sản văn hóa đồ sộ và nghệ thuật độc đáo.",
+    "time": [802],
+    "emoji": "🛕",
+    "color": null,
+    "priority": 85
+  },
+  {
+    "title": "Khmer xây dựng đền Angkor Wat",
+    "description": "Khoảng năm 1150, đền Angkor Wat được xây dựng dưới thời vua Suryavarman II, trở thành công trình tôn giáo lớn nhất thế giới thời bấy giờ và là biểu tượng văn hóa vĩ đại của vương triều Khmer.",
+    "time": [1150],
+    "emoji": "🛕",
+    "color": null,
+    "priority": 83
+  },
+  {
+    "title": "Khmer thất thủ, kinh đô Angkor bị bỏ hoang",
+    "description": "Năm 1432, kinh đô Angkor của vương triều Khmer bị bỏ hoang sau khi bị quân Ayutthaya (Xiêm La) tấn công và thất thủ, đánh dấu sự suy tàn của đế chế Khmer và sự chuyển dịch trung tâm quyền lực.",
+    "time": [1432],
+    "emoji": "🏚️",
+    "color": null,
+    "priority": 80
+  },
+  {
+    "title": "Vương triều Delhi Sultanate thành lập ở Ấn Độ",
+    "description": "Năm 1206, vương triều Delhi Sultanate được thành lập ở Ấn Độ dưới sự cai trị của các triều đại Hồi giáo, mở ra thời kỳ Delhi Sultanate kéo dài hơn 300 năm với những ảnh hưởng sâu sắc đến văn hóa Ấn Độ.",
+    "time": [1206],
+    "emoji": "🕌",
+    "color": null,
+    "priority": 80
+  },
+  {
+    "title": "Trần Thái Tông lên ngôi, đặt nền móng nhà Trần",
+    "description": "Năm 1226, Trần Thái Tông lên ngôi hoàng đế, đặt nền móng cho vương triều Trần - một trong những triều đại hùng mạnh nhất của Việt Nam, đánh dấu bước ngoặt quan trọng trong lịch sử dân tộc.",
+    "time": [1226],
+    "emoji": "👑",
+    "color": null,
+    "priority": 88
+  },
+  {
+    "title": "Chiến tranh Nguyên - Đại Việt lần thứ nhất",
+    "description": "Năm 1258, quân Mông Cổ (nhà Nguyên) lần đầu tiên xâm lược Đại Việt. Quân dân Đại Việt dưới sự chỉ huy của vua Trần Thái Tông đã anh dũng chống trả, buộc quân Nguyên phải rút lui.",
+    "time": [1258],
+    "emoji": "⚔️",
+    "color": null,
+    "priority": 89
+  },
+  {
+    "title": "Mông Cổ xâm lược và thống trị Trung Quốc, lập nhà Nguyên",
+    "description": "Năm 1271, Mông Cổ chính thức lập ra nhà Nguyên tại Trung Quốc dưới thời Hốt Tất Liệt, mở ra thời kỳ thống trị của người Mông Cổ kéo dài gần một thế kỷ tại Trung Quốc.",
+    "time": [1271],
+    "emoji": "🏯",
+    "color": null,
+    "priority": 85
+  },
+  {
+    "title": "Đại Việt sử ký toàn thư hoàn thành",
+    "description": "Năm 1272, Đại Việt sử ký toàn thư - bộ quốc sử quan trọng nhất của Việt Nam - được biên soạn dưới thời nhà Trần, ghi chép có hệ thống lịch sử Việt Nam từ thời Hùng Vương đến thời Trần.",
+    "time": [1272],
+    "emoji": "📜",
+    "color": null,
+    "priority": 82
+  },
+  {
+    "title": "Chiến tranh Nguyên - Đại Việt lần thứ hai",
+    "description": "Năm 1285, quân nhà Nguyên tiến hành cuộc xâm lược Đại Việt lần thứ hai dưới sự chỉ huy của Thoát Hoan. Quân dân Đại Việt dưới sự lãnh đạo của vua Trần Nhân Tông và tướng Trần Hưng Đạo đã chiến thắng.",
+    "time": [1285],
+    "emoji": "⚔️",
+    "color": null,
+    "priority": 89
+  },
+  {
+    "title": "Chiến tranh Nguyên - Đại Việt lần thứ ba và Trận Bạch Đằng",
+    "description": "Năm 1288, quân nhà Nguyên xâm lược Đại Việt lần thứ ba với quy mô lớn nhất. Trận Bạch Đằng trở thành chiến thắng vĩ đại của quân dân Đại Việt, tiêu diệt và bắt giữ nhiều tướng lĩnh Nguyên, bảo vệ nền độc lập dân tộc.",
+    "time": [1288],
+    "emoji": "⚔️",
+    "color": null,
+    "priority": 90
+  },
+  {
+    "title": "Vương triều Ayutthaya thành lập ở Xiêm La",
+    "description": "Năm 1350, vương triều Ayutthaya được thành lập ở Xiêm La (Thái Lan ngày nay), trở thành một trong những đế chế hùng mạnh và lâu đời nhất Đông Nam Á, tồn tại hơn 400 năm.",
+    "time": [1350],
+    "emoji": "🏛️",
+    "color": null,
+    "priority": 82
+  },
+  {
+    "title": "Lan Xang (Lào) thành lập",
+    "description": "Năm 1353, vương triều Lan Xang được thành lập tại vùng đất Lào ngày nay dưới thời vua Fa Ngum, mở ra thời kỳ phong kiến tập quyền đầu tiên của người Lào và phát triển thành một trong những vương quốc lớn ở Đông Nam Á.",
+    "time": [1353],
+    "emoji": "🏛️",
+    "color": null,
+    "priority": 82
+  },
+  {
+    "title": "Vương triều Minh thay thế nhà Nguyên ở Trung Quốc",
+    "description": "Năm 1368, vương triều Minh thay thế nhà Nguyên tại Trung Quốc sau khi đánh bại quân Mông Cổ, mở ra thời kỳ phong kiến Trung Quốc phát triển mạnh mẽ với những thành tựu nổi bật về kinh tế, văn hóa và ngoại giao.",
+    "time": [1368],
+    "emoji": "🐉",
+    "color": null,
+    "priority": 82
+  },
+  {
+    "title": "Nhà Hồ ra đời, phát hành tiền giấy và chế tạo pháo",
+    "description": "Năm 1400, Hồ Quý Ly lập ra nhà Hồ và tiến hành nhiều cải cách tiến bộ bao gồm phát hành tiền giấy đầu tiên ở Đông Nam Á và chế tạo pháo, thể hiện tầm nhìn hiện đại hóa đất nước.",
+    "time": [1400],
+    "emoji": "💰",
+    "color": null,
+    "priority": 85
+  },
+  {
+    "title": "Vạn Lý Trường Thành được tu sửa hoàn chỉnh dưới nhà Minh",
+    "description": "Dưới thời nhà Minh, Vạn Lý Trường Thành được tu sửa hoàn chỉnh và trở thành công trình kiến trúc vĩ đại nhất của Trung Quốc cổ đại, symbol của sức mạnh quân sự và ý chí dân tộc.",
+    "time": [1400],
+    "emoji": "🏯",
+    "color": null,
+    "priority": 75
+  },
+  {
+    "title": "Các đoàn thuyền buồm Trung Quốc của Trịnh Hòang vượt đại dương",
+    "description": "Từ năm 1405, Đô đốc Trịnh Hòang chỉ huy các đoàn thuyền buồm lớn của Trung Quốc vượt đại dương, thực hiện những chuyến hải hành quy mô lớn nhất thế giới thời bấy giờ, mở rộng ảnh hưởng của Trung Quốc đến khắp châu Á.",
+    "time": [1405],
+    "emoji": "🚢",
+    "color": null,
+    "priority": 80
+  },
+  {
+    "title": "Nhà Hồ chống quân Minh xâm lược lần thứ hai",
+    "description": "Năm 1407, quân Minh xâm lược Đại Việt lần thứ hai, lật đổ nhà Hồ và đặt ách đô hộ. Cuộc xâm lược này mở đường cho cuộc kháng chiến vĩ đại của Lê Lợi và quân dân Việt Nam sau này.",
+    "time": [1407],
+    "emoji": "⚔️",
+    "color": null,
+    "priority": 88
+  },
+  {
+    "title": "Khởi nghĩa Lam Sơn (1418–1427) — cuộc kháng chiến chống Minh",
+    "description": "Năm 1418, Lê Lợi phất cờ khởi nghĩa tại Lam Sơn (Thanh Hóa), mở ra cuộc kháng chiến chống quân Minh xâm lược kéo dài 10 năm (1418-1427), là một trong những cuộc kháng chiến hào hùng nhất trong lịch sử Việt Nam.",
+    "time": [1418],
+    "emoji": "⚔️",
+    "color": null,
+    "priority": 90
+  },
+  {
+    "title": "Trận Chỉ Lăng — Xương Giang, đại thắng quân Minh",
+    "description": "Năm 1427, trận Chỉ Lăng — Xương Giang trở thành chiến thắng quyết định của quân dân Việt Nam trong cuộc kháng chiến chống Minh, tiêu diệt và bắt sống nhiều tướng lĩnh phương Bắc, buộc quân Minh phải rút lui hoàn toàn.",
+    "time": [1427],
+    "emoji": "⚔️",
+    "color": null,
+    "priority": 89
+  },
+  {
+    "title": "Hòa ước Lam Sơn — Đại Việt thoát khỏi Bắc thuộc lần hai",
+    "description": "Ngày 10 tháng 12 năm 1427, Hòa ước Lam Sơn được ký kết với nhà Minh, chính thức chấm dứt cuộc chiếm đóng của quân Minh và khẳng định nền độc lập hoàn toàn của Đại Việt lần thứ hai.",
+    "time": [1427, 12, 10],
+    "emoji": "🕊️",
+    "color": null,
+    "priority": 90
+  },
+  {
+    "title": "Lê Thái Tổ lên ngôi, mở ra nhà Hậu Lê",
+    "description": "Năm 1428, Lê Lợi lên ngôi hoàng đế, mở ra nhà Hậu Lê - một trong những triều đại thịnh trị nhất của Việt Nam, đặt nền móng cho sự phát triển ổn định và thịnh vượng của đất nước trong hơn 360 năm.",
+    "time": [1428],
+    "emoji": "👑",
+    "color": null,
+    "priority": 88
+  },
+  {
+    "title": "Nguyễn Trãi từ trần, để lại di sản văn hóa vô giá",
+    "description": "Năm 1442, Nguyễn Trãi - đại schiến sĩ, nhà văn hóa lớn của Việt Nam - qua đời để lại di sản văn hóa vô giá cho dân tộc, tiêu biểu là tác phẩm 'Ức Trai thi tập' và 'Quân trung từ mệnh tập'.",
+    "time": [1442],
+    "emoji": "📜",
+    "color": null,
+    "priority": 80
+  },
+  {
+    "title": "Quốc triều Hình luật ban hành dưới thời Hậu Lê",
+    "description": "Năm 1434, Quốc triều Hình luật được ban hành dưới thời Lê Thái Tổ, là bộ luật hoàn chỉnh đầu tiên của Việt Nam, có ảnh hưởng sâu sắc đến hệ thống pháp luật và xã hội Việt Nam trong nhiều thế kỷ.",
+    "time": [1434],
+    "emoji": "⚖️",
+    "color": null,
+    "priority": 83
+  },
+  {
+    "title": "Lê Thánh Tông trị vì, đỉnh cao của nhà Hậu Lê",
+    "description": "Năm 1460, Lê Thánh Tông lên ngôi và trị vì đến năm 1497, đưa nhà Hậu Lê đến đỉnh cao thịnh vượng với những thành tựu nổi bật về kinh tế, quân sự, văn hóa và giáo dục, được coi là đỉnh cao của nền phong kiến Việt Nam.",
+    "time": [1460],
+    "emoji": "👑",
+    "color": null,
+    "priority": 85
+  },
+  {
+    "title": "26 khoa thi Đình tổ chức dưới thời Lê Thánh Tông",
+    "description": "Năm 1484, trong đời Lê Thánh Tông, 26 khoa thi Đình được tổ chức nhằm tuyển chọn nhân tài cho đất nước, thể hiện chính sách coi trọng giáo dục và khoa cử của nhà Hậu Lê.",
+    "time": [1484],
+    "emoji": "📚",
+    "color": null,
+    "priority": 78
+  },
+  {
+    "title": "Gutenberg phát minh máy in di chuyển và in sách",
+    "description": "Năm 1440, Johann Gutenberg phát minh máy in di chuyển (typography) có thể in được các trang sách nhanh chóng và rẻ tiền, tạo ra cuộc cách mạng thông tin và góp phần phổ biến tri thức trên khắp châu Âu và thế giới.",
+    "time": [1440],
+    "emoji": "📖",
+    "color": null,
+    "priority": 83
+  },
+  {
+    "title": "Kỷ nguyên vàng của văn hóa Phục Hưng bắt đầu ở Florence",
+    "description": "Từ khoảng năm 1450, Florence (Ý) trở thành trung tâm của Phong trào Phục Hưng với những bậc thầy như Leonardo da Vinci, Michelangelo và Raphael, mở ra kỷ nguyên vàng của nghệ thuật, văn học và khoa học tại châu Âu.",
+    "time": [1450],
+    "emoji": "🎨",
+    "color": null,
+    "priority": 85
+  },
+  {
+    "title": "Bartolomeu Dias vòng qua Mũi Hảo Vọng",
+    "description": "Năm 1487, nhà hàng hải Bồ Đào Nha Bartolomeu Dias vòng qua Mũi Hảo Vọng ở cực nam châu Phi, mở ra con đường hàng hải trực tiếp từ châu Âu đến châu Á, đặt nền móng cho các cuộc thám hiểm Đại Dương tiếp theo.",
+    "time": [1487],
+    "emoji": "⛵",
+    "color": null,
+    "priority": 82
+  },
+  {
+    "title": "Cristoforo Colombo phát hiện châu Mỹ",
+    "description": "Ngày 12 tháng 10 năm 1492, Cristoforo Colombo - nhà hàng hải người Ý - đổ bộ lên đảo San Salvador ở châu Mỹ, mở ra kỷ nguyên thuộc địa hóa của châu Âu tại Tân Thế giới và thay đổi vĩnh viễn bản đồ thế giới.",
+    "time": [1492, 10, 12],
+    "emoji": "🌍",
+    "color": null,
+    "priority": 90
+  },
+  {
+    "title": "Vasco da Gama tìm đường biển đến Ấn Độ",
+    "description": "Năm 1498, nhà hàng hải Bồ Đào Nha Vasco da Gama đến được Ấn Độ qua con đường biển vòng qua Mũi Hảo Vọng, mở ra con đường giao thương giữa châu Âu và châu Á, thay đổi hoàn toàn nền kinh tế thế giới.",
+    "time": [1498],
+    "emoji": "🌊",
+    "color": null,
+    "priority": 86
+  },
+  {
+    "title": "Buôn bán nô lệ Tây Ban Nha - Bồ Đào Nha qua Đại Tây Dương",
+    "description": "Từ khoảng năm 1520, buôn bán nô lệ qua Đại Tây Dương trở thành một ngành kinh doanh lớn của Tây Ban Nha và Bồ Đào Nha, vận chuyển hàng triệu người châu Phi đến châu Mỹ trong điều kiện vô cùng tàn khốc.",
+    "time": [1520],
+    "emoji": "⛓️",
+    "color": null,
+    "priority": 75
+  },
+  {
+    "title": "Vương triều Mughal thành lập ở Ấn Độ",
+    "description": "Năm 1526, Babur - hậu duệ của Timur và Genghis Khan - lật đổ vương triều Delhi Sultanate và thành lập Đế chế Mughal ở Ấn Độ, mở ra thời kỳ Mughal hùng mạnh kéo dài hơn 300 năm với những công trình kiến trúc vĩ đại.",
+    "time": [1526],
+    "emoji": "🕌",
+    "color": null,
+    "priority": 82
+  },
+  {
+    "title": "Martin Luther đấu tranh chống giáo quyền, khởi phát phong trào Phản giá",
+    "description": "Năm 1517, Martin Luther công bố '95 luận đề' chống lại việc bán giấy赦免 (indulgences) của Giáo hội Công giáo, khởi phát Phong trào Phản giá (Reformation) và đạo Tin Lành, thay đổi vĩnh viễn bản đồ tôn giáo châu Âu.",
+    "time": [1517],
+    "emoji": "✝️",
+    "color": null,
+    "priority": 85
+  },
+  {
+    "title": "Ferdinand Magellan thực hiện chuyến vòng quanh Trái Đất",
+    "description": "Năm 1521, Ferdinand Magellan - nhà hàng hải người Bồ Đào Nha - hoàn thành chuyến vòng quanh Trái Đất đầu tiên trong lịch sử (dù ông qua đời tại Philippines), chứng minh Trái Đất tròn và mở ra kỷ nguyên thám hiểm đại dương toàn cầu.",
+    "time": [1521],
+    "emoji": "🗺️",
+    "color": null,
+    "priority": 87
+  },
+  {
+    "title": "Phong trào Cải cách tôn giáo lan rộng ở châu Âu",
+    "description": "Từ năm 1530, Phong trào Cải cách (Reformation) do Martin Luther khởi xướng lan rộng khắp châu Âu, dẫn đến sự ra đời của các giáo hội Tin Lành, thay đổi căn bản bản đồ tôn giáo và chính trị của châu Âu thời Phục Hưng.",
+    "time": [1530],
+    "emoji": "✝️",
+    "color": null,
+    "priority": 82
+  },
+  {
+    "title": "Vương triều Hậu Minh thay thế nhà Nguyên ở Trung Quốc",
+    "description": "Năm 1644, người Mãn Châu chiếm Bắc Kinh và thành lập vương triều Thanh (Hậu Minh) tại Trung Quốc, chấm dứt thời kỳ nhà Minh và bắt đầu gần ba thế kỷ thống trị của vương triều Thanh.",
+    "time": [1644],
+    "emoji": "🐉",
+    "color": null,
+    "priority": 82
+  },
+  {
+    "title": "Thành lập Cộng đồng Kinh tế châu Âu (EEC)",
+    "description": "Năm 1957, Cộng đồng Kinh tế châu Âu (EEC) được thành lập tại Rome (Ý) bởi 6 quốc gia sáng lập, mở đường cho quá trình hội nhập châu Âu và tiến tới Liên minh châu Âu (EU) ngày nay.",
+    "time": [1957],
+    "emoji": "🏛️",
+    "color": null,
+    "priority": 85
+  },
+  {
+    "title": "Anh rời Liên minh châu Âu (Brexit)",
+    "description": "Ngày 31 tháng 12 năm 2020, Vương quốc Anh chính thức rời Liên minh châu Âu (Brexit) sau nhiều năm đàm phán căng thẳng, đánh dấu sự kiện chính trị lớn nhất của châu Âu trong thế kỷ 21.",
+    "time": [2020, 12, 31],
+    "emoji": "🏛️",
+    "color": null,
+    "priority": 80
+  }
+]

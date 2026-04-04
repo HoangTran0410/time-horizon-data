@@ -1,5 +1,105 @@
 [
   {
+    "id": "sgk-vietnam-new-lop-6",
+    "name": "Lịch sử Lớp 6",
+    "emoji": "🏛️",
+    "description": "Lịch sử Việt Nam cổ đại: từ nguồn gốc dựng nước đến chiến thắng Bạch Đằng (2879 TCN–938).",
+    "author": "Time Horizon",
+    "createdAt": "2026-04-05",
+    "dataUrl": "/collections/sgk-vietnam-new/lich-su-lop-6.json",
+    "categories": ["Education", "History", "Vietnam"]
+  },
+  {
+    "id": "sgk-vietnam-new-lop-7",
+    "name": "Lịch sử Lớp 7",
+    "emoji": "🏰",
+    "description": "Lịch sử Việt Nam trung đại: các triều đại Ngô–Đinh–Lý–Trần–Hồ và kháng chiến chống Nguyên Mông (939–1407).",
+    "author": "Time Horizon",
+    "createdAt": "2026-04-05",
+    "dataUrl": "/collections/sgk-vietnam-new/lich-su-lop-7.json",
+    "categories": ["Education", "History", "Vietnam"]
+  },
+  {
+    "id": "sgk-vietnam-new-lop-7-canh-dieu",
+    "name": "Lịch sử Lớp 7 - Cánh diều",
+    "emoji": "🛕",
+    "description": "Lịch sử Việt Nam trung đại: kết nối tri thức — Phật giáo, Nho giáo, văn hóa dân gân và đời sống xã hội thời Trần.",
+    "author": "Time Horizon",
+    "createdAt": "2026-04-05",
+    "dataUrl": "/collections/sgk-vietnam-new/lich-su-lop-7-kn.json",
+    "categories": ["Education", "History", "Vietnam"]
+  },
+  {
+    "id": "sgk-vietnam-new-lop-7-kt",
+    "name": "Lịch sử Lớp 7 - Kết nối tri thức với cuộc sống",
+    "emoji": "⚔️",
+    "description": "Lịch sử Việt Nam trung đại: kinh tế, xã hội, chính trị thời Lý–Trần và sự phát triển văn hóa dân tộc.",
+    "author": "Time Horizon",
+    "createdAt": "2026-04-05",
+    "dataUrl": "/collections/sgk-vietnam-new/lich-su-lop-7-kt.json",
+    "categories": ["Education", "History", "Vietnam"]
+  },
+  {
+    "id": "sgk-vietnam-new-lop-8",
+    "name": "Lịch sử Lớp 8",
+    "emoji": "🇫🇷",
+    "description": "Việt Nam cận đại phần 1: thực dân Pháp xâm lược, khai thác thuộc địa và các phong trào chống Pháp (1858–1918).",
+    "author": "Time Horizon",
+    "createdAt": "2026-04-05",
+    "dataUrl": "/collections/sgk-vietnam-new/lich-su-lop-8.json",
+    "categories": ["Education", "History", "Vietnam"]
+  },
+  {
+    "id": "sgk-vietnam-new-lop-9",
+    "name": "Lịch sử Lớp 9",
+    "emoji": "🔥",
+    "description": "Cách mạng Việt Nam: từ phong trào yêu nước đầu thế kỷ XX đến Cách mạng tháng Tám và thành lập nước (1919–1945).",
+    "author": "Time Horizon",
+    "createdAt": "2026-04-05",
+    "dataUrl": "/collections/sgk-vietnam-new/lich-su-lop-9.json",
+    "categories": ["Education", "History", "Vietnam"]
+  },
+  {
+    "id": "sgk-vietnam-new-lop-10",
+    "name": "Lịch sử Lớp 10",
+    "emoji": "📜",
+    "description": "Lịch sử Việt Nam: từ nguồn gốc đến đầu thế kỷ XIX, các triều đại và cuộc kháng chiến (2879 TCN–1802).",
+    "author": "Time Horizon",
+    "createdAt": "2026-04-05",
+    "dataUrl": "/collections/sgk-vietnam-new/lich-su-lop-10.json",
+    "categories": ["Education", "History", "Vietnam"]
+  },
+  {
+    "id": "sgk-vietnam-new-lop-10-kt",
+    "name": "Lịch sử Lớp 10 - Cánh diều",
+    "emoji": "💹",
+    "description": "Kinh tế–xã hội Việt Nam: phát triển kinh tế, giao thương, tình hình nhân dân và chính trị thời phong kiến.",
+    "author": "Time Horizon",
+    "createdAt": "2026-04-05",
+    "dataUrl": "/collections/sgk-vietnam-new/lich-su-lop-10-kt.json",
+    "categories": ["Education", "History", "Vietnam"]
+  },
+  {
+    "id": "sgk-vietnam-new-lop-11",
+    "name": "Lịch sử Lớp 11",
+    "emoji": "🇻🇳",
+    "description": "Việt Nam cận đại và hiện đại: thực dân Pháp xâm lược, phong trào yêu nước, Đảng Cộng sản thành lập, Cách mạng tháng Tám (1802–1945).",
+    "author": "Time Horizon",
+    "createdAt": "2026-04-05",
+    "dataUrl": "/collections/sgk-vietnam-new/lich-su-lop-11.json",
+    "categories": ["Education", "History", "Vietnam"]
+  },
+  {
+    "id": "sgk-vietnam-new-lop-12",
+    "name": "Lịch sử Lớp 12",
+    "emoji": "🇻🇳",
+    "description": "Việt Nam đương đại: thành lập nước (1945), Chiến tranh Việt Nam, thống nhất đất nước, Đổi Mới và hội nhập quốc tế (1945–nay).",
+    "author": "Time Horizon",
+    "createdAt": "2026-04-05",
+    "dataUrl": "/collections/sgk-vietnam-new/lich-su-lop-12.json",
+    "categories": ["Education", "History", "Vietnam"]
+  },
+  {
     "id": "cosmic",
     "name": "Cosmic Origins",
     "emoji": "🌌",
@@ -376,7 +476,7 @@
     "description": "Việt Nam cổ đại: từ Hồng Bàng, Hùng Vương, Âu Lạc, Bắc thuộc đến Ngô Quyền đánh Bạch Đằng (2879 TCN–938).",
     "author": "Time Horizon",
     "createdAt": "2026-04-03",
-    "dataUrl": "/collections/sgk-vietnam/lich-su-lop-6.json",
+    "dataUrl": "/collections/sgk-vietnam-aigen/lich-su-lop-6.json",
     "categories": ["Education", "History", "Vietnam"]
   },
   {
@@ -386,7 +486,7 @@
     "description": "Việt Nam trung đại: từ Ngô-Đinh-Lý-Trần-Hồ đến Lê sơ, qua các triều đại và cuộc kháng chiến chống Nguyên Mông (939–1527).",
     "author": "Time Horizon",
     "createdAt": "2026-04-03",
-    "dataUrl": "/collections/sgk-vietnam/lich-su-lop-7.json",
+    "dataUrl": "/collections/sgk-vietnam-aigen/lich-su-lop-7.json",
     "categories": ["Education", "History", "Vietnam"]
   },
   {
@@ -396,7 +496,7 @@
     "description": "Việt Nam cận đại phần 1: thực dân Pháp xâm lược, khai thác thuộc địa và các phong trào chống Pháp (1858–1918).",
     "author": "Time Horizon",
     "createdAt": "2026-04-03",
-    "dataUrl": "/collections/sgk-vietnam/lich-su-lop-8.json",
+    "dataUrl": "/collections/sgk-vietnam-aigen/lich-su-lop-8.json",
     "categories": ["Education", "History", "Vietnam"]
   },
   {
@@ -406,7 +506,7 @@
     "description": "Cách mạng Việt Nam: từ phong trào yêu nước đầu thế kỷ XX đến Cách mạng tháng Tám và thành lập nước Việt Nam Dân chủ Cộng hòa (1919–1945).",
     "author": "Time Horizon",
     "createdAt": "2026-04-03",
-    "dataUrl": "/collections/sgk-vietnam/lich-su-lop-9.json",
+    "dataUrl": "/collections/sgk-vietnam-aigen/lich-su-lop-9.json",
     "categories": ["Education", "History", "Vietnam"]
   },
   {
@@ -416,7 +516,7 @@
     "description": "Việt Nam từ nguồn gốc đến đầu thế kỷ XIX: Hồng Bàng, Bắc thuộc, các triều đại Ngô-Đinh-Lý-Trần-Hồ-Lê-Tây Sơn-Nguyễn (2879 TCN–1802).",
     "author": "Time Horizon",
     "createdAt": "2026-04-03",
-    "dataUrl": "/collections/sgk-vietnam/lich-su-lop-10.json",
+    "dataUrl": "/collections/sgk-vietnam-aigen/lich-su-lop-10.json",
     "categories": ["Education", "History", "Vietnam"]
   },
   {
@@ -426,7 +526,7 @@
     "description": "Việt Nam cận đại và hiện đại: thực dân Pháp xâm lược, các phong trào yêu nước, Đảng Cộng sản thành lập, và Cách mạng tháng Tám (1802–1945).",
     "author": "Time Horizon",
     "createdAt": "2026-04-03",
-    "dataUrl": "/collections/sgk-vietnam/lich-su-lop-11.json",
+    "dataUrl": "/collections/sgk-vietnam-aigen/lich-su-lop-11.json",
     "categories": ["Education", "History", "Vietnam"]
   },
   {
@@ -436,7 +536,7 @@
     "description": "Việt Nam đương đại: từ thành lập nước (1945) qua Chiến tranh Việt Nam, thống nhất đất nước đến Đổi Mới và hội nhập quốc tế (1945–nay).",
     "author": "Time Horizon",
     "createdAt": "2026-04-03",
-    "dataUrl": "/collections/sgk-vietnam/lich-su-lop-12.json",
+    "dataUrl": "/collections/sgk-vietnam-aigen/lich-su-lop-12.json",
     "categories": ["Education", "History", "Vietnam"]
   }
 ]

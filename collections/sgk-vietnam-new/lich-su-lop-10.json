@@ -1,0 +1,667 @@
+[
+  {
+    "title": "Thời nguyên thủy - Con người xuất hiện tại Việt Nam",
+    "description": "Cách ngày nay khoảng 80 vạn năm, con người đã xuất hiện trên đất Việt Nam. Các di chỉ khảo cổ tiêu biểu thuộc thời kỳ này gồm: Tràng Cao, Sáng Hạ, Xóm Bảy, Bùi Chu.",
+    "time": -800000,
+    "emoji": "🏛️",
+    "priority": 85
+  },
+  {
+    "title": "Văn hóa Đông Sơn phát triển rực rỡ",
+    "description": "Trên nền tảng các nền văn hóa tiền Đông Sơn (Hòa Bình, Bắc Sơn, Bàu Tró), văn hóa Đông Sơn đã phát triển rực rỡ với nhiều thành tựu nổi bật về nông nghiệp, thủ công nghiệp và đời sống tinh thần phong phú.",
+    "time": -700,
+    "emoji": "🥁",
+    "priority": 88
+  },
+  {
+    "title": "Nhà nước Văn Lang ra đời",
+    "description": "Nhà nước Văn Lang được thành lập dưới thời các Vua Hùng, đánh dấu bước ngoặt quan trọng trong quá trình xã hội hóa và hình thành nhà nước đầu tiên của người Việt cổ đại.",
+    "time": -500,
+    "emoji": "👑",
+    "priority": 90
+  },
+  {
+    "title": "Nước Âu Lạc - Nhà nước quân chủ thời kỳ tiền sử",
+    "description": "Âu Lạc là nhà nước kế tục Văn Lang, được Thục Phán (An Dương Vương) thành lập sau khi thu phục các bộ lạc. Nhà nước Âu Lạc đánh dấu sự phát triển cao hơn về tổ chức quyền lực và lãnh thổ.",
+    "time": -258,
+    "emoji": "⚔️",
+    "priority": 88
+  },
+  {
+    "title": "Bắc thuộc lần 1 - Thực dân Hán đô hộ",
+    "description": "Năm 179 TCN, Triệu Đà xâm lược và sáp nhập Âu Lạc vào lãnh thổ nhà Triệu, mở đầu hơn một nghìn năm Bắc thuộc. Đây là giai đoạn quan trọng trong lịch sử Việt Nam với nhiều cuộc khởi nghĩa của nhân dân.",
+    "time": -179,
+    "emoji": "⚔️",
+    "priority": 88
+  },
+  {
+    "title": "Khởi nghĩa Hai Bà Trưng",
+    "description": "Hai Bà Trưng (Trưng Trắc và Trưng Nhị) lãnh đạo nhân dân khởi nghĩa, giành lại độc lập và xưng Vương, đánh dấu một mốc son chói lọi trong lịch sử đấu tranh chống ngoại xâm của dân tộc Việt Nam.",
+    "time": 40,
+    "emoji": "⚔️",
+    "priority": 88
+  },
+  {
+    "title": "Khởi nghĩa Bà Triệu",
+    "description": "Bà Triệu (Triệu Trinh Nhước) anh dũng chống quân Hán, thể hiện tinh thần bất khuất của phụ nữ Việt Nam. Cuộc khởi nghĩa tuy thất bại nhưng truyền lại tinh thần yêu nước mạnh mẽ cho các thế hệ sau.",
+    "time": 248,
+    "emoji": "⚔️",
+    "priority": 85
+  },
+  {
+    "title": "Khởi nghĩa Lý Bí (Lý Nam Đế)",
+    "description": "Lý Bí (Lý Nam Đế) lãnh đạo nhân dân khởi nghĩa đánh đuổi quân tuần tra của nhà Liang, lập nên nhà nước Vạn Xuân độc lập, mở ra thời kỳ ngắn ngủi nhưng rực rỡ của nền độc lập dân tộc.",
+    "time": 544,
+    "emoji": "👑",
+    "priority": 85
+  },
+  {
+    "title": "Thời kỳ Ngũ Đại - Chia cắt chính trị",
+    "description": "Sau khi nhà Lý suy yếu, Việt Nam rơi vào thời kỳ chia cắt với các triều đại Ngũ Đại (545-602), thể hiện sự bất ổn về chính trị nhưng cũng là giai đoạn các cuộc đấu tranh giành độc lập diễn ra liên tục.",
+    "time": 545,
+    "emoji": "⚔️",
+    "priority": 80
+  },
+  {
+    "title": "Khởi nghĩa Lý Bầm",
+    "description": "Lý Bầm cùng dân chúng Tây Sơn khởi nghĩa chống áp bức, giành quyền tự trị cho vùng đất Tây Sơn. Phong trào phản ánh tinh thần đấu tranh không ngừng của nhân dân ta trong thời kỳ Bắc thuộc.",
+    "time": 550,
+    "emoji": "⚔️",
+    "priority": 80
+  },
+  {
+    "title": "Khởi nghĩa Phùng Hưng",
+    "description": "Phùng Hưng tập hợp nhân dân khởi nghĩa đánh bại quân Chăm Pa và nhà Đường, giải phóng vùng đất Sông Gâm. Triều đại Phùng Hưng để lại nhiều dấu ấn trong lịch sử đấu tranh dân tộc.",
+    "time": 776,
+    "emoji": "⚔️",
+    "priority": 82
+  },
+  {
+    "title": "Khởi nghĩa Mai Hắc Đế",
+    "description": "Mai Hắc Đế (Mai Thúc Loan) lãnh đạo nhân dân khởi nghĩa thành công, lập nên nước Vạn Thắng và tự xưng Hoàng đế, mở ra giai đoạn độc lập ngắn ngủi nhưng có ý nghĩa to lớn cho dân tộc Việt.",
+    "time": 791,
+    "emoji": "👑",
+    "priority": 84
+  },
+  {
+    "title": "Phong trào kháng chiến chống quân Ngô",
+    "description": "Nhân dân Việt Nam kiên cường chống quân xâm lược Ngô (五代十国), bảo vệ nền độc lập dân tộc trong bối cảnh Trung Quốc suy yếu và phân tranh, thể hiện tinh thần đoàn kết và yêu nước mạnh mẽ.",
+    "time": 900,
+    "emoji": "⚔️",
+    "priority": 83
+  },
+  {
+    "title": "Khởi nghĩa Phùng Nguyên",
+    "description": "Phùng Nguyên cùng dân chúng vùng Thái Nguyên khởi nghĩa chống áp bức, giành quyền tự do cho nhân dân địa phương. Phong trào tiếp nối truyền thống yêu nước kiên cường của dân tộc.",
+    "time": 938,
+    "emoji": "⚔️",
+    "priority": 80
+  },
+  {
+    "title": "Ngô Quyền đánh bại quân Nam Hán",
+    "description": "Ngô Quyền dùng kế lấy gió làm thế, bố trí trận địa trên sông Bạch Đằng, đánh tan quân Nam Hán, kết liễu hơn một nghìn năm Bắc thuộc, mở ra kỷ nguyên độc lập cho dân tộc Việt Nam.",
+    "time": 938,
+    "emoji": "⚔️",
+    "priority": 90
+  },
+  {
+    "title": "Nhà Ngô - Mở đầu thời kỳ độc lập",
+    "description": "Nhà Ngô do Ngô Quyền sáng lập, đánh dấu thời kỳ độc lập đầu tiên sau hơn một nghìn năm Bắc thuộc, xác lập nền tảng cho sự phát triển của các triều đại Độc lập tiếp theo tại Việt Nam.",
+    "time": 939,
+    "emoji": "👑",
+    "priority": 88
+  },
+  {
+    "title": "Nhà Đinh - Thống nhất giang sơn",
+    "description": "Nhà Đinh do Đinh Bộ Lĩnh sáng lập, thống nhất giang sơn sau thời kỳ loạn lạc, xưng đế và đặt quốc hiệu Đại Cồ Việt, mở ra thời kỳ phát triển mới cho đất nước Việt Nam.",
+    "time": 968,
+    "emoji": "👑",
+    "priority": 88
+  },
+  {
+    "title": "Nhà Tiền Lê - Củng cố nền độc lập",
+    "description": "Nhà Tiền Lê do Lê Hoàn lập ra, tiếp tục củng cố nền độc lập dân tộc sau khi nhà Đinh suy vong, thể hiện tinh thần trung hưng và ý chí bảo vệ chủ quyền của người Việt.",
+    "time": 980,
+    "emoji": "👑",
+    "priority": 85
+  },
+  {
+    "title": "Nhà Lý - Thời kỳ phát triển rực rỡ",
+    "description": "Nhà Lý do Lý Cố Uỷ (Lý Thái Tổ) sáng lập năm 1009, đánh dấu bước phát triển vượt bậc về kinh tế, văn hóa, xã hội. Thăng Long - Hà Nội trở thành trung tâm chính trị và văn hóa của cả nước.",
+    "time": 1009,
+    "emoji": "👑",
+    "priority": 88
+  },
+  {
+    "title": "Thành lập Văn Miếu - Quốc Tử Giám",
+    "description": "Văn Miếu - Quốc Tử Giám được xây dựng dưới thời nhà Lý, là trường đại học đầu tiên của Việt Nam, thể hiện sự coi trọng giáo dục và nho học trong việc xây dựng nhà nước và xã hội.",
+    "time": 1070,
+    "emoji": "🏛️",
+    "priority": 87
+  },
+  {
+    "title": "Cuộc kháng chiến chống Tống lần 1",
+    "description": "Nhân dân Việt Nam dưới sự lãnh đạo của Lý Thường Kiệt đại phá quân Tống xâm lược (1075-1077), bảo vệ nền độc lập dân tộc, khẳng định sức mạnh và tinh thần đoàn kết của người Việt.",
+    "time": 1075,
+    "emoji": "⚔️",
+    "priority": 88
+  },
+  {
+    "title": "Nhà Trần - Thời kỳ quân chủ đại thống nhất",
+    "description": "Nhà Trần do Trần Thái Tông sáng lập năm 1226, đánh dấu thời kỳ phát triển rực rỡ nhất của chế độ phong kiến Việt Nam với nhiều chiến thắng vẻ vang chống quân xâm lược Nguyên Mông.",
+    "time": 1226,
+    "emoji": "👑",
+    "priority": 88
+  },
+  {
+    "title": "Hội nghị Diên Hồng - Tinh thần đoàn kết dân tộc",
+    "description": "Hội nghị Diên Hồng quy tụ các bô lão toàn quốc để bàn bạc kế sách kháng chiến chống quân Nguyên Mông xâm lược, thể hiện tinh thần đoàn kết dân tộc và ý chí sẵn sàng hy sinh vì độc lập Tổ quốc.",
+    "time": 1285,
+    "emoji": "⚔️",
+    "priority": 88
+  },
+  {
+    "title": "Chiến thắng Đức Wô lần 2",
+    "description": "Quân dân Việt Nam dưới sự chỉ huy của Trần Hưng Đạo đại phá quân Nguyên Mông lần 2, một trong những chiến thắng vĩ đại nhất trong lịch sử đấu tranh chống ngoại xâm của dân tộc Việt Nam.",
+    "time": 1288,
+    "emoji": "⚔️",
+    "priority": 88
+  },
+  {
+    "title": "Chiến thắng Chương Dương và Thăng Long",
+    "description": "Quân dân Việt Nam đánh bại hoàn toàn quân Nguyên Mông trong cuộc kháng chiến lần thứ 3 (1287-1288), bảo vệ vững chắc nền độc lập dân tộc và khẳng định sức mạnh của nhà Trần.",
+    "time": 1288,
+    "emoji": "⚔️",
+    "priority": 88
+  },
+  {
+    "title": "Trần Hưng Đạo - Danh tướng của muôn đời",
+    "description": "Trần Hưng Đạo là vị tướng lỗi lạc của nhà Trần, đại phá quân Nguyên Mông ba lần (1282, 1285, 1287-1288), là biểu tượng của tài năng quân sự và tinh thần yêu nước kiên cường của dân tộc Việt Nam.",
+    "time": 1300,
+    "emoji": "⚔️",
+    "priority": 87
+  },
+  {
+    "title": "Đại Việt trở thành trung tâm Phật giáo Đại thừa",
+    "description": "Dưới thời Trần, Phật giáo Đại thừa phát triển mạnh mẽ và trở thành quốc giáo, ảnh hưởng sâu rộng đến đời sống văn hóa, tinh thần của người dân Đại Việt trong suốt nhiều thế kỷ.",
+    "time": 1300,
+    "emoji": "🙏",
+    "priority": 83
+  },
+  {
+    "title": "Mở mang xã hội - Kinh tế văn hóa thịnh vượng",
+    "description": "Thời Trần là thời kỳ phát triển toàn diện về kinh tế, văn hóa, xã hội với sự mở mang giao thương, phát triển nông nghiệp, và sự hưng thịnh của các ngành nghề thủ công truyền thống.",
+    "time": 1320,
+    "emoji": "🏛️",
+    "priority": 84
+  },
+  {
+    "title": "Nhà Hồ - Thế kỷ khai sáng văn hóa",
+    "description": "Nhà Hồ do Hồ Quý Ly sáng lập năm 1400, tiến hành nhiều cải cách tiến bộ về kinh tế, xã hội và giáo dục, đánh dấu giai đoạn chuyển mình quan trọng trong lịch sử phong kiến Việt Nam.",
+    "time": 1400,
+    "emoji": "👑",
+    "priority": 85
+  },
+  {
+    "title": "Hồ Quý Ly ra đời - Nhà Hồ thành lập",
+    "description": "Hồ Quý Ly lập ra nhà Hồ năm 1400, tiến hành nhiều cải cách canh tân đất nước như phát triển thương mại, đúc tiền giấy, mở rộng giáo dục, dù bị thất trận trước quân Minh nhưng tầm nhìn cải cách rất tiến bộ.",
+    "time": 1400,
+    "emoji": "👑",
+    "priority": 84
+  },
+  {
+    "title": "Hồ Quý Ly tiến hành cải cách",
+    "description": "Hồ Quý Ly thực hiện nhiều cải cách tiến bộ như phát triển thương mại, đúc tiền giấy, cải cách ruộng đất, mở rộng giáo dục, xây dựng thành Tây Đô. Các cải cách tuy tiến bộ nhưng gặp nhiều khó khăn trong việc thực hiện.",
+    "time": 1402,
+    "emoji": "📜",
+    "priority": 84
+  },
+  {
+    "title": "Hồi quốc - Nhà Hồ suy vong",
+    "description": "Nhà Hồ sụp đổ khi quân Minh xâm lược thành công, Hồ Quý Ly bị bắt và nước Đại Việt lại rơi vào tay nhà Minh. Giai đoạn này chứng kiến nhiều cuộc khởi nghĩa chống đối liên tục của nhân dân.",
+    "time": 1407,
+    "emoji": "⚔️",
+    "priority": 82
+  },
+  {
+    "title": "Khởi nghĩa Lam Sơn bùng nổ",
+    "description": "Lê Lợi tổ chức khởi nghĩa Lam Sơn chống quân Minh xâm lược, quy tụ đồng bào ta, từ nông dân đến văn thân, nhân sĩ yêu nước, mở ra cuộc đấu tranh giải phóng dân tộc vĩ đại.",
+    "time": 1413,
+    "emoji": "⚔️",
+    "priority": 88
+  },
+  {
+    "title": "Chiến thắng Thuận Hóa và Bình Khang",
+    "description": "Quân khởi nghĩa Lam Sơn liên tiếp giành thắng lợi tại Thuận Hóa và Bình Khang, mở đường cho việc giải phóng hoàn toàn đất nước khỏi ách đô hộ của nhà Minh xâm lược.",
+    "time": 1414,
+    "emoji": "⚔️",
+    "priority": 86
+  },
+  {
+    "title": "Chiến thắng trận Tốt Động - Chúc Động",
+    "description": "Quân khởi nghĩa Lam Sơn đánh bại hoàn toàn quân Minh trong trận Tốt Động - Chúc Động, trận đánh then chốt mở đầu cho giai đoạn phản công và giành thắng lợi hoàn toàn về sau.",
+    "time": 1415,
+    "emoji": "⚔️",
+    "priority": 86
+  },
+  {
+    "title": "Chiến thắng Rừng Thái Vinh",
+    "description": "Quân Lam Sơn dưới sự chỉ huy của Lê Lợi giành chiến thắng quyết định tại Rừng Thái Vinh, đánh dấu bước ngoặt quan trọng trong cuộc khởi nghĩa chống quân Minh xâm lược.",
+    "time": 1416,
+    "emoji": "⚔️",
+    "priority": 85
+  },
+  {
+    "title": "Cuộc kháng chiến chống Minh lần 1",
+    "description": "Nhân dân Đại Việt dưới sự lãnh đạo của Lê Lợi đứng lên kháng chiến chống quân Minh xâm lược, giành thắng lợi vẻ vang sau gần 10 năm chiến đấu gian khổ, giải phóng hoàn toàn đất nước.",
+    "time": 1418,
+    "emoji": "⚔️",
+    "priority": 88
+  },
+  {
+    "title": "Hội nghị Bình Than - Quyết tâm chống giặc",
+    "description": "Trước nguy cơ quân Minh xâm lược lần 2, Lê Lợi triệu tập hội nghị Bình Than quy tụ các tướng lĩnh, đại diện các giới để bàn bạc kế sách kháng chiến, thể hiện tinh thần đoàn kết dân tộc.",
+    "time": 1426,
+    "emoji": "⚔️",
+    "priority": 86
+  },
+  {
+    "title": "Chiến thắng Trà Lĩnh",
+    "description": "Quân Lam Sơn đánh bại quân Minh tại Trà Lĩnh, một trận đánh then chốt mở đường cho việc giải phóng Thăng Long và hoàn toàn chiến thắng trong cuộc kháng chiến chống quân xâm lược.",
+    "time": 1427,
+    "emoji": "⚔️",
+    "priority": 85
+  },
+  {
+    "title": "Cuộc kháng chiến chống Minh lần 2 thắng lợi",
+    "description": "Quân dân Đại Việt tiếp tục chiến đấu chống quân Minh xâm lược lần 2, giành thắng lợi hoàn toàn, khẳng định ý chí bất khuất của dân tộc Việt Nam trong đấu tranh giải phóng dân tộc.",
+    "time": 1427,
+    "emoji": "⚔️",
+    "priority": 88
+  },
+  {
+    "title": "Thành lập Đại Việt - Khởi đầu thời kỳ thống nhất",
+    "description": "Lê Lợi lên ngôi Hoàng đế, lập ra nhà Lê sơ (Đại Việt), đánh dấu nền độc lập hoàn toàn sau khi đánh đuổi quân Minh xâm lược, mở ra thời kỳ phát triển mới cho dân tộc Việt Nam.",
+    "time": 1428,
+    "emoji": "👑",
+    "priority": 90
+  },
+  {
+    "title": "Nhà Lê sơ - Thời kỳ phục hưng",
+    "description": "Nhà Lê sơ do Lê Thái Tổ sáng lập năm 1428, là thời kỳ phục hưng của nước Đại Việt với nhiều cải cách quan trọng về hành chính, quân sự, kinh tế và giáo dục, đặt nền móng cho sự phát triển lâu dài.",
+    "time": 1428,
+    "emoji": "👑",
+    "priority": 87
+  },
+  {
+    "title": "Lê Lợi lên ngôi Hoàng đế - Đại Việt độc lập",
+    "description": "Lê Lợi từ một nông dân đứng lên lãnh đạo cuộc khởi nghĩa Lam Sơn, đánh bại quân Minh và lên ngôi Hoàng đế, lập ra nhà Lê sơ, mở ra kỷ nguyên độc lập mới cho dân tộc Việt Nam.",
+    "time": 1428,
+    "emoji": "👑",
+    "priority": 90
+  },
+  {
+    "title": "Lê Thánh Tông - Thời kỳ cực thịnh nhà Lê",
+    "description": "Lê Thánh Tông là vị vua anh minh nhất của nhà Lê sơ, đưa Đại Việt vào thời kỳ phồn thịnh về mọi mặt. Quân sự thắng lợi ở Chiêm Thành, văn hóa rực rỡ, kinh tế phát triển mạnh mẽ.",
+    "time": 1460,
+    "emoji": "👑",
+    "priority": 87
+  },
+  {
+    "title": "Nhà Mạc - Giai đoạn chuyển giao quyền lực",
+    "description": "Nhà Mạc do Mạc Đăng Dung lập năm 1527, nắm quyền trong một thời gian dài, tiếp nối nhiều thành tựu của nhà Lê sơ về văn hóa và kinh tế, dù phải đối mặt với sự phục hồi của nhà Lê trung hưng.",
+    "time": 1527,
+    "emoji": "👑",
+    "priority": 82
+  },
+  {
+    "title": "Nhà Lê trung hưng",
+    "description": "Nhà Lê trung hưng được phục hồi sau khi nhà Mạc suy yếu, tiếp tục duy trì và phát triển đất nước trong giai đoạn chuyển giao phức tạp. Đây là thời kỳ có nhiều biến động chính trị nhưng cũng có những thành tựu văn hóa đáng kể.",
+    "time": 1533,
+    "emoji": "👑",
+    "priority": 82
+  },
+  {
+    "title": "Trịnh - Nguyễn phân trịnh",
+    "description": "Sau khi nhà Lê suy yếu, quyền lực rơi vào tay chúa Trịnh ở phía Bắc và chúa Nguyễn ở phía Nam, đất nước chia cắt hơn 200 năm (thế kỷ 16-18), tạo nên sự khác biệt về văn hóa và xã hội giữa hai miền.",
+    "time": 1545,
+    "emoji": "⚔️",
+    "priority": 83
+  },
+  {
+    "title": "Tây Sơn - Khởi nghĩa nông dân",
+    "description": "Phong trào Tây Sơn do ba anh em Nguyễn Nhạc, Nguyễn Huệ, Nguyễn Lữ lãnh đạo, nổi dậy từ nông dân, đánh bại quân Chăm Pa, Xiêm La, nhà Nguyễn ở Đàng Trong, mở ra giai đoạn thống nhất đất nước ngắn ngủi nhưng đầy biến động.",
+    "time": 1771,
+    "emoji": "⚔️",
+    "priority": 86
+  },
+  {
+    "title": "Chiến thắng Rạch Sỏi",
+    "description": "Quân Tây Sơn dưới sự chỉ huy của Nguyễn Huệ đánh bại quân Chúa Nguyễn tại Rạch Sỏi, mở đường cho việc thống nhất Đàng Trong và mở rộng lãnh thổ của phong trào Tây Sơn ra phía Nam.",
+    "time": 1782,
+    "emoji": "⚔️",
+    "priority": 83
+  },
+  {
+    "title": "Chiến thắng Phú Xuân",
+    "description": "Nguyễn Huệ đánh bại chúa Nguyễn vào Phú Xuân (Huế), giải phóng vùng Đàng Trong, từng bước thống nhất miền Nam và mở đường cho cuộc thống nhất toàn quốc dưới ngọn cờ Tây Sơn.",
+    "time": 1786,
+    "emoji": "⚔️",
+    "priority": 84
+  },
+  {
+    "title": "Nguyễn Huệ làm vua - Quang Trung đại vương",
+    "description": "Nguyễn Huệ lên ngôi Hoàng đế, hiệu là Quang Trung, thống nhất đất nước sau hơn 200 năm chia cắt Trịnh - Nguyễn, đánh dấu thời kỳ ngắn ngủi nhưng rực rỡ của phong trào Tây Sơn với nhiều cải cách tiến bộ.",
+    "time": 1788,
+    "emoji": "👑",
+    "priority": 88
+  },
+  {
+    "title": "Nguyễn Huệ lên ngôi hoàng đế - Quang Trung",
+    "description": "Năm 1788, Nguyễn Huệ xưng đế tại Phú Xuân, hiệu Quang Trung đại vương, thống nhất đất nước, đánh bại quân Thanh xâm lược và tiến hành nhiều cải cách cải cách tiến bộ về kinh tế, xã hội.",
+    "time": 1788,
+    "emoji": "👑",
+    "priority": 88
+  },
+  {
+    "title": "Chiến thắng Ngọc Hồi - Đại phá quân Thanh",
+    "description": "Quang Trung Nguyễn Huệ đại phá quân Thanh xâm lược tại Ngọc Hồi, giải phóng Thăng Long, bảo vệ nền độc lập dân tộc, khẳng định vị thế của nhà Tây Sơn và tài năng quân sự của Quang Trung.",
+    "time": 1789,
+    "emoji": "⚔️",
+    "priority": 88
+  },
+  {
+    "title": "Nhà Nguyễn thành lập",
+    "description": "Nguyễn Ánh lập ra nhà Nguyễn năm 1802 sau khi đánh bại nhà Tây Sơn, thống nhất đất nước và đặt kinh đô tại Phú Xuân (Huế), mở ra thời kỳ phong kiến cuối cùng của Việt Nam.",
+    "time": 1802,
+    "emoji": "👑",
+    "priority": 86
+  },
+  {
+    "title": "Gia Long - Vua đầu tiên nhà Nguyễn",
+    "description": "Nguyễn Ánh lên ngôi với hiệu Gia Long, đặt kinh đô tại Huế, thống nhất đất nước sau nhiều thế kỷ chia cắt. Gia Long là vị vua có công lớn trong việc xây dựng bộ máy nhà nước phong kiến tập quyền.",
+    "time": 1802,
+    "emoji": "👑",
+    "priority": 86
+  },
+  {
+    "title": "Thăng Long - Kinh đô văn hóa",
+    "description": "Thăng Long (Hà Nội) là trung tâm chính trị, văn hóa suốt hơn một nghìn năm, từ thời nhà Lý đến thời nhà Nguyễn, lưu giữ nhiều giá trị văn hóa, kiến trúc đặc sắc của dân tộc Việt Nam.",
+    "time": 1802,
+    "emoji": "🏛️",
+    "priority": 85
+  },
+  {
+    "title": "Cải cách Minh Mạng",
+    "description": "Vua Minh Mạng tiến hành nhiều cải cách về hành chính, quân sự, kinh tế, giáo dục, xây dựng nền hành chính phong kiến ổn định, phát triển quốc phòng và mở rộng giao thương với nước ngoài.",
+    "time": 1820,
+    "emoji": "📜",
+    "priority": 84
+  },
+  {
+    "title": "Cải cách hành chính thời Nguyễn",
+    "description": "Nhà Nguyễn xây dựng bộ máy hành chính tập trung quy củ, phát triển kinh tế, mở mang giao thương, xây dựng đội ngũ quan liêu chặt chẽ. Các cải cách này tạo nền tảng cho sự phát triển đất nước trong nửa đầu thế kỷ 19.",
+    "time": 1832,
+    "emoji": "📜",
+    "priority": 83
+  },
+  {
+    "title": "Pháp thuộc - Thực dân Pháp đô hộ Việt Nam",
+    "description": "Từ giữa thế kỷ 19, thực dân Pháp xâm lược và đô hộ Việt Nam, biến nước ta thành thuộc địa, bóc lột nhân dân và tài nguyên, gây ra bao đau thương cho dân tộc Việt Nam trong hơn 80 năm.",
+    "time": 1860,
+    "emoji": "⚔️",
+    "priority": 85
+  },
+  {
+    "title": "Thi hành Chính sách đồn điền",
+    "description": "Thực dân Pháp thi hành chính sách đồn điền ở Nam Kỳ, tước đoạt ruộng đất của nông dân, gây ra cuộc sống cực khổ cho người dân và là nguyên nhân sâu xa dẫn đến các phong trào yêu nước chống Pháp.",
+    "time": 1867,
+    "emoji": "⚔️",
+    "priority": 83
+  },
+  {
+    "title": "Pháp xâm lược Đại Nam",
+    "description": "Thực dân Pháp nhanh chóng xâm lược Nam Kỳ (1867), Bắc Kỳ và Trung Kỳ (1884), biến Việt Nam thành thuộc địa, đặt dân tộc Việt Nam vào ách thống trị của thực dân Pháp kéo dài hơn 80 năm.",
+    "time": 1867,
+    "emoji": "⚔️",
+    "priority": 88
+  },
+  {
+    "title": "Phong trào Cần Vương bùng nổ",
+    "description": "Phong trào Cần Vương do Kinh Lượng Phan Đình Giót lãnh đạo, đánh dấu cuộc đấu tranh chống Pháp sâu rộng trong nhân dân, kéo dài nhiều năm với hy vọng cứu nước và phục hưng dân tộc Việt Nam.",
+    "time": 1885,
+    "emoji": "⚔️",
+    "priority": 85
+  },
+  {
+    "title": "Khởi nghĩa Hươu Khản",
+    "description": "Hươu Khản (Đền Thầy) lãnh đạo nhân dân vùng Tây Bắc khởi nghĩa chống thực dân Pháp, xây dựng căn cứ kháng chiến kiên cường trên núi rừng Tây Bắc, thể hiện tinh thần yêu nước bất khuất của dân tộc Việt.",
+    "time": 1886,
+    "emoji": "⚔️",
+    "priority": 82
+  },
+  {
+    "title": "Phong trào Duy Tân - Cải cách xã hội",
+    "description": "Phong trào Duy Tân do Phan Bào, Huỳnh Thúc Kháng lãnh đạo, đấu tranh cho độc lập dân tộc, cải cách xã hội, phát triển giáo dục và văn hóa, đánh dấu giai đoạn yêu nước tiến bộ của trí thức Việt Nam.",
+    "time": 1900,
+    "emoji": "📜",
+    "priority": 83
+  },
+  {
+    "title": "Phong trào Đông Du - Du học cứu nước",
+    "description": "Phan Bào sáng lập phong trào Đông Du, đưa thanh niên Việt Nam sang Nhật Bản học tập, với mục tiêu trang bị kiến thức hiện đại để phát triển đất nước và đấu tranh giải phóng dân tộc khỏi ách thống trị Pháp.",
+    "time": 1905,
+    "emoji": "📚",
+    "priority": 83
+  },
+  {
+    "title": "Phan Bào - Người đặt nền móng du học",
+    "description": "Phan Bào là nhà cách mạng tiên phong, sáng lập phong trào Đông Du, lăn lộn nhiều nơi để tìm con đường cứu nước, ảnh hưởng sâu rộng đến các thế hệ thanh niên yêu nước Việt Nam.",
+    "time": 1906,
+    "emoji": "📚",
+    "priority": 83
+  },
+  {
+    "title": "Phan Châu Trinh - Duy Tân bằng văn minh",
+    "description": "Phan Châu Trinh đề xướng phong trào Duy Tân bằng văn minh, kêu gọi cải cách xã hội, giáo dục, kinh tế bằng phương pháp hòa bình, ảnh hưởng sâu rộng đến trí thức và thanh niên Việt Nam đầu thế kỷ 20.",
+    "time": 1907,
+    "emoji": "📜",
+    "priority": 84
+  },
+  {
+    "title": "Cách mạng Tân Hợi",
+    "description": "Phong trào Duy Tân bùng nổ mạnh mẽ với tinh thần đổi mới xã hội, văn hóa, giáo dục, hướng tới mục tiêu đánh đổ ách thống trị của thực dân Pháp và phong kiến, xây dựng một xã hội Việt Nam mới.",
+    "time": 1908,
+    "emoji": "📜",
+    "priority": 83
+  },
+  {
+    "title": "Việt Nam Quang Phục Hội ra đời",
+    "description": "Việt Nam Quang Phục Hội do Phan Bào sáng lập, đặt ra mục tiêu đánh đổ ách thống trị của thực dân Pháp, khôi phục nền độc lập dân tộc, xây dựng một Việt Nam tự do và hùng cường.",
+    "time": 1912,
+    "emoji": "⚔️",
+    "priority": 85
+  },
+  {
+    "title": "Nguyễn Tất Thành ra đi tìm đường cứu nước",
+    "description": "Nguyễn Tất Thành (Hồ Chí Minh) rời Việt Nam sang Pháp năm 1919, bắt đầu cuộc tìm kiếm con đường giải phóng dân tộc, mở đường cho sự hình thành của chủ nghĩa yêu nước và chủ nghĩa Mác-Lênin tại Việt Nam.",
+    "time": 1919,
+    "emoji": "🌍",
+    "priority": 90
+  },
+  {
+    "title": "Hồ Chí Minh dự Đại hội Tours",
+    "description": "Hồ Chí Minh tham dự Đại hội Tours (Pháp), tiếp nhận chủ nghĩa Mác-Lênin và trở thành người cộng sản đầu tiên tại Việt Nam, mở ra con đường cách mạng vô sản giải phóng dân tộc.",
+    "time": 1920,
+    "emoji": "🌍",
+    "priority": 90
+  },
+  {
+    "title": "Việt Nam Thanh Niên Cao Võng Cách Mạng Đảng",
+    "description": "Hồ Chí Minh sáng lập Việt Nam Thanh Niên Cách Mạng Đảng (Hội Việt Nam Cách Mạng Thanh Niên) tại Quảng Châu (Trung Quốc), đánh dấu sự ra đời của tổ chức cách mạng có tổ chức đầu tiên của Việt Nam.",
+    "time": 1925,
+    "emoji": "🧭",
+    "priority": 88
+  },
+  {
+    "title": "Nguyễn Ái Quốc sáng lập tổ chức cộng sản đầu tiên",
+    "description": "Nguyễn Ái Quốc (Hồ Chí Minh) sáng lập các tổ chức tiền thân của Đảng Cộng sản Việt Nam, đánh dấu bước ngoặt quan trọng trong lịch sử cách mạng Việt Nam với sự kết hợp chủ nghĩa yêu nước và chủ nghĩa Mác-Lênin.",
+    "time": 1929,
+    "emoji": "🧭",
+    "priority": 88
+  },
+  {
+    "title": "Đảng Cộng sản Việt Nam thành lập",
+    "description": "Đảng Cộng sản Việt Nam được thành lập ngày 3/2/1930 tại Hương Cảng, do Hồ Chí Minh sáng lập và lãnh đạo, đánh dấu bước ngoặt vĩ đại trong lịch sử cách mạng Việt Nam, dẫn dắt dân tộc đi đến thắng lợi.",
+    "time": 1930,
+    "emoji": "🧭",
+    "priority": 90
+  },
+  {
+    "title": "Xô-viết Nghệ Tĩnh",
+    "description": "Cuộc khởi nghĩa Xô-viết Nghệ Tĩnh (1930-1931) do Đảng Cộng sản Việt Nam lãnh đạo, là cuộc đấu tranh vũ trang đầu tiên của giai cấp công nhân và nhân dân lao động, để lại nhiều bài học quý giá cho cách mạng.",
+    "time": 1930,
+    "emoji": "⚔️",
+    "priority": 86
+  },
+  {
+    "title": "Cách mạng tháng Tám thành công",
+    "description": "Nhân dân Việt Nam dưới sự lãnh đạo của Đảng Cộng sản và Chủ tịch Hồ Chí Minh đứng lên cách mạng, lật đổ chế độ phong kiến và thoát khỏi ách thống trị của thực dân Pháp, khai sinh nước Việt Nam Dân chủ Cộng hòa.",
+    "time": 1945,
+    "emoji": "🇻🇳",
+    "priority": 90
+  },
+  {
+    "title": "Tổng tuyển cử lần đầu tại Việt Nam",
+    "description": "Tổng tuyển cử bầu Quốc hội lần đầu tiên tại Việt Nam (6/1/1946) theo phổ thông đầu phiếu, đánh dấu bước tiến quan trọng trong lịch sử dân chủ Việt Nam, thể hiện ý chí thống nhất của nhân dân cả nước.",
+    "time": 1946,
+    "emoji": "🗳️",
+    "priority": 87
+  },
+  {
+    "title": "Hiến pháp đầu tiên của Việt Nam",
+    "description": "Hiến pháp năm 1946 của nước Việt Nam Dân chủ Cộng hòa do Chủ tịch Hồ Chí Minh soạn thảo, đánh dấu bước ngoặt trong lịch sử lập hiến Việt Nam, xác lập nền dân chủ và pháp quyền đầu tiên tại Việt Nam.",
+    "time": 1946,
+    "emoji": "📜",
+    "priority": 88
+  },
+  {
+    "title": "Toàn quốc kháng chiến chống Pháp",
+    "description": "Sau khi thực dân Pháp trở lại xâm lược, cả nước đứng lên kháng chiến chống Pháp, mở ra cuộc đấu tranh anh dũng kéo dài 9 năm (1946-1954), bảo vệ nền độc lập dân tộc và thống nhất đất nước.",
+    "time": 1946,
+    "emoji": "⚔️",
+    "priority": 88
+  },
+  {
+    "title": "Chiến thắng Điện Biên Phủ",
+    "description": "Quân đội Nhân dân Việt Nam dưới sự chỉ huy của Đại tướng Võ Nguyên Giáp đánh bại hoàn toàn tập đoàn cứ điểm Điện Biên Phủ của thực dân Pháp, buộc Pháp ký Hiệp định Giơ-ne-vơ, kết thúc thắng lợi cuộc kháng chiến.",
+    "time": 1954,
+    "emoji": "⚔️",
+    "priority": 90
+  },
+  {
+    "title": "Hiệp định Giơ-ne-vơ",
+    "description": "Hiệp định Giơ-ne-vơ (20/7/1954) được ký kết, chấm dứt chiến tranh ở Đông Dương, công nhận độc lập, chủ quyền và thống nhất của Việt Nam, mở ra giai đoạn mới trong lịch sử đấu tranh của dân tộc Việt Nam.",
+    "time": 1954,
+    "emoji": "✍️",
+    "priority": 88
+  },
+  {
+    "title": "Hợp nhất Bắc-Nam",
+    "description": "Đất nước Việt Nam được thống nhất sau nhiều thế kỷ chia cắt, đánh dấu bước ngoặt quan trọng trong lịch sử dân tộc Việt Nam, mở ra kỷ nguyên hòa bình và phát triển cho toàn quốc.",
+    "time": 1976,
+    "emoji": "🇻🇳",
+    "priority": 90
+  },
+  {
+    "title": "Đổi mới - Chuyển đổi kinh tế Việt Nam",
+    "description": "Đại hội Đảng Cộng sản Việt Nam lần thứ 6 (1986) đề ra chính sách Đổi mới, mở cửa nền kinh tế, thu hút đầu tư nước ngoài, phát triển kinh tế thị trường định hướng xã hội chủ nghĩa, đánh dấu bước ngoặt trong lịch sử kinh tế Việt Nam.",
+    "time": 1986,
+    "emoji": "📈",
+    "priority": 88
+  },
+  {
+    "title": "Cố đô Huế - Di sản văn hóa thế giới",
+    "description": "Năm 1993, Quần thể di tích Cố đô Huế được UNESCO công nhận là Di sản Văn hóa Thế giới, đánh dấu giá trị nổi bật toàn cầu về kiến trúc, lịch sử và văn hóa của kinh đô nhà Nguyễn.",
+    "time": 1993,
+    "emoji": "🏯",
+    "priority": 86
+  },
+  {
+    "title": "Vịnh Hạ Long - Kỳ quan thiên nhiên thế giới",
+    "description": "Năm 1994, Vịnh Hạ Long được UNESCO công nhận là Di sản Thiên nhiên Thế giới, với hơn 1.900 đảo đá vôi và hàng nghìn hang động tạo nên cảnh quan thiên nhiên độc đáo và có giá trị nổi bật toàn cầu.",
+    "time": 1994,
+    "emoji": "🏝️",
+    "priority": 86
+  },
+  {
+    "title": "Việt Nam gia nhập ASEAN",
+    "description": "Việt Nam chính thức gia nhập ASEAN (1995), thể hiện tinh thần hợp tác quốc tế và khẳng định vị thế của Việt Nam trong khu vực Đông Nam Á, mở ra giai đoạn hội nhập sâu rộng với thế giới.",
+    "time": 1995,
+    "emoji": "🌏",
+    "priority": 85
+  },
+  {
+    "title": "Thánh địa Mỹ Sơn - Di sản văn hóa thế giới",
+    "description": "Năm 1999, Quần thể di tích Thánh địa Mỹ Sơn được UNESCO công nhận là Di sản Văn hóa Thế giới, thể hiện giá trị nổi bật của nền văn hóa Chăm Pa với hệ thống đền tháp độc đáo có từ thế kỷ 4.",
+    "time": 1999,
+    "emoji": "🛕",
+    "priority": 86
+  },
+  {
+    "title": "Phố cổ Hội An - Di sản văn hóa thế giới",
+    "description": "Năm 1999, Phố cổ Hội An được UNESCO công nhận là Di sản Văn hóa Thế giới, ghi dấu sự phát triển thịnh vượng của thương cảng quốc tế với kiến trúc, văn hóa độc đáo có từ thế kỷ 16-17.",
+    "time": 1999,
+    "emoji": "🏮",
+    "priority": 86
+  },
+  {
+    "title": "Nhã nhạc cung đình Huế - Di sản thế giới",
+    "description": "Năm 2003, Nhã nhạc cung đình Huế được UNESCO ghi danh là Di sản Văn hóa Phi vật thể Thế giới, là loại hình âm nhạc cung đình đặc sắc có từ thời Lê, đạt đến đỉnh cao dưới thời Nguyễn với sự kết hợp hoàn hảo giữa lễ và nhạc.",
+    "time": 2003,
+    "emoji": "🎵",
+    "priority": 85
+  },
+  {
+    "title": "Văn Miếu - Quốc Tử Giiam được UNESCO công nhận",
+    "description": "Năm 2010, Văn Miếu - Quốc Tử Giám được UNESCO ghi danh là Di sản Văn hóa Thế giới, khẳng định giá trị độc đáo của ngôi trường đại học đầu tiên của Việt Nam có từ năm 1070 và truyền thống giáo dục nặng tâm.",
+    "time": 2010,
+    "emoji": "🏛️",
+    "priority": 86
+  },
+  {
+    "title": "Hoàng thành Thăng Long - Di sản văn hóa thế giới",
+    "description": "Năm 2010, Hoàng thành Thăng Long được UNESCO ghi danh là Di sản Văn hóa Thế giới, là minh chứng cho hơn 13 thế kỷ liên tục là trung tâm chính trị, văn hóa của Việt Nam với nhiều giá trị lịch sử nổi bật.",
+    "time": 2010,
+    "emoji": "🏯",
+    "priority": 86
+  },
+  {
+    "title": "Đờn ca tài tử Nam Bộ - Di sản văn hóa phi vật thể",
+    "description": "Năm 2013, Đờn ca tài tử Nam Bộ được UNESCO ghi danh là Di sản Văn hóa Phi vật thể đại diện của nhân loại, là loại hình nghệ thuật quần chúng đặc sắc gắn bó mật thiết với đời sống tinh thần người dân Nam Bộ.",
+    "time": 2013,
+    "emoji": "🎶",
+    "priority": 85
+  },
+  {
+    "title": "Quần thể danh thắng Tràng An - Di sản kép",
+    "description": "Năm 2014, Quần thể danh thắng Tràng An được UNESCO công nhận là Di sản Văn hóa và Thiên nhiên Thế giới (di sản kép), với cảnh quan karst độc đáo, hệ thống hang động phong phú và giá trị văn hóa lịch sử lâu đời.",
+    "time": 2014,
+    "emoji": "🏔️",
+    "priority": 85
+  },
+  {
+    "title": "Hội nhập kinh tế quốc tế sâu rộng",
+    "description": "Việt Nam tích cực hội nhập kinh tế quốc tế, ký kết nhiều hiệp định thương mại tự do quan trọng, thu hút đầu tư nước ngoài, thúc đẩy phát triển kinh tế - xã hội và nâng cao vị thế quốc tế của đất nước.",
+    "time": 2015,
+    "emoji": "🌍",
+    "priority": 83
+  },
+  {
+    "title": "Dak Nong Geopark được UNESCO công nhận",
+    "description": "Năm 2020, Công viên địa chất Đắk Nông được UNESCO công nhận là Công viên địa chất Toàn cầu, là công viên địa chất thứ 3 của Việt Nam và thứ 7 của khu vực ASEAN, với hệ thống hàng trăm hang động và các giá trị địa chất độc đáo.",
+    "time": 2020,
+    "emoji": "🏔️",
+    "priority": 82
+  }
+]

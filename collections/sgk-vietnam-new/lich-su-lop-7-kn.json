@@ -1,0 +1,434 @@
+[
+  {
+    "title": "Thiên Chúa giáo trở thành quốc giáo của đế quốc La Mã",
+    "description": "Thiên Chúa giáo ra đời vào đầu Công nguyên ở vùng Giê-rư-sa-lem. Đến thế kỉ IV, Thiên Chúa giáo được công nhận là quốc giáo của đế quốc La Mã, trở thành chỗ dựa vững chắc của chế độ phong kiến.",
+    "time": [
+      350
+    ],
+    "emoji": "⛪",
+    "priority": 80
+  },
+  {
+    "title": "Vương triều Gúp-ta thành lập, thống nhất Ấn Độ",
+    "description": "Đầu thế kỉ IV, San-đra Gúp-ta I lên ngôi, thống nhất đất nước, lập ra Vương triều Gúp-ta. Đến đầu thế kỉ V, lãnh thổ Ấn Độ được mở rộng hầu khắp bán đảo. Thời kỳ này được gọi là thời hoàng kim của Ấn Độ cổ đại.",
+    "time": [
+      350
+    ],
+    "emoji": "🏛️",
+    "priority": 80
+  },
+  {
+    "title": "Đạo Hindu hình thành, Phật giáo và Hồi giáo phát triển ở Ấn Độ",
+    "description": "Dưới thời Vương triều Gúp-ta, đạo Bà La Môn phát triển thành đạo Hin-đu — tôn giáo thịnh hành nhất ở Ấn Độ cho đến ngày nay. Đạo Phật tiếp tục phát triển mạnh. Đạo Hồi được du nhập và phát triển thành một tôn giáo lớn từ thời Vương triều Đê-li.",
+    "time": [
+      400
+    ],
+    "emoji": "🕉️",
+    "priority": 78
+  },
+  {
+    "title": "Đế quốc Tây La Mã sụp đổ, chế độ phong kiến hình thành ở Tây Âu",
+    "description": "Sự kiện kinh thành Rô-ma bị thất thủ năm 476 được coi là mốc đánh dấu sự sụp đổ của đế quốc La Mã. Trên phần lãnh thổ đó, nhiều quốc gia mới ra đời, đặt nền tảng cho sự hình thành xã hội phong kiến châu Âu.",
+    "time": [
+      476
+    ],
+    "emoji": "🏛️",
+    "priority": 88
+  },
+  {
+    "title": "Nhà Đường thành lập và phát triển ở Trung Quốc (618–907)",
+    "description": "Nhà Đường (618–907) là triều đại phong kiến đạt đến đỉnh cao về mọi mặt ở Trung Quốc, được coi là thời kỳ thịnh vượng nhất của chế độ phong kiến. Đường Thái Tông cai trị đất nước với nhiều chính sách tiến bộ.",
+    "time": [
+      618
+    ],
+    "emoji": "🏯",
+    "priority": 82
+  },
+  {
+    "title": "Jayavarman II thống nhất Cam-pu-chia, mở thời kỳ Ăng-co",
+    "description": "Năm 802, vua Giay-a-vác-man II thống nhất lãnh thổ, đổi tên nước là Cam-pu-chia, mở ra thời kì Ăng-co — thời kì phát triển rực rỡ nhất của Vương quốc Cam-pu-chia kéo dài từ thế kỉ IX đến thế kỉ XV.",
+    "time": [
+      802
+    ],
+    "emoji": "🕌",
+    "priority": 83
+  },
+  {
+    "title": "Sác-lo-ma-nhơ lập ra đế quốc Phơ-răng",
+    "description": "Sau khi trở thành Hoàng đế, Sác-lo-ma-nhơ đã thống nhất các vùng đất rộng lớn thông qua liên minh với các quốc gia, lập ra đế quốc Phơ-răng — một trong những đế quốc hùng mạnh nhất thời trung đại Tây Âu.",
+    "time": [
+      814
+    ],
+    "emoji": "👑",
+    "priority": 80
+  },
+  {
+    "title": "Kinh Kim Cương — cuốn sách in hoàn chỉnh lâu đời nhất thế giới",
+    "description": "Kinh Kim Cương là một văn thơ thời Đường. Bản sao được tìm thấy trong hang Mạc Cao ở Trung Quốc mang niên đại năm 868 — được coi là cuốn sách in hoàn chỉnh lâu đời nhất thế giới.",
+    "time": [
+      868
+    ],
+    "emoji": "📜",
+    "priority": 75
+  },
+  {
+    "title": "Ngô Quyền đánh bại quân Nam Hán trên sông Bạch Đằng, lập chính quyền độc lập",
+    "description": "Năm 938, Ngô Quyền chỉ huy quân dân đánh bại quân Nam Hán trên sông Bạch Đằng, chấm dứt hoàn toàn ách đồ hộ của phong kiến phương Bắc hơn một nghìn năm, mở ra kỷ nguyên mới trong lịch sử dân tộc.",
+    "time": [
+      938
+    ],
+    "emoji": "⚔️",
+    "priority": 90
+  },
+  {
+    "title": "Nhà Tống thành lập ở Trung Quốc (960–1279)",
+    "description": "Nhà Tống (960–1279) tiếp nối nhà Đường, tiếp tục phát triển kinh tế, văn hoá. Thời kỳ này chứng kiến sự trỗi dậy của Nho giáo và nhiều thành tựu văn học, khoa học quan trọng.",
+    "time": [
+      960
+    ],
+    "emoji": "🏯",
+    "priority": 80
+  },
+  {
+    "title": "Chính quyền nhà Ngô tan rã, cát cứ của 12 sứ quân",
+    "description": "Năm 944, Ngô Quyền mất, chính quyền nhà Ngô suy yếu nhanh chóng. Đến năm 965, chính quyền nhà Ngô tan rã, đất nước lâm vào tình trạng cát cứ với 12 sứ quân, mỗi người chiếm cứ một vùng.",
+    "time": [
+      965
+    ],
+    "emoji": "⚔️",
+    "priority": 78
+  },
+  {
+    "title": "Đinh Bộ Lĩnh thống nhất đất nước, lập ra nhà Đinh",
+    "description": "Từ năm 966–967, Đinh Bộ Lĩnh đánh dẹp lần lượt các sứ quân, chấm dứt tình trạng cát cứ, thống nhất đất nước. Năm 968, ông lên ngôi hoàng đế (Đinh Tiên Hoàng), đặt tên nước là Đại Cồ Việt, đóng đô ở Hoa Lư (Ninh Bình).",
+    "time": [
+      968
+    ],
+    "emoji": "👑",
+    "priority": 87
+  },
+  {
+    "title": "Lê Hoàn lên ngôi vua, kháng chiến chống quân Tống thắng lợi",
+    "description": "Năm 981, quân Tống do Hầu Nhân Bảo chỉ huy tiến đánh Đại Cổ Việt theo hai đường thuỷ, bộ. Lê Hoàn trực tiếp tổ chức, lãnh đạo kháng chiến. Nhiều trận chiến ác liệt diễn ra ở Đại La, Lục Đầu Giang, Bạch Đằng, quân Tống đại bại, tướng Hầu Nhân Bảo tử trận.",
+    "time": [
+      981
+    ],
+    "emoji": "⚔️",
+    "priority": 86
+  },
+  {
+    "title": "Nhà Lý thành lập, kế thừa và phát triển Đại Cổ Việt",
+    "description": "Năm 1009, sau khi Lê Long Đĩnh mất, giới sư sãi và đại thần đã tôn Lý Công Uẳn lên ngôi vua. Nhà Lý được thành lập, tiếp nối công cuộc xây dựng và bảo vệ đất nước.",
+    "time": [
+      1009
+    ],
+    "emoji": "👑",
+    "priority": 85
+  },
+  {
+    "title": "Lý Công Uẳn dời đô về Thăng Long, đổi tên kinh đô",
+    "description": "Năm 1010, vua Lý Công Uẳn đặt niên hiệu là Thuận Thiên, quyết định dời đô từ Hoa Lư về thành Đại La và đổi tên là Thăng Long (Rồng bay lên). Sự kiện này đánh dấu bước phát triển quan trọng của quốc gia Đại Việt.",
+    "time": [
+      1010
+    ],
+    "emoji": "🏯",
+    "priority": 85
+  },
+  {
+    "title": "Bộ Hình thư — bộ luật hoàn chỉnh đầu tiên của Việt Nam",
+    "description": "Bộ Hình thư được ban hành năm 1042, là bộ luật hoàn chỉnh đầu tiên bằng văn bản của nước ta, đánh dấu sự phát triển của pháp luật và tổ chức nhà nước thời Lý.",
+    "time": [
+      1042
+    ],
+    "emoji": "📜",
+    "priority": 80
+  },
+  {
+    "title": "Các thành thị trung đại xuất hiện ở Tây Âu",
+    "description": "Từ cuối thế kỉ XI, thủ công nghiệp phát triển, hàng hoá sản xuất ra ngày càng nhiều thúc đẩy nhu cầu trao đổi. Một số thợ thủ công bỏ trốn khỏi lãnh địa, đến những nơi đông người qua lại lập xưởng sản xuất và bán hàng hoá — hình thành các thành thị trung đại.",
+    "time": [
+      1050
+    ],
+    "emoji": "🏰",
+    "priority": 75
+  },
+  {
+    "title": "Lý Công Uẳn đổi tên nước thành Đại Việt",
+    "description": "Năm 1054, nhà Lý đổi tên nước là Đại Việt, thể hiện ý chí thống nhất và độc lập của quốc gia, khẳng định vị thế của dân tộc trong khu vực.",
+    "time": [
+      1054
+    ],
+    "emoji": "🏴",
+    "priority": 82
+  },
+  {
+    "title": "Chăm-pa cắt ba châu Bố Chính, Địa Lý, Ma Linh cho Đại Việt",
+    "description": "Năm 1069, trong bối cảnh Chăm-pa gặp nhiều khó khăn, vua Chăm-pa đã cắt ba châu là Bố Chính, Địa Lý (Quảng Bình) và Ma Linh (phía bắc tỉnh Quảng Trị) cho Đại Việt — một bước mở rộng lãnh thổ quan trọng của quốc gia.",
+    "time": [
+      1069
+    ],
+    "emoji": "🗺️",
+    "priority": 80
+  },
+  {
+    "title": "Dựng Văn Miếu — Quốc Tử Giám, mở khoa thi đầu tiên tuyển chọn nhân tài",
+    "description": "Năm 1070, nhà Lý cho dựng Văn Miếu; năm 1075, cho mở khoa thi đầu tiên để tuyển chọn quan lại; năm 1076, Quốc Tử Giám được thành lập — đánh dấu bước phát triển quan trọng của giáo dục và Nho giáo ở Đại Việt.",
+    "time": [
+      1070
+    ],
+    "emoji": "🏫",
+    "priority": 82
+  },
+  {
+    "title": "Lý Thường Kiệt chủ động tiến công quân Tống trước (1075–1077)",
+    "description": "Trước âm mưu xâm lược của nhà Tống, Lý Thường Kiệt chủ động tiến công quân Tống, hạ được thành Ung Châu năm 1075. Năm 1077, quân Tống tràn vào xâm lược, bị chặn đứng tại phòng tuyến sông Như Nguyệt. Quân Tống đại bại, phải rút về nước.",
+    "time": [
+      1075
+    ],
+    "emoji": "⚔️",
+    "priority": 85
+  },
+  {
+    "title": "Trường Đại học Bô-lô-na ra đời ở I-ta-li-a",
+    "description": "Ra đời năm 1088, Trường Đại học Bô-lô-na là trường đại học lâu đời nhất trên thế giới. Nhiệm vụ ban đầu của ngôi trường là dạy Kinh thánh và luật pháp, sau đó trở thành trung tâm giáo dục cao học của I-ta-li-a.",
+    "time": [
+      1088
+    ],
+    "emoji": "🎓",
+    "priority": 75
+  },
+  {
+    "title": "Quân Cam-pu-chia xâm lược, sáp nhập Chăm-pa thành một tỉnh",
+    "description": "Năm 1190, quân Cam-pu-chia tiến đánh và biến Chăm-pa thành một tỉnh của vương quốc này. Chăm-pa phải chịu sự thống trị của Cam-pu-chia trong một thời gian dài.",
+    "time": [
+      1190
+    ],
+    "emoji": "⚔️",
+    "priority": 78
+  },
+  {
+    "title": "Vương triều Hồi giáo Đê-li thành lập ở Ấn Độ",
+    "description": "Từ cuối thế kỉ XII, người Hồi giáo gốc Thổ Nhĩ Kỳ đã xâm nhập, chiếm miền Bắc Ấn Độ và lập nên Vương triều Hồi giáo Đê-li năm 1206. Nhà vua có quyền lực cao nhất, Ấn Độ được chia thành nhiều khu vực do các tướng lĩnh Hồi giáo cai quản.",
+    "time": [
+      1206
+    ],
+    "emoji": "☪️",
+    "priority": 80
+  },
+  {
+    "title": "Nhà Trần thành lập thay thế nhà Lý",
+    "description": "Tháng 1 năm 1226, Lý Chiêu Hoàng — vị vua cuối cùng của nhà Lý — buộc phải nhường ngôi cho chồng là Trần Cảnh. Nhà Trần được thành lập, tiếp nối nhà Lý và đưa nền văn minh Đại Việt phát triển lên tầm cao mới.",
+    "time": [
+      1226
+    ],
+    "emoji": "👑",
+    "priority": 85
+  },
+  {
+    "title": "Kháng chiến chống quân Mông Cổ lần thứ nhất (1258)",
+    "description": "Tháng 1 năm 1258, 3 vạn quân Mông Cổ do tướng Ngột Lương Hợp Thai chỉ huy từ Vân Nam tiến vào Đại Việt. Nhà Trần thi hành kế sách 'vườn không nhà trống', quân Mông Cổ chiếm được Thăng Long nhưng chỉ là một thành trống rỗng. Cuộc kháng chiến kết thúc thắng lợi sau chưa đầy một tháng.",
+    "time": [
+      1258
+    ],
+    "emoji": "⚔️",
+    "priority": 86
+  },
+  {
+    "title": "Nhà Nguyên thành lập, Mông Cổ mở rộng xuống Đông Nam Á (1271–1368)",
+    "description": "Năm 1271, Hốt Tất Liệt lập ra nhà Nguyên, thống nhất Trung Quốc. Đế quốc Mông Cổ liên tiếc mở rộng xâm lược xuống Đông Nam Á, bao gồm các cuộc chiến chống Đại Việt và Chăm-pa.",
+    "time": [
+      1271
+    ],
+    "emoji": "⚔️",
+    "priority": 82
+  },
+  {
+    "title": "Kháng chiến chống quân Nguyên lần thứ hai (1285)",
+    "description": "Tháng 1 năm 1285, hơn 50 vạn quân Nguyên do Thoát Hoan chỉ huy tràn vào xâm lược Đại Việt. Quân dân nhà Trần kiên cường chiến đấu, phá vỡ kế hoạch hội quân của địch. Danh tướng Trần Bình Trọng tử trận oanh liệt. Tháng 5 năm 1285, quân Trần phản công, giải phóng Thăng Long, quân Nguyên thua to.",
+    "time": [
+      1285
+    ],
+    "emoji": "⚔️",
+    "priority": 88
+  },
+  {
+    "title": "Kháng chiến chống quân Nguyên lần thứ ba, trận Bạch Đằng đại thắng (1287–1288)",
+    "description": "Năm 1287–1288, quân Nguyên lại xâm lược lần thứ ba. Đầu tháng 4 năm 1288, quân Trần bố trí mai phục tại cửa sông Bạch Đằng dưới sự chỉ huy trực tiếp của Trần Quốc Tuấn. Trận Bạch Đằng đại thắng, đoàn thuyền lương bị tiêu diệt, tướng Ô Mã Nhi bị bắt sống. Cánh quân bộ cũng bị đánh tan tác.",
+    "time": [
+      1288
+    ],
+    "emoji": "⚔️",
+    "priority": 90
+  },
+  {
+    "title": "Phong trào Văn hoá Phục hưng khởi nguồn ở I-ta-li-a",
+    "description": "Phong trào Văn hoá Phục hưng diễn ra đầu tiên ở I-ta-li-a (thế kỉ XIV), sau đó lan nhanh sang các nước Tây Âu. Đây là cuộc đấu tranh của giai cấp tư sản chống lại chế độ phong kiến lỗi thời, mở đường cho văn hoá Tây Âu phát triển.",
+    "time": [
+      1350
+    ],
+    "emoji": "🎨",
+    "priority": 80
+  },
+  {
+    "title": "Vương quốc Lan Xang (Lào) thành lập",
+    "description": "Năm 1353, một tộc trưởng người Lào là Pha Ngừm đã tập hợp và thống nhất các mường Lào, lên ngôi vua, đặt tên nước là Lan Xang (Triệu Voi). Từ đó, Vương quốc Lào từng bước phát triển và đạt tới sự thịnh vượng trong các thế kỉ XV–XVII.",
+    "time": [
+      1353
+    ],
+    "emoji": "🏰",
+    "priority": 80
+  },
+  {
+    "title": "Nhà Minh thành lập ở Trung Quốc (1368–1644)",
+    "description": "Nhà Minh (1368–1644) thành lập sau khi lật đổ nhà Nguyên, tiếp tục phát triển kinh tế và văn hoá. Nhà Minh tiến hành nhiều cuộc xâm lược ra bên ngoài, bao gồm xâm lược Đại Việt năm 1406–1407.",
+    "time": [
+      1368
+    ],
+    "emoji": "🏯",
+    "priority": 80
+  },
+  {
+    "title": "Vương quốc Ma-lắc-ca thành lập và phát triển",
+    "description": "Vương quốc Ma-lắc-ca được thành lập và ngày càng hưng thịnh. Vào thế kỉ XV, Ma-lắc-ca là nơi duy nhất trên thế giới có thể mua rất dễ dàng hàng hoá từ Trung Quốc, Ấn Độ, Đông Nam Á, Tây Á và châu Âu.",
+    "time": [
+      1400
+    ],
+    "emoji": "🏪",
+    "priority": 78
+  },
+  {
+    "title": "Hồ Quý Ly lật đổ nhà Trần, thành lập nhà Hồ, đổi tên nước Đại Ngu",
+    "description": "Năm 1400, Hồ Quý Ly buộc vua Trần nhường ngôi, lập ra triều Hồ, đặt tên nước là Đại Ngu (niềm vui lớn). Triều Hồ chỉ tồn tại trong 7 năm với hai đời vua là Hồ Quý Ly (1400) và Hồ Hán Thương (1400–1407).",
+    "time": [
+      1400
+    ],
+    "emoji": "👑",
+    "priority": 84
+  },
+  {
+    "title": "Quân Minh xâm lược Đại Ngu, nhà Hồ thất bại",
+    "description": "Lấy cớ Hồ Quý Ly cướp ngôi nhà Trần, cuối năm 1406 nhà Minh huy động lực lượng lớn do Trương Phụ và Mộc Thạnh chỉ huy tiến sang xâm lược. Đến tháng 6 năm 1407, cuộc kháng chiến của nhà Hồ thất bại, đất nước rơi vào tay nhà Minh.",
+    "time": [
+      1407
+    ],
+    "emoji": "⚔️",
+    "priority": 83
+  },
+  {
+    "title": "Hội thề Lũng Nhai — hội họp quyết tâm kháng chiến chống giặc Minh",
+    "description": "Năm 1416, Lê Lợi cùng 18 hào kiệt tổ chức Hội thề ở Lũng Nhai (Thanh Hoá), thề quyết đánh đuổi giặc Minh, bày tỏ ý chí và quyết tâm giành lại độc lập dân tộc.",
+    "time": [
+      1416
+    ],
+    "emoji": "⚔️",
+    "priority": 84
+  },
+  {
+    "title": "Lê Lợi khởi nghĩa Lam Sơn chống quân Minh (1418–1427)",
+    "description": "Đầu năm 1418, Lê Lợi tự xưng là Bình Định Vương, truyền hịch kêu gọi nhân dân đứng lên đánh giặc cứu nước. Cuộc khởi nghĩa Lam Sơn trải qua nhiều gian khổ, từng bước giải phóng đất nước, kết thúc hơn hai mươi năm đô hộ của nhà Minh.",
+    "time": [
+      1418
+    ],
+    "emoji": "⚔️",
+    "priority": 90
+  },
+  {
+    "title": "Chiến thắng Tốt Động — Chúc Động, quân Minh thất bại nặng nề",
+    "description": "Ngày 7 tháng 11 năm 1426, quân ta mai phục và chặn đánh địch ở Tốt Động — Chúc Động (Chương Mỹ, Hà Nội ngày nay). Quân Minh thất bại nặng nề, nghĩa quân giải phóng nhiều đất đai và siết chặt vây hãm thành Đông Quan.",
+    "time": [
+      1426
+    ],
+    "emoji": "⚔️",
+    "priority": 85
+  },
+  {
+    "title": "Chiến thắng Chi Lăng — Xương Giang, Lam Sơn toàn thắng",
+    "description": "Tháng 10 năm 1427, Liễu Thăng và Mộc Thạnh chỉ huy 15 vạn viện binh Nguyên theo hai đường Quảng Tây, Vân Nam tiến vào nước ta. Nghĩa quân phục kích tại ải Chi Lăng (Lạng Sơn), Liễu Thăng bị giết tại trận. Quân giặc vô cùng khiếp sợ, vội vàng rút về nước. Cuộc khởi nghĩa Lam Sơn toàn thắng.",
+    "time": [
+      1427
+    ],
+    "emoji": "⚔️",
+    "priority": 88
+  },
+  {
+    "title": "Lê Lợi lên ngôi hoàng đế, nhà Lê sơ thành lập",
+    "description": "Năm 1428, Lê Lợi lên ngôi hoàng đế, thành lập nhà Lê sơ, đặt niên hiệu Thuận Thiên, khôi phục quốc hiệu Đại Việt và đóng đô ở Thăng Long. Bộ máy nhà nước mới được xây dựng và từng bước hoàn chỉnh.",
+    "time": [
+      1428
+    ],
+    "emoji": "👑",
+    "priority": 88
+  },
+  {
+    "title": "Chiến thắng năm 1471, Chăm-pa bị thu hẹp nghiêm trọng",
+    "description": "Năm 1471, vương triều Vi-giay-a lâm vào khủng hoảng và sụp đổ. Lãnh thổ Chăm-pa bị thu hẹp nhiều phần và chia thành nhiều tiểu quốc. Nhà Lê sơ thực hiện chính sách mở rộng biên giới về phía nam, đến khu vực tỉnh Phú Yên ngày nay.",
+    "time": [
+      1471
+    ],
+    "emoji": "🗺️",
+    "priority": 80
+  },
+  {
+    "title": "Dựng bia Tiến sĩ đầu tiên tại Văn Miếu — Quốc Tử Giám",
+    "description": "Năm 1484, khi khắc bia Tiến sĩ đầu tiên, Thân Nhân Trung viết: 'Hiền tài là nguyên khí của quốc gia'. Bia Tiến sĩ được lập tại Văn Miếu — Quốc Tử Giám để tôn vinh những người đỗ đạt, thể hiện sự coi trọng giáo dục và khoa cử của nhà Lê sơ.",
+    "time": [
+      1484
+    ],
+    "emoji": "📜",
+    "priority": 78
+  },
+  {
+    "title": "B. Đi-a-xơ đến mũi Hảo Vọng, mở đường hàng hải sang châu Á",
+    "description": "Năm 1487, B. Đi-a-xơ — hiệp sĩ hoàng gia Bồ Đào Nha — dẫn đầu đoàn thám hiểm đến được mũi cực Nam châu Phi. Trên đường đi, cơn bão đã thổi bật họ xuống phía nam và bất ngờ tìm ra mũi đất này, ban đầu được đặt tên là mũi Bão Táp.",
+    "time": [
+      1487
+    ],
+    "emoji": "⛵",
+    "priority": 85
+  },
+  {
+    "title": "C. Cô-lôm-bô phát hiện châu Mỹ",
+    "description": "Năm 1492, C. Cô-lôm-bô cùng đoàn thuỷ thủ từ Tây Ban Nha đi về phía tây, vượt qua Đại Tây Dương và tìm ra vùng đất mới — châu Mỹ. Ông tin mình đã đến được Đông Á nên gọi người bản địa là An-tê-giê-ra (Indian).",
+    "time": [
+      1492
+    ],
+    "emoji": "🌎",
+    "priority": 90
+  },
+  {
+    "title": "V. Ga-ma tìm ra đường biển sang Ấn Độ",
+    "description": "Năm 1497, đoàn thám hiểm của V. Ga-ma gồm 4 chiếc tàu với 160 thuỷ thủ rời cảng Li-xbon (Bồ Đào Nha), vòng qua mũi Hảo Vọng và cập bến Ca-l-cứt ở phía tây nam Ấn Độ năm 1498. Ước mơ tìm đường biển sang Ấn Độ đã được thực hiện.",
+    "time": [
+      1498
+    ],
+    "emoji": "⛵",
+    "priority": 86
+  },
+  {
+    "title": "Mác-tin Lu-thơ khởi xướng phong trào Cải cách tôn giáo",
+    "description": "Năm 1517, Mác-tin Lu-thơ — tu sĩ kiêm Giáo sư Trường Đại học Wit-ten-béc (Đức) — đã ghim lên cánh cửa nhà thờ bản luận văn gồm 95 điều chỉ trích Giáo hội Thiên Chúa giáo, chống lại việc bán thẻ miễn tội, mở đầu phong trào Cải cách tôn giáo.",
+    "time": [
+      1517
+    ],
+    "emoji": "✝️",
+    "priority": 87
+  },
+  {
+    "title": "Ph. Ma-gien-lăng thực hiện chuyến đi vòng quanh thế giới",
+    "description": "Năm 1519, Ph. Ma-gien-lăng và đoàn thám hiểm từ Tây Ban Nha khởi hành, đi về phía tây. Đến năm 1522, đoàn thám hiểm hoàn thành chuyến đi vòng quanh thế giới đầu tiên trong lịch sử, chứng minh trái đất hình cầu.",
+    "time": [
+      1522
+    ],
+    "emoji": "🌍",
+    "priority": 86
+  },
+  {
+    "title": "Vương triều Mô-gôn thành lập, đạt đến đỉnh cao ở Ấn Độ (1526–1857)",
+    "description": "Đầu thế kỉ XVI, người Hồi giáo tự nhận là dòng dõi Mông Cổ ở Ấn Độ đã lật đổ Vương triều Đê-li, lập ra Vương triều Mô-gôn. Dưới thời vua A-cơ-ba, Ấn Độ đạt được sự thịnh vượng và thống nhất đáng kể.",
+    "time": [
+      1526
+    ],
+    "emoji": "🏰",
+    "priority": 80
+  }
+]
