@@ -1,7 +1,7 @@
 [
   {
     "title": "Triều Nguyễn Thành Lập — Nguyễn Ánh Lên Ngôi",
-    "description": "Năm 1802, Nguyễn Ánh (Gia Long) lên ngôi hoàng đế, thống nhất toàn bộ Việt Nam lần đầu sau nhiều thế kỷ chia cắt. Ông đóng đô tại Huế, đặt tên nước là Việt Nam, xây dựng Đại Nội Huế.",
+    "description": "Năm 1802, Nguyễn Ánh lên ngôi hoàng đế, lấy niên hiệu Gia Long, lập ra triều Nguyễn, đóng đô ở Phú Xuân (Huế). Năm 1804, quốc hiệu Việt Nam chính thức được đặt.",
     "time": [
       1802
     ],
@@ -9,55 +9,66 @@
     "priority": 88
   },
   {
-    "title": "Gia Long Cải Cách Đất Nước",
-    "description": "Gia Long ban hành luật Gia Long, thiết lập quan chế theo mô hình Trung Quốc, xây dựng quân đội và ngoại giao. Ông cử sứ đoàn đầu tiên đến các nước phương Tây, mở quan hệ ngoại giao.",
+    "title": "Gia Long Củng Cố Đất Nước",
+    "description": "Gia Long tập trung củng cố bộ máy nhà nước, tổ chức lại hành chính và quân đội, cho biên soạn bộ Hoàng Việt luật lệ (luật Gia Long, ban hành năm 1815) và xây dựng Kinh thành Huế.",
     "time": [
       1802
+    ],
+    "endTime": [
+      1820
     ],
     "emoji": "📜",
     "priority": 76
   },
   {
     "title": "Thiệu Trị Trị vì (1841–1847)",
-    "description": "Thiệu Trị nối ngôi năm 1841, tiếp tục chính sách bảo thủ Nho giáo. Triều đình đóng cửa với phương Tây, cấm đạo Thiên Chúa. Ông cho trùng tu Văn Miếu, ban hành sắc lệnh cấm thông giao với nước ngoài.",
+    "description": "Thiệu Trị nối ngôi Minh Mạng năm 1841, cơ bản duy trì đường lối cai trị dựa trên Nho giáo, hạn chế quan hệ với phương Tây và tiếp tục chính sách cấm đạo Thiên Chúa.",
     "time": [
       1841
+    ],
+    "endTime": [
+      1847
     ],
     "emoji": "👑",
     "priority": 70
   },
   {
     "title": "Tự Đức Trị vì (1847–1883)",
-    "description": "Tự Đức là hoàng đế cuối cùng có thực quyền của triều Nguyễn. Trong thời gian trị vì, thực dân Pháp xâm lược và chiếm đóng Việt Nam. Tự Đức ký nhiều hiệp ước bất lợi, để mất độc lập quốc gia.",
+    "description": "Tự Đức trị vì từ 1847 đến 1883. Trong thời gian này, thực dân Pháp xâm lược Việt Nam; triều đình bảo thủ, lúng túng, lần lượt ký các hiệp ước nhượng bộ (1862, 1874), để mất dần chủ quyền đất nước.",
     "time": [
       1847
+    ],
+    "endTime": [
+      1883
     ],
     "emoji": "👑",
     "priority": 75
   },
   {
     "title": "Pháp Tấn Công Đà Nẵng",
-    "description": "Tháng 9/1858, hải quân Pháp dưới chỉ huy Rigault de Genouilly nã pháo vào Đà Nẵng, mở đầu cuộc chiến tranh Pháp–Việt. Đây là sự kiện mở đầu cho gần một thế kỷ thuộc địa tại Việt Nam.",
+    "description": "Ngày 1/9/1858, liên quân Pháp – Tây Ban Nha do Rigault de Genouilly chỉ huy nổ súng tấn công Đà Nẵng, mở đầu cuộc chiến tranh xâm lược Việt Nam. Quân dân ta dưới sự chỉ huy của Nguyễn Tri Phương cầm chân địch nhiều tháng, làm thất bại kế hoạch 'đánh nhanh thắng nhanh'.",
     "time": [
       1858,
-      9
+      9,
+      1
     ],
     "emoji": "💣",
     "priority": 85
   },
   {
-    "title": "Sài Gòn Thất Thủ",
-    "description": "Tháng 2/1859, quân Pháp chiếm Sài Gòn sau nhiều đợt tấn công. Tướng Nguyễn Phúc Vinh Soa không đủ quân bảo vệ. Sài Gòn trở thành trung tâm đô hộ của Pháp tại miền Nam.",
+    "title": "Thành Gia Định Thất Thủ",
+    "description": "Tháng 2/1859, quân Pháp chuyển hướng tấn công vào Nam và chiếm thành Gia Định (ngày 17/2/1859); Hộ đốc Võ Duy Ninh tuẫn tiết. Sài Gòn trở thành bàn đạp để Pháp mở rộng đánh chiếm Nam Kỳ.",
     "time": [
       1859,
-      2
+      2,
+      17
     ],
     "emoji": "🏳️",
     "priority": 83
   },
   {
-    "title": "Hiệp Ước Sài Gòn 1862",
-    "description": "Tự Đức ký Hiệp ước Sài Gòn với Pháp, nhượng ba tỉnh miền Đông Nam Kỳ (Biên Hòa, Gia Định, Định Tường) và một phần miền Tây. Pháp được quyền tự do truyền đạo Thiên Chúa tại Việt Nam.",
+    "title": "Hiệp Ước Nhâm Tuất 1862",
+    "description": "Ngày 5/6/1862, triều đình Huế ký Hiệp ước Nhâm Tuất, nhượng cho Pháp ba tỉnh miền Đông Nam Kỳ (Gia Định, Định Tường, Biên Hòa) cùng đảo Côn Lôn, bồi thường chiến phí và cho phép tự do truyền đạo Thiên Chúa.",
     "time": [
       1862,
       6,
@@ -68,36 +79,40 @@
   },
   {
     "title": "Toàn Bộ Nam Kỳ Thuộc Pháp",
-    "description": "Đến năm 1867, Pháp mở rộng kiểm soát toàn bộ Nam Kỳ (Cochinchina), chiếm thêm ba tỉnh (Vĩnh Long, An Giang, Hà Tiên). Nam Kỳ chính thức trở thành thuộc địa Pháp.",
+    "description": "Tháng 6/1867, Pháp chiếm nốt ba tỉnh miền Tây Nam Kỳ (Vĩnh Long, An Giang, Hà Tiên) mà gần như không gặp sự kháng cự của triều đình. Toàn bộ Nam Kỳ trở thành thuộc địa của Pháp.",
     "time": [
-      1867
+      1867,
+      6
     ],
     "emoji": "🏳️",
     "priority": 82
   },
   {
     "title": "Pháp Xâm Lược Bắc Kỳ",
-    "description": "Từ 1873, Pháp tấn công miền Bắc Việt Nam (Tonkin) với Frances Garnier chỉ huy. Các cuộc kháng chiến của triều đình Huế và nhân dân liên tục bị đàn áp. Nhiều tướng lĩnh Việt Nam hy sinh.",
+    "description": "Pháp hai lần đem quân đánh Bắc Kỳ: năm 1873 (Ph. Garnier) và năm 1882 (H. Rivière); Tổng đốc Nguyễn Tri Phương rồi Tổng đốc Hoàng Diệu tuẫn tiết giữ thành Hà Nội. Quân dân ta hai lần thắng lớn ở Cầu Giấy (1873, 1883), giết chết cả Garnier lẫn Rivière.",
     "time": [
       1873
+    ],
+    "endTime": [
+      1883
     ],
     "emoji": "⚔️",
     "priority": 78
   },
   {
-    "title": "Hiệp Ước Huế 1884 — Pháp Đặt Bảo Hộ Toàn Việt Nam",
-    "description": "Hiệp ước Patennotre ký tại Huế chính thức biến Việt Nam thành thuộc địa Pháp. Pháp đặt quânều lực bảo hộ (protectorat) lên toàn bộ Việt Nam, triều đình Huế chỉ còn danh nghĩa.",
+    "title": "Hiệp Ước Patenôtre 1884 — Pháp Đặt Bảo Hộ Toàn Việt Nam",
+    "description": "Ngày 6/6/1884, triều đình Huế ký Hiệp ước Patenôtre, thừa nhận nền bảo hộ của Pháp trên toàn bộ Việt Nam. Việt Nam từ một quốc gia độc lập trở thành nước thuộc địa nửa phong kiến; triều đình Huế chỉ còn danh nghĩa.",
     "time": [
       1884,
       6,
-      25
+      6
     ],
     "emoji": "📜",
     "priority": 85
   },
   {
     "title": "Liên Bang Đông Dương Thuộc Pháp Thành Lập",
-    "description": "Năm 1887, Pháp chính thức thành lập Liên bang Đông Dương (Indochine française), bao gồm Nam Kỳ, Trung Kỳ, Bắc Kỳ, Campuchia và Lào. Đây là thuộc địa lớn nhất của Pháp tại châu Á.",
+    "description": "Ngày 17/10/1887, Pháp thành lập Liên bang Đông Dương gồm Bắc Kỳ, Trung Kỳ, Nam Kỳ và Campuchia; Lào được sáp nhập năm 1893. Đây là thuộc địa quan trọng bậc nhất của Pháp tại châu Á.",
     "time": [
       1887,
       10,
@@ -107,80 +122,97 @@
     "priority": 86
   },
   {
-    "title": "Phong Trào Cần Vương (1885–1895)",
-    "description": "Năm 1885, vua Hàm Nghi bị Pháp bắt khi tham gia kháng chiến. Phong trào Cần Vương lan rộng khắp Trung Kỳ và Bắc Kỳ với khẩu hiệu 'Cần Vương cứu nước', kéo dài 10 năm.",
+    "title": "Phong Trào Cần Vương (1885–1896)",
+    "description": "Tháng 7/1885, sau cuộc phản công ở kinh thành Huế thất bại, Tôn Thất Thuyết đưa vua Hàm Nghi ra Tân Sở (Quảng Trị) và xuống chiếu Cần Vương, kêu gọi văn thân, sĩ phu giúp vua cứu nước. Phong trào lan rộng khắp Trung Kỳ, Bắc Kỳ; vua Hàm Nghi bị bắt cuối năm 1888 nhưng phong trào vẫn tiếp tục đến năm 1896.",
     "time": [
-      1885
+      1885,
+      7,
+      13
+    ],
+    "endTime": [
+      1896
     ],
     "emoji": "🔥",
     "priority": 80
   },
   {
-    "title": "Phan Đình Phùng Chỉ Huy Cần Vương",
-    "description": "Phan Đình Phùng là thủ lĩnh quân sự chính của phong trào Cần Vương. Ông tổ chức lực lượng du kích tại Hà Tĩnh, đánh bại nhiều đợt càn quét Pháp trong 10 năm. Ông được xem như anh hùng dân tộc.",
+    "title": "Khởi Nghĩa Hương Khê (Phan Đình Phùng)",
+    "description": "Khởi nghĩa Hương Khê (1885–1896) do Phan Đình Phùng và Cao Thắng lãnh đạo trên địa bàn bốn tỉnh Thanh Hóa, Nghệ An, Hà Tĩnh, Quảng Bình, là cuộc khởi nghĩa tiêu biểu nhất của phong trào Cần Vương. Cuối năm 1895, Phan Đình Phùng hy sinh; khởi nghĩa tan rã năm 1896.",
     "time": [
       1885
+    ],
+    "endTime": [
+      1896
     ],
     "emoji": "⚔️",
     "priority": 78
   },
   {
-    "title": "Hoàng Hoa Thám (Đề Thám) Kháng Pháp",
-    "description": "Đề Thám là thủ lĩnh nghĩa quân ở Hưng Yên, Bắc Ninh. Ông trở thành nỗi khiếp sợ của quân Pháp suốt hàng chục năm, đánh bại nhiều trận lớn, giữ vững căn cứ kháng chiến.",
+    "title": "Khởi Nghĩa Yên Thế (Hoàng Hoa Thám)",
+    "description": "Khởi nghĩa Yên Thế (1884–1913) là phong trào đấu tranh vũ trang của nông dân vùng Yên Thế (Bắc Giang), từ năm 1892 do Hoàng Hoa Thám (Đề Thám) chỉ huy. Nghĩa quân nhiều lần đánh bại các cuộc càn quét, buộc Pháp phải hai lần giảng hòa, và chỉ tan rã sau khi Đề Thám bị sát hại năm 1913.",
     "time": [
-      1886
+      1884
+    ],
+    "endTime": [
+      1913
     ],
     "emoji": "🗡️",
     "priority": 76
   },
   {
-    "title": "Phan Bội Châu Tìm Đường Cứu Nước",
-    "description": "Phan Bội Châu là nhà yêu nước hàng đầu, chủ trương đấu tranh bằng mọi biện pháp. Ông sang Nhật Bản năm 1905, lập ra nhiều tổ chức cách mạng, đặt nền móng cho phong trào Đông Du.",
+    "title": "Phan Bội Châu và Phong Trào Đông Du",
+    "description": "Năm 1904, Phan Bội Châu lập Hội Duy tân, chủ trương bạo động vũ trang giành độc lập. Năm 1905, ông sang Nhật Bản, phát động phong trào Đông du đưa thanh niên Việt Nam sang Nhật học tập; phong trào tan rã năm 1908–1909 khi Pháp và Nhật câu kết trục xuất du học sinh.",
     "time": [
       1905
+    ],
+    "endTime": [
+      1908
     ],
     "emoji": "🌏",
     "priority": 80
   },
   {
     "title": "Đông Kinh Nghĩa Thục (1907)",
-    "description": "Phan Bội Châu thành lập Đông Kinh Nghĩa Thục — trường học dạy tiếng Việt, khoa học và tư tưởng yêu nước tại Hà Nội. Pháp đóng cửa trường sau 2 năm, bắt giữ nhiều giáo viên.",
+    "description": "Tháng 3/1907, Lương Văn Can, Nguyễn Quyền cùng các sĩ phu tiến bộ mở trường Đông Kinh Nghĩa Thục tại Hà Nội, dạy chữ Quốc ngữ và kiến thức mới, cổ vũ lòng yêu nước. Tháng 11/1907, thực dân Pháp buộc trường phải đóng cửa và bắt giữ nhiều giáo viên.",
     "time": [
-      1907
+      1907,
+      3
     ],
     "emoji": "📚",
     "priority": 78
   },
   {
-    "title": "Phan Chu Trinh — Con Đường Cải Cách Hòa Bình",
-    "description": "Phan Chu Trinh chủ trương cải cách hòa bình, đòi dân quyền qua giáo dục và văn minh hóa. Ông phản đối bạo lực, tin rằng Việt Nam cần tự thay đổi từ bên trong. Ông đến Paris 1919 tham dự Hội nghị Versailles.",
+    "title": "Phan Châu Trinh — Con Đường Cải Cách Hòa Bình",
+    "description": "Phan Châu Trinh chủ trương cứu nước bằng cải cách ôn hòa: 'khai dân trí, chấn dân khí, hậu dân sinh'. Từ năm 1906, ông phát động cuộc vận động Duy tân ở Trung Kỳ; năm 1911 ông sang Pháp, tiếp tục hoạt động yêu nước cho đến khi qua đời năm 1926.",
     "time": [
-      1907
+      1906
     ],
     "emoji": "📖",
     "priority": 74
   },
   {
-    "title": "Việt Nam Thanh Niên Cách Mạng Đồng Chí Hội (1925)",
-    "description": "Năm 1925, Nguyễn Ái Quốc (Hồ Chí Minh) thành lập Hội Việt Nam Cách Mạng Thanh Niên tại Quảng Châu, Trung Quốc. Đây là tiền thân trực tiếp của Đảng Cộng sản Việt Nam.",
+    "title": "Hội Việt Nam Cách Mạng Thanh Niên (1925)",
+    "description": "Tháng 6/1925, Nguyễn Ái Quốc thành lập Hội Việt Nam Cách mạng Thanh niên tại Quảng Châu (Trung Quốc), mở các lớp huấn luyện cán bộ và xuất bản báo Thanh niên. Đây là tổ chức tiền thân trực tiếp của Đảng Cộng sản Việt Nam.",
     "time": [
-      1925
+      1925,
+      6
     ],
     "emoji": "🌱",
     "priority": 86
   },
   {
-    "title": "Đông Dương Cộng Sản Liên Đoàn (1929)",
-    "description": "Năm 1929, tổ chức Đông Dương Cộng sản Liên đoàn được thành lập tại Hà Nội, đánh dấu sự phát triển của phong trào cộng sản tại Việt Nam, tiến tới thành lập Đảng Cộng sản Việt Nam.",
+    "title": "Ba Tổ Chức Cộng Sản Ra Đời (1929)",
+    "description": "Trong năm 1929, ba tổ chức cộng sản lần lượt ra đời: Đông Dương Cộng sản Đảng (6/1929, Bắc Kỳ), An Nam Cộng sản Đảng (8/1929, Nam Kỳ) và Đông Dương Cộng sản Liên đoàn (9/1929, Trung Kỳ), đặt ra yêu cầu cấp thiết phải hợp nhất thành một chính đảng duy nhất.",
     "time": [
-      1929
+      1929,
+      6
     ],
     "emoji": "🟥",
     "priority": 82
   },
   {
     "title": "Đảng Cộng Sản Việt Nam Thành Lập (3/2/1930)",
-    "description": "Ngày 3/2/1930, Đảng Cộng sản Việt Nam được thành lập tại Hồng Kông, hợp nhất ba tổ chức cộng sản. Sau đó đổi tên thành Đảng Cộng sản Đông Dương. Hồ Chí Minh giữ vai trò lãnh đạo.",
+    "description": "Đầu năm 1930, Nguyễn Ái Quốc chủ trì hội nghị hợp nhất ba tổ chức cộng sản tại Hương Cảng (Trung Quốc), thành lập Đảng Cộng sản Việt Nam; ngày 3/2 trở thành ngày kỷ niệm thành lập Đảng. Tháng 10/1930, Đảng đổi tên thành Đảng Cộng sản Đông Dương.",
     "time": [
       1930,
       2,
@@ -190,70 +222,88 @@
     "priority": 92
   },
   {
-    "title": "Khởi Nghĩa Yên Báy — Xô Viết Nghệ Tĩnh (1930–1931)",
-    "description": "Tháng 2/1930, Đảng CSVN phát động khởi nghĩa tại Pắc Bó (Yên Báy), lập Xô Viết Nghệ Tĩnh — chính quyền cách mạng đầu tiên ở Việt Nam. Pháp đàn áp dữ dội, hàng nghìn người thiệt mạng.",
+    "title": "Phong Trào Xô Viết Nghệ – Tĩnh (1930–1931)",
+    "description": "Trong phong trào cách mạng 1930–1931, công nhân và nông dân Nghệ An, Hà Tĩnh đấu tranh quyết liệt làm tan rã chính quyền thực dân, phong kiến ở nhiều thôn xã; các Xô viết ra đời, thực hiện quyền làm chủ của nhân dân. Thực dân Pháp đàn áp phong trào vô cùng tàn bạo.",
     "time": [
       1930,
-      2
+      9
+    ],
+    "endTime": [
+      1931
     ],
     "emoji": "🔥",
     "priority": 88
   },
   {
-    "title": "Nhật Bản Chiếm Đóng Việt Nam (1940–1945)",
-    "description": "Tháng 9/1940, quân Nhật tràn vào Đông Dương, dùng Pháp Vichy làm đồng minh. Từ 1940 đến 1945, Việt Nam chịu cảnh đô hộ kép: kinh tế bị bóc lột nặng nề bởi cả Nhật và Pháp.",
+    "title": "Nhật Bản Chiếm Đóng Đông Dương (1940–1945)",
+    "description": "Tháng 9/1940, quân Nhật tiến vào Đông Dương; thực dân Pháp nhanh chóng đầu hàng rồi câu kết với Nhật cùng thống trị. Từ 1940 đến 1945, nhân dân Việt Nam chịu cảnh 'một cổ hai tròng', bị cả Nhật và Pháp bóc lột nặng nề.",
     "time": [
       1940,
-      9
+      9,
+      22
+    ],
+    "endTime": [
+      1945,
+      8
     ],
     "emoji": "🏴",
     "priority": 86
   },
   {
-    "title": "Việt Nam Độc Lập Đồng Minh Hội Thành Lập",
-    "description": "Ngày 10/5/1941, Hồ Chí Minh thành lập Việt Nam Độc Lập Đồng Minh Hội (Việt Minh) tại Pắc Bó (Cao Bằng). Việt Minh là mặt trận thống nhất các lực lượng yêu nước chống Pháp và Nhật.",
+    "title": "Mặt Trận Việt Minh Thành Lập",
+    "description": "Ngày 19/5/1941, theo sáng kiến của Nguyễn Ái Quốc, Mặt trận Việt Nam Độc lập Đồng minh (Việt Minh) được thành lập tại Pác Bó (Cao Bằng), tập hợp mọi lực lượng yêu nước để chuẩn bị tổng khởi nghĩa giành chính quyền.",
     "time": [
       1941,
       5,
-      10
+      19
     ],
     "emoji": "🌿",
     "priority": 90
   },
   {
-    "title": "Nạn Đói Lớn Việt Nam (1944–1945)",
-    "description": "Từ tháng 10/1944 đến tháng 5/1945, nạn đói hoành hành ở đồng bằng sông Hồng. Hơn 2 triệu người chết vì đói, do chính sách cướp lúa và đánh thuế nặng nề của Nhật và Pháp Vichy.",
+    "title": "Nạn Đói Năm Ất Dậu (1944–1945)",
+    "description": "Từ cuối năm 1944 đến giữa năm 1945, nạn đói khủng khiếp diễn ra ở Bắc Kỳ và Bắc Trung Kỳ làm khoảng 2 triệu đồng bào ta chết đói - hậu quả trực tiếp của chính sách vơ vét thóc gạo, bắt nhổ lúa trồng đay của Nhật và Pháp.",
     "time": [
       1944,
       10
+    ],
+    "endTime": [
+      1945,
+      5
     ],
     "emoji": "💀",
     "priority": 88
   },
   {
     "title": "Cách Mạng Tháng Tám (1945)",
-    "description": "Sau khi Nhật đầu hàng (15/8/1945), Việt Minh phát động Tổng khởi nghĩa. Ngày 19/8, Hà Nội được giải phóng. Ngày 25/8, Bảo Đại thoái vị. Ngày 2/9, Hồ Chí Minh tuyên bố thành lập nước Việt Nam Dân chủ Cộng hòa.",
+    "description": "Sau khi Nhật đầu hàng Đồng minh, Tổng khởi nghĩa thắng lợi trong cả nước từ ngày 14 đến 28/8/1945: Hà Nội (19/8), Huế (23/8), Sài Gòn (25/8). Ngày 30/8, vua Bảo Đại thoái vị; ngày 2/9/1945, Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập.",
     "time": [
       1945,
-      8
+      8,
+      14
+    ],
+    "endTime": [
+      1945,
+      9,
+      2
     ],
     "emoji": "🔥",
     "priority": 92
   },
   {
-    "title": "Bảo Đại Thoái Vị (25/8/1945)",
-    "description": "Ngày 25/8/1945, vua Bảo Đại tuyên bố thoái vị tại Huế, kết thúc hơn 500 năm quân chủ Việt Nam. Bảo Đại sau đó làm cố vấn cho chính phủ cách mạng. Triều Nguyễn chấm dứt sau 143 năm tồn tại.",
+    "title": "Bảo Đại Thoái Vị (30/8/1945)",
+    "description": "Ngày 30/8/1945, vua Bảo Đại đọc chiếu thoái vị tại Ngọ Môn (Huế), trao ấn kiếm cho đại diện Chính phủ lâm thời và nhận làm cố vấn cho chính quyền cách mạng. Triều Nguyễn chấm dứt sau 143 năm tồn tại; chế độ quân chủ ở Việt Nam hoàn toàn sụp đổ.",
     "time": [
       1945,
       8,
-      25
+      30
     ],
     "emoji": "👑",
     "priority": 90
   },
   {
     "title": "Việt Nam Dân Chủ Cộng Hòa Ra Đời (2/9/1945)",
-    "description": "Ngày 2/9/1945 tại Quảng trường Ba Đình, Hồ Chí Minh đọc Tuyên ngôn Độc lập, tuyên bố thành lập nước Việt Nam Dân chủ Cộng hòa. Sự kiện này đánh dấu sự ra đời của nhà nước hiện đại đầu tiên của Việt Nam.",
+    "description": "Ngày 2/9/1945, tại Quảng trường Ba Đình (Hà Nội), Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập, tuyên bố thành lập nước Việt Nam Dân chủ Cộng hòa - nhà nước công nông đầu tiên ở Đông Nam Á.",
     "time": [
       1945,
       9,

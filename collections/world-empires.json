@@ -1,0 +1,464 @@
+[
+  {
+    "title": { "vi": "Đế quốc Akkad", "en": "Akkadian Empire" },
+    "description": {
+      "vi": "Đế quốc đầu tiên trong lịch sử, do Sargon xứ Akkad sáng lập ở Lưỡng Hà. Thống nhất các thành bang Sumer và Akkad dưới một chính quyền trung ương.",
+      "en": "The first empire in history, founded by Sargon of Akkad in Mesopotamia. It united the Sumerian and Akkadian city-states under one central rule."
+    },
+    "time": [-2334],
+    "endTime": [-2154],
+    "emoji": "🗿",
+    "priority": 71
+  },
+  {
+    "title": { "vi": "Tân Vương quốc Ai Cập", "en": "New Kingdom of Egypt" },
+    "description": {
+      "vi": "Thời kỳ đỉnh cao quyền lực của Ai Cập cổ đại với các pharaon nổi tiếng như Thutmose III, Akhenaten, Tutankhamun và Ramses II. Lãnh thổ trải dài từ Nubia đến Syria.",
+      "en": "The peak of ancient Egypt's power under famous pharaohs such as Thutmose III, Akhenaten, Tutankhamun and Ramesses II. Its territory stretched from Nubia to Syria."
+    },
+    "time": [-1550],
+    "endTime": [-1069],
+    "emoji": "🌞",
+    "priority": 78
+  },
+  {
+    "title": { "vi": "Đế quốc Tân Assyria", "en": "Neo-Assyrian Empire" },
+    "description": {
+      "vi": "Cỗ máy chiến tranh hùng mạnh nhất Cận Đông cổ đại, thống trị từ Lưỡng Hà đến Ai Cập. Nổi tiếng với quân đội chuyên nghiệp và thư viện hoàng gia Nineveh.",
+      "en": "The most formidable war machine of the ancient Near East, dominating from Mesopotamia to Egypt. Famed for its professional army and the royal library of Nineveh."
+    },
+    "time": [-911],
+    "endTime": [-609],
+    "emoji": "⚔️",
+    "priority": 72
+  },
+  {
+    "title": { "vi": "Đế quốc Tân Babylon", "en": "Neo-Babylonian Empire" },
+    "description": {
+      "vi": "Thời hoàng kim cuối cùng của Babylon dưới Nebuchadnezzar II, gắn với Vườn treo Babylon và cổng Ishtar. Bị Cyrus Đại đế của Ba Tư chinh phục năm 539 TCN.",
+      "en": "Babylon's final golden age under Nebuchadnezzar II, associated with the Hanging Gardens and the Ishtar Gate. Conquered by Cyrus the Great of Persia in 539 BCE."
+    },
+    "time": [-626],
+    "endTime": [-539],
+    "emoji": "🦁",
+    "priority": 70
+  },
+  {
+    "title": { "vi": "Đế quốc Achaemenes", "en": "Achaemenid Empire" },
+    "description": {
+      "vi": "Đế quốc Ba Tư đầu tiên do Cyrus Đại đế sáng lập, lớn nhất thế giới thời bấy giờ, trải từ Ấn Độ đến Hy Lạp và Ai Cập. Sụp đổ trước cuộc chinh phạt của Alexandros Đại đế.",
+      "en": "The first Persian empire, founded by Cyrus the Great — the largest the world had yet seen, stretching from India to Greece and Egypt. It fell to Alexander the Great's conquest."
+    },
+    "time": [-550],
+    "endTime": [-330],
+    "emoji": "👑",
+    "priority": 86
+  },
+  {
+    "title": { "vi": "Đế quốc Macedonia", "en": "Macedonian Empire" },
+    "description": {
+      "vi": "Dưới thời Alexandros Đại đế, Macedonia chinh phục toàn bộ đế quốc Ba Tư, tạo nên lãnh thổ trải từ Hy Lạp đến Ấn Độ. Sau khi ông mất năm 323 TCN, đế quốc bị các tướng lĩnh chia cắt.",
+      "en": "Under Alexander the Great, Macedon conquered the entire Persian Empire, creating a realm stretching from Greece to India. After his death in 323 BCE the empire was carved up by his generals."
+    },
+    "time": [-336],
+    "endTime": [-323],
+    "emoji": "🐎",
+    "priority": 82
+  },
+  {
+    "title": { "vi": "Đế quốc Maurya", "en": "Maurya Empire" },
+    "description": {
+      "vi": "Đế quốc đầu tiên thống nhất gần trọn tiểu lục địa Ấn Độ, do Chandragupta Maurya sáng lập. Đạt đỉnh cao dưới thời vua A Dục (Ashoka), người truyền bá Phật giáo khắp châu Á.",
+      "en": "The first empire to unify most of the Indian subcontinent, founded by Chandragupta Maurya. It peaked under Ashoka, who spread Buddhism across Asia."
+    },
+    "time": [-322],
+    "endTime": [-185],
+    "emoji": "☸️",
+    "priority": 75
+  },
+  {
+    "title": { "vi": "Đế quốc Parthia", "en": "Parthian Empire" },
+    "description": {
+      "vi": "Đế quốc Ba Tư của nhà Arsaces, kiểm soát Con đường Tơ lụa và là đối thủ dai dẳng của La Mã ở phương Đông. Nổi tiếng với kỵ xạ và chiến thuật \"bắn kiểu Parthia\".",
+      "en": "The Arsacid Persian empire that controlled the Silk Road and was Rome's persistent rival in the East. Famed for its horse archers and the \"Parthian shot\"."
+    },
+    "time": [-247],
+    "endTime": [224],
+    "emoji": "🏇",
+    "priority": 68
+  },
+  {
+    "title": { "vi": "Nhà Tần", "en": "Qin Dynasty" },
+    "description": {
+      "vi": "Tần Thủy Hoàng thống nhất Trung Quốc năm 221 TCN, trở thành hoàng đế đầu tiên, chuẩn hóa chữ viết, tiền tệ và khởi đầu Vạn Lý Trường Thành. Triều đại ngắn ngủi nhưng đặt nền móng cho đế chế Trung Hoa.",
+      "en": "Qin Shi Huang unified China in 221 BCE as its first emperor, standardizing script and currency and beginning the Great Wall. Short-lived, but it laid the foundation of imperial China."
+    },
+    "time": [-221],
+    "endTime": [-206],
+    "emoji": "🧱",
+    "priority": 77
+  },
+  {
+    "title": { "vi": "Nhà Hán", "en": "Han Dynasty" },
+    "description": {
+      "vi": "Triều đại hoàng kim của Trung Quốc do Lưu Bang sáng lập, mở Con đường Tơ lụa và định hình văn hóa Trung Hoa — người Hán mang tên từ triều đại này. Kéo dài hơn bốn thế kỷ qua hai thời Tây Hán và Đông Hán.",
+      "en": "China's golden-age dynasty founded by Liu Bang, which opened the Silk Road and shaped Chinese identity — the Han people take their name from it. It lasted over four centuries across the Western and Eastern Han."
+    },
+    "time": [-202],
+    "endTime": [220],
+    "emoji": "🐉",
+    "priority": 89
+  },
+  {
+    "title": { "vi": "Đế quốc La Mã", "en": "Roman Empire" },
+    "description": {
+      "vi": "Từ khi Augustus trở thành hoàng đế đầu tiên năm 27 TCN, La Mã thống trị toàn bộ Địa Trung Hải, định hình luật pháp, ngôn ngữ và kiến trúc phương Tây. Đế quốc Tây La Mã sụp đổ năm 476.",
+      "en": "From Augustus becoming the first emperor in 27 BCE, Rome dominated the entire Mediterranean, shaping Western law, language and architecture. The Western Roman Empire fell in 476."
+    },
+    "time": [-27],
+    "endTime": [476],
+    "emoji": "🏛️",
+    "priority": 95
+  },
+  {
+    "title": { "vi": "Đế quốc Quý Sương", "en": "Kushan Empire" },
+    "description": {
+      "vi": "Đế quốc của người Nguyệt Chi trải từ Trung Á đến Bắc Ấn Độ, cầu nối thương mại giữa La Mã, Ba Tư, Ấn Độ và Trung Quốc. Dưới vua Kanishka, Phật giáo được truyền bá mạnh mẽ dọc Con đường Tơ lụa.",
+      "en": "A Yuezhi empire spanning Central Asia and northern India, a trade bridge between Rome, Persia, India and China. Under Kanishka it powerfully spread Buddhism along the Silk Road."
+    },
+    "time": [30],
+    "endTime": [375],
+    "emoji": "🪙",
+    "priority": 63
+  },
+  {
+    "title": { "vi": "Đế quốc Sasanid", "en": "Sasanian Empire" },
+    "description": {
+      "vi": "Đế quốc Ba Tư cuối cùng trước thời Hồi giáo, quốc giáo là Hỏa giáo (Zoroaster), kình địch lớn của Đông La Mã suốt bốn thế kỷ. Sụp đổ trước cuộc chinh phục của người Ả Rập năm 651.",
+      "en": "The last pre-Islamic Persian empire, with Zoroastrianism as state religion and Byzantium as its great rival for four centuries. It fell to the Arab conquest in 651."
+    },
+    "time": [224],
+    "endTime": [651],
+    "emoji": "🔥",
+    "priority": 73
+  },
+  {
+    "title": { "vi": "Đế quốc Đông La Mã (Byzantine)", "en": "Byzantine Empire" },
+    "description": {
+      "vi": "Nửa phía đông của La Mã tiếp tục tồn tại hơn nghìn năm với kinh đô Constantinopolis, do Constantinus Đại đế lập năm 330. Trung tâm của Chính thống giáo và văn minh Hy-La, thất thủ trước quân Ottoman năm 1453.",
+      "en": "The eastern half of Rome that endured over a thousand years from Constantinople, founded by Constantine the Great in 330. A center of Orthodox Christianity and Greco-Roman civilization, it fell to the Ottomans in 1453."
+    },
+    "time": [330],
+    "endTime": [1453],
+    "emoji": "⛪",
+    "priority": 88
+  },
+  {
+    "title": { "vi": "Nhà Đường", "en": "Tang Dynasty" },
+    "description": {
+      "vi": "Thời hoàng kim của văn minh Trung Hoa: thơ ca, Phật giáo và thương mại Con đường Tơ lụa nở rộ, kinh đô Trường An là đô thị lớn nhất thế giới. Ảnh hưởng sâu rộng khắp Đông Á.",
+      "en": "A golden age of Chinese civilization: poetry, Buddhism and Silk Road trade flourished, and the capital Chang'an was the world's largest city. Its influence spread across East Asia."
+    },
+    "time": [618],
+    "endTime": [907],
+    "emoji": "🐫",
+    "priority": 80
+  },
+  {
+    "title": { "vi": "Nhà Umayyad", "en": "Umayyad Caliphate" },
+    "description": {
+      "vi": "Vương triều Hồi giáo đóng đô ở Damascus, mở rộng lãnh thổ từ Tây Ban Nha đến sông Ấn — một trong những đế quốc lớn nhất lịch sử tính đến lúc đó. Bị nhà Abbas lật đổ năm 750.",
+      "en": "The Islamic caliphate ruled from Damascus, expanding from Spain to the Indus — one of the largest empires in history up to that point. It was overthrown by the Abbasids in 750."
+    },
+    "time": [661],
+    "endTime": [750],
+    "emoji": "🕌",
+    "priority": 78
+  },
+  {
+    "title": { "vi": "Đế quốc Srivijaya", "en": "Srivijaya Empire" },
+    "description": {
+      "vi": "Đế quốc hàng hải Phật giáo đặt trung tâm ở Palembang (Sumatra), khống chế eo biển Malacca và thương mại biển Đông Nam Á suốt nhiều thế kỷ. Suy tàn sau cuộc tấn công của Chola năm 1025.",
+      "en": "A Buddhist maritime empire centered at Palembang on Sumatra, controlling the Strait of Malacca and Southeast Asian sea trade for centuries. It declined after the Chola raid of 1025."
+    },
+    "time": [671],
+    "endTime": [1025],
+    "emoji": "⛵",
+    "priority": 62
+  },
+  {
+    "title": { "vi": "Nhà Abbas", "en": "Abbasid Caliphate" },
+    "description": {
+      "vi": "Vương triều Hồi giáo với kinh đô Baghdad, trung tâm của Thời hoàng kim Hồi giáo: khoa học, y học và triết học phát triển rực rỡ tại Nhà Thông thái. Kết thúc khi quân Mông Cổ tàn phá Baghdad năm 1258.",
+      "en": "The Islamic caliphate centered on Baghdad, heart of the Islamic Golden Age where science, medicine and philosophy flourished at the House of Wisdom. It ended with the Mongol sack of Baghdad in 1258."
+    },
+    "time": [750],
+    "endTime": [1258],
+    "emoji": "📚",
+    "priority": 81
+  },
+  {
+    "title": { "vi": "Đế quốc Khmer", "en": "Khmer Empire" },
+    "description": {
+      "vi": "Đế quốc hùng mạnh nhất Đông Nam Á lục địa, khởi đầu từ Jayavarman II năm 802, để lại quần thể Angkor Wat kỳ vĩ. Suy tàn sau khi Angkor bị quân Ayutthaya tàn phá năm 1431.",
+      "en": "Mainland Southeast Asia's greatest empire, begun under Jayavarman II in 802 and builder of the magnificent Angkor Wat. It declined after Ayutthaya sacked Angkor in 1431."
+    },
+    "time": [802],
+    "endTime": [1431],
+    "emoji": "🛕",
+    "priority": 70
+  },
+  {
+    "title": { "vi": "Đế quốc Chola", "en": "Chola Empire" },
+    "description": {
+      "vi": "Đế quốc Tamil ở Nam Ấn Độ, hùng mạnh nhất dưới thời Rajaraja I và Rajendra I với hải quân viễn chinh tới tận Srivijaya. Nổi tiếng với đền Brihadeeswarar và nghệ thuật đúc đồng.",
+      "en": "The Tamil empire of South India, at its height under Rajaraja I and Rajendra I, whose navy campaigned as far as Srivijaya. Renowned for the Brihadeeswarar temple and bronze sculpture."
+    },
+    "time": [848],
+    "endTime": [1279],
+    "emoji": "🕉️",
+    "priority": 66
+  },
+  {
+    "title": { "vi": "Nhà Tống", "en": "Song Dynasty" },
+    "description": {
+      "vi": "Thời kỳ cách mạng kinh tế và kỹ thuật của Trung Quốc: thuốc súng, la bàn hàng hải, in ấn và tiền giấy đều phổ biến dưới triều Tống. Bị quân Mông Cổ tiêu diệt hoàn toàn năm 1279.",
+      "en": "An era of economic and technological revolution in China: gunpowder, the maritime compass, printing and paper money all spread under the Song. It was finally destroyed by the Mongols in 1279."
+    },
+    "time": [960],
+    "endTime": [1279],
+    "emoji": "🧭",
+    "priority": 74
+  },
+  {
+    "title": { "vi": "Đế quốc La Mã Thần thánh", "en": "Holy Roman Empire" },
+    "description": {
+      "vi": "Liên minh phong kiến ở Trung Âu tự nhận kế thừa La Mã, bắt đầu từ khi Otto I đăng quang hoàng đế năm 962. Tồn tại hơn tám thế kỷ trước khi giải thể năm 1806 dưới sức ép của Napoléon.",
+      "en": "A Central European feudal union claiming Rome's legacy, dating from Otto I's imperial coronation in 962. It lasted over eight centuries before dissolving in 1806 under pressure from Napoleon."
+    },
+    "time": [962],
+    "endTime": [1806],
+    "emoji": "🏰",
+    "priority": 76
+  },
+  {
+    "title": { "vi": "Đế quốc Mông Cổ", "en": "Mongol Empire" },
+    "description": {
+      "vi": "Đế quốc lục địa liền mạch lớn nhất lịch sử, do Thành Cát Tư Hãn thống nhất các bộ lạc Mông Cổ năm 1206, trải từ Thái Bình Dương đến Đông Âu. Sau đó phân rã thành các hãn quốc; nhà Nguyên sụp đổ năm 1368.",
+      "en": "The largest contiguous land empire in history, forged when Genghis Khan united the Mongol tribes in 1206, stretching from the Pacific to Eastern Europe. It later split into khanates; the Yuan fell in 1368."
+    },
+    "time": [1206],
+    "endTime": [1368],
+    "emoji": "🏹",
+    "priority": 93
+  },
+  {
+    "title": { "vi": "Đế quốc Mali", "en": "Mali Empire" },
+    "description": {
+      "vi": "Đế quốc Tây Phi do Sundiata Keita sáng lập, giàu có nhờ vàng và muối, với Timbuktu là trung tâm học thuật Hồi giáo. Vua Mansa Musa được xem là một trong những người giàu nhất lịch sử.",
+      "en": "The West African empire founded by Sundiata Keita, wealthy from gold and salt, with Timbuktu as a center of Islamic learning. Its ruler Mansa Musa is considered one of the richest people in history."
+    },
+    "time": [1226],
+    "endTime": [1670],
+    "emoji": "🐪",
+    "priority": 68
+  },
+  {
+    "title": { "vi": "Nhà Nguyên", "en": "Yuan Dynasty" },
+    "description": {
+      "vi": "Triều đại do Hốt Tất Liệt lập năm 1271, lần đầu tiên toàn bộ Trung Quốc nằm dưới ách thống trị của người Mông Cổ. Bị khởi nghĩa của Chu Nguyên Chương lật đổ năm 1368.",
+      "en": "The dynasty founded by Kublai Khan in 1271, the first time all of China came under Mongol rule. It was overthrown by Zhu Yuanzhang's rebellion in 1368."
+    },
+    "time": [1271],
+    "endTime": [1368],
+    "emoji": "🏯",
+    "priority": 76
+  },
+  {
+    "title": { "vi": "Đế quốc Majapahit", "en": "Majapahit Empire" },
+    "description": {
+      "vi": "Đế quốc Hindu-Phật giáo cuối cùng và lớn nhất của quần đảo Indonesia, đóng đô ở Java, đạt đỉnh cao dưới vua Hayam Wuruk và tể tướng Gajah Mada. Bị vương quốc Hồi giáo Demak lật đổ năm 1527.",
+      "en": "The last and greatest Hindu-Buddhist empire of the Indonesian archipelago, based on Java and peaking under King Hayam Wuruk and minister Gajah Mada. It was toppled by the Islamic Sultanate of Demak in 1527."
+    },
+    "time": [1293],
+    "endTime": [1527],
+    "emoji": "🏝️",
+    "priority": 64
+  },
+  {
+    "title": { "vi": "Đế quốc Ottoman", "en": "Ottoman Empire" },
+    "description": {
+      "vi": "Đế quốc do Osman I khởi lập khoảng năm 1299, chiếm Constantinopolis năm 1453 và thống trị Trung Đông, Bắc Phi và Đông Nam Âu suốt sáu thế kỷ. Bị bãi bỏ năm 1922 sau Thế chiến thứ nhất.",
+      "en": "Founded by Osman I around 1299, the empire took Constantinople in 1453 and ruled the Middle East, North Africa and Southeastern Europe for six centuries. It was abolished in 1922 after World War I."
+    },
+    "time": [1299],
+    "endTime": [1922],
+    "emoji": "🌙",
+    "priority": 91
+  },
+  {
+    "title": { "vi": "Nhà Minh", "en": "Ming Dynasty" },
+    "description": {
+      "vi": "Triều đại do Chu Nguyên Chương sáng lập sau khi đánh đuổi quân Nguyên, xây Tử Cấm Thành và cử Trịnh Hòa dẫn các hạm đội viễn dương tới tận Đông Phi. Sụp đổ năm 1644 khi quân Mãn Châu vào Bắc Kinh.",
+      "en": "Founded by Zhu Yuanzhang after expelling the Yuan, the Ming built the Forbidden City and sent Zheng He's treasure fleets as far as East Africa. It fell in 1644 when the Manchus entered Beijing."
+    },
+    "time": [1368],
+    "endTime": [1644],
+    "emoji": "🚢",
+    "priority": 78
+  },
+  {
+    "title": { "vi": "Đế quốc Timurid", "en": "Timurid Empire" },
+    "description": {
+      "vi": "Đế quốc do Timur (Tamerlane) dựng lên bằng những cuộc chinh phạt khốc liệt khắp Trung Á và Ba Tư, với kinh đô Samarkand lộng lẫy. Hậu duệ của Timur là Babur sau này sáng lập đế quốc Mogul ở Ấn Độ.",
+      "en": "The empire built by Timur (Tamerlane) through ferocious conquests across Central Asia and Persia, with its splendid capital at Samarkand. Timur's descendant Babur later founded the Mughal Empire in India."
+    },
+    "time": [1370],
+    "endTime": [1507],
+    "emoji": "🔭",
+    "priority": 67
+  },
+  {
+    "title": { "vi": "Đế quốc Bồ Đào Nha", "en": "Portuguese Empire" },
+    "description": {
+      "vi": "Đế quốc hàng hải toàn cầu đầu tiên, khởi đầu với việc chiếm Ceuta năm 1415, mở đường biển sang Ấn Độ, Brazil và Đông Á. Kết thúc khi trao trả Ma Cao cho Trung Quốc năm 1999.",
+      "en": "The first global maritime empire, beginning with the capture of Ceuta in 1415 and opening sea routes to India, Brazil and East Asia. It ended with the handover of Macau to China in 1999."
+    },
+    "time": [1415],
+    "endTime": [1999],
+    "emoji": "🗺️",
+    "priority": 77
+  },
+  {
+    "title": { "vi": "Đế quốc Aztec", "en": "Aztec Empire" },
+    "description": {
+      "vi": "Liên minh Ba thành bang do Tenochtitlan dẫn đầu, thống trị miền trung Mexico từ năm 1428. Sụp đổ năm 1521 khi Hernán Cortés cùng các đồng minh bản địa chiếm Tenochtitlan.",
+      "en": "The Triple Alliance led by Tenochtitlan, dominating central Mexico from 1428. It fell in 1521 when Hernán Cortés and his indigenous allies captured Tenochtitlan."
+    },
+    "time": [1428],
+    "endTime": [1521],
+    "emoji": "🦅",
+    "priority": 74
+  },
+  {
+    "title": { "vi": "Đế quốc Inca", "en": "Inca Empire" },
+    "description": {
+      "vi": "Đế quốc lớn nhất châu Mỹ thời tiền Colombo, do Pachacuti mở rộng từ năm 1438 dọc dãy Andes với hệ thống đường sá và Machu Picchu nổi tiếng. Bị Francisco Pizarro chinh phục năm 1533.",
+      "en": "The largest empire of pre-Columbian America, expanded by Pachacuti from 1438 along the Andes, famed for its road network and Machu Picchu. It was conquered by Francisco Pizarro in 1533."
+    },
+    "time": [1438],
+    "endTime": [1533],
+    "emoji": "🏔️",
+    "priority": 76
+  },
+  {
+    "title": { "vi": "Đế quốc Tây Ban Nha", "en": "Spanish Empire" },
+    "description": {
+      "vi": "Khởi đầu từ chuyến đi của Colombo năm 1492, Tây Ban Nha làm chủ phần lớn châu Mỹ và Philippines — đế quốc \"mặt trời không bao giờ lặn\" đầu tiên. Mất các thuộc địa lớn cuối cùng năm 1898, chính thức khép lại năm 1976.",
+      "en": "Beginning with Columbus's voyage in 1492, Spain ruled most of the Americas and the Philippines — the first empire \"on which the sun never sets\". It lost its last major colonies in 1898 and formally ended in 1976."
+    },
+    "time": [1492],
+    "endTime": [1976],
+    "emoji": "🌎",
+    "priority": 85
+  },
+  {
+    "title": { "vi": "Đế quốc Safavid", "en": "Safavid Empire" },
+    "description": {
+      "vi": "Đế quốc Ba Tư do Shah Ismail I sáng lập năm 1501, đưa Hồi giáo Shia trở thành quốc giáo của Iran — di sản còn đến ngày nay. Kinh đô Isfahan là một trong những thành phố tráng lệ nhất thế giới thời đó.",
+      "en": "The Persian empire founded by Shah Ismail I in 1501, which made Shia Islam Iran's state religion — a legacy that endures today. Its capital Isfahan was among the most magnificent cities of its age."
+    },
+    "time": [1501],
+    "endTime": [1736],
+    "emoji": "🌹",
+    "priority": 68
+  },
+  {
+    "title": { "vi": "Đế quốc Mogul", "en": "Mughal Empire" },
+    "description": {
+      "vi": "Đế quốc Hồi giáo do Babur sáng lập năm 1526, thống trị phần lớn Ấn Độ, đạt đỉnh cao dưới thời Akbar và để lại Taj Mahal. Bị Anh bãi bỏ năm 1857 sau cuộc khởi nghĩa Ấn Độ.",
+      "en": "The Islamic empire founded by Babur in 1526, ruling most of India, peaking under Akbar and leaving behind the Taj Mahal. It was abolished by the British in 1857 after the Indian Rebellion."
+    },
+    "time": [1526],
+    "endTime": [1857],
+    "emoji": "🐘",
+    "priority": 79
+  },
+  {
+    "title": { "vi": "Đế quốc thực dân Pháp", "en": "French Colonial Empire" },
+    "description": {
+      "vi": "Khởi đầu từ Canada năm 1534, qua hai thời kỳ đế quốc, Pháp cai trị các thuộc địa rộng lớn ở châu Phi, Đông Dương và Thái Bình Dương — đế quốc thực dân lớn thứ hai thế giới. Kết thúc khi Vanuatu độc lập năm 1980.",
+      "en": "Beginning in Canada in 1534 and spanning two imperial eras, France ruled vast colonies in Africa, Indochina and the Pacific — the world's second-largest colonial empire. It ended with Vanuatu's independence in 1980."
+    },
+    "time": [1534],
+    "endTime": [1980],
+    "emoji": "⚜️",
+    "priority": 80
+  },
+  {
+    "title": { "vi": "Đế quốc Anh", "en": "British Empire" },
+    "description": {
+      "vi": "Đế quốc lớn nhất lịch sử, cai trị khoảng một phần tư diện tích đất liền và dân số thế giới vào đầu thế kỷ 20 — \"mặt trời không bao giờ lặn trên đế quốc Anh\". Thường được tính kết thúc khi trao trả Hồng Kông năm 1997.",
+      "en": "The largest empire in history, ruling about a quarter of the world's land and population by the early 20th century — \"the empire on which the sun never sets\". Its end is conventionally marked by the 1997 handover of Hong Kong."
+    },
+    "time": [1583],
+    "endTime": [1997],
+    "emoji": "⚓",
+    "priority": 94
+  },
+  {
+    "title": { "vi": "Nhà Thanh", "en": "Qing Dynasty" },
+    "description": {
+      "vi": "Triều đại cuối cùng của Trung Quốc do người Mãn Châu lập nên, vào Bắc Kinh năm 1644 và mở rộng lãnh thổ Trung Quốc đến mức lớn nhất. Kết thúc năm 1912 khi hoàng đế Phổ Nghi thoái vị sau Cách mạng Tân Hợi.",
+      "en": "China's last dynasty, founded by the Manchus who entered Beijing in 1644 and expanded China's territory to its greatest extent. It ended in 1912 with Emperor Puyi's abdication after the Xinhai Revolution."
+    },
+    "time": [1644],
+    "endTime": [1912],
+    "emoji": "🏮",
+    "priority": 84
+  },
+  {
+    "title": { "vi": "Đế quốc Nga", "en": "Russian Empire" },
+    "description": {
+      "vi": "Được Pyotr Đại đế tuyên bố năm 1721, đế quốc trải dài từ Ba Lan đến Thái Bình Dương — quốc gia rộng thứ ba trong lịch sử. Sụp đổ trong Cách mạng Nga năm 1917.",
+      "en": "Proclaimed by Peter the Great in 1721, the empire stretched from Poland to the Pacific — the third-largest state in history. It collapsed in the Russian Revolution of 1917."
+    },
+    "time": [1721],
+    "endTime": [1917],
+    "emoji": "🐻",
+    "priority": 82
+  },
+  {
+    "title": { "vi": "Đế quốc Áo-Hung", "en": "Austro-Hungarian Empire" },
+    "description": {
+      "vi": "Quốc gia đa dân tộc do nhà Habsburg cai trị, hình thành từ thỏa hiệp Áo-Hung năm 1867, cường quốc lớn ở Trung Âu. Tan rã năm 1918 sau thất bại trong Thế chiến thứ nhất.",
+      "en": "The multi-ethnic Habsburg state created by the Compromise of 1867, a great power of Central Europe. It disintegrated in 1918 after defeat in World War I."
+    },
+    "time": [1867],
+    "endTime": [1918],
+    "emoji": "🎻",
+    "priority": 72
+  },
+  {
+    "title": { "vi": "Đế quốc Nhật Bản", "en": "Empire of Japan" },
+    "description": {
+      "vi": "Từ Minh Trị Duy tân năm 1868, Nhật Bản công nghiệp hóa thần tốc và bành trướng khắp Đông Á và Thái Bình Dương. Đế quốc kết thúc với thất bại trong Thế chiến thứ hai năm 1945.",
+      "en": "From the Meiji Restoration of 1868, Japan industrialized at breakneck speed and expanded across East Asia and the Pacific. The empire ended with defeat in World War II in 1945."
+    },
+    "time": [1868],
+    "endTime": [1945],
+    "emoji": "🌅",
+    "priority": 75
+  },
+  {
+    "title": { "vi": "Đế quốc Đức", "en": "German Empire" },
+    "description": {
+      "vi": "Nước Đức thống nhất được tuyên bố tại Versailles năm 1871 dưới sự dẫn dắt của Bismarck, nhanh chóng trở thành cường quốc công nghiệp hàng đầu châu Âu. Sụp đổ năm 1918 khi hoàng đế Wilhelm II thoái vị cuối Thế chiến thứ nhất.",
+      "en": "Unified Germany, proclaimed at Versailles in 1871 under Bismarck's leadership, quickly became Europe's leading industrial power. It collapsed in 1918 with Kaiser Wilhelm II's abdication at the end of World War I."
+    },
+    "time": [1871],
+    "endTime": [1918],
+    "emoji": "⚙️",
+    "priority": 73
+  }
+]

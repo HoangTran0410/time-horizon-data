@@ -1,676 +1,562 @@
 [
   {
-    "title": "Vương quốc Champa phát triển dọc duyên hải miền Trung Việt Nam",
-    "description": "Từ thế kỉ II đến thế kỉ XV, Vương quốc Champa phát triển mạnh mẽ dọc theo duyên hải miền Trung Việt Nam với hệ thống thương mại hàng hải quốc tế và nền văn hóa Chăm Pa đặc sắc.",
-    "time": [
-      -200
-    ],
+    "title": "Vương quốc Chăm-pa hình thành và phát triển ở duyên hải miền Trung",
+    "description": "Năm 192, nhân dân huyện Tượng Lâm dưới sự lãnh đạo của Khu Liên nổi dậy lật đổ ách cai trị của nhà Hán, lập nước Lâm Ấp — tiền thân của Vương quốc Chăm-pa. Chăm-pa phát triển mạnh dọc dải duyên hải miền Trung với thương mại hàng hải và nền văn hoá đặc sắc; năm 1471, kinh đô Vi-giay-a thất thủ, lãnh thổ bị thu hẹp nghiêm trọng.",
+    "time": [192],
+    "endTime": [1471],
     "emoji": "🏛️",
     "priority": 75
   },
   {
     "title": "Vương quốc Phù Nam hình thành ở Đông Nam Á",
-    "description": "Từ thế kỉ I, vương quốc Phù Nam (Funan) hình thành ở vùng Đông Nam Bộ Việt Nam và Campuchia ngày nay, phát triển nền thương mại hàng hải quốc tế và nền văn minh sông Mê Kông.",
-    "time": [
-      -100
-    ],
+    "description": "Khoảng thế kỉ I, Vương quốc Phù Nam ra đời ở vùng Nam Bộ Việt Nam và Campuchia ngày nay trên cơ sở văn hoá Óc Eo, phát triển mạnh về thương mại hàng hải quốc tế; đến khoảng đầu thế kỉ VII thì suy yếu và bị Chân Lạp thôn tính.",
+    "time": [50],
+    "endTime": [630],
     "emoji": "🏛️",
     "priority": 74
   },
   {
-    "title": "Vương triều Gupta thống nhất Ấn Độ, thời hoàng kim văn hóa Phật giáo",
-    "description": "Từ thế kỉ IV, vương triều Gupta thống nhất miền Bắc Ấn Độ và phát triển nền văn minh rực rỡ với các tác phẩm văn học, nghệ thuật và kiến trúc Phật giáo nổi tiếng như các hang động Ajanta và Ellora.",
-    "time": [
-      320
-    ],
+    "title": "Vương triều Gupta thống nhất Ấn Độ, thời hoàng kim của văn hóa",
+    "description": "Từ đầu thế kỉ IV, Vương triều Gupta thống nhất miền Bắc Ấn Độ và phát triển nền văn minh rực rỡ với những thành tựu nổi tiếng về văn học, nghệ thuật và kiến trúc như các chùa hang Ajanta. Vương triều tồn tại đến khoảng giữa thế kỉ VI.",
+    "time": [320],
+    "endTime": [550],
     "emoji": "🛕",
     "priority": 80
   },
   {
-    "title": "Chế độ phong kiến phương Tây hình thành sau sụp đổ Tây Âu",
-    "description": "Từ thế kỉ V, chế độ phong kiến hình thành ở Tây Âu với đặc trưng là chế độ sở hữu ruộng đất của lãnh chúa, quyền lực phân tán, và quan hệ phụ thuộc giữa lãnh chúa và nông nô.",
-    "time": [
-      476
-    ],
+    "title": "Chế độ phong kiến hình thành ở Tây Âu",
+    "description": "Từ cuối thế kỉ V, sau khi đế quốc Tây La Mã sụp đổ (năm 476), chế độ phong kiến hình thành ở Tây Âu với đặc trưng là chế độ sở hữu ruộng đất của lãnh chúa, quyền lực phân tán và quan hệ phụ thuộc giữa lãnh chúa và nông nô.",
+    "time": [476],
     "emoji": "🏰",
     "priority": 78
   },
   {
     "title": "Nhà Đường thành lập, thời kỳ hoàng kim Trung Hoa",
-    "description": "Năm 618, Lý Uyên lập ra nhà Đường tại Trung Quốc, mở thời kỳ phát triển rực rỡ nhất của nền văn minh Trung Hoa về kinh tế, văn hóa và quân sự kéo dài gần 300 năm.",
-    "time": [
-      618
-    ],
+    "description": "Năm 618, Lý Uyên lập ra nhà Đường tại Trung Quốc, mở ra thời kỳ phát triển rực rỡ của nền văn minh Trung Hoa về kinh tế, văn hóa và quân sự kéo dài gần 300 năm, đến năm 907.",
+    "time": [618],
+    "endTime": [907],
     "emoji": "🏯",
     "priority": 80
   },
   {
-    "title": "Vương quốc Angkor đạt đỉnh cao quyền lực ở Campuchia",
-    "description": "Từ thế kỉ IX đến thế kỉ XIII, vương quốc Angkor phát triển thịnh vượng và mở rộng ảnh hưởng khắp Đông Nam Á, để lại di sản kiến trúc đền đài vĩ đại như Angkor Wat - công trình tôn giáo lớn nhất thế giới.",
-    "time": [
-      802
-    ],
+    "title": "Vương quốc Angkor phát triển hùng mạnh ở Campuchia",
+    "description": "Từ thế kỉ IX đến thế kỉ XV, Vương quốc Campuchia thời kỳ Angkor phát triển thịnh vượng và mở rộng ảnh hưởng ở Đông Nam Á, để lại di sản kiến trúc đền đài vĩ đại như Angkor Wat — một trong những công trình tôn giáo lớn nhất thế giới.",
+    "time": [802],
+    "endTime": [1432],
     "emoji": "🛕",
     "priority": 80
   },
   {
     "title": "Ngô Quyền đánh bại quân Nam Hán trên sông Bạch Đằng",
-    "description": "Năm 938, Ngô Quyền chỉ huy quân dân Đại Việt đánh bại và giết chết Hầu Nhật Chương - tướng quân nhà Nam Hán - trên sông Bạch Đằng, mở ra kỷ nguyên độc lập cho nước Việt sau hơn một nghìn năm Bắc thuộc.",
-    "time": [
-      938
-    ],
+    "description": "Năm 938, Ngô Quyền chỉ huy quân dân ta đánh tan quân Nam Hán trên sông Bạch Đằng, chủ tướng giặc Lưu Hoằng Tháo tử trận, mở ra kỷ nguyên độc lập cho dân tộc sau hơn một nghìn năm Bắc thuộc.",
+    "time": [938],
     "emoji": "⚔️",
     "priority": 88
   },
   {
     "title": "Ngô Quyền xưng vương, mở đầu thời kỳ độc lập dân tộc",
-    "description": "Sau chiến thắng Bạch Đằng, Ngô Quyền xưng vương, lập ra nhà nước phong kiến độc lập đầu tiên của Việt Nam và đóng đô ở Cổ Loa (Hà Nội), chấm dứt hơn một nghìn năm Bắc thuộc.",
-    "time": [
-      939
-    ],
+    "description": "Năm 939, sau chiến thắng Bạch Đằng, Ngô Quyền xưng vương, bỏ chức Tiết độ sứ, đóng đô ở Cổ Loa (Hà Nội), thiết lập chính quyền độc lập đầu tiên sau hơn một nghìn năm Bắc thuộc. Nhà Ngô tồn tại đến năm 965.",
+    "time": [939],
+    "endTime": [965],
     "emoji": "👑",
     "priority": 88
   },
   {
-    "title": "Nhà Tống thành lập tại Trung Quốc sau thời Ngũ Đại",
-    "description": "Năm 960, Triệu Khuê Dục lập ra nhà Tống, thống nhất phần lớn Trung Quốc và phát triển nền kinh tế thương mại, in ấn, và sản xuất tiền giấy - mở đầu cho sự phát triển của chủ nghĩa tư bản thương mại.",
-    "time": [
-      960
-    ],
+    "title": "Nhà Tống thành lập tại Trung Quốc sau thời Ngũ đại",
+    "description": "Năm 960, Triệu Khuông Dẫn lập ra nhà Tống, thống nhất phần lớn Trung Quốc; kinh tế hàng hóa, nghề in và việc sử dụng tiền giấy phát triển mạnh dưới triều đại này. Nhà Tống tồn tại đến năm 1279.",
+    "time": [960],
+    "endTime": [1279],
     "emoji": "🏯",
     "priority": 80
   },
   {
     "title": "Loạn 12 sứ quân chia cắt đất nước sau thời nhà Ngô",
-    "description": "Năm 965, sau khi Ngô Xương Văn qua đời, đất nước rơi vào tình trạng hỗn loạn với 12 tướng lĩnh (sứ quân) chiếm cứ các vùng đất, đánh lẫn nhau, đe dọa thống nhất quốc gia.",
-    "time": [
-      965
-    ],
+    "description": "Năm 965, sau khi Ngô Xương Văn qua đời, đất nước rơi vào tình trạng hỗn loạn với 12 tướng lĩnh (sứ quân) chiếm cứ các vùng đất, đánh lẫn nhau, đe dọa nền thống nhất quốc gia. Tình trạng này kéo dài đến năm 967.",
+    "time": [965],
+    "endTime": [967],
     "emoji": "⚔️",
     "priority": 78
   },
   {
     "title": "Đinh Bộ Lĩnh dẹp loạn 12 sứ quân, thống nhất đất nước",
-    "description": "Năm 968, Đinh Bộ Lĩnh tập hợp lực lượng, đánh bại và thu phục 12 sứ quân, chấm dứt tình trạng chia cắt đất nước, thống nhất Việt Nam sau hơn một thế kỷ loạn lạc.",
-    "time": [
-      968
-    ],
+    "description": "Đến năm 967, Đinh Bộ Lĩnh lần lượt đánh dẹp và thu phục các sứ quân, chấm dứt tình trạng cát cứ, thống nhất đất nước, chuẩn bị cho việc thành lập nhà nước quân chủ tập quyền.",
+    "time": [967],
     "emoji": "⚔️",
     "priority": 88
   },
   {
     "title": "Nhà Đinh thành lập, đặt nền móng nhà nước phong kiến tập quyền",
-    "description": "Năm 969, Đinh Bộ Lĩnh lên ngôi vua, thành lập nhà Đinh và đặt quốc hiệu Đại Cô Việt, đóng đô ở Hoa Lư (Ninh Bình), xây dựng bộ máy nhà nước phong kiến tập quyền đầu tiên của Việt Nam.",
-    "time": [
-      969
-    ],
+    "description": "Năm 968, Đinh Bộ Lĩnh lên ngôi hoàng đế (Đinh Tiên Hoàng), đặt quốc hiệu Đại Cồ Việt, đóng đô ở Hoa Lư (Ninh Bình), xây dựng bộ máy nhà nước quân chủ tập quyền đầu tiên của người Việt sau thời Bắc thuộc. Nhà Đinh tồn tại đến năm 980.",
+    "time": [968],
+    "endTime": [980],
     "emoji": "👑",
     "priority": 82
   },
   {
     "title": "Lê Hoàn lên ngôi vua, lập ra nhà Tiền Lê",
-    "description": "Năm 980, Đinh Đế Toàn bị phản bội, tướng Lê Hoàn lên ngôi vua, thành lập nhà Tiền Lê, đóng đô ở Hoa Lư. Lê Hoàn là vị vua đầu tiên của nhà nước phong kiến Việt Nam không thuộc dòng tộc Đinh.",
-    "time": [
-      980
-    ],
+    "description": "Năm 979, Đinh Tiên Hoàng bị sát hại, vua mới Đinh Toàn còn nhỏ tuổi trong khi nhà Tống lăm le xâm lược. Năm 980, triều thần và Thái hậu Dương Vân Nga suy tôn Lê Hoàn lên ngôi vua, lập ra nhà Tiền Lê (980–1009), đóng đô ở Hoa Lư.",
+    "time": [980],
+    "endTime": [1009],
     "emoji": "👑",
     "priority": 82
   },
   {
     "title": "Lê Hoàn đánh bại quân xâm lược nhà Tống lần đầu",
-    "description": "Năm 981, quân nhà Tống xâm lược Đại Cô Việt từ hai hướng bộ và thủy. Vua Lê Hoàn (Đại Hành) trực tiếp chỉ huy quân dân đánh bại quân xâm lược, bảo vệ nền độc lập non trẻ của nước Việt.",
-    "time": [
-      981
-    ],
+    "description": "Năm 981, quân nhà Tống xâm lược Đại Cồ Việt theo hai đường thủy, bộ. Vua Lê Hoàn (Lê Đại Hành) trực tiếp chỉ huy quân dân đánh bại quân xâm lược, bảo vệ nền độc lập non trẻ của đất nước.",
+    "time": [981],
     "emoji": "⚔️",
     "priority": 86
   },
   {
     "title": "Lý Công Uẩn lên ngôi vua, thành lập nhà Lý",
-    "description": "Năm 1009, Lý Công Uẩn được tôn lên ngôi vua sau khi vua Lê Đại Hành qua đời, thành lập nhà Lý - một trong những triều đại hưng thịnh và lâu dài nhất của Việt Nam, mở đầu cho thời kỳ cực thịnh kéo dài hơn 200 năm.",
-    "time": [
-      1009
-    ],
+    "description": "Năm 1009, sau khi vua Lê Long Đĩnh qua đời, Lý Công Uẩn được triều thần tôn lên ngôi vua, thành lập nhà Lý — một trong những triều đại hưng thịnh và lâu dài nhất của Việt Nam, kéo dài hơn 200 năm (1009–1225).",
+    "time": [1009],
+    "endTime": [1225],
     "emoji": "👑",
     "priority": 84
   },
   {
-    "title": "Lý Thái Tổ dời đô về Thăng Long, mở thời kỳ hoàng kim",
-    "description": "Năm 1010, vua Lý Thái Tổ quyết định dời đô từ Hoa Lư về Đại La và đổi tên thành Thăng Long, xây dựng kinh đô mới trở thành trung tâm chính trị, kinh tế và văn hóa của Việt Nam suốt nhiều thế kỷ.",
-    "time": [
-      1010
-    ],
+    "title": "Lý Thái Tổ dời đô về Thăng Long, mở thời kỳ phát triển mới",
+    "description": "Năm 1010, vua Lý Thái Tổ quyết định dời đô từ Hoa Lư về Đại La và đổi tên thành Thăng Long, xây dựng kinh đô mới trở thành trung tâm chính trị, kinh tế và văn hóa của đất nước suốt nhiều thế kỷ.",
+    "time": [1010],
     "emoji": "🏰",
     "priority": 86
   },
   {
     "title": "Nhà Lý ban hành bộ luật Hình thư đầu tiên của Việt Nam",
-    "description": "Năm 1042, nhà Lý ban hành bộ luật Hình thư (luật hình sự) đầu tiên trong lịch sử Việt Nam, thể hiện sự phát triển của bộ máy nhà nước phong kiến và ý thức xây dựng hệ thống pháp luật độc lập.",
-    "time": [
-      1042
-    ],
+    "description": "Năm 1042, nhà Lý ban hành bộ Hình thư — bộ luật thành văn đầu tiên trong lịch sử Việt Nam, thể hiện sự phát triển của bộ máy nhà nước và ý thức xây dựng hệ thống pháp luật độc lập.",
+    "time": [1042],
     "emoji": "📜",
     "priority": 80
   },
   {
     "title": "Nhà Lý đổi tên nước thành Đại Việt",
-    "description": "Năm 1054, nhà Lý đổi tên nước từ Đại Cô Việt thành Đại Việt, thể hiện ý thức tự tôn dân tộc và khẳng định vị thế quốc gia độc lập có chủ quyền đầy đủ trong khu vực Đông Nam Á.",
-    "time": [
-      1054
-    ],
+    "description": "Năm 1054, vua Lý Thánh Tông đổi tên nước từ Đại Cồ Việt thành Đại Việt, thể hiện ý thức tự tôn dân tộc và khẳng định vị thế quốc gia độc lập, có chủ quyền trong khu vực.",
+    "time": [1054],
     "emoji": "🪧",
     "priority": 82
   },
   {
-    "title": "Nhà Lý mở khoa thi đầu tiên, khai sinh nền thi cử Việt Nam",
-    "description": "Năm 1075, nhà Lý tổ chức khoa thi đầu tiên ở Việt Nam để tuyển chọn nhân tài vào bộ máy nhà nước. Lê Văn Thịnh đỗ đầu tiên. Nền thi cử phong kiến Việt Nam kéo dài gần 900 năm (đến 1919).",
-    "time": [
-      1075
-    ],
+    "title": "Nhà Lý mở khoa thi đầu tiên, khai sinh nền khoa cử Việt Nam",
+    "description": "Năm 1075, nhà Lý tổ chức khoa thi đầu tiên để tuyển chọn nhân tài vào bộ máy nhà nước, Lê Văn Thịnh đỗ đầu. Nền khoa cử phong kiến Việt Nam kéo dài hơn 800 năm, đến khoa thi cuối cùng năm 1919.",
+    "time": [1075],
     "emoji": "📚",
     "priority": 80
   },
   {
-    "title": "Quân Tốt xâm lược Đại Việt lần đầu, bị đẩy lui",
-    "description": "Năm 1075, quân nhà Tống xâm lược Đại Việt từ phía bắc, đồng thời vua Champa đánh từ phía nam. Nhà Lý chủ động phản công, đánh bại quân Tống ở phía bắc trước khi đối phó với Champa.",
-    "time": [
-      1075
-    ],
+    "title": "Lý Thường Kiệt chủ động tiến công sang đất Tống",
+    "description": "Cuối năm 1075, trước âm mưu xâm lược của nhà Tống, Lý Thường Kiệt thực hiện chủ trương 'tiến công trước để tự vệ', đem quân đánh các căn cứ Ung Châu, Khâm Châu, Liêm Châu trên đất Tống, phá kho lương thảo rồi chủ động rút quân về chuẩn bị phòng tuyến.",
+    "time": [1075],
     "emoji": "⚔️",
     "priority": 83
   },
   {
     "title": "Trận Như Nguyệt: Lý Thường Kiệt đại phá quân Tống xâm lược",
-    "description": "Năm 1077, Lý Thường Kiệt chỉ huy quân dân Đại Việt đánh bại cuộc xâm lược của nhà Tống với 10 vạn quân tại sông Như Nguyệt (Cầu Giẽ, Nam Định), bảo vệ nền độc lập dân tộc trước âm mưu xâm lược của phong kiến phương Bắc.",
-    "time": [
-      1077
-    ],
+    "description": "Năm 1077, Lý Thường Kiệt chỉ huy quân dân Đại Việt đánh bại khoảng 10 vạn quân Tống xâm lược tại phòng tuyến sông Như Nguyệt (sông Cầu, Bắc Ninh), bảo vệ vững chắc nền độc lập dân tộc trước phong kiến phương Bắc.",
+    "time": [1077],
     "emoji": "⚔️",
     "priority": 86
   },
   {
-    "title": "Thập tự chinh: Phong trào tôn giáo quân sự của Kitô giáo",
-    "description": "Từ cuối thế kỉ XI, các cuộc Thập tự chinh được phát động nhằm giải phóng Jerusalem khỏi quân Hồi giáo, kéo dài đến cuối thế kỉ XIII với nhiều đợt tấn công từ châu Âu sang Trung Đông.",
-    "time": [
-      1096
-    ],
+    "title": "Thập tự chinh: các cuộc viễn chinh tôn giáo của Tây Âu",
+    "description": "Từ cuối thế kỉ XI đến cuối thế kỉ XIII, giáo hội và quý tộc Tây Âu phát động các cuộc Thập tự chinh nhằm chiếm lại Jerusalem từ tay người Hồi giáo, với nhiều đợt viễn chinh từ châu Âu sang Trung Đông.",
+    "time": [1096],
+    "endTime": [1291],
     "emoji": "⚔️",
     "priority": 82
   },
   {
     "title": "Trần Cảnh lên ngôi vua, thành lập nhà Trần",
-    "description": "Năm 1226, Trần Cảnh lên ngôi vua, thay thế nhà Lý sau hơn 200 năm tồn tại. Nhà Trần đánh dấu thời kỳ phong kiến thịnh vượng nhất của Việt Nam về kinh tế, quân sự và văn hóa, đồng thời là triều đại chống xâm lược Mông Cổ thành công nhất.",
-    "time": [
-      1226
-    ],
+    "description": "Năm 1226, Trần Cảnh lên ngôi vua, thay thế nhà Lý sau hơn 200 năm tồn tại. Nhà Trần (1226–1400) là thời kỳ phát triển mạnh của Đại Việt về kinh tế, quân sự và văn hóa, nổi bật với ba lần kháng chiến thắng lợi chống quân Mông – Nguyên.",
+    "time": [1226],
+    "endTime": [1400],
     "emoji": "👑",
     "priority": 84
   },
   {
-    "title": "Quốc triều hình luật được ban hành, hệ thống pháp luật nhà Trần hoàn thiện",
-    "description": "Năm 1230, nhà Trần ban hành bộ Quốc triều hình luật, hệ thống hóa và hoàn thiện pháp luật phong kiến Việt Nam, thể hiện trình độ quản lý nhà nước tiên tiến của triều đại Trần.",
-    "time": [
-      1230
-    ],
+    "title": "Nhà Trần xây dựng và hoàn thiện pháp luật",
+    "description": "Năm 1230, nhà Trần ban hành bộ 'Quốc triều thông chế', sau đó tiếp tục sửa đổi, bổ sung và hoàn thiện pháp luật với bộ 'Quốc triều hình luật', thể hiện trình độ tổ chức, quản lý nhà nước của triều đại Trần.",
+    "time": [1230],
     "emoji": "📜",
     "priority": 78
   },
   {
     "title": "Quân Mông Cổ xâm lược Đại Việt lần thứ nhất",
-    "description": "Năm 1258, quân đội Mông Cổ (do Hốt Tất Liệt cử) tấn công Đại Việt lần đầu tiên với 3 vạn quân. Trần Hưng Đạo chỉ huy quân dân phá tan cuộc xâm lược, buộc quân Mông Cổ phải rút lui về phía bắc.",
-    "time": [
-      1258
-    ],
+    "description": "Năm 1258, 3 vạn quân Mông Cổ do tướng Ngột Lương Hợp Thai chỉ huy tấn công Đại Việt. Vua Trần Thái Tông trực tiếp chỉ huy kháng chiến; quân dân nhà Trần thực hiện kế 'vườn không nhà trống' rồi phản công ở Đông Bộ Đầu, buộc quân Mông Cổ phải rút chạy về nước.",
+    "time": [1258],
     "emoji": "⚔️",
     "priority": 86
   },
   {
     "title": "Nhà Nguyên (Mông Cổ) thống trị toàn bộ Trung Quốc",
-    "description": "Năm 1279, nhà Nguyên do Kublai Khan (Hốt Tất Liệt) lập ra, trở thành triều đại đầu tiên của người nước ngoài (Mông Cổ) thống nhất toàn bộ Trung Quốc, mở rộng đế chế từ châu Á sang châu Âu.",
-    "time": [
-      1279
-    ],
+    "description": "Năm 1279, nhà Nguyên — triều đại do Hốt Tất Liệt lập ra năm 1271 — tiêu diệt hoàn toàn nhà Nam Tống, thống trị toàn bộ Trung Quốc. Đây là lần đầu tiên Trung Quốc bị một triều đại ngoại tộc thống trị hoàn toàn; nhà Nguyên tồn tại đến năm 1368.",
+    "time": [1279],
+    "endTime": [1368],
     "emoji": "🏯",
     "priority": 82
   },
   {
     "title": "Quân Nguyên xâm lược Đại Việt lần thứ hai",
-    "description": "Năm 1285, quân Nguyên (kế thừa đế chế Mông Cổ) tấn công Đại Việt lần thứ hai với 50 vạn quân. Trần Hưng Đạo và quân dân Đại Việt một lần nữa đánh bại quân xâm lược trên nhiều mặt trận.",
-    "time": [
-      1285
-    ],
+    "description": "Năm 1285, quân Nguyên tấn công Đại Việt lần thứ hai với hơn 50 vạn quân. Dưới sự lãnh đạo của vua Trần và Quốc công tiết chế Trần Hưng Đạo, quân dân Đại Việt phản công thắng lợi trên nhiều mặt trận, quét sạch quân xâm lược.",
+    "time": [1285],
     "emoji": "⚔️",
     "priority": 86
   },
   {
     "title": "Chiến thắng Bạch Đằng: đại phá quân Nguyên lần thứ ba",
-    "description": "Năm 1288, quân Nguyên xâm lược Đại Việt lần thứ ba. Trần Hưng Đạo chỉ huy quân dân bố trí trận địa mai phục trên sông Bạch Đằng, đánh bại và bắt sống tướng Nguyên là Ô Mã Nhi, tiêu diệt toàn bộ hạm đội.",
-    "time": [
-      1288
-    ],
+    "description": "Năm 1288, quân Nguyên xâm lược Đại Việt lần thứ ba. Trần Hưng Đạo chỉ huy quân dân bố trí trận địa mai phục trên sông Bạch Đằng, tiêu diệt đoàn thuyền chiến của địch và bắt sống tướng Nguyên Ô Mã Nhi, kết thúc thắng lợi cuộc kháng chiến.",
+    "time": [1288],
     "emoji": "⚔️",
     "priority": 88
   },
   {
-    "title": "Vương quốc Majapahit trở thành đế chế hải quân hùng mạnh ĐNA",
-    "description": "Từ thế kỉ XIII, vương quốc Majapahit tại Indonesia trở thành đế chế hải quân hùng mạnh nhất Đông Nam Á, kiểm soát phần lớn vùng biển và đảo từ Malaysia đến New Guinea.",
-    "time": [
-      1293
-    ],
+    "title": "Vương quốc Majapahit trở thành thế lực hùng mạnh ở Đông Nam Á",
+    "description": "Từ cuối thế kỉ XIII, vương quốc Majapahit ở đảo Java (Indonesia) vươn lên thành thế lực hải thương hùng mạnh bậc nhất Đông Nam Á, kiểm soát nhiều vùng biển và hải đảo trong khu vực.",
+    "time": [1293],
     "emoji": "⚔️",
     "priority": 78
   },
   {
     "title": "Vương quốc Lan Xang thành lập tại Lào",
-    "description": "Năm 1353, vương quốc Lan Xang được Fa Ngum thành lập tại lưu vực sông Mê Kông, mở rộng ảnh hưởng văn hóa và chính trị từ Trung Lào đến vùng Đông Dương.",
-    "time": [
-      1353
-    ],
+    "description": "Năm 1353, Pha Ngừm thống nhất các mường Lào, thành lập Vương quốc Lan Xang tại lưu vực sông Mê Kông, mở rộng ảnh hưởng văn hóa và chính trị trong khu vực; vương quốc thịnh vượng trong các thế kỉ XV–XVII, đến đầu thế kỉ XVIII thì bị chia tách.",
+    "time": [1353],
+    "endTime": [1707],
     "emoji": "🏛️",
     "priority": 75
   },
   {
     "title": "Nhà Minh thay thế nhà Nguyên, phục hưng văn hóa Trung Hoa",
-    "description": "Năm 1368, Chu Nguyên Chương lật đổ nhà Nguyên, thành lập nhà Minh tại Trung Quốc, khôi phục nền văn hóa và chính quyền Trung Hoa bản địa, đồng thời mở rộng ảnh hưởng ra khắp châu Á.",
-    "time": [
-      1368
-    ],
+    "description": "Năm 1368, Chu Nguyên Chương lật đổ nhà Nguyên, thành lập nhà Minh tại Trung Quốc, khôi phục chính quyền và văn hóa Trung Hoa bản địa, đồng thời mở rộng ảnh hưởng ra bên ngoài. Nhà Minh tồn tại đến năm 1644.",
+    "time": [1368],
+    "endTime": [1644],
     "emoji": "🏯",
     "priority": 82
   },
   {
     "title": "Hồ Quý Ly lật đổ nhà Trần, thành lập nhà Hồ",
-    "description": "Năm 1400, Hồ Quý Ly cướp ngôi nhà Trần, lập ra nhà Hồ và đổi quốc hiệu thành Đại Ngu. Đây là cuộc chuyển ngôi đầu tiên trong lịch sử Việt Nam không qua chiến tranh hay ngoại xâm.",
-    "time": [
-      1400
-    ],
+    "description": "Năm 1400, Hồ Quý Ly buộc vua Trần nhường ngôi, lập ra nhà Hồ và đổi quốc hiệu thành Đại Ngu. Nhà Hồ tiếp tục đẩy mạnh các cải cách về kinh tế, xã hội nhưng chỉ tồn tại đến năm 1407.",
+    "time": [1400],
+    "endTime": [1407],
     "emoji": "👑",
     "priority": 83
   },
   {
-    "title": "Hồ Quý Ly ban hành chính sách cải cách ruộng đất tiến bộ",
-    "description": "Năm 1401, nhà Hồ định ra chính sách hạn điền (giới hạn sở hữu ruộng đất), ban hành hình luật mới và cải cách hành chính. Các cải cách tiến bộ nhưng đụng chạm lợi ích địa chủ phong kiến, gây bất ổn xã hội.",
-    "time": [
-      1401
-    ],
+    "title": "Nhà Hồ đẩy mạnh cải cách đất nước",
+    "description": "Hồ Quý Ly và nhà Hồ thi hành nhiều cải cách: phép hạn điền (từ năm 1397), hạn nô (năm 1401), phát hành tiền giấy, cải cách thi cử và quân đội. Các cải cách có nhiều điểm tiến bộ nhưng đụng chạm quyền lợi của quý tộc, địa chủ và chưa hợp lòng dân.",
+    "time": [1401],
     "emoji": "📜",
     "priority": 80
   },
   {
     "title": "Quân nhà Minh xâm lược Đại Ngu, lật đổ nhà Hồ",
-    "description": "Cuối năm 1406, hơn 20 vạn quân nhà Minh chia 3 đạo tiến vào Đại Ngu. Nhà Hồ không đủ sức chống đỡ, cuộc kháng chiến thất bại năm 1407, đất nước lần thứ hai rơi vào ách đô hộ nước ngoài.",
-    "time": [
-      1406
-    ],
+    "description": "Cuối năm 1406, hơn 20 vạn quân nhà Minh do Trương Phụ, Mộc Thạnh chỉ huy tiến vào xâm lược Đại Ngu. Do không phát huy được sức mạnh toàn dân, cuộc kháng chiến của nhà Hồ thất bại vào giữa năm 1407, đất nước rơi vào ách đô hộ của nhà Minh.",
+    "time": [1406, 11],
+    "endTime": [1407, 6],
     "emoji": "⚔️",
     "priority": 88
   },
   {
-    "title": "Nhà Minh đô hộ Đại Việt, cai trị bạo lực và bóc lột nặng nề",
-    "description": "Năm 1407, nhà Minh chiếm đóng Đại Việt và đô hộ gần 20 năm (1407-1427), áp đặt chế độ cai trị hà khắc, đàn áp nhân dân, tịch thu ruộng đất và bắt nhân dân sang Trung Quốc. Nhân dân Việt Nam sống trong cảnh đê mác hấp hối.",
-    "time": [
-      1407
-    ],
+    "title": "Nhà Minh đô hộ nước ta, cai trị hà khắc và bóc lột nặng nề",
+    "description": "Từ năm 1407 đến năm 1427, nhà Minh đô hộ nước ta, áp đặt chế độ cai trị hà khắc, bóc lột nặng nề, thi hành chính sách đồng hóa tàn bạo, tịch thu sách vở, bắt nhân tài đưa về Trung Quốc. Nhân dân ta sống trong cảnh lầm than, cực khổ.",
+    "time": [1407],
+    "endTime": [1427],
     "emoji": "💀",
     "priority": 88
   },
   {
     "title": "Khởi nghĩa Lam Sơn bùng nổ dưới sự lãnh đạo của Lê Lợi",
-    "description": "Năm 1418, Lê Lợi tổ chức khởi nghĩa tại vùng Lam Sơn (Thanh Hóa), hưởng ứng phong trào chống Minh của nhân dân. Cuộc khởi nghĩa phát triển mạnh mẽ, trở thành phong trào giải phóng dân tộc quy mô lớn.",
-    "time": [
-      1418
-    ],
+    "description": "Năm 1418, Lê Lợi dựng cờ khởi nghĩa tại vùng Lam Sơn (Thanh Hóa), được nhân dân khắp nơi hưởng ứng. Cuộc khởi nghĩa phát triển mạnh mẽ, trở thành phong trào giải phóng dân tộc quy mô lớn, kéo dài đến thắng lợi hoàn toàn năm 1427.",
+    "time": [1418],
+    "endTime": [1427],
     "emoji": "⚔️",
     "priority": 88
   },
   {
     "title": "Chiến thắng Tốt Động - Chúc Động: quân Lam Sơn đại phá quân Minh",
-    "description": "Năm 1426, quân Lam Sơn dưới sự chỉ huy của Lê Lợi và Nguyễn Trãi đánh bại hơn 10 vạn quân Minh tại Tốt Động và Chúc Động (Hà Nội), tạo bước ngoặt quyết định cho cuộc kháng chiến.",
-    "time": [
-      1426
-    ],
+    "description": "Tháng 11 năm 1426, nghĩa quân Lam Sơn mai phục, đánh bại hơn 10 vạn quân Minh do Vương Thông chỉ huy tại Tốt Động — Chúc Động (Chương Mỹ, Hà Nội ngày nay), tạo bước ngoặt quyết định cho cuộc kháng chiến.",
+    "time": [1426, 11],
     "emoji": "⚔️",
     "priority": 86
   },
   {
-    "title": "Chiến thắng Chỉ Lăng: giải phóng hoàn toàn Đại Việt khỏi quân Minh",
-    "description": "Đầu năm 1427, quân Lam Sơn tiến đánh và tiêu diệt 5 vạn quân Minh tại Chỉ Lăng (Thái Nguyên), buộc nhà Minh phải chấp nhận rút quân hoàn toàn khỏi lãnh thổ Đại Việt sau gần 20 năm đô hộ.",
-    "time": [
-      1427
-    ],
+    "title": "Chiến thắng Chi Lăng - Xương Giang: quét sạch viện binh quân Minh",
+    "description": "Tháng 10 năm 1427, khoảng 15 vạn viện binh do Liễu Thăng và Mộc Thạnh chỉ huy tiến vào nước ta. Nghĩa quân Lam Sơn phục kích, chém Liễu Thăng tại ải Chi Lăng (Lạng Sơn), tiêu diệt và bắt sống số quân còn lại ở Xương Giang; cánh quân Mộc Thạnh hoảng sợ rút chạy. Nhà Minh buộc phải rút hết quân về nước.",
+    "time": [1427, 10],
     "emoji": "⚔️",
     "priority": 88
   },
   {
     "title": "Lê Lợi lên ngôi vua, mở đầu nhà Lê sơ",
-    "description": "Năm 1428, Lê Lợi lên ngôi Hoàng đế, đặt quốc hiệu Đại Việt và đóng đô ở Đông Đô (Thăng Long), chấm dứt gần 20 năm Bắc thuộc, mở ra thời kỳ Lê sơ thịnh vượng kéo dài gần 100 năm.",
-    "time": [
-      1428
-    ],
+    "description": "Năm 1428, Lê Lợi lên ngôi hoàng đế, khôi phục quốc hiệu Đại Việt, đóng đô ở Đông Kinh (Thăng Long), chấm dứt 20 năm đô hộ của nhà Minh, mở ra thời kỳ Lê sơ thịnh trị kéo dài gần 100 năm (1428–1527).",
+    "time": [1428],
+    "endTime": [1527],
     "emoji": "👑",
     "priority": 88
   },
   {
-    "title": "Lê Thánh Tông ban hành bộ Hồng Đức quốc luật nổi tiếng",
-    "description": "Năm 1483, vua Lê Thánh Tông biên soạn và ban hành bộ Hồng Đức quốc luật - bộ luật hoàn chỉnh và tiến bộ bậc nhất thời phong kiến, thể hiện trình độ quản lý nhà nước và ý thức pháp quyền cao của triều đại Lê sơ.",
-    "time": [
-      1483
-    ],
+    "title": "Lê Thánh Tông ban hành bộ Quốc triều hình luật (Luật Hồng Đức)",
+    "description": "Năm 1483, vua Lê Thánh Tông cho biên soạn và ban hành bộ Quốc triều hình luật (Luật Hồng Đức) — bộ luật hoàn chỉnh và tiến bộ bậc nhất thời phong kiến Việt Nam, có nhiều điều khoản bảo vệ quyền lợi của phụ nữ và người yếu thế.",
+    "time": [1483],
     "emoji": "📜",
     "priority": 80
   },
   {
-    "title": "Bartolomé Diaz vòng qua Mũi Hảo Vọng",
-    "description": "Năm 1487, nhà hàng hải Bồ Đào Nha Bartolomé Díaz chỉ huy ba chiếc thuyền buồm vượt qua Mũi Hảo Vọng ở cực nam châu Phi, mở con đường biển từ châu Âu sang châu Á.",
-    "time": [
-      1487
-    ],
+    "title": "Bartolomeu Dias vòng qua Mũi Hảo Vọng",
+    "description": "Năm 1487, nhà hàng hải Bồ Đào Nha Bartolomeu Dias chỉ huy đoàn thuyền vượt qua Mũi Hảo Vọng ở cực nam châu Phi, mở con đường biển từ châu Âu sang châu Á.",
+    "time": [1487],
     "emoji": "⛵",
     "priority": 82
   },
   {
     "title": "Christopher Columbus đặt chân lên châu Mỹ",
-    "description": "Năm 1492, nhà thám hiểm người Ý Christopher Columbus được vua Tây Ban Nha phái đi tìm đường sang châu Á nhưng đã đặt chân lên một lục địa mới (Caribbean), khám phá châu Mỹ.",
-    "time": [
-      1492
-    ],
+    "description": "Ngày 12 tháng 10 năm 1492, nhà thám hiểm người Ý Christopher Columbus, được triều đình Tây Ban Nha tài trợ đi tìm đường sang châu Á, đã đặt chân lên vùng đất mới thuộc quần đảo Caribbean, mở đầu việc tìm ra châu Mỹ.",
+    "time": [1492, 10, 12],
     "emoji": "🌎",
     "priority": 88
   },
   {
     "title": "Vasco da Gama đến Ấn Độ bằng đường biển",
     "description": "Năm 1498, nhà hàng hải Bồ Đào Nha Vasco da Gama đến được Ấn Độ bằng đường biển, thiết lập quan hệ thương mại và đặt nền móng cho sự bành trướng của Bồ Đào Nha ở châu Á.",
-    "time": [
-      1498
-    ],
+    "time": [1498],
     "emoji": "🌊",
     "priority": 85
   },
   {
-    "title": "Khởi nghĩa Trần Tuân và Trần Cáo chống nhà Lê sơ",
-    "description": "Năm 1511 và 1516, hai cuộc khởi nghĩa nông dân do Trần Tuân và Trần Cáo lãnh đạo bùng nổ chống nhà Lê sơ, phản ánh mâu thuẫn xã hội sâu sắc và mở đường cho sự sụp đổ của nhà Lê sơ.",
-    "time": [
-      1511
-    ],
+    "title": "Khởi nghĩa Trần Tuân và Trần Cảo chống nhà Lê sơ",
+    "description": "Năm 1511 và 1516, hai cuộc khởi nghĩa nông dân do Trần Tuân và Trần Cảo lãnh đạo bùng nổ chống nhà Lê sơ, phản ánh mâu thuẫn xã hội sâu sắc và báo hiệu sự suy yếu của triều đại này.",
+    "time": [1511],
     "emoji": "⚔️",
     "priority": 75
   },
   {
     "title": "Ferdinand Magellan khởi hành vòng quanh thế giới",
-    "description": "Năm 1519, nhà thám hiểm người Bồ Đào Nha Ferdinand Magellan được vua Tây Ban Nha phái đi thực hiện chuyến hải trình vòng quanh thế giới. Chuyến đi hoàn thành năm 1522, chứng minh trái đất hình cầu.",
-    "time": [
-      1519
-    ],
+    "description": "Năm 1519, nhà thám hiểm người Bồ Đào Nha Ferdinand Magellan được triều đình Tây Ban Nha phái đi thực hiện chuyến hải trình vòng quanh thế giới. Magellan tử trận ở Philippines năm 1521, nhưng đoàn thám hiểm hoàn thành chuyến đi năm 1522, chứng minh Trái Đất hình cầu.",
+    "time": [1519],
+    "endTime": [1522],
     "emoji": "🗺️",
     "priority": 85
   },
   {
     "title": "Mạc Đăng Dung lật đổ nhà Lê sơ, thành lập nhà Mạc",
-    "description": "Năm 1527, Mạc Đăng Dung - một tướng quyền lực của nhà Lê - cướp ngôi vua, thành lập nhà Mạc. Đây là triều đại phong kiến ngắn ngủi (1527-1592) nhưng có nhiều đóng góp cho sự phát triển kinh tế và văn hóa.",
-    "time": [
-      1527
-    ],
+    "description": "Năm 1527, Mạc Đăng Dung — võ quan nắm quyền lực lớn của nhà Lê — ép vua Lê nhường ngôi, thành lập nhà Mạc. Nhà Mạc cai trị ở Thăng Long từ năm 1527 đến năm 1592, có những đóng góp nhất định cho kinh tế và văn hóa.",
+    "time": [1527],
+    "endTime": [1592],
     "emoji": "👑",
     "priority": 82
   },
   {
-    "title": "Chiến tranh Nam-Bắc triều: đất nước Việt Nam chia cắt",
-    "description": "Từ năm 1543 đến 1592, Việt Nam trải qua cuộc chiến tranh Nam-Bắc triều kéo dài giữa nhà Mạc (Bắc) và nhà Lê trung hưng (Nam), trước khi nhà Mạc sụp đổ và nhà Lê-Trịnh thống trị toàn bộ đất nước.",
-    "time": [
-      1543
-    ],
+    "title": "Xung đột Nam - Bắc triều: đất nước bị chia cắt",
+    "description": "Từ năm 1533 đến năm 1592, xung đột Nam — Bắc triều giữa nhà Mạc (Bắc triều) và nhà Lê trung hưng (Nam triều) diễn ra kéo dài, khiến đất nước bị chia cắt, đời sống nhân dân khốn khổ; cuối cùng Nam triều chiếm được Thăng Long, nhà Mạc phải rút chạy lên Cao Bằng.",
+    "time": [1533],
+    "endTime": [1592],
     "emoji": "⚔️",
     "priority": 80
   },
   {
-    "title": "Chiến tranh Trịnh-Nguyễn chia đôi đất nước Việt Nam",
-    "description": "Từ năm 1627 đến 1672, đất nước Việt Nam bị chia thành hai vùng: Đàng Ngoài do chúa Trịnh và Đàng Trong do chúa Nguyễn thống trị. Chia cắt kéo dài gần 250 năm, để lại hậu quả sâu sắc cho dân tộc.",
-    "time": [
-      1627
-    ],
+    "title": "Xung đột Trịnh - Nguyễn chia đôi đất nước",
+    "description": "Từ năm 1627 đến năm 1672, chúa Trịnh (Đàng Ngoài) và chúa Nguyễn (Đàng Trong) bảy lần giao chiến nhưng không phân thắng bại, cuối cùng lấy sông Gianh (Quảng Bình) làm ranh giới chia đôi đất nước. Tình trạng chia cắt kéo dài đến cuối thế kỉ XVIII.",
+    "time": [1627],
+    "endTime": [1672],
     "emoji": "⚔️",
     "priority": 82
   },
   {
-    "title": "Nhà Thanh thay thế nhà Minh, mở thời kỳ phong kiến cuối Trung Quốc",
-    "description": "Năm 1644, nhà Thanh do người Mãn Châu lập ra, thay thế nhà Minh và trở thành triều đại phong kiến cuối cùng của Trung Quốc, đánh dấu sự thống trị của người nước ngoài trên một phần lớn lãnh thổ.",
-    "time": [
-      1644
-    ],
+    "title": "Nhà Thanh thay thế nhà Minh, triều đại phong kiến cuối cùng của Trung Quốc",
+    "description": "Năm 1644, nhà Thanh do người Mãn Châu lập ra thay thế nhà Minh, trở thành triều đại phong kiến cuối cùng của Trung Quốc, tồn tại đến năm 1912.",
+    "time": [1644],
+    "endTime": [1912],
     "emoji": "🏯",
     "priority": 82
   },
   {
     "title": "Thăng Long phát triển thành đô thị lớn với 36 phố phường",
     "description": "Từ thế kỉ XVII, Thăng Long (Kẻ Chợ) phát triển thành đô thị lớn với 36 phố phường, mỗi phố chuyên một ngành nghề. Phố Hiến (Hưng Yên) được xếp hạng 'thứ nhì Kinh Kỳ' về thương mại.",
-    "time": [
-      1650
-    ],
+    "time": [1650],
     "emoji": "🏙️",
     "priority": 74
   },
   {
     "title": "Hội An trở thành thương cảng quốc tế sầm uất nhất Đàng Trong",
     "description": "Từ thế kỉ XVII, Hội An (Quảng Nam) phát triển thành thương cảng quốc tế lớn nhất Đàng Trong, nơi thương nhân Trung Quốc, Nhật Bản, Ấn Độ, Bồ Đào Nha, Hà Lan, Anh, Pháp... tấp nập buôn bán.",
-    "time": [
-      1650
-    ],
+    "time": [1650],
     "emoji": "⚓",
     "priority": 75
   },
   {
     "title": "Chữ Quốc ngữ ra đời, đánh dấu bước ngoặt văn hóa Việt Nam",
-    "description": "Năm 1651, giáo sĩ Alexandre de Rhodes cho xuất bản Từ điển Việt-Bồ-La tại Roma, hoàn thiện hệ thống chữ Quốc ngữ dùng chữ cái La-tinh ghi âm tiếng Việt. Đây là thứ chữ viết khoa học, tiện lợi, thay thế dần chữ Nôm và chữ Hán.",
-    "time": [
-      1651
-    ],
+    "description": "Năm 1651, giáo sĩ Alexandre de Rhodes cho xuất bản Từ điển Việt–Bồ–La tại Roma, đánh dấu bước hoàn thiện quan trọng của chữ Quốc ngữ dùng chữ cái La-tinh ghi âm tiếng Việt. Đây là thứ chữ viết tiện lợi, khoa học, về sau trở thành chữ viết chính thức của nước ta.",
+    "time": [1651],
     "emoji": "📝",
     "priority": 85
   },
   {
-    "title": "Khởi nghĩa Nguyễn Dương Hưng mở đầu phong trào nông dân Đàng Ngoài TK XVIII",
-    "description": "Năm 1737, Nguyễn Dương Hưng khởi nghĩa ở Sơn Tây, mở đầu cho phong trào nông dân Đàng Ngoài chống chúa Trịnh suy thoái. Phong trào lan rộng khắp các trấn đồng bằng Bắc Bộ.",
-    "time": [
-      1737
-    ],
+    "title": "Khởi nghĩa Nguyễn Dương Hưng mở đầu phong trào nông dân Đàng Ngoài thế kỉ XVIII",
+    "description": "Năm 1737, Nguyễn Dương Hưng khởi nghĩa ở Sơn Tây, mở đầu cho phong trào nông dân Đàng Ngoài chống chính quyền Lê — Trịnh suy thoái. Phong trào lan rộng khắp các trấn đồng bằng Bắc Bộ.",
+    "time": [1737],
     "emoji": "⚔️",
     "priority": 78
   },
   {
-    "title": "Khởi nghĩa Lê Duy Mật hoạt động rộng khắp Thanh-Nghệ",
-    "description": "Từ năm 1738 đến 1770, khởi nghĩa Lê Duy Mật hoạt động tại vùng Thanh Hóa và Nghệ An, kéo dài hơn 30 năm, trở thành một trong những cuộc khởi nghĩa nông dân lớn nhất thế kỉ XVIII.",
-    "time": [
-      1738
-    ],
+    "title": "Khởi nghĩa Lê Duy Mật hoạt động rộng khắp Thanh - Nghệ",
+    "description": "Từ năm 1738 đến năm 1770, khởi nghĩa Lê Duy Mật hoạt động tại vùng Thanh Hóa và Nghệ An, kéo dài hơn 30 năm, trở thành một trong những cuộc khởi nghĩa nông dân lớn nhất thế kỉ XVIII.",
+    "time": [1738],
+    "endTime": [1770],
     "emoji": "⚔️",
     "priority": 78
   },
   {
     "title": "Khởi nghĩa Hoàng Công Chất ở vùng Tây Bắc - Điện Biên",
-    "description": "Từ năm 1739 đến 1769, Hoàng Công Chất lãnh đạo nghĩa quân hoạt động ở vùng Sơn Nam và Tây Bắc (Điện Biên). Các dân tộc thiểu số Tây Bắc hết lòng ủng hộ, giúp ổn định cuộc sống vùng biên giới.",
-    "time": [
-      1739
-    ],
+    "description": "Từ năm 1739 đến năm 1769, Hoàng Công Chất lãnh đạo nghĩa quân hoạt động ở vùng Sơn Nam rồi chuyển lên Tây Bắc (Điện Biên). Các dân tộc thiểu số Tây Bắc hết lòng ủng hộ, nghĩa quân góp phần ổn định cuộc sống vùng biên giới.",
+    "time": [1739],
+    "endTime": [1769],
     "emoji": "⚔️",
     "priority": 78
   },
   {
     "title": "Nạn đói khủng khiếp ở Đàng Ngoài, hàng chục vạn người chết",
-    "description": "Năm 1740-1741, nạn đói khủng khiếp hoành hành ở Đàng Ngoài, 'người chết đói ngổn ngang, người sống sót không còn một phần mười'. Nạn đói thúc đẩy phong trào nông dân bùng nổ mạnh mẽ.",
-    "time": [
-      1740
-    ],
+    "description": "Năm 1740–1741, nạn đói khủng khiếp hoành hành ở Đàng Ngoài, người chết đói ngổn ngang khắp nơi. Nạn đói làm mâu thuẫn xã hội thêm gay gắt, thúc đẩy phong trào nông dân bùng nổ mạnh mẽ.",
+    "time": [1740],
+    "endTime": [1741],
     "emoji": "💀",
     "priority": 82
   },
   {
     "title": "Khởi nghĩa Nguyễn Hữu Cầu ở Đồ Sơn, uy hiếp kinh thành Thăng Long",
-    "description": "Từ năm 1741 đến 1751, Nguyễn Hữu Cầu (quận Hẻo) lãnh đạo nghĩa quân từ Đồ Sơn (Hải Phòng) tiến ra Kinh Bắc, uy hiếp kinh thành Thăng Long, với khẩu hiệu 'Lấy của nhà giàu chia cho người nghèo'.",
-    "time": [
-      1741
-    ],
+    "description": "Từ năm 1741 đến năm 1751, Nguyễn Hữu Cầu (quận He) lãnh đạo nghĩa quân từ Đồ Sơn (Hải Phòng) tiến lên Kinh Bắc, uy hiếp kinh thành Thăng Long, với khẩu hiệu 'Lấy của nhà giàu chia cho người nghèo'.",
+    "time": [1741],
+    "endTime": [1751],
     "emoji": "⚔️",
     "priority": 80
   },
   {
-    "title": "Phong trào Tây Sơn bùng nổ, khởi đầu cuộc cách mạng lớn nhất TK XVIII",
-    "description": "Mùa xuân năm 1771, ba anh em Nguyễn Nhạc, Nguyễn Huệ, Nguyễn Lữ lên vùng Tây Sơn (An Khê, Gia Lai) lập căn cứ, phát động khởi nghĩa chống chính quyền họ Nguyễn suy thoái. Nghĩa quân nhận được sự hưởng ứng mạnh mẽ.",
-    "time": [
-      1771
-    ],
+    "title": "Phong trào Tây Sơn bùng nổ — phong trào nông dân lớn nhất thế kỉ XVIII",
+    "description": "Mùa xuân năm 1771, ba anh em Nguyễn Nhạc, Nguyễn Huệ, Nguyễn Lữ lên vùng Tây Sơn thượng đạo (An Khê, Gia Lai) lập căn cứ, phát động khởi nghĩa chống chính quyền chúa Nguyễn suy thoái. Nghĩa quân nhận được sự hưởng ứng mạnh mẽ của các tầng lớp nhân dân.",
+    "time": [1771],
+    "endTime": [1789],
     "emoji": "⚔️",
     "priority": 88
   },
   {
-    "title": "Nghĩa quân Tây Sơn lật đổ chính quyền họ Nguyễn ở Đàng Trong",
-    "description": "Từ năm 1776 đến 1783, nghĩa quân Tây Sơn bốn lần đánh vào Gia Định. Lần thứ tư (năm 1777), bắt và giết chết chúa Nguyễn, chỉ còn Nguyễn Ánh chạy thoát. Chính quyền họ Nguyễn ở Đàng Trong chính thức sụp đổ.",
-    "time": [
-      1777
-    ],
+    "title": "Nghĩa quân Tây Sơn lật đổ chính quyền chúa Nguyễn ở Đàng Trong",
+    "description": "Từ năm 1776 đến năm 1783, nghĩa quân Tây Sơn nhiều lần đánh vào Gia Định. Năm 1777, chúa Nguyễn bị bắt, giết; chỉ còn Nguyễn Ánh chạy thoát. Chính quyền chúa Nguyễn ở Đàng Trong sụp đổ.",
+    "time": [1777],
     "emoji": "⚔️",
     "priority": 86
   },
   {
-    "title": "Chiến thắng Rạch Gầm - Xoài Mút: Quang Trung đại phá quân Xiêm",
-    "description": "Ngày 19-1-1785, Nguyễn Huệ (Quang Trung) bố trí mai phục trên sông Tiền từ Rạch Gầm đến Xoài Mút (Tiền Giang), đánh bại và tiêu diệt gần hết 5 vạn quân Xiêm xâm lược. Trận thủy chiến lớn nhất trong lịch sử chống ngoại xâm của Việt Nam.",
-    "time": [
-      1785
-    ],
+    "title": "Chiến thắng Rạch Gầm - Xoài Mút: Nguyễn Huệ đại phá quân Xiêm",
+    "description": "Ngày 19 tháng 1 năm 1785, Nguyễn Huệ bố trí mai phục trên sông Tiền, đoạn từ Rạch Gầm đến Xoài Mút (Tiền Giang), đánh tan gần 5 vạn quân Xiêm xâm lược. Đây là một trong những trận thủy chiến lớn nhất trong lịch sử chống ngoại xâm của dân tộc ta.",
+    "time": [1785, 1, 19],
     "emoji": "⚔️",
     "priority": 88
   },
   {
-    "title": "Nghĩa quân Tây Sơn tiến ra Bắc, lật đổ chính quyền họ Trịnh",
-    "description": "Mùa hè 1786, Nguyễn Huệ theo lệnh Nguyễn Nhạc tiến quân ra Bắc, đánh tan quân Trịnh tại Phú Xuân. Ngày 21-7-1786, vào Thăng Long, bắt giao chúa Trịnh cho quân Tây Sơn. Chính quyền họ Trịnh tồn tại hơn 200 năm sụp đổ.",
-    "time": [
-      1786
-    ],
+    "title": "Nghĩa quân Tây Sơn tiến ra Bắc, lật đổ chính quyền chúa Trịnh",
+    "description": "Giữa năm 1786, Nguyễn Huệ chỉ huy quân Tây Sơn đánh chiếm Phú Xuân rồi tiến ra Bắc. Ngày 21 tháng 7 năm 1786, quân Tây Sơn vào Thăng Long, chúa Trịnh bị bắt; chính quyền chúa Trịnh tồn tại hơn 200 năm sụp đổ.",
+    "time": [1786, 7],
     "emoji": "⚔️",
     "priority": 88
   },
   {
-    "title": "Nguyễn Huệ lên ngôi Hoàng đế, lấy hiệu Quang Trung",
-    "description": "Cuối năm 1788, Nguyễn Huệ lên ngôi Hoàng đế tại Phú Xuân, lấy niên hiệu là Quang Trung, thống nhất quyền lực toàn quốc vào tay nhà Tây Sơn, chuẩn bị kháng chiến chống quân Thanh xâm lược.",
-    "time": [
-      1788
-    ],
+    "title": "Nguyễn Huệ lên ngôi Hoàng đế, lấy niên hiệu Quang Trung",
+    "description": "Ngày 22 tháng 12 năm 1788 (ngày 25 tháng 11 năm Mậu Thân), Nguyễn Huệ lên ngôi hoàng đế tại Phú Xuân, lấy niên hiệu Quang Trung, rồi lập tức tiến quân ra Bắc, chuẩn bị đại phá quân Thanh xâm lược.",
+    "time": [1788, 12, 22],
     "emoji": "👑",
     "priority": 86
   },
   {
     "title": "Quang Trung đại phá 29 vạn quân Thanh tại Ngọc Hồi - Đống Đa",
-    "description": "Tết Kỉ Dậu (mồng 5 tháng 1 năm 1789), Quang Trung đại phá 29 vạn quân nhà Thanh do Tôn Sĩ Nghị chỉ huy tại Ngọc Hồi và Đống Đa (Hà Nội). Chiến thắng vĩ đại bảo vệ nền độc lập dân tộc.",
-    "time": [
-      1789
-    ],
+    "description": "Mồng 5 Tết Kỷ Dậu (30 tháng 1 năm 1789), vua Quang Trung chỉ huy quân Tây Sơn đại phá 29 vạn quân Thanh do Tôn Sĩ Nghị thống lĩnh tại Ngọc Hồi — Đống Đa (Hà Nội), quét sạch quân xâm lược, bảo vệ vững chắc nền độc lập dân tộc.",
+    "time": [1789, 1, 30],
     "emoji": "⚔️",
     "priority": 90
   },
   {
     "title": "Quang Trung thực hiện nhiều chính sách cải cách tiến bộ",
-    "description": "Sau chiến thắng chống Thanh, Quang Trung ban hành Chiếu lập học, khuyến nông, phát triển thủ công nghiệp, xây dựng quân đội hùng mạnh và duy trì chính sách ngoại giao hòa bình với nhà Thanh. Ông sử dụng chữ Nôm làm chữ viết chính thức.",
-    "time": [
-      1789
-    ],
+    "description": "Sau chiến thắng chống Thanh, vua Quang Trung ban 'Chiếu khuyến nông', 'Chiếu lập học', phát triển thủ công nghiệp và thương nghiệp, đề cao chữ Nôm, xây dựng quân đội hùng mạnh, thi hành chính sách ngoại giao mềm dẻo nhưng kiên quyết với nhà Thanh.",
+    "time": [1789],
     "emoji": "📜",
     "priority": 80
   },
   {
-    "title": "Truyện Kiều của Nguyễn Du ra đời, đỉnh cao văn học Việt Nam",
-    "description": "Năm 1791, đại thi hào Nguyễn Du (1765-1820) hoàn thành tác phẩm Truyện Kiều - kiệt tác văn học bằng chữ Nôm dài 3.254 câu thơ lục bát, phản ánh sâu sắc cuộc sống và tâm tư tình cảm con người Việt Nam.",
-    "time": [
-      1791
-    ],
+    "title": "Nguyễn Du sáng tác Truyện Kiều, đỉnh cao văn học Việt Nam",
+    "description": "Vào khoảng đầu thế kỉ XIX, đại thi hào Nguyễn Du (1765–1820) sáng tác 'Truyện Kiều' (Đoạn trường tân thanh) — kiệt tác gồm 3.254 câu thơ lục bát bằng chữ Nôm, phản ánh sâu sắc xã hội đương thời và số phận con người, trở thành đỉnh cao của văn học trung đại Việt Nam.",
+    "time": [1805],
     "emoji": "📚",
     "priority": 82
   },
   {
     "title": "Quang Trung đột ngột qua đời, sự nghiệp cải cách dang dở",
-    "description": "Ngày 16-9-1792, vua Quang Trung đột ngột qua đời, công cuộc xây dựng đất nước dang dở. Con trai Quang Toản lên ngôi nhưng không đủ năng lực, nội bộ triều đình Phú Xuân suy yếu nhanh chóng.",
-    "time": [
-      1792
-    ],
+    "description": "Ngày 16 tháng 9 năm 1792, vua Quang Trung đột ngột qua đời, công cuộc xây dựng đất nước dang dở. Con trai là Quang Toản lên ngôi nhưng không đủ năng lực, nội bộ triều đình Phú Xuân suy yếu nhanh chóng.",
+    "time": [1792, 9, 16],
     "emoji": "💀",
     "priority": 82
   },
   {
     "title": "Nguyễn Ánh lên ngôi, triều Nguyễn chính thức thành lập",
-    "description": "Năm 1802, Nguyễn Ánh (Gia Long) đánh bại nhà Tây Sơn, thống nhất đất nước, lên ngôi Hoàng đế, đóng đô ở Phú Xuân (Huế), thành lập triều Nguyễn - triều đại phong kiến cuối cùng của Việt Nam kéo dài đến 1945.",
-    "time": [
-      1802
-    ],
+    "description": "Năm 1802, Nguyễn Ánh (Gia Long) đánh bại triều Tây Sơn, làm chủ đất nước, lên ngôi hoàng đế, đóng đô ở Phú Xuân (Huế), thành lập triều Nguyễn — triều đại phong kiến cuối cùng của Việt Nam, kéo dài đến năm 1945.",
+    "time": [1802],
+    "endTime": [1945],
     "emoji": "👑",
     "priority": 84
   },
   {
     "title": "Gia Long đặt quốc hiệu Việt Nam, xây dựng nhà nước phong kiến tập quyền",
-    "description": "Năm 1804, vua Gia Long chính thức đặt quốc hiệu là Việt Nam, xây dựng bộ máy nhà nước phong kiến tập quyền hoàn chỉnh từ trung ương đến địa phương, mở đầu cho thời kỳ Nguyễn thống trị.",
-    "time": [
-      1804
-    ],
+    "description": "Năm 1804, vua Gia Long chính thức đặt quốc hiệu là Việt Nam, xây dựng bộ máy nhà nước phong kiến tập quyền từ trung ương đến địa phương, mở đầu cho thời kỳ trị vì của triều Nguyễn.",
+    "time": [1804],
     "emoji": "🪧",
     "priority": 82
   },
   {
-    "title": "Bộ Hoàng triều luật lệ (Luật Gia Long) được ban hành",
-    "description": "Năm 1815, triều Nguyễn ban hành bộ Hoàng triều luật lệ (Luật Gia Long), hoàn thiện hệ thống pháp luật phong kiến Việt Nam. Đây là bộ luật cuối cùng của chế độ phong kiến Việt Nam, chịu ảnh hưởng sâu sắc từ luật pháp nhà Thanh.",
-    "time": [
-      1815
-    ],
+    "title": "Bộ Hoàng Việt luật lệ (Luật Gia Long) được ban hành",
+    "description": "Năm 1815, triều Nguyễn ban hành bộ Hoàng Việt luật lệ (Luật Gia Long), hoàn thiện hệ thống pháp luật phong kiến Việt Nam. Đây là bộ luật cuối cùng của chế độ phong kiến Việt Nam, chịu ảnh hưởng sâu sắc từ luật pháp nhà Thanh.",
+    "time": [1815],
     "emoji": "📜",
     "priority": 78
   },
   {
     "title": "Khởi nghĩa Phan Bá Vành chống nhà Nguyễn",
-    "description": "Từ năm 1821 đến 1827, Phan Bá Vành (Thái Bình) lãnh đạo nông dân nổi dậy chống địa chủ và quan lại nhà Nguyễn. Nghĩa quân hoạt động khắp Thái Bình, Nam Định, Hải Dương, lập căn cứ ở Trà Lũ, đánh nhau hàng chục trận lớn trước khi bị đàn áp.",
-    "time": [
-      1821
-    ],
+    "description": "Từ năm 1821 đến năm 1827, Phan Bá Vành (Thái Bình) lãnh đạo nông dân nổi dậy chống địa chủ và quan lại nhà Nguyễn. Nghĩa quân hoạt động khắp Thái Bình, Nam Định, Hải Dương, lập căn cứ ở Trà Lũ, đánh hàng chục trận lớn trước khi bị đàn áp.",
+    "time": [1821],
+    "endTime": [1827],
     "emoji": "⚔️",
     "priority": 80
   },
   {
-    "title": "Khởi nghĩa Nông Văn Vân chống nhà Nguyễn ở vùng Cao Bằng",
-    "description": "Từ năm 1833 đến 1835, Nông Văn Vân - tù trưởng dân tộc Tày - tập hợp nhân dân miền núi Việt Bắc nổi dậy chống sự chèn ép của triều đình nhà Nguyễn. Cuộc khởi nghĩa lan rộng khắp miền núi, buộc nhà Nguyễn phải ba lần cử đại quân đàn áp.",
-    "time": [
-      1833
-    ],
+    "title": "Khởi nghĩa Nông Văn Vân chống nhà Nguyễn ở vùng Việt Bắc",
+    "description": "Từ năm 1833 đến năm 1835, Nông Văn Vân — tù trưởng dân tộc Tày — tập hợp nhân dân miền núi Việt Bắc nổi dậy chống sự chèn ép của triều đình nhà Nguyễn. Cuộc khởi nghĩa lan rộng khắp miền núi, buộc nhà Nguyễn phải nhiều lần cử đại quân đàn áp.",
+    "time": [1833],
+    "endTime": [1835],
     "emoji": "⚔️",
     "priority": 80
   },
   {
     "title": "Khởi nghĩa Lê Văn Khôi chiếm thành Gia Định",
-    "description": "Từ tháng 6-1833, Lê Văn Khôi chiếm thành Phiên An (Gia Định), tự xưng Bình Nam đại nguyên soái. Cả sáu tỉnh Nam Kỳ đều hưởng ứng. Đến tháng 7-1835, sau cái chết của Lê Văn Khôi, cuộc khởi nghĩa bị đàn áp khốc liệt.",
-    "time": [
-      1833
-    ],
+    "description": "Tháng 6 năm 1833, Lê Văn Khôi khởi binh chiếm thành Phiên An (Gia Định), tự xưng Bình Nam Đại nguyên soái, được đông đảo nhân dân Nam Kỳ hưởng ứng. Năm 1834, Lê Văn Khôi qua đời; đến năm 1835, cuộc khởi nghĩa bị triều đình đàn áp khốc liệt.",
+    "time": [1833, 6],
+    "endTime": [1835],
     "emoji": "⚔️",
     "priority": 80
   },
   {
     "title": "Quốc hiệu Đại Nam chính thức được đặt",
-    "description": "Năm 1838, vua Minh Mạng đổi quốc hiệu từ Việt Nam thành Đại Nam, thể hiện tham vọng mở rộng lãnh thổ về phía nam. Đây là quốc hiệu chính thức cuối cùng của nhà nước phong kiến Việt Nam trước khi thực dân Pháp xâm lược.",
-    "time": [
-      1838
-    ],
+    "description": "Năm 1838, vua Minh Mạng đổi quốc hiệu từ Việt Nam thành Đại Nam. Đây là quốc hiệu chính thức cuối cùng của nhà nước phong kiến Việt Nam trước khi thực dân Pháp xâm lược.",
+    "time": [1838],
     "emoji": "🪧",
     "priority": 75
   },
   {
     "title": "Khởi nghĩa Cao Bá Quát chống nhà Nguyễn",
-    "description": "Từ năm 1854 đến 1856, Cao Bá Quát (Gia Lâm, Hà Nội) - nhà nho nghĩa khí - tập hợp nông dân và các dân tộc miền trung du nổi dậy chống nhà Nguyễn. Đầu năm 1855, trong trận ác liệt ở Sơn Tây, Cao Bá Quát hi sinh.",
-    "time": [
-      1854
-    ],
+    "description": "Từ năm 1854 đến năm 1856, Cao Bá Quát (Gia Lâm, Hà Nội) — nhà nho nghĩa khí — tập hợp nông dân và một số dân tộc miền trung du nổi dậy chống nhà Nguyễn. Đầu năm 1855, trong một trận đánh ác liệt ở Sơn Tây, Cao Bá Quát hi sinh.",
+    "time": [1854],
+    "endTime": [1856],
     "emoji": "⚔️",
     "priority": 80
   },
   {
     "title": "Thực dân Pháp nổ súng xâm lược Việt Nam tại Sơn Trà - Đà Nẵng",
-    "description": "Ngày 1-9-1858, thực dân Pháp nổ súng tấn công bán đảo Sơn Trà (Đà Nẵng), mở đầu cuộc xâm lược Việt Nam. Lịch sử Việt Nam chuyển sang giai đoạn mới - giai đoạn thuộc địa và đấu tranh giải phóng dân tộc.",
-    "time": [
-      1858
-    ],
+    "description": "Ngày 1 tháng 9 năm 1858, thực dân Pháp nổ súng tấn công bán đảo Sơn Trà (Đà Nẵng), mở đầu cuộc xâm lược Việt Nam. Lịch sử Việt Nam chuyển sang giai đoạn mới — giai đoạn chống thực dân, giành lại độc lập dân tộc.",
+    "time": [1858, 9, 1],
     "emoji": "💥",
     "priority": 90
   }

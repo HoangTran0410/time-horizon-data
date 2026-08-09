@@ -1,0 +1,596 @@
+[
+  {
+    "title": {
+      "vi": "Liên đại Hỏa thành",
+      "en": "Hadean Eon"
+    },
+    "description": {
+      "vi": "Trái Đất hình thành từ đĩa bụi quanh Mặt Trời non trẻ; bề mặt nóng chảy, bị thiên thạch bắn phá dữ dội và Mặt Trăng ra đời sau cú va chạm với Theia. Đại dương đầu tiên có thể đã xuất hiện vào cuối liên đại.",
+      "en": "Earth forms from the young Sun's debris disk; the surface is molten, heavily bombarded by impacts, and the Moon is born from the Theia collision. The first oceans may have appeared near the eon's end."
+    },
+    "time": [
+      -4567000000
+    ],
+    "endTime": [
+      -4031000000
+    ],
+    "emoji": "🌋",
+    "priority": 90
+  },
+  {
+    "title": {
+      "vi": "Liên đại Thái cổ",
+      "en": "Archean Eon"
+    },
+    "description": {
+      "vi": "Vỏ lục địa đầu tiên và những khối đá cổ nhất còn tồn tại hình thành; sự sống đơn bào xuất hiện trong đại dương. Khí quyển hầu như chưa có oxy tự do.",
+      "en": "The first continental crust and the oldest surviving rocks form, and single-celled life emerges in the oceans. The atmosphere still holds almost no free oxygen."
+    },
+    "time": [
+      -4031000000
+    ],
+    "endTime": [
+      -2500000000
+    ],
+    "emoji": "🪨",
+    "priority": 91
+  },
+  {
+    "title": {
+      "vi": "Đại Sơ Thái cổ (Eoarchean)",
+      "en": "Eoarchean Era"
+    },
+    "description": {
+      "vi": "Phần cổ nhất của liên đại Thái cổ, được ghi lại trong các khối đá Isua ở Greenland; dấu vết hóa học sớm nhất của sự sống có thể đã xuất hiện trong đại này.",
+      "en": "The oldest part of the Archean, recorded in Greenland's Isua rocks; the earliest chemical traces of life may date to this era."
+    },
+    "time": [
+      -4031000000
+    ],
+    "endTime": [
+      -3600000000
+    ],
+    "emoji": "🧬",
+    "priority": 81
+  },
+  {
+    "title": {
+      "vi": "Đại Cổ Thái cổ (Paleoarchean)",
+      "en": "Paleoarchean Era"
+    },
+    "description": {
+      "vi": "Chứa các hóa thạch stromatolite lâu đời nhất không thể tranh cãi (~3,48 tỷ năm) ở Úc và Nam Phi — bằng chứng trực tiếp sớm nhất về sự sống.",
+      "en": "Holds the oldest undisputed stromatolite fossils (~3.48 billion years) in Australia and South Africa — the earliest direct evidence of life."
+    },
+    "time": [
+      -3600000000
+    ],
+    "endTime": [
+      -3200000000
+    ],
+    "emoji": "🦠",
+    "priority": 80
+  },
+  {
+    "title": {
+      "vi": "Đại Trung Thái cổ (Mesoarchean)",
+      "en": "Mesoarchean Era"
+    },
+    "description": {
+      "vi": "Các vi lục địa đầu tiên tập hợp và stromatolite lan rộng trong các vùng biển nông; kiến tạo mảng sơ khai có thể đã bắt đầu vận hành.",
+      "en": "The first microcontinents assemble and stromatolites spread through shallow seas; early plate tectonics may have begun."
+    },
+    "time": [
+      -3200000000
+    ],
+    "endTime": [
+      -2800000000
+    ],
+    "emoji": "🌊",
+    "priority": 80
+  },
+  {
+    "title": {
+      "vi": "Đại Tân Thái cổ (Neoarchean)",
+      "en": "Neoarchean Era"
+    },
+    "description": {
+      "vi": "Phần lớn vỏ lục địa hiện đại hình thành và siêu lục địa sớm Kenorland tập hợp; vi khuẩn lam quang hợp bắt đầu bơm oxy vào đại dương.",
+      "en": "Much of the modern continental crust forms and the early supercontinent Kenorland assembles; photosynthetic cyanobacteria begin pumping oxygen into the oceans."
+    },
+    "time": [
+      -2800000000
+    ],
+    "endTime": [
+      -2500000000
+    ],
+    "emoji": "🏔️",
+    "priority": 81
+  },
+  {
+    "title": {
+      "vi": "Liên đại Nguyên sinh",
+      "en": "Proterozoic Eon"
+    },
+    "description": {
+      "vi": "Sự kiện Oxy hóa Lớn làm biến đổi khí quyển, tế bào nhân thực và sinh vật đa bào ra đời, Trái Đất trải qua những kỳ đóng băng 'quả cầu tuyết'. Đây là liên đại dài nhất trong lịch sử Trái Đất.",
+      "en": "The Great Oxidation Event transforms the atmosphere, eukaryotic cells and multicellular life arise, and Earth endures 'Snowball' glaciations. It is the longest eon in Earth's history."
+    },
+    "time": [
+      -2500000000
+    ],
+    "endTime": [
+      -538800000
+    ],
+    "emoji": "🫧",
+    "priority": 92
+  },
+  {
+    "title": {
+      "vi": "Đại Cổ Nguyên sinh (Paleoproterozoic)",
+      "en": "Paleoproterozoic Era"
+    },
+    "description": {
+      "vi": "Sự kiện Oxy hóa Lớn (~2,4 tỷ năm trước) đưa oxy tự do vào khí quyển, tàn phá các vi sinh vật kỵ khí và châm ngòi kỳ băng hà Huronia.",
+      "en": "The Great Oxidation Event (~2.4 billion years ago) floods the atmosphere with free oxygen, devastating anaerobic microbes and triggering the Huronian glaciation."
+    },
+    "time": [
+      -2500000000
+    ],
+    "endTime": [
+      -1600000000
+    ],
+    "emoji": "🌬️",
+    "priority": 82
+  },
+  {
+    "title": {
+      "vi": "Đại Trung Nguyên sinh (Mesoproterozoic)",
+      "en": "Mesoproterozoic Era"
+    },
+    "description": {
+      "vi": "'Tỷ năm buồn tẻ' với khí hậu và hóa học đại dương ổn định; tế bào nhân thực đa dạng hóa, sinh sản hữu tính xuất hiện và siêu lục địa Rodinia bắt đầu tập hợp.",
+      "en": "The 'boring billion' of stable climate and ocean chemistry; eukaryotes diversify, sexual reproduction appears, and the supercontinent Rodinia begins to assemble."
+    },
+    "time": [
+      -1600000000
+    ],
+    "endTime": [
+      -1000000000
+    ],
+    "emoji": "🧫",
+    "priority": 80
+  },
+  {
+    "title": {
+      "vi": "Đại Tân Nguyên sinh (Neoproterozoic)",
+      "en": "Neoproterozoic Era"
+    },
+    "description": {
+      "vi": "Trái Đất hai lần đóng băng gần như toàn cầu ('Trái Đất quả cầu tuyết'), rồi quần thể sinh vật thân mềm kỳ lạ Ediacara xuất hiện — những động vật đa bào lớn đầu tiên.",
+      "en": "Earth freezes nearly pole-to-pole in 'Snowball Earth' glaciations, then the strange soft-bodied Ediacaran biota appears — the first large multicellular animals."
+    },
+    "time": [
+      -1000000000
+    ],
+    "endTime": [
+      -538800000
+    ],
+    "emoji": "❄️",
+    "priority": 83
+  },
+  {
+    "title": {
+      "vi": "Liên đại Hiển sinh",
+      "en": "Phanerozoic Eon"
+    },
+    "description": {
+      "vi": "Liên đại của 'sự sống hiển hiện': động vật có vỏ cứng bùng nổ ở kỷ Cambri và sinh giới đa dạng hóa khắp đất liền, biển và bầu trời. Gồm ba đại Cổ sinh, Trung sinh, Tân sinh và kéo dài đến ngày nay.",
+      "en": "The eon of 'visible life': shelled animals explode in the Cambrian and life diversifies across land, sea and sky. It spans the Paleozoic, Mesozoic and Cenozoic eras and continues today."
+    },
+    "time": [
+      -538800000
+    ],
+    "endTime": [
+      2026
+    ],
+    "emoji": "🐚",
+    "priority": 95
+  },
+  {
+    "title": {
+      "vi": "Đại Cổ sinh",
+      "en": "Paleozoic Era"
+    },
+    "description": {
+      "vi": "Từ bùng nổ Cambri đến thảm họa cuối kỷ Permi: cá, thực vật trên cạn, côn trùng và bò sát lần lượt xuất hiện. Kết thúc bằng cuộc đại tuyệt chủng lớn nhất lịch sử.",
+      "en": "From the Cambrian explosion to the end-Permian catastrophe: fish, land plants, insects and reptiles all appear in turn. It ends with the largest mass extinction in history."
+    },
+    "time": [
+      -538800000
+    ],
+    "endTime": [
+      -251902000
+    ],
+    "emoji": "🦑",
+    "priority": 85
+  },
+  {
+    "title": {
+      "vi": "Kỷ Cambri",
+      "en": "Cambrian Period"
+    },
+    "description": {
+      "vi": "Bùng nổ Cambri: hầu hết các ngành động vật hiện đại xuất hiện đột ngột trong hồ sơ hóa thạch, cùng bọ ba thùy và những kẻ săn mồi lớn đầu tiên như Anomalocaris.",
+      "en": "The Cambrian explosion: most modern animal phyla appear abruptly in the fossil record, alongside trilobites and the first big predators like Anomalocaris."
+    },
+    "time": [
+      -538800000
+    ],
+    "endTime": [
+      -486850000
+    ],
+    "emoji": "🦀",
+    "priority": 77
+  },
+  {
+    "title": {
+      "vi": "Kỷ Ordovic",
+      "en": "Ordovician Period"
+    },
+    "description": {
+      "vi": "Sinh vật biển đa dạng hóa mạnh mẽ trong Sự kiện Đa dạng hóa Ordovic; thực vật đầu tiên lên cạn. Kết thúc bằng một kỳ băng hà và cuộc đại tuyệt chủng đầu tiên.",
+      "en": "Marine life diversifies dramatically in the Great Ordovician Biodiversification Event and the first plants colonize land. It ends with an ice age and the first mass extinction."
+    },
+    "time": [
+      -486850000
+    ],
+    "endTime": [
+      -443100000
+    ],
+    "emoji": "🐙",
+    "priority": 72
+  },
+  {
+    "title": {
+      "vi": "Kỷ Silur",
+      "en": "Silurian Period"
+    },
+    "description": {
+      "vi": "Sự sống hồi phục sau tuyệt chủng; thực vật có mạch đầu tiên và động vật chân khớp tiến lên đất liền, cá có hàm xuất hiện trong đại dương.",
+      "en": "Life rebounds after the extinction; the first vascular plants and arthropods move onto land, and jawed fish appear in the seas."
+    },
+    "time": [
+      -443100000
+    ],
+    "endTime": [
+      -419620000
+    ],
+    "emoji": "🌿",
+    "priority": 70
+  },
+  {
+    "title": {
+      "vi": "Kỷ Devon",
+      "en": "Devonian Period"
+    },
+    "description": {
+      "vi": "'Kỷ nguyên của cá': cá có hàm và cá vây thùy phát triển rực rỡ, những cánh rừng đầu tiên phủ xanh lục địa và động vật bốn chân đầu tiên bò lên cạn.",
+      "en": "The 'Age of Fishes': jawed and lobe-finned fish flourish, the first forests green the continents, and the first tetrapods crawl onto land."
+    },
+    "time": [
+      -419620000
+    ],
+    "endTime": [
+      -358860000
+    ],
+    "emoji": "🐟",
+    "priority": 74
+  },
+  {
+    "title": {
+      "vi": "Kỷ Carbon (Than đá)",
+      "en": "Carboniferous Period"
+    },
+    "description": {
+      "vi": "Những cánh rừng đầm lầy khổng lồ tạo nên phần lớn trữ lượng than đá của thế giới; côn trùng khổng lồ bay trong khí quyển giàu oxy và bò sát đầu tiên xuất hiện.",
+      "en": "Vast swamp forests lay down much of the world's coal; giant insects fly in the oxygen-rich air and the first reptiles appear."
+    },
+    "time": [
+      -358860000
+    ],
+    "endTime": [
+      -298900000
+    ],
+    "emoji": "🌲",
+    "priority": 73
+  },
+  {
+    "title": {
+      "vi": "Kỷ Permi",
+      "en": "Permian Period"
+    },
+    "description": {
+      "vi": "Bò sát và tổ tiên của thú (therapsid) thống trị siêu lục địa Pangaea khô cằn. Kết thúc bằng 'Đại Tuyệt chủng' xóa sổ khoảng 90% loài sinh vật biển.",
+      "en": "Reptiles and mammal ancestors (therapsids) dominate the arid supercontinent Pangaea. It ends with the 'Great Dying', which wipes out about 90% of marine species."
+    },
+    "time": [
+      -298900000
+    ],
+    "endTime": [
+      -251902000
+    ],
+    "emoji": "🏜️",
+    "priority": 75
+  },
+  {
+    "title": {
+      "vi": "Đại Trung sinh",
+      "en": "Mesozoic Era"
+    },
+    "description": {
+      "vi": "'Kỷ nguyên bò sát': khủng long thống trị đất liền, thằn lằn bay và bò sát biển ngự trị bầu trời và đại dương; chim, thú và thực vật có hoa xuất hiện. Kết thúc bởi thiên thạch Chicxulub.",
+      "en": "The 'Age of Reptiles': dinosaurs rule the land while pterosaurs and marine reptiles dominate sky and sea; birds, mammals and flowering plants appear. It ends with the Chicxulub impact."
+    },
+    "time": [
+      -251902000
+    ],
+    "endTime": [
+      -66000000
+    ],
+    "emoji": "🦖",
+    "priority": 86
+  },
+  {
+    "title": {
+      "vi": "Kỷ Trias",
+      "en": "Triassic Period"
+    },
+    "description": {
+      "vi": "Sự sống hồi phục chậm chạp trên Pangaea; khủng long, thằn lằn bay và những loài thú thực sự đầu tiên đều xuất hiện trước khi một cuộc đại tuyệt chủng nữa khép lại kỷ.",
+      "en": "Life slowly recovers on Pangaea; dinosaurs, pterosaurs and the first true mammals all appear before another mass extinction closes the period."
+    },
+    "time": [
+      -251902000
+    ],
+    "endTime": [
+      -201400000
+    ],
+    "emoji": "🦎",
+    "priority": 74
+  },
+  {
+    "title": {
+      "vi": "Kỷ Jura",
+      "en": "Jurassic Period"
+    },
+    "description": {
+      "vi": "Khủng long thống trị tuyệt đối: các sauropod khổng lồ như Brachiosaurus lang thang trên đất liền, chim đầu tiên (Archaeopteryx) cất cánh và Pangaea tách đôi.",
+      "en": "Dinosaurs reign supreme: giant sauropods like Brachiosaurus roam the land, the first birds (Archaeopteryx) take wing, and Pangaea splits apart."
+    },
+    "time": [
+      -201400000
+    ],
+    "endTime": [
+      -143100000
+    ],
+    "emoji": "🦕",
+    "priority": 79
+  },
+  {
+    "title": {
+      "vi": "Kỷ Creta (Phấn trắng)",
+      "en": "Cretaceous Period"
+    },
+    "description": {
+      "vi": "Thực vật có hoa cùng côn trùng thụ phấn lan khắp thế giới; T. rex và Triceratops sống ở cuối kỷ. Thiên thạch Chicxulub kết thúc kỷ nguyên khủng long 66 triệu năm trước.",
+      "en": "Flowering plants and their pollinators spread worldwide; T. rex and Triceratops live at the period's close. The Chicxulub asteroid ends the age of dinosaurs 66 million years ago."
+    },
+    "time": [
+      -143100000
+    ],
+    "endTime": [
+      -66000000
+    ],
+    "emoji": "🌺",
+    "priority": 78
+  },
+  {
+    "title": {
+      "vi": "Đại Tân sinh",
+      "en": "Cenozoic Era"
+    },
+    "description": {
+      "vi": "'Kỷ nguyên của thú': sau khi khủng long biến mất, thú và chim tỏa ra chiếm lĩnh mọi môi trường sống; khí hậu nguội dần dẫn tới các kỳ băng hà và loài người xuất hiện.",
+      "en": "The 'Age of Mammals': after the dinosaurs' demise, mammals and birds radiate into every niche; the climate cools toward ice ages and humans emerge."
+    },
+    "time": [
+      -66000000
+    ],
+    "endTime": [
+      2026
+    ],
+    "emoji": "🐘",
+    "priority": 87
+  },
+  {
+    "title": {
+      "vi": "Kỷ Paleogen",
+      "en": "Paleogene Period"
+    },
+    "description": {
+      "vi": "Thú tỏa ra lấp đầy thế giới hậu khủng long, từ cá voi sơ khai đến những linh trưởng đầu tiên; khí hậu chuyển từ cực nóng sang mát dần.",
+      "en": "Mammals radiate into the post-dinosaur world, from early whales to the first primates; the climate swings from hothouse peaks toward cooling."
+    },
+    "time": [
+      -66000000
+    ],
+    "endTime": [
+      -23040000
+    ],
+    "emoji": "🐒",
+    "priority": 71
+  },
+  {
+    "title": {
+      "vi": "Thế Paleocen",
+      "en": "Paleocene Epoch"
+    },
+    "description": {
+      "vi": "Thế giới hồi phục sau va chạm Chicxulub; các loài thú nhỏ đa dạng hóa nhanh chóng trong những khu rừng ấm rậm rạp không còn khủng long.",
+      "en": "The world recovers from the Chicxulub impact; small mammals diversify rapidly in warm, dense forests emptied of dinosaurs."
+    },
+    "time": [
+      -66000000
+    ],
+    "endTime": [
+      -56000000
+    ],
+    "emoji": "🌴",
+    "priority": 61
+  },
+  {
+    "title": {
+      "vi": "Thế Eocen",
+      "en": "Eocene Epoch"
+    },
+    "description": {
+      "vi": "Mở đầu bằng cực đại nhiệt PETM; linh trưởng và ngựa sơ khai xuất hiện, tổ tiên cá voi quay trở lại đại dương. Nam Cực bắt đầu đóng băng vào cuối thế.",
+      "en": "Opens with the PETM heat spike; primates and early horses appear and whale ancestors return to the sea. Antarctica begins to freeze near the epoch's end."
+    },
+    "time": [
+      -56000000
+    ],
+    "endTime": [
+      -33900000
+    ],
+    "emoji": "🐋",
+    "priority": 63
+  },
+  {
+    "title": {
+      "vi": "Thế Oligocen",
+      "en": "Oligocene Epoch"
+    },
+    "description": {
+      "vi": "Thế giới mát và khô hơn, rừng nhường chỗ cho đồng cỏ; xuất hiện những loài thú khổng lồ như Paraceratherium — thú trên cạn lớn nhất mọi thời đại.",
+      "en": "A cooler, drier world where forests give way to open grasslands; huge mammals such as Paraceratherium — the largest land mammal ever — appear."
+    },
+    "time": [
+      -33900000
+    ],
+    "endTime": [
+      -23040000
+    ],
+    "emoji": "🌾",
+    "priority": 60
+  },
+  {
+    "title": {
+      "vi": "Kỷ Neogen",
+      "en": "Neogene Period"
+    },
+    "description": {
+      "vi": "Đồng cỏ lan rộng và các loài ăn cỏ hiện đại tiến hóa theo; vượn người tách khỏi các loài vượn khác ở châu Phi và bắt đầu đi thẳng.",
+      "en": "Grasslands spread and modern grazers evolve with them; hominins split from other apes in Africa and begin walking upright."
+    },
+    "time": [
+      -23040000
+    ],
+    "endTime": [
+      -2580000
+    ],
+    "emoji": "🐎",
+    "priority": 72
+  },
+  {
+    "title": {
+      "vi": "Thế Miocen",
+      "en": "Miocene Epoch"
+    },
+    "description": {
+      "vi": "Thế của các loài vượn: vượn dạng người đa dạng hóa khắp châu Phi và Á-Âu, trong khi đồng cỏ cùng hệ động vật ăn cỏ hiện đại thống trị các lục địa.",
+      "en": "The epoch of apes: hominoids diversify across Africa and Eurasia while grasslands and modern grazing faunas dominate the continents."
+    },
+    "time": [
+      -23040000
+    ],
+    "endTime": [
+      -5333000
+    ],
+    "emoji": "🦍",
+    "priority": 64
+  },
+  {
+    "title": {
+      "vi": "Thế Pliocen",
+      "en": "Pliocene Epoch"
+    },
+    "description": {
+      "vi": "Australopithecus (như 'Lucy') đi thẳng trên hai chân ở châu Phi; eo đất Panama nối liền hai châu Mỹ và khí hậu tiếp tục lạnh dần về phía kỷ băng hà.",
+      "en": "Australopithecus ('Lucy') walks upright in Africa; the Isthmus of Panama joins the Americas and the climate keeps cooling toward the ice ages."
+    },
+    "time": [
+      -5333000
+    ],
+    "endTime": [
+      -2580000
+    ],
+    "emoji": "🚶",
+    "priority": 62
+  },
+  {
+    "title": {
+      "vi": "Kỷ Đệ tứ",
+      "en": "Quaternary Period"
+    },
+    "description": {
+      "vi": "Kỷ của các chu kỳ băng hà lặp đi lặp lại và của chi Homo: loài người tiến hóa, lan ra toàn cầu và bắt đầu định hình lại hành tinh.",
+      "en": "The period of repeating ice-age cycles and of the genus Homo: humans evolve, spread worldwide, and begin reshaping the planet."
+    },
+    "time": [
+      -2580000
+    ],
+    "endTime": [
+      2026
+    ],
+    "emoji": "🧊",
+    "priority": 76
+  },
+  {
+    "title": {
+      "vi": "Thế Pleistocen",
+      "en": "Pleistocene Epoch"
+    },
+    "description": {
+      "vi": "Các tảng băng khổng lồ tiến lui theo chu kỳ; voi ma mút, hổ răng kiếm cùng Homo sapiens và các loài người khác sống qua kỷ băng hà.",
+      "en": "Vast ice sheets advance and retreat in cycles; mammoths and saber-toothed cats share the ice-age world with Homo sapiens and other human species."
+    },
+    "time": [
+      -2580000
+    ],
+    "endTime": [
+      -9700
+    ],
+    "emoji": "🦣",
+    "priority": 66
+  },
+  {
+    "title": {
+      "vi": "Thế Holocen",
+      "en": "Holocene Epoch"
+    },
+    "description": {
+      "vi": "Quãng ấm ổn định sau kỳ băng hà cuối cùng: nông nghiệp, thành phố, chữ viết và toàn bộ nền văn minh loài người đều nằm trong thế này.",
+      "en": "The stable warm interval after the last ice age: agriculture, cities, writing and all of human civilization fall within this epoch."
+    },
+    "time": [
+      -9700
+    ],
+    "endTime": [
+      2026
+    ],
+    "emoji": "🏛️",
+    "priority": 68
+  }
+]

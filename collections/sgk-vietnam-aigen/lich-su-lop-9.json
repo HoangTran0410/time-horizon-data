@@ -1,16 +1,18 @@
 [
   {
-    "title": "Hồ Chí Minh Trình Bày Kiến Nghị Tại Versailles",
-    "description": "Năm 1919, Nguyễn Ái Quốc (Hồ Chí Minh) gửi kiến nghị 8 điểm đến Hội nghị Versailles, đòi quyền bình đẳng cho người dân Đông Dương. Đây là lần đầu tiên tiếng nói người Việt được lắng nghe tại một diễn đàn quốc tế.",
+    "title": "Nguyễn Ái Quốc Gửi Yêu Sách Đến Hội Nghị Véc-xai",
+    "description": "Tháng 6/1919, Nguyễn Ái Quốc thay mặt những người Việt Nam yêu nước tại Pháp gửi tới Hội nghị Véc-xai bản Yêu sách của nhân dân An Nam gồm 8 điểm, đòi các quyền tự do, dân chủ cho người dân Đông Dương. Yêu sách không được chấp nhận nhưng đã gây tiếng vang lớn.",
     "time": [
-      1919
+      1919,
+      6,
+      18
     ],
     "emoji": "📜",
     "priority": 84
   },
   {
-    "title": "Hồ Chí Minh Gia Nhập Đảng Cộng Sản Pháp",
-    "description": "Tháng 12 năm 1920, Nguyễn Ái Quốc gia nhập Đảng Cộng sản Pháp khi đảng xã hội Pháp chia rẽ. Ông trở thành đại biểu Việt Nam đầu tiên tại Quốc hội Pháp.",
+    "title": "Nguyễn Ái Quốc Tham Gia Sáng Lập Đảng Cộng Sản Pháp",
+    "description": "Tháng 12/1920, tại Đại hội Tua của Đảng Xã hội Pháp, Nguyễn Ái Quốc bỏ phiếu tán thành gia nhập Quốc tế Cộng sản và tham gia sáng lập Đảng Cộng sản Pháp, trở thành người cộng sản Việt Nam đầu tiên.",
     "time": [
       1920,
       12
@@ -19,48 +21,52 @@
     "priority": 80
   },
   {
-    "title": "Việt Nam Thanh Niên Cách Mạng Đồng Chí Hội",
-    "description": "Năm 1925, Nguyễn Ái Quốc thành lập Việt Nam Thanh Niên Cách Mạng Đồng Chí Hội (tên gọi khác: Hội Việt Nam Cách Mạng Thanh Niên) tại Quảng Châu, Trung Quốc — tiền thân trực tiếp của Đảng Cộng sản Việt Nam.",
+    "title": "Hội Việt Nam Cách Mạng Thanh Niên Thành Lập",
+    "description": "Tháng 6/1925, Nguyễn Ái Quốc thành lập Hội Việt Nam Cách mạng Thanh niên tại Quảng Châu (Trung Quốc), mở các lớp huấn luyện cán bộ và xuất bản báo Thanh niên. Đây là tổ chức tiền thân trực tiếp của Đảng Cộng sản Việt Nam.",
     "time": [
-      1925
+      1925,
+      6
     ],
     "emoji": "🌱",
     "priority": 86
   },
   {
-    "title": "Đông Dương Cộng Sản Liên Đoàn Thành Lập",
-    "description": "Năm 1930, ba tổ chức cộng sản (Nghĩa HTDC Việt Nam, Đông Dương Cộng sản Đảng, và An Nam Cộng sản Đảng) hợp nhất thành Đảng Cộng sản Việt Nam.",
+    "title": "Ba Tổ Chức Cộng Sản Ra Đời",
+    "description": "Trong năm 1929, ba tổ chức cộng sản lần lượt ra đời: Đông Dương Cộng sản Đảng (6/1929), An Nam Cộng sản Đảng (8/1929) và Đông Dương Cộng sản Liên đoàn (9/1929). Sự hoạt động riêng rẽ của ba tổ chức đặt ra yêu cầu cấp thiết phải hợp nhất thành một chính đảng duy nhất.",
     "time": [
-      1930,
-      2,
-      3
+      1929,
+      6
     ],
     "emoji": "🟥",
     "priority": 90
   },
   {
-    "title": "Khởi Nghĩa Yên Báy (Xô Viết Nghệ Tĩnh)",
-    "description": "Tháng 2 năm 1930, Đảng CSVN phát động khởi nghĩa tại Pắc Bó (Yên Báy), lập ra Xô Viết Nghệ Tĩnh — chính quyền cách mạng đầu tiên ở Việt Nam. Pháp đàn áp dữ dội, hàng nghìn người bị殺.",
+    "title": "Khởi Nghĩa Yên Bái",
+    "description": "Đêm 9/2/1930, Việt Nam Quốc dân Đảng do Nguyễn Thái Học lãnh đạo phát động khởi nghĩa ở Yên Bái và một số địa phương khác. Cuộc khởi nghĩa nhanh chóng thất bại; Nguyễn Thái Học cùng 12 đồng chí bị xử tử, Việt Nam Quốc dân Đảng tan rã.",
     "time": [
       1930,
-      2
+      2,
+      9
     ],
     "emoji": "🔥",
     "priority": 88
   },
   {
     "title": "Xô Viết Nghệ Tĩnh (1930–1931)",
-    "description": "Từ tháng 9/1930 đến tháng 2/1931, phong trào Xô Viết Nghệ Tĩnh lan rộng ở Nghệ An và Hà Tĩnh. Nhân dân tổ chức chính quyền Xô Viết, tịch thu ruộng đất, chống đế quốc. Pháp dùng quân đàn áp.",
+    "description": "Trong phong trào cách mạng 1930–1931, công nhân và nông dân Nghệ An, Hà Tĩnh đấu tranh mạnh mẽ làm tan rã bộ máy chính quyền thực dân, phong kiến ở nhiều thôn xã; các Xô viết ra đời, thực hiện quyền làm chủ của nhân dân. Thực dân Pháp đàn áp phong trào hết sức tàn bạo.",
     "time": [
       1930,
       9
+    ],
+    "endTime": [
+      1931
     ],
     "emoji": "🏴",
     "priority": 85
   },
   {
     "title": "Đảng Cộng Sản Việt Nam Thành Lập",
-    "description": "Ngày 3/2/1930, Đảng Cộng sản Việt Nam được thành lập tại Hồng Kông, sau đó đổi tên thành Đảng Cộng sản Đông Dương (1930–1945). Hồ Chí Minh giữ vai trò lãnh đạo trung ương.",
+    "description": "Đầu năm 1930, Nguyễn Ái Quốc chủ trì hội nghị hợp nhất ba tổ chức cộng sản tại Cửu Long (Hương Cảng, Trung Quốc), thành lập Đảng Cộng sản Việt Nam; ngày 3/2 được lấy làm ngày kỷ niệm thành lập Đảng. Tháng 10/1930, Đảng đổi tên thành Đảng Cộng sản Đông Dương.",
     "time": [
       1930,
       2,
@@ -70,48 +76,55 @@
     "priority": 92
   },
   {
-    "title": "Trần Phú — Tổng Bí Thư Đầu Tiên Bị Bắt",
-    "description": "Trần Phú, Tổng Bí thư đầu tiên của Đảng Cộng sản Việt Nam, bị Pháp bắt năm 1931. Ông bị kết án và chết trong tù năm 1931, minh chứng cho sự hy sinh của thế hệ cách mạng.",
+    "title": "Tổng Bí Thư Trần Phú Bị Bắt và Hy Sinh",
+    "description": "Tháng 4/1931, Trần Phú - Tổng Bí thư đầu tiên của Đảng - bị thực dân Pháp bắt tại Sài Gòn. Ông hy sinh ngày 6/9/1931 khi mới 27 tuổi, để lại lời căn dặn 'Hãy giữ vững chí khí chiến đấu'.",
     "time": [
-      1931
+      1931,
+      4
     ],
     "emoji": "⛓️",
     "priority": 74
   },
   {
-    "title": "Nhật Bản Chiếm Đóng Việt Nam",
-    "description": "Tháng 9 năm 1940, quân đội Nhật Bản tràn vào Đông Dương, ban đầu dùng đồn trí Pháp làm đồng minh (Chính quyền Vichy). Nhật kiểm soát chặt chẽ Đông Dương từ 1940 đến 1945.",
+    "title": "Nhật Bản Chiếm Đóng Đông Dương",
+    "description": "Tháng 9/1940, quân Nhật tiến vào Đông Dương. Thực dân Pháp nhanh chóng đầu hàng rồi câu kết với Nhật cùng thống trị, bóc lột nhân dân ta; từ đây nhân dân Việt Nam chịu cảnh 'một cổ hai tròng'.",
     "time": [
       1940,
-      9
+      9,
+      22
+    ],
+    "endTime": [
+      1945,
+      8
     ],
     "emoji": "🏴",
     "priority": 86
   },
   {
-    "title": "Việt Minh Thành Lập",
-    "description": "Ngày 10/5/1941, Hồ Chí Minh thành lập Việt Nam Độc Lập Đồng Minh Hội (Việt Minh) tại Pắc Bó (Cao Bằng). Việt Minh là mặt trận thống nhất các lực lượng yêu nước chống Pháp và Nhật.",
+    "title": "Mặt Trận Việt Minh Thành Lập",
+    "description": "Ngày 19/5/1941, theo sáng kiến của Nguyễn Ái Quốc, Mặt trận Việt Nam Độc lập Đồng minh (Việt Minh) được thành lập tại Pác Bó (Cao Bằng), tập hợp các tầng lớp nhân dân vào các hội Cứu quốc để chuẩn bị tổng khởi nghĩa giành chính quyền.",
     "time": [
       1941,
       5,
-      10
+      19
     ],
     "emoji": "🌿",
     "priority": 90
   },
   {
-    "title": "Hồ Chí Minh Quay Về Việt Nam",
-    "description": "Tháng 1 năm 1941, sau 30 năm lưu vong, Hồ Chí Minh trở về Việt Nam qua biên giới Trung Quốc. Ông mang theo kế hoạch thành lập Việt Minh và chuẩn bị cho cuộc kháng chiến.",
+    "title": "Nguyễn Ái Quốc Về Nước",
+    "description": "Ngày 28/1/1941, sau 30 năm hoạt động ở nước ngoài, Nguyễn Ái Quốc về nước, chọn Pác Bó (Cao Bằng) làm nơi ở và làm việc để trực tiếp lãnh đạo cách mạng Việt Nam.",
     "time": [
       1941,
-      1
+      1,
+      28
     ],
     "emoji": "🏞️",
     "priority": 82
   },
   {
-    "title": "Việt Minh Xây Dựng Căn Cứ Ở Cao Bằng",
-    "description": "Pắc Bó (Cao Bằng) trở thành căn cứ địa đầu tiên của Việt Minh. Hồ Chí Minh tổ chức huấn luyện cán bộ, xây dựng lực lượng vũ trang, và ban hành chính sách dân tộc.",
+    "title": "Xây Dựng Căn Cứ Địa Cách Mạng Ở Cao Bằng",
+    "description": "Cao Bằng được chọn làm nơi xây dựng căn cứ địa cách mạng đầu tiên. Tại đây, các hội Cứu quốc được xây dựng thí điểm, cán bộ được huấn luyện, lực lượng vũ trang từng bước hình thành, chuẩn bị cho khởi nghĩa giành chính quyền.",
     "time": [
       1941,
       5
@@ -120,27 +133,32 @@
     "priority": 78
   },
   {
-    "title": "Hồ Chí Minh Bị Tù Ở Trung Quốc",
-    "description": "Năm 1942, chính quyền Tưởng Giới Thạch bắt Hồ Chí Minh tại Trung Quốc. Ông bị giam 13 tháng, viết bài thơ 'Nhật Ký Trong Tù' nổi tiếng. Ông được thả năm 1943.",
+    "title": "Hồ Chí Minh Bị Giam Ở Trung Quốc",
+    "description": "Tháng 8/1942, trên đường sang Trung Quốc công tác với danh nghĩa đại biểu của Việt Minh, Hồ Chí Minh bị chính quyền Tưởng Giới Thạch bắt giam hơn một năm. Trong tù, Người viết tập thơ nổi tiếng 'Nhật ký trong tù'. Người được trả tự do tháng 9/1943.",
     "time": [
-      1942
+      1942,
+      8
     ],
     "emoji": "⛓️",
     "priority": 74
   },
   {
-    "title": "Nạn Đói Lớn Ở Việt Nam (1944–1945)",
-    "description": "Từ tháng 10/1944 đến tháng 5/1945, nạn đói hoành hành ở đồng bằng sông Hồng. Hơn 2 triệu người chết vì đói, do chính sách cướp lúa và đánh thuế nặng nề của Nhật và Pháp Vichy.",
+    "title": "Nạn Đói Năm Ất Dậu (1944–1945)",
+    "description": "Từ cuối năm 1944 đến giữa năm 1945, nạn đói khủng khiếp diễn ra ở Bắc Kỳ và Bắc Trung Kỳ làm khoảng 2 triệu đồng bào ta chết đói - hậu quả trực tiếp của chính sách vơ vét thóc gạo, bắt nhổ lúa trồng đay của Nhật và Pháp.",
     "time": [
       1944,
       10
+    ],
+    "endTime": [
+      1945,
+      5
     ],
     "emoji": "💀",
     "priority": 88
   },
   {
     "title": "Việt Nam Tuyên Truyền Giải Phóng Quân Thành Lập",
-    "description": "Ngày 22/12/1944, Việt Minh thành lập Đội Việt Nam Tuyên Truyền Giải Phóng Quân (tiền thân của Quân đội Nhân dân Việt Nam) do Võ Nguyên Giáp chỉ huy, gồm 34 chiến sĩ.",
+    "description": "Ngày 22/12/1944, theo chỉ thị của Hồ Chí Minh, Đội Việt Nam Tuyên truyền Giải phóng quân - tiền thân của Quân đội Nhân dân Việt Nam - được thành lập tại Cao Bằng với 34 chiến sĩ, do Võ Nguyên Giáp chỉ huy.",
     "time": [
       1944,
       12,
@@ -150,18 +168,22 @@
     "priority": 86
   },
   {
-    "title": "Cuộc Tổng Khởi Nghĩa Tháng Ba 1945",
-    "description": "Tháng 3 năm 1945, nhân khi Nhật đảo chính lật đổ Pháp, Việt Minh phát động khởi nghĩa tại nhiều tỉnh. Quân và dân Tuyên Hóa, Nghệ Tĩnh, Thanh Hóa nổi dậy giành chính quyền.",
+    "title": "Cao Trào Kháng Nhật Cứu Nước",
+    "description": "Sau khi Nhật đảo chính Pháp, ngày 12/3/1945 Ban Thường vụ Trung ương Đảng ra chỉ thị 'Nhật – Pháp bắn nhau và hành động của chúng ta', phát động cao trào kháng Nhật cứu nước. Khởi nghĩa từng phần nổ ra ở nhiều địa phương, phong trào 'phá kho thóc, giải quyết nạn đói' lan rộng.",
     "time": [
       1945,
       3
+    ],
+    "endTime": [
+      1945,
+      8
     ],
     "emoji": "🔥",
     "priority": 84
   },
   {
     "title": "Nhật Đảo Chính Pháp Tại Đông Dương",
-    "description": "Đêm 9/3/1945, quân Nhật đảo chính lật đổ chính quyền Pháp Vichy tại Đông Dương. Pháp nhanh chóng đầu hàng. Nhật tuyên bố 'trao trả độc lập' cho Việt Nam, Lào, Campuchia (nhưng thực chất là lập chính quyền bù nhìn).",
+    "description": "Đêm 9/3/1945, quân Nhật đảo chính lật đổ chính quyền thực dân Pháp trên toàn Đông Dương; quân Pháp nhanh chóng đầu hàng. Nhật tuyên bố 'trao trả độc lập' nhưng thực chất dựng lên chính phủ bù nhìn Trần Trọng Kim để tiếp tục thống trị.",
     "time": [
       1945,
       3,
@@ -171,8 +193,8 @@
     "priority": 84
   },
   {
-    "title": "Hồ Chí Minh Giải Phóng Hà Nội",
-    "description": "Sau khi Nhật đầu hàng (15/8/1945), Hồ Chí Minh chỉ thị Việt Minh tiến quân giải phóng Hà Nội. Ngày 19/8, Hà Nội được giải phóng, mở đường cho Tổng khởi nghĩa.",
+    "title": "Khởi Nghĩa Giành Chính Quyền Ở Hà Nội",
+    "description": "Sau khi Nhật đầu hàng Đồng minh (15/8/1945), Tổng khởi nghĩa bùng nổ. Ngày 19/8/1945, hàng chục vạn quần chúng Hà Nội mít tinh tại Quảng trường Nhà hát Lớn rồi chiếm Phủ Khâm sai, Trại Bảo an binh - khởi nghĩa thắng lợi ở Hà Nội cổ vũ mạnh mẽ cả nước vùng lên giành chính quyền.",
     "time": [
       1945,
       8,
@@ -183,18 +205,18 @@
   },
   {
     "title": "Bảo Đại Thoái Vị",
-    "description": "Ngày 25/8/1945, vua Bảo Đại tuyên bố thoái vị tại Huế, nhận làm 'cố vấn' cho chính phủ mới. Hơn 500 năm quân chủ chính thức kết thúc tại Việt Nam.",
+    "description": "Ngày 30/8/1945, vua Bảo Đại đọc chiếu thoái vị tại Ngọ Môn (Huế), trao ấn kiếm cho đại diện Chính phủ lâm thời và nhận làm cố vấn cho chính quyền cách mạng. Chế độ quân chủ ở Việt Nam hoàn toàn chấm dứt.",
     "time": [
       1945,
       8,
-      25
+      30
     ],
     "emoji": "👑",
     "priority": 90
   },
   {
     "title": "Việt Nam Dân Chủ Cộng Hòa Ra Đời",
-    "description": "Ngày 2/9/1945 tại Quảng trường Ba Đình, Hồ Chí Minh đọc Tuyên ngôn Độc lập, tuyên bố thành lập nước Việt Nam Dân chủ Cộng hòa — đánh dấu sự ra đời của nhà nước hiện đại đầu tiên của Việt Nam.",
+    "description": "Ngày 2/9/1945, tại Quảng trường Ba Đình (Hà Nội), Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập, tuyên bố thành lập nước Việt Nam Dân chủ Cộng hòa - nhà nước công nông đầu tiên ở Đông Nam Á.",
     "time": [
       1945,
       9,
@@ -205,7 +227,7 @@
   },
   {
     "title": "Hồ Chí Minh Đọc Tuyên Ngôn Độc Lập",
-    "description": "Trong bài phát biểu lịch sử tại Ba Đình (Hà Nội), Hồ Chí Minh trích dẫn Tuyên ngôn Nhân quyền và Độc lập của Pháp 1776 và 1791, khẳng định 'nước Việt Nam có quyền hưởng tự do và độc lập'.",
+    "description": "Trong bản Tuyên ngôn Độc lập đọc tại Ba Đình, Chủ tịch Hồ Chí Minh trích dẫn Tuyên ngôn Độc lập của Mỹ (1776) và Tuyên ngôn Nhân quyền và Dân quyền của Pháp (1791), khẳng định 'nước Việt Nam có quyền hưởng tự do và độc lập, và sự thực đã thành một nước tự do, độc lập'.",
     "time": [
       1945,
       9,
@@ -215,11 +237,12 @@
     "priority": 95
   },
   {
-    "title": "Pháp Quay Lại Đông Dương",
-    "description": "Sau khi Nhật đầu hàng, quân Pháp quay lại Đông Dương cuối năm 1945, đòi khôi phục chủ quyền thuộc địa. Chính phủ Hồ Chí Minh cố gắng đàm phán nhưng Pháp từ chối công nhận độc lập.",
+    "title": "Pháp Trở Lại Xâm Lược — Nam Bộ Kháng Chiến",
+    "description": "Đêm 22 rạng sáng 23/9/1945, được quân Anh giúp sức, thực dân Pháp đánh úp trụ sở Ủy ban Nhân dân Nam Bộ, mở đầu cuộc chiến tranh xâm lược Việt Nam lần thứ hai. Nhân dân Nam Bộ nhất tề đứng lên kháng chiến.",
     "time": [
       1945,
-      10
+      9,
+      23
     ],
     "emoji": "⚔️",
     "priority": 84

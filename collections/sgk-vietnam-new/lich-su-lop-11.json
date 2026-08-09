@@ -1,456 +1,473 @@
 [
   {
     "title": "Khởi nghĩa Thái Bình Thiên Quốc bùng nổ",
-    "description": "Cuộc khởi nghĩa nông dân lớn nhất trong lịch sử Trung Quốc do Hồng Tú Toàn lãnh đạo bùng nổ tại Kim Điền, Quảng Tây. Nghĩa quân nhanh chóng lan rộng ra nhiều tỉnh, trở thành thách thức nghiêm trọng nhất đối với nhà Thanh.",
-    "time": 1851,
+    "description": "Năm 1851, cuộc khởi nghĩa nông dân lớn nhất trong lịch sử Trung Quốc do Hồng Tú Toàn lãnh đạo bùng nổ tại Kim Điền (Quảng Tây), nhanh chóng lan rộng ra nhiều tỉnh, làm lung lay nền thống trị của nhà Thanh.",
+    "time": [1851, 1],
     "emoji": "🐉",
     "priority": 85
   },
   {
-    "title": "Nổi dậy Xípbay (Sepoy) ở Ấn Độ",
-    "description": "Quân đội Ấn Độ (sepoy) nổi dậy chống đế quốc Anh do bất bình với việc tẩy sạch mỡ lợn và mỡ bò trên đầu đạn. Phong trào lan rộng khắp miền Bắc và Trung Ấn Độ, đánh dấu cuộc đấu tranh đầu tiên của nhân dân Ấn chống thực dân Anh.",
-    "time": 1857,
+    "title": "Khởi nghĩa Xi-pay ở Ấn Độ",
+    "description": "Năm 1857, binh lính Xi-pay nổi dậy chống thực dân Anh vì bị đối xử tàn tệ và bất mãn với việc đạn súng bọc giấy tẩm mỡ bò, mỡ lợn. Khởi nghĩa lan rộng khắp miền Bắc và miền Trung Ấn Độ, kéo dài đến năm 1859.",
+    "time": [1857, 5],
+    "endTime": [1859],
     "emoji": "🇮🇳",
     "priority": 85
   },
   {
-    "title": "Pháp nổ súng xâm lược Đà Nẵng",
-    "description": "Liên quân Pháp - Tây Ban Nha chính thức nổ súng tấn công Đà Nẵng vào ngày 1/9/1858, mở màn cuộc chiến tranh xâm lược Việt Nam của thực dân Pháp.",
-    "time": 1858,
+    "title": "Pháp nổ súng xâm lược Việt Nam tại Đà Nẵng",
+    "description": "Ngày 1/9/1858, liên quân Pháp - Tây Ban Nha nổ súng tấn công Đà Nẵng, mở đầu cuộc chiến tranh xâm lược Việt Nam của thực dân Pháp.",
+    "time": [1858, 9, 1],
     "emoji": "🇻🇳",
     "priority": 88
   },
   {
-    "title": "Hiệp ước Nhâm Tuất (5/6/1862)",
-    "description": "Triều đình Huế ký Hiệp ước Nhâm Tuất với Pháp, nhượng ba tỉnh miền Đông Nam Kì (Định Tường, Biên Hòa, Gia Định) và mở cửa ba cửa biển cho tàu buôn Pháp, mở đầu quá trình đầu hàng của nhà Nguyễn.",
-    "time": 1862,
+    "title": "Hiệp ước Nhâm Tuất",
+    "description": "Ngày 5/6/1862, triều đình Huế ký Hiệp ước Nhâm Tuất, nhượng cho Pháp ba tỉnh miền Đông Nam Kỳ (Gia Định, Định Tường, Biên Hòa) và đảo Côn Lôn, mở đầu quá trình từng bước đầu hàng của nhà Nguyễn.",
+    "time": [1862, 6, 5],
     "emoji": "📜",
     "priority": 85
   },
   {
-    "title": "Khởi nghĩa Thái Bình Thiên Quốc kết thúc",
-    "description": "Sau 14 năm chiến đấu (1851-1864), cuộc khởi nghĩa Thái Bình Thiên Quốc do Hồng Tú Toàn lãnh đạo chính thức kết thúc. Nhà Thanh dùng sức mạnh quân sự toàn diện mới trấn áp được nghĩa quân.",
-    "time": 1864,
+    "title": "Khởi nghĩa Thái Bình Thiên Quốc thất bại",
+    "description": "Năm 1864, sau 14 năm chiến đấu (1851-1864), phong trào Thái Bình Thiên Quốc bị nhà Thanh với sự giúp sức của các nước đế quốc đàn áp và thất bại hoàn toàn.",
+    "time": [1864, 7],
     "emoji": "🐉",
     "priority": 80
   },
   {
-    "title": "Pháp chiếm ba tỉnh miền Tây Nam Kì (20-24/6/1867)",
-    "description": "Lợi dụng sự bất lực của triều đình Huế, quân Pháp trong 5 ngày chiếm gọn ba tỉnh miền Tây Nam Kì gồm Vĩnh Long, An Giang, Hà Tiên. Toàn bộ Nam Kì thuộc Pháp.",
-    "time": 1867,
+    "title": "Pháp chiếm ba tỉnh miền Tây Nam Kỳ",
+    "description": "Từ ngày 20 đến 24/6/1867, lợi dụng sự bạc nhược của triều đình Huế, quân Pháp chiếm gọn ba tỉnh miền Tây Nam Kỳ (Vĩnh Long, An Giang, Hà Tiên) mà không tốn một viên đạn. Toàn bộ Nam Kỳ rơi vào tay Pháp.",
+    "time": [1867, 6, 20],
+    "endTime": [1867, 6, 24],
     "emoji": "🇻🇳",
     "priority": 85
   },
   {
-    "title": "Cách mạng Duy tân Minh Trị (Nhật Bản)",
-    "description": "Thiên hoàng Minh Trị lên ngôi tháng 1/1868 và tiến hành cải cách toàn diện trên mọi lĩnh vực: chính trị, kinh tế, quân sự, văn hóa - giáo dục. Cách mạng đưa Nhật Bản thoát khỏi tình trạng phong kiến lạc hậu, trở thành cường quốc duy nhất ở châu Á theo con đường tư bản.",
-    "time": 1868,
+    "title": "Duy tân Minh Trị ở Nhật Bản",
+    "description": "Từ tháng 1/1868, Thiên hoàng Minh Trị tiến hành cải cách toàn diện về chính trị, kinh tế, quân sự, văn hóa - giáo dục, đưa Nhật Bản thoát khỏi nguy cơ trở thành thuộc địa và phát triển thành nước tư bản chủ nghĩa duy nhất ở châu Á lúc bấy giờ.",
+    "time": [1868, 1],
     "emoji": "🏯",
     "priority": 90
   },
   {
-    "title": "Pháp đánh chiếm Hà Nội lần thứ nhất (11/1873)",
-    "description": "Thực dân Pháp đưa quân đánh chiếm Hà Nội lần thứ nhất dưới sự chỉ huy của Gác-ni-ê. Ngày 16/11/1873, Pháp tuyên bố mở cửa thành Hà Nội, mở đầu cuộc đánh chiếm Bắc Kì.",
-    "time": 1873,
+    "title": "Pháp đánh chiếm Bắc Kỳ lần thứ nhất",
+    "description": "Ngày 20/11/1873, quân Pháp do Gác-ni-ê chỉ huy nổ súng đánh thành Hà Nội; Tổng đốc Nguyễn Tri Phương anh dũng hy sinh. Ngày 21/12/1873, quân dân ta phục kích tại Cầu Giấy, giết chết Gác-ni-ê.",
+    "time": [1873, 11, 20],
     "emoji": "🏯",
     "priority": 82
   },
   {
-    "title": "Hiệp ước Giáp Tuất (1874)",
-    "description": "Triều đình Huế ký Hiệp ước Giáp Tuất với Pháp gồm 22 điều khoản, công nhận quyền kiểm soát của Pháp tại ba tỉnh Nam Kì đã mất. Hiệp ước gây bất bình lớn trong nhân dân và sĩ phu yêu nước.",
-    "time": 1874,
+    "title": "Hiệp ước Giáp Tuất",
+    "description": "Ngày 15/3/1874, triều đình Huế ký với Pháp Hiệp ước Giáp Tuất, chính thức thừa nhận sáu tỉnh Nam Kỳ là đất thuộc Pháp. Hiệp ước gây bất bình sâu sắc trong nhân dân và sĩ phu yêu nước.",
+    "time": [1874, 3, 15],
     "emoji": "📜",
     "priority": 78
   },
   {
-    "title": "Chiến tranh Đài Loan (Nhật-Pháp)",
-    "description": "Nhật Bản tiến hành chiến tranh xâm lược Đài Loan (1874), đánh dấu bước ngoặt trong chính sách đối ngoại của Nhật Bản - từ bị động sang chủ động xâm lược, theo đuổi đường lối phát xít.",
-    "time": 1874,
+    "title": "Nhật Bản xuất binh sang Đài Loan",
+    "description": "Năm 1874, Nhật Bản đưa quân tấn công đảo Đài Loan thuộc nhà Thanh - bước bành trướng ra bên ngoài đầu tiên của Nhật Bản sau Duy tân Minh Trị, báo hiệu chính sách xâm lược thuộc địa của giới cầm quyền Nhật.",
+    "time": [1874],
     "emoji": "⚔️",
     "priority": 75
   },
   {
-    "title": "Hiệp ước Hácmăng (25/8/1883)",
-    "description": "Triều đình Huế ký Hiệp ước Hácmăng với Pháp, công nhận quyền bảo hộ của Pháp tại Bắc Kì và Trung Kì, mở rộng phạm vi thâu tóm của Pháp ra Bắc Kì (gồm cả Trung Kì).",
-    "time": 1883,
+    "title": "Hiệp ước Hácmăng",
+    "description": "Ngày 25/8/1883, triều đình Huế ký Hiệp ước Hácmăng, thừa nhận nền bảo hộ của Pháp ở Bắc Kỳ và Trung Kỳ, đánh dấu việc Việt Nam về cơ bản mất quyền tự chủ trên cả nước.",
+    "time": [1883, 8, 25],
     "emoji": "📜",
     "priority": 85
   },
   {
-    "title": "Khởi nghĩa Bãi Sậy (1883-1892)",
-    "description": "Cuộc khởi nghĩa nông dân tại vùng Bãi Sậy (Khoái Châu, Yên Mỹ, Hưng Yên) chống sưu thuế và đồn điền cao su Pháp. Ban đầu quy mô hạn chế, từ 1885 vai trò lãnh đạo chuyển sang Nguyễn Thiện Thuật, trở thành phong trào kháng chiến có tổ chức kéo dài gần một thập kỷ.",
-    "time": 1883,
+    "title": "Khởi nghĩa Bãi Sậy",
+    "description": "Từ năm 1883 đến 1892, nghĩa quân Bãi Sậy hoạt động ở vùng lau sậy đầm lầy thuộc Hưng Yên, ban đầu do Đinh Gia Quế, từ năm 1885 do Nguyễn Thiện Thuật lãnh đạo, áp dụng lối đánh du kích khiến quân Pháp nhiều phen khốn đốn.",
+    "time": [1883],
+    "endTime": [1892],
     "emoji": "🇻🇳",
     "priority": 80
   },
   {
-    "title": "Hiệp ước Patơnốt (6/6/1884)",
-    "description": "Triều đình Huế ký Hiệp ước Patơnốt với Pháp, cơ bản dựa trên Hiệp ước Hácmăng nhưng bổ sung thêm các điều khoản nhằm củng cố quyền bảo hộ của Pháp trên toàn bộ Việt Nam.",
-    "time": 1884,
+    "title": "Hiệp ước Patơnốt",
+    "description": "Ngày 6/6/1884, triều đình Huế ký Hiệp ước Patơnốt với Pháp, về cơ bản dựa trên Hiệp ước Hácmăng có sửa đổi một số điều khoản, chính thức xác lập nền bảo hộ của Pháp trên toàn bộ Việt Nam.",
+    "time": [1884, 6, 6],
     "emoji": "📜",
     "priority": 85
   },
   {
     "title": "Khởi nghĩa Yên Thế (1884-1913)",
-    "description": "Cuộc kháng chiến của nghĩa quân do Nguyễn Thiện Thuật (sau là De Thanh) lãnh đạo tại Yên Thế (Bắc Giang), trải qua nhiều giai đoạn với các hình thức đấu tranh đa dạng. Đây là cuộc khởi nghĩa chống Pháp kéo dài nhất trong lịch sử Việt Nam thế kỷ 19.",
-    "time": 1884,
+    "description": "Từ năm 1884 đến 1913, nông dân Yên Thế (Bắc Giang) dưới sự lãnh đạo của Đề Nắm rồi Đề Thám (Hoàng Hoa Thám) kiên cường chống Pháp, trở thành cuộc khởi nghĩa vũ trang chống Pháp kéo dài nhất cuối thế kỷ XIX - đầu thế kỷ XX.",
+    "time": [1884],
+    "endTime": [1913],
     "emoji": "🇻🇳",
     "priority": 84
   },
   {
-    "title": "Đảng Quốc dân Ấn Độ thành lập (12/1885)",
-    "description": "Đảng Quốc dân Ấn Độ (Indian National Congress) được thành lập cuối năm 1885, trở thành tổ chức chính trị hiện đại đầu tiên của nhân dân Ấn Độ, đặt nền móng cho phong trào đấu tranh giành độc lập.",
-    "time": 1885,
+    "title": "Đảng Quốc đại Ấn Độ thành lập",
+    "description": "Cuối năm 1885, Đảng Quốc đại - chính đảng đầu tiên của giai cấp tư sản Ấn Độ - được thành lập, đánh dấu giai cấp tư sản Ấn Độ bước lên vũ đài chính trị, đặt nền móng cho phong trào đấu tranh giành độc lập.",
+    "time": [1885, 12],
     "emoji": "🇮🇳",
     "priority": 85
   },
   {
     "title": "Phong trào Cần Vương (1885-1896)",
-    "description": "Phong trào Cần Vương (giúp vua cứu nước) do Tôn Thất Thuyết phát động từ đêm 4 rạng sáng 5/7/1885, lan rộng khắp cả nước với nhiều địa phương. Đây là cuộc kháng chiến quy mô lớn nhất của nhân dân Việt Nam chống Pháp, kéo dài đến cuối 1895.",
-    "time": 1885,
+    "description": "Sau cuộc phản công của phái chủ chiến ở kinh thành Huế thất bại (đêm 4 rạng 5/7/1885), Tôn Thất Thuyết đưa vua Hàm Nghi ra Tân Sở và ngày 13/7/1885 xuống chiếu Cần Vương, dấy lên phong trào giúp vua cứu nước sôi nổi khắp cả nước, kéo dài đến năm 1896.",
+    "time": [1885, 7],
+    "endTime": [1896],
     "emoji": "🇻🇳",
     "priority": 88
   },
   {
     "title": "Khởi nghĩa Ba Đình (1886-1887)",
-    "description": "Nghĩa quân Đề Ker chống Pháp tại vùng Ba Đình (Quảng Nam), hoạt động trong các năm 1886-1887 với tinh thần yêu nước mạnh mẽ, góp phần vào cuộc kháng chiến chung của nhân dân Việt Nam cuối thế kỷ 19.",
-    "time": 1886,
+    "description": "Từ cuối năm 1886 đến đầu năm 1887, nghĩa quân do Phạm Bành và Đinh Công Tráng lãnh đạo xây dựng căn cứ Ba Đình (Nga Sơn, Thanh Hóa), chặn đánh các đoàn xe và tiêu hao sinh lực địch trước khi bị Pháp tập trung lực lượng đàn áp.",
+    "time": [1886, 12],
+    "endTime": [1887],
     "emoji": "🇻🇳",
     "priority": 75
   },
   {
-    "title": "Khởi nghĩa Hương Khê (1888-1896)",
-    "description": "Cuộc khởi nghĩa do Đinh Công Tráng (Đinh Lạc) lãnh đạo tại Hương Khê (Hà Tĩnh). Từ 1888 đến 1896, nghĩa quân xây dựng căn cứ, tổ chức lực lượng và tiến hành chiến đấu quyết liệt, đánh dấu bản lĩnh kiên cường của nhân dân ta trong đấu tranh chống xâm lược.",
-    "time": 1888,
+    "title": "Khởi nghĩa Hương Khê (1885-1896)",
+    "description": "Cuộc khởi nghĩa do Phan Đình Phùng lãnh đạo, với sự giúp sức đắc lực của Cao Thắng, xây dựng căn cứ ở vùng núi Hương Khê (Hà Tĩnh), chiến đấu bền bỉ suốt hơn 10 năm. Đây là cuộc khởi nghĩa tiêu biểu nhất trong phong trào Cần Vương.",
+    "time": [1885],
+    "endTime": [1896],
     "emoji": "🇻🇳",
     "priority": 82
   },
   {
-    "title": "Hiến pháp Minh Trị (Nhật Bản, 1889)",
-    "description": "Năm 1889, Nhật Bản ban hành Hiến pháp dựa trên mô hình châu Âu, ghi nhận quyền lực tối cao của Thiên hoàng. Hiến pháp đánh dấu sự hoàn tất quá trình chuyển đổi từ phong kiến sang quân chủ lập hiến theo phương Tây.",
-    "time": 1889,
+    "title": "Hiến pháp Minh Trị (Nhật Bản)",
+    "description": "Năm 1889, Nhật Bản ban hành Hiến pháp mới theo mô hình châu Âu, xác lập chế độ quân chủ lập hiến với quyền lực tối cao thuộc về Thiên hoàng, hoàn tất quá trình chuyển đổi từ chế độ phong kiến sang nhà nước tư bản.",
+    "time": [1889, 2, 11],
     "emoji": "🏯",
     "priority": 80
   },
   {
     "title": "Chiến tranh Trung - Nhật (1894-1895)",
-    "description": "Chiến tranh bùng nổ giữa Trung Quốc và Nhật Bản vì quyền lợi ở Triều Tiên. Nhật Bản giành chiến thắng áp đảo, buộc Trung Quốc ký Hiệp ước Thiên Tân cắt nhượng Đài Loan và công nhận quyền độc lập của Triều Tiên.",
-    "time": 1894,
+    "description": "Chiến tranh bùng nổ giữa Trung Quốc và Nhật Bản vì quyền lợi ở Triều Tiên. Nhật Bản thắng áp đảo, buộc nhà Thanh ký Hiệp ước Mã Quan (1895), cắt nhượng Đài Loan và thừa nhận quyền kiểm soát của Nhật đối với Triều Tiên.",
+    "time": [1894, 7],
+    "endTime": [1895, 4],
     "emoji": "⚔️",
     "priority": 82
   },
   {
-    "title": "Cách mạng 1896 ở Philippines",
-    "description": "Emilio Aguinaldo khởi xướng cuộc cách mạng chống thực dân Tây Ban Nha ở Philippines. Cuộc khởi nghĩa 1896 được coi là cuộc cách mạng mang tính dân tộc chủ nghĩa đầu tiên ở Đông Nam Á, mở đường cho phong trào giải phóng dân tộc trong khu vực.",
-    "time": 1896,
+    "title": "Cách mạng 1896 ở Phi-líp-pin",
+    "description": "Năm 1896, Bô-ni-pha-xi-ô lãnh đạo nhân dân Phi-líp-pin khởi nghĩa chống thực dân Tây Ban Nha. Đây là cuộc cách mạng mang tính chất tư sản chống đế quốc đầu tiên ở Đông Nam Á, cổ vũ phong trào giải phóng dân tộc trong khu vực.",
+    "time": [1896, 8],
     "emoji": "🇵🇭",
     "priority": 80
   },
   {
-    "title": "Chiến tranh Mĩ - Tây Ban Nha (1898)",
-    "description": "Hoa Kỳ phát động chiến tranh chống Tây Ban Nha, đánh bại quân Tây Ban Nha tại Cuba, Puerto Rico, Guam và Philippines. Chiến tranh kết thúc với Hiệp ước Pa-ri (12/1898), Tây Ban Nha nhượng Philippines, Cuba và Guam cho Mĩ.",
-    "time": 1898,
+    "title": "Chiến tranh Mỹ - Tây Ban Nha (1898)",
+    "description": "Năm 1898, Mỹ gây chiến với Tây Ban Nha và giành thắng lợi nhanh chóng. Theo Hiệp ước Pa-ri (12/1898), Tây Ban Nha nhượng Phi-líp-pin, Pu-éc-tô Ri-cô và Gu-am cho Mỹ; Cu-ba trên danh nghĩa độc lập nhưng thực tế chịu sự kiểm soát của Mỹ.",
+    "time": [1898, 4],
+    "endTime": [1898, 12],
     "emoji": "⚔️",
     "priority": 80
   },
   {
-    "title": "Hiệp ước Bình Thanh (Boxer Protocol, 7/9/1901)",
-    "description": "Hiệp ước Bình Thanh được ký giữa Trung Quốc và các cường quốc phương Tây sau cuộc kháng chiến của nghĩa binh Nghĩa Hòa Đồng (Boxer) thất bại. Trung Quốc phải bồi thường nặng nề và cho phép đồn trú quân đội nước ngoài.",
-    "time": 1901,
+    "title": "Điều ước Tân Sửu (1901)",
+    "description": "Ngày 7/9/1901, sau khi phong trào Nghĩa Hòa đoàn thất bại, nhà Thanh phải ký Điều ước Tân Sửu với các nước đế quốc, chịu bồi thường khoản tiền khổng lồ và cho phép nước ngoài đóng quân ở Bắc Kinh. Trung Quốc trở thành nước nửa thuộc địa, nửa phong kiến.",
+    "time": [1901, 9, 7],
     "emoji": "📜",
     "priority": 78
   },
   {
-    "title": "Phan Bội Châu sáng lập Duy Tân Hội (1904)",
-    "description": "Phan Bội Châu cùng các trí thức yêu nước thành lập Duy Tân Hội tại Nhật Bản, mở đầu phong trào vận động cứu nước của sĩ phu Việt Nam đầu thế kỷ 20. Ông chủ trương dựa vào Nhật Bản để chống Pháp sau thắng lợi Chiến tranh Nga-Nhật.",
-    "time": 1904,
+    "title": "Phan Bội Châu thành lập Hội Duy tân",
+    "description": "Tháng 5/1904, Phan Bội Châu cùng các đồng chí thành lập Hội Duy tân tại Quảng Nam, chủ trương đánh đuổi giặc Pháp, giành độc lập, thiết lập chính thể quân chủ lập hiến, và tổ chức phong trào Đông du cầu viện Nhật Bản.",
+    "time": [1904, 5],
     "emoji": "🇻🇳",
     "priority": 83
   },
   {
     "title": "Chiến tranh Nga - Nhật (1904-1905)",
-    "description": "Chiến tranh bùng nổ giữa Nga và Nhật Bản vì quyền lợi ở Mãn Châu và Triều Tiên. Nhật Bản giành chiến thắng vang dội, trở thành nước châu Á đầu tiên đánh bại một cường quốc phương Tây, truyền cảm hứng mạnh mẽ cho các phong trào giải phóng dân tộc.",
-    "time": 1904,
+    "description": "Từ năm 1904 đến 1905, Nga và Nhật Bản giao chiến vì quyền lợi ở Mãn Châu và Triều Tiên. Nhật Bản giành thắng lợi vang dội, trở thành nước châu Á đầu tiên đánh bại một cường quốc phương Tây, cổ vũ mạnh mẽ phong trào giải phóng dân tộc ở châu Á.",
+    "time": [1904, 2],
+    "endTime": [1905, 9],
     "emoji": "⚔️",
     "priority": 85
   },
   {
-    "title": "Phan Châu Trinh vận động Đông Du (1905)",
-    "description": "Phan Châu Trinh vận động phong trào Đông Du (du học Nhật Bản) nhằm canh tân đất nước. Ông kêu gọi tầng lớp trí thức và thanh niên Việt Nam học hỏi kinh nghiệm từ Nhật Bản sau thắng lợi Chiến tranh Nga-Nhật để cứu nước.",
-    "time": 1905,
+    "title": "Phong trào Đông du (1905-1908)",
+    "description": "Từ năm 1905, Phan Bội Châu và Hội Duy tân tổ chức phong trào Đông du, đưa gần 200 thanh niên Việt Nam sang Nhật Bản học tập chuẩn bị lực lượng cứu nước. Năm 1908, Pháp câu kết với Nhật trục xuất lưu học sinh, phong trào tan rã.",
+    "time": [1905],
+    "endTime": [1908],
     "emoji": "🇻🇳",
     "priority": 78
   },
   {
-    "title": "Phong trào đấu tranh giành độc lập ở Ấn Độ (1905-1908)",
-    "description": "Phong trào đấu tranh giành độc lập bùng nổ mạnh mẽ ở Ấn Độ trong giai đoạn 1905-1908, đánh dấu bước phát triển mới của phong trào dân tộc chủ nghĩa Ấn Độ dưới sự lãnh đạo của Đảng Quốc dân.",
-    "time": 1905,
+    "title": "Cao trào đấu tranh 1905-1908 ở Ấn Độ",
+    "description": "Trong những năm 1905-1908, phong trào dân tộc ở Ấn Độ dâng cao chống chính sách chia cắt xứ Ben-gan của thực dân Anh, với sự tham gia đông đảo của công nhân và nông dân, đánh dấu sự thức tỉnh của nhân dân Ấn Độ.",
+    "time": [1905],
+    "endTime": [1908],
     "emoji": "🇮🇳",
     "priority": 80
   },
   {
-    "title": "Đông Kinh Nghĩa Thục thành lập (3/1907)",
-    "description": "Phan Châu Trinh cùng các trí thức yêu nước thành lập trường Đông Kinh Nghĩa Thục tại Hà Nội tháng 3/1907, chủ trương canh tân giáo dục, khai dân trí, nâng cao dân trí để cứu nước. Đây là tổ chức văn hóa - giáo dục yêu nước tiên phong.",
-    "time": 1907,
+    "title": "Đông Kinh Nghĩa Thục thành lập",
+    "description": "Tháng 3/1907, Lương Văn Can, Nguyễn Quyền cùng các sĩ phu tiến bộ mở trường Đông Kinh Nghĩa Thục tại Hà Nội, dạy học không lấy tiền, truyền bá tư tưởng duy tân, khai dân trí. Tháng 11/1907, trường bị thực dân Pháp buộc đóng cửa.",
+    "time": [1907, 3],
     "emoji": "🇻🇳",
     "priority": 80
   },
   {
-    "title": "Phong trào chống thuế ở miền Trung Việt Nam (1908)",
-    "description": "Nhân dân miền Trung Việt Nam đồng loạt nổi dậy chống chính sách tăng thuế nặng nề của thực dân Pháp. Ngày 27/6/1908, binh lính Pháp bị đầu độc tại Huế. Phong trào bùng nổ rộng khắp nhưng bị đàn áp đẫm máu.",
-    "time": 1908,
+    "title": "Phong trào chống thuế ở Trung Kỳ (1908)",
+    "description": "Năm 1908, nông dân Quảng Nam rồi khắp các tỉnh Trung Kỳ đồng loạt nổi dậy chống sưu cao thuế nặng của thực dân Pháp và tay sai. Phong trào bị đàn áp đẫm máu, nhiều sĩ phu yêu nước bị bắt và đày ra Côn Đảo.",
+    "time": [1908, 3],
     "emoji": "🇻🇳",
     "priority": 80
   },
   {
-    "title": "Cách mạng Tân Hợi ở Trung Quốc (10/10/1911)",
-    "description": "Ngày 10/10/1911, Đồng minh hội phát động khởi nghĩa tại Vũ Xương, mở màn Cách mạng Tân Hợi lật đổ nhà Thanh. Ngày 29/12/1911, Quốc dân đại hội tuyên bố thành lập nước Trung Hoa Dân Quốc, chấm dứt hơn 2000 năm phong kiến tại Trung Quốc.",
-    "time": 1911,
+    "title": "Cách mạng Tân Hợi ở Trung Quốc",
+    "description": "Ngày 10/10/1911, Đồng minh hội phát động khởi nghĩa ở Vũ Xương, mở đầu Cách mạng Tân Hợi lật đổ triều đình Mãn Thanh. Ngày 29/12/1911, Tôn Trung Sơn được bầu làm Đại Tổng thống lâm thời; đầu năm 1912, Trung Hoa Dân quốc thành lập, chấm dứt chế độ quân chủ chuyên chế tồn tại hơn 2.000 năm ở Trung Quốc.",
+    "time": [1911, 10, 10],
     "emoji": "🇨🇳",
     "priority": 90
   },
   {
-    "title": "Nguyễn Tất Thành rời Nhà Rồng ra đi (5/6/1911)",
-    "description": "Nguyễn Tất Thành rời bến cảng Nhà Rồng (Sài Gòn) trên tàu La Tour d'Auvergne, bắt đầu hành trình tìm đường cứu nước. Sự kiện này đánh dấu bước ngoặt lịch sử, mở ra con đường giải phóng dân tộc Việt Nam.",
-    "time": 1911,
+    "title": "Nguyễn Tất Thành ra đi tìm đường cứu nước",
+    "description": "Ngày 5/6/1911, Nguyễn Tất Thành rời bến cảng Nhà Rồng (Sài Gòn) trên tàu Đô đốc Latouche-Tréville, bắt đầu hành trình tìm đường cứu nước, mở ra bước ngoặt cho con đường giải phóng dân tộc Việt Nam.",
+    "time": [1911, 6, 5],
     "emoji": "🚢",
     "priority": 88
   },
   {
-    "title": "Việt Nam Quang Phục Hội thành lập (6/1912)",
-    "description": "Nguyễn Thái Học sáng lập Việt Nam Quang Phục Hội tại Huế với mục tiêu đánh đuổi thực dân Pháp, khôi phục nền độc lập cho Việt Nam. Tổ chức hoạt động tích cực từ 1912 đến 1917 với nhiều hoạt động yêu nước và vũ trang.",
-    "time": 1912,
+    "title": "Việt Nam Quang phục Hội thành lập",
+    "description": "Tháng 6/1912, tại Quảng Châu (Trung Quốc), Phan Bội Châu tuyên bố giải tán Hội Duy tân, thành lập Việt Nam Quang phục Hội với tôn chỉ đánh đuổi giặc Pháp, khôi phục nước Việt Nam, thành lập nước Cộng hòa Dân quốc Việt Nam.",
+    "time": [1912, 6],
     "emoji": "🇻🇳",
     "priority": 82
   },
   {
-    "title": "Thái Phiên và Trần Cao Vân khởi nghĩa (5/1916)",
-    "description": "Thái Phiên (Phó Bảo) và Trần Cao Vân tổ chức khởi nghĩa chống thực dân Pháp tại Huế vào tháng 5/1916, nhằm lật đổ chính quyền thực dân, giành độc lập cho Việt Nam. Cả hai sau đó bị bắt và hy sinh anh dũng.",
-    "time": 1916,
+    "title": "Cuộc vận động khởi nghĩa của Thái Phiên và Trần Cao Vân",
+    "description": "Tháng 5/1916, Thái Phiên và Trần Cao Vân mưu khởi nghĩa tại Trung Kỳ với sự tham gia của vua Duy Tân. Kế hoạch bại lộ, khởi nghĩa thất bại; Thái Phiên, Trần Cao Vân bị xử tử, vua Duy Tân bị đày sang đảo Rê-uy-ni-ông.",
+    "time": [1916, 5],
     "emoji": "🇻🇳",
     "priority": 83
   },
   {
-    "title": "Cách mạng Tháng Hai Nga (2/1917)",
-    "description": "Nhân dân Nga dưới sự lãnh đạo của giai cấp vô sản và Đảng Bônsêvích nổi dậy lật đổ chế độ Nga Hoàng, chấm dứt chế độ quân chủ tư sản tại Nga kéo dài hơn 300 năm, mở ra kỷ nguyên cách mạng vô sản.",
-    "time": 1917,
+    "title": "Cách mạng tháng Hai ở Nga",
+    "description": "Tháng 2/1917 (theo lịch Nga), công nhân và binh lính Pê-tơ-rô-grát dưới sự lãnh đạo của Đảng Bôn-sê-vích khởi nghĩa lật đổ chế độ Nga hoàng, thiết lập cục diện hai chính quyền song song: Chính phủ lâm thời tư sản và các Xô viết đại biểu công nhân, binh lính.",
+    "time": [1917, 2],
     "emoji": "🇷🇺",
     "priority": 90
   },
   {
-    "title": "Cách mạng Tháng Mười Nga (7/11/1917)",
-    "description": "Đảng Bônsêvích do Lênin lãnh đạo tổ chức đảo chính, lật đổ chính phủ lâm thời, nắm chính quyền trong đêm 25/10 (7/11/1917). Đại hội Xô viết toàn Nga thông qua các sắc lệnh hòa bình, ruộng đất và tuyên bố thành lập Nhà nước Xô viết.",
-    "time": 1917,
+    "title": "Cách mạng tháng Mười Nga",
+    "description": "Đêm 25/10/1917 (7/11 dương lịch), dưới sự lãnh đạo của Lê-nin và Đảng Bôn-sê-vích, quân khởi nghĩa chiếm Cung điện Mùa Đông, lật đổ Chính phủ lâm thời tư sản. Đại hội Xô viết toàn Nga thông qua Sắc lệnh hòa bình, Sắc lệnh ruộng đất và thành lập chính quyền Xô viết.",
+    "time": [1917, 11, 7],
     "emoji": "🔴",
     "priority": 90
   },
   {
-    "title": "Khởi nghĩa binh lính Thái Nguyên (30-31/8/1917)",
-    "description": "Công nhân các mỏ than Phấn Mễ và Na Dương tham gia khởi nghĩa cùng binh lính tại Thái Nguyên (30-31/8/1917), giám binh Nô-en bị giết. Quân khởi nghĩa chiếm Thái Nguyên, sau đó lan sang Quảng Yên và các hải đảo từ Móng Cái đến Hải Phòng.",
-    "time": 1917,
+    "title": "Khởi nghĩa binh lính Thái Nguyên",
+    "description": "Đêm 30 rạng 31/8/1917, binh lính Thái Nguyên do Đội Cấn (Trịnh Văn Cấn) chỉ huy, phối hợp với tù chính trị do Lương Ngọc Quyến hỗ trợ, nổi dậy giết giám binh Pháp, làm chủ tỉnh lị trong gần một tuần trước khi bị đàn áp.",
+    "time": [1917, 8, 30],
     "emoji": "🇻🇳",
     "priority": 80
   },
   {
-    "title": "Quốc tế Cộng sản (Comintern) thành lập (3/1919)",
-    "description": "Quốc tế Cộng sản (Comintern) được thành lập tại Mát-xcơ-va tháng 3/1919, trở thành tổ chức quốc tế của giai cấp vô sản và phong trào cộng sản thế giới, hoạt động cho đến năm 1943.",
-    "time": 1919,
+    "title": "Quốc tế Cộng sản thành lập",
+    "description": "Tháng 3/1919, Quốc tế Cộng sản (Quốc tế thứ ba) được thành lập tại Mát-xcơ-va, trở thành bộ tham mưu của phong trào cộng sản và công nhân quốc tế, hoạt động đến năm 1943.",
+    "time": [1919, 3],
     "emoji": "🌍",
     "priority": 88
   },
   {
-    "title": "Phong trào Ngũ Tứ (4/5/1919)",
-    "description": "Phong trào Ngũ Tứ bùng nổ ngày 4/5/1919 tại Bắc Kinh nhằm phản đối âm mưu xâu xé Trung Quốc của các cường quốc phương Tây. Phong trào lan rộng khắp Trung Quốc, trở thành sự kiện khai hỏa cho phong trào dân tộc và cách mạng tại Trung Quốc.",
-    "time": 1919,
+    "title": "Phong trào Ngũ Tứ ở Trung Quốc",
+    "description": "Ngày 4/5/1919, học sinh, sinh viên Bắc Kinh biểu tình phản đối quyết định bất công của hội nghị Véc-xai đối với Trung Quốc. Phong trào lan rộng ra cả nước, mở đầu cao trào cách mạng chống đế quốc và phong kiến ở Trung Quốc.",
+    "time": [1919, 5, 4],
     "emoji": "🇨🇳",
     "priority": 85
   },
   {
-    "title": "Đảng Cộng sản Trung Quốc thành lập (7/1920)",
-    "description": "Đảng Cộng sản Trung Quốc (CCP) được thành lập tháng 7/1920, trở thành lực lượng lãnh đạo phong trào cách mạng và đấu tranh giành độc lập cho Trung Quốc, đánh dấu sự phát triển của chủ nghĩa Mác tại châu Á.",
-    "time": 1920,
+    "title": "Đảng Cộng sản Trung Quốc thành lập",
+    "description": "Tháng 7/1921, Đảng Cộng sản Trung Quốc được thành lập, đánh dấu bước ngoặt của cách mạng Trung Quốc, từ đây giai cấp vô sản có chính đảng của mình nắm ngọn cờ lãnh đạo cách mạng.",
+    "time": [1921, 7],
     "emoji": "🇨🇳",
     "priority": 88
   },
   {
-    "title": "Đảng Cộng sản Pháp thành lập (12/1920)",
-    "description": "Đảng Cộng sản Pháp (PCF) được thành lập tại Tours tháng 12/1920, trở thành đảng cộng sản đầu tiên ở Tây Âu và lực lượng quan trọng trong phong trào công nhân Pháp cũng như các hoạt động ủng hộ cách mạng tại Việt Nam.",
-    "time": 1920,
+    "title": "Đảng Cộng sản Pháp thành lập",
+    "description": "Tháng 12/1920, tại Đại hội Tours, những người cách mạng trong Đảng Xã hội Pháp tán thành Quốc tế Cộng sản và thành lập Đảng Cộng sản Pháp; Nguyễn Ái Quốc là một trong những người tham gia sáng lập.",
+    "time": [1920, 12],
     "emoji": "🇫🇷",
     "priority": 82
   },
   {
-    "title": "Chính sách Kinh tế Mới (NEP) ở Liên Xô (1921-1925)",
-    "description": "Từ năm 1921, chính quyền Xô viết thực hiện Chính sách Kinh tế Mới (NEP) trong hoàn cảnh đất nước bị bao vây, cho phép kinh tế thị trường tồn tại song song với thành phần nhà nước, giúp phục hồi nền kinh tế sau nội chiến.",
-    "time": 1921,
+    "title": "Chính sách Kinh tế mới (NEP) ở nước Nga Xô viết",
+    "description": "Tháng 3/1921, nước Nga Xô viết thực hiện Chính sách Kinh tế mới (NEP) do Lê-nin đề xướng, thay chế độ trưng thu lương thực thừa bằng thuế lương thực, cho phép tự do buôn bán, giúp nền kinh tế nhanh chóng phục hồi sau nội chiến.",
+    "time": [1921, 3],
     "emoji": "☭",
     "priority": 80
   },
   {
-    "title": "Liên Xô chính thức thành lập (12/1922)",
-    "description": "Đại hội Xô viết toàn Nga lần thứ nhất họp ngày 30/12/1922, thông qua tuyên ngôn thành lập Liên Xô (USSR), hợp nhất Nga, Ukraina, Belarus và Transcaucasia thành một quốc gia liên bang Xô viết.",
-    "time": 1922,
+    "title": "Liên Xô thành lập",
+    "description": "Ngày 30/12/1922, Đại hội lần thứ nhất các Xô viết toàn liên bang tuyên bố thành lập Liên bang Cộng hòa xã hội chủ nghĩa Xô viết (Liên Xô), ban đầu gồm Nga, U-crai-na, Bê-lô-rút-xi-a và Ngoại Cáp-ca-dơ.",
+    "time": [1922, 12, 30],
     "emoji": "☭",
     "priority": 85
   },
   {
-    "title": "Đảng Cộng sản Ấn Độ thành lập (12/1925)",
-    "description": "Đảng Cộng sản Ấn Độ được thành lập tháng 12/1925, góp phần thúc đẩy làn sóng đấu tranh chống thực dân Anh tại Ấn Độ, đánh dấu sự trưởng thành của phong trào công nhân và phong trào giải phóng dân tộc tại đây.",
-    "time": 1925,
+    "title": "Đảng Cộng sản Ấn Độ thành lập",
+    "description": "Tháng 12/1925, Đảng Cộng sản Ấn Độ được thành lập, góp phần thúc đẩy làn sóng đấu tranh chống thực dân Anh của nhân dân Ấn Độ.",
+    "time": [1925, 12],
     "emoji": "🇮🇳",
     "priority": 82
   },
   {
-    "title": "Đại Khủng hoảng kinh tế 1929-1933",
-    "description": "Khủng hoảng kinh tế thế giới bùng nổ từ tháng 10/1929 sau sụp đổ thị trường chứng khoán Phố Manhàtanh (Wall Street), kéo dài đến năm 1933. Đây là cuộc khủng hoảng nghiêm trọng và kéo dài nhất trong lịch sử tư bản chủ nghĩa, gây ra thất nghiệp trầm trọng và suy thoái toàn cầu.",
-    "time": 1929,
+    "title": "Đại khủng hoảng kinh tế thế giới (1929-1933)",
+    "description": "Tháng 10/1929, khủng hoảng kinh tế bùng nổ từ sự sụp đổ của thị trường chứng khoán Phố Uôn (Mỹ) rồi lan ra toàn thế giới tư bản, kéo dài đến năm 1933, gây thất nghiệp và suy thoái trầm trọng, dẫn tới sự xuất hiện của chủ nghĩa phát xít.",
+    "time": [1929, 10],
+    "endTime": [1933],
     "emoji": "📉",
     "priority": 88
   },
   {
-    "title": "Đảng Cộng sản Việt Nam thành lập (3/2/1930)",
-    "description": "Đảng Cộng sản Việt Nam được thành lập ngày 3/2/1930 tại Hương Cảng (Trung Quốc), do Nguyễn Ái Quốc sáng lập và lãnh đạo. Đây là tổ chức tiền thân của Đảng Cộng sản Việt Nam, đánh dấu bước ngoặt vĩ đại trong lịch sử cách mạng Việt Nam.",
-    "time": 1930,
+    "title": "Đảng Cộng sản Việt Nam thành lập",
+    "description": "Ngày 3/2/1930, tại Hương Cảng (Trung Quốc), Nguyễn Ái Quốc chủ trì hội nghị hợp nhất ba tổ chức cộng sản thành Đảng Cộng sản Việt Nam, bước ngoặt vĩ đại trong lịch sử cách mạng Việt Nam.",
+    "time": [1930, 2, 3],
     "emoji": "🇻🇳",
     "priority": 90
   },
   {
-    "title": "Đảng Cộng sản Malaya thành lập (4/1930)",
-    "description": "Đảng Cộng sản Malaya được thành lập tháng 4/1930, lãnh đạo phong trào công nhân và nhân dân Malaya đấu tranh chống thực dân Anh, góp phần thúc đẩy phong trào giải phóng dân tộc tại khu vực Đông Nam Á.",
-    "time": 1930,
+    "title": "Đảng Cộng sản Mã Lai thành lập",
+    "description": "Tháng 4/1930, Đảng Cộng sản Mã Lai được thành lập, lãnh đạo phong trào đấu tranh của công nhân và nhân dân Mã Lai chống thực dân Anh, góp phần thúc đẩy phong trào giải phóng dân tộc ở Đông Nam Á.",
+    "time": [1930, 4],
     "emoji": "🌴",
     "priority": 78
   },
   {
-    "title": "Xô viết Nghệ Tĩnh và phong trào cách mạng 1930-1931",
-    "description": "Phong trào cách mạng 1930-1931 bùng nổ mạnh mẽ ở Việt Nam, đỉnh cao là Xô viết Nghệ Tĩnh. Nhân dân đứng lên đấu tranh đòi ruộng đất, giảm thuế, đánh đổ đế quốc và phong kiến. Phong trào bị đàn áp dã man nhưng thể hiện tinh thần cách mạng của quần chúng.",
-    "time": 1930,
+    "title": "Phong trào cách mạng 1930-1931 và Xô viết Nghệ - Tĩnh",
+    "description": "Phong trào cách mạng 1930-1931 bùng nổ mạnh mẽ trên cả nước, đỉnh cao là Xô viết Nghệ - Tĩnh, nơi nhân dân lập chính quyền cách mạng ở nhiều xã. Phong trào bị đàn áp dã man nhưng khẳng định đường lối đúng đắn của Đảng và sức mạnh của quần chúng.",
+    "time": [1930],
+    "endTime": [1931],
     "emoji": "🇻🇳",
     "priority": 87
   },
   {
-    "title": "Nhật Bản chiếm Mãn Châu (18/9/1931)",
-    "description": "Quân đội Nhật Bản phát động chiến dịch chiếm đóng Mãn Châu (9/1931), dựng lên chính quyền bù nhìn Mãn Châu Quốc. Hành động xâm lược này của Nhật Bản mở đầu cho cuộc chiến tranh xâm lược châu Á và trở thành tiền đề cho Chiến tranh Thế giới thứ hai.",
-    "time": 1931,
+    "title": "Nhật Bản chiếm Mãn Châu",
+    "description": "Ngày 18/9/1931, quân đội Nhật Bản dựng sự kiện Phụng Thiên rồi đánh chiếm vùng Đông Bắc Trung Quốc (Mãn Châu), dựng lên chính quyền bù nhìn Mãn Châu quốc, mở đầu quá trình xâm lược đại quy mô ở châu Á.",
+    "time": [1931, 9, 18],
     "emoji": "🇯🇵",
     "priority": 86
   },
   {
-    "title": "Cách mạng 1932 ở Xiêm (Thái Lan)",
-    "description": "Mùa hè năm 1932, một cuộc cách mạng lật đổ chế độ quân chủ tuyệt đối ở Thủ đô Băng Cốc, Xiêm. Cuộc cách mạng thay thế chế độ quân chủ chuyên chế bằng chế độ quân chủ lập hiến, đánh dấu bước chuyển biến dân chủ quan trọng ở Thái Lan.",
-    "time": 1932,
+    "title": "Cách mạng năm 1932 ở Xiêm",
+    "description": "Mùa hè năm 1932, cuộc cách mạng do tầng lớp trí thức và sĩ quan trẻ lãnh đạo nổ ra ở Băng Cốc, thay chế độ quân chủ chuyên chế bằng chế độ quân chủ lập hiến, mở đường cho Xiêm (Thái Lan) phát triển theo hướng tư bản.",
+    "time": [1932, 6],
     "emoji": "🇹🇭",
     "priority": 80
   },
   {
-    "title": "Mặt trận Nhân dân Pháp (1936-1939)",
-    "description": "Mặt trận Nhân dân Pháp (Front Populaire) thắng lợi trong tổng tuyển cử tháng 2/1936, mở đầu thời kỳ cải cách dân chủ tại Pháp. Chính quyền Mặt trận Nhân dân thực hiện nhiều cải cách tiến bộ về lao động, giáo dục, và đối ngoại, trở thành biểu tượng của phong trào dân chủ chống phát xít.",
-    "time": 1936,
+    "title": "Mặt trận Nhân dân Pháp thắng cử",
+    "description": "Tháng 5/1936, Mặt trận Nhân dân Pháp giành thắng lợi trong tổng tuyển cử và lên cầm quyền, thi hành một số cải cách tiến bộ ở cả thuộc địa, tạo điều kiện cho phong trào đấu tranh dân chủ 1936-1939 ở Việt Nam phát triển.",
+    "time": [1936, 5],
+    "endTime": [1939],
     "emoji": "🇫🇷",
     "priority": 82
   },
   {
-    "title": "Chiến tranh Trung - Nhật bùng nổ toàn diện (7/7/1937)",
-    "description": "Quân đội Nhật Bản phát động tấn công toàn diện tại Trung Quốc từ ngày 7/7/1937, mở đầu Chiến tranh Trung - Nhật. Chiến tranh lan rộng khắp Trung Quốc, trở thành cuộc xung đột đẫm máu nhất ở châu Á trước Chiến tranh Thế giới thứ hai.",
-    "time": 1937,
+    "title": "Chiến tranh Trung - Nhật bùng nổ toàn diện",
+    "description": "Ngày 7/7/1937, lấy cớ sự kiện Lư Cầu Kiều, Nhật Bản phát động chiến tranh xâm lược quy mô lớn trên toàn Trung Quốc. Quốc dân đảng và Đảng Cộng sản Trung Quốc hợp tác kháng Nhật.",
+    "time": [1937, 7, 7],
     "emoji": "⚔️",
     "priority": 88
   },
   {
-    "title": "Chiến tranh Thế giới thứ hai bùng nổ (1/9/1939)",
-    "description": "Đức Quốc xã tấn công Ba Lan ngày 1/9/1939, Anh và Pháp lập tức tuyên chiến với Đức. Chiến tranh Thế giới thứ hai chính thức bùng nổ, trở thành cuộc xung đột quân sự lớn nhất trong lịch sử nhân loại, kéo dài đến 1945 với hàng chục triệu người thiệt mạng.",
-    "time": 1939,
+    "title": "Chiến tranh thế giới thứ hai (1939-1945)",
+    "description": "Ngày 1/9/1939, Đức tấn công Ba Lan; hai ngày sau, Anh và Pháp tuyên chiến với Đức, Chiến tranh thế giới thứ hai bùng nổ. Đây là cuộc chiến tranh lớn nhất, khốc liệt nhất trong lịch sử nhân loại, kéo dài đến năm 1945 với khoảng 60 triệu người chết.",
+    "time": [1939, 9, 1],
+    "endTime": [1945, 9, 2],
     "emoji": "🌍",
     "priority": 90
   },
   {
-    "title": "Nhật tấn công Trân Châu Cảng (7/12/1941)",
-    "description": "Không quân Hải quân Đế quốc Nhật Bản bất ngờ tấn công căn cứ hải quân Mĩ tại Trân Châu Cảng (Hawaii) ngày 7/12/1941, tiêu diệt nhiều chiến hạm và máy bay Mĩ. Hoa Kỳ chính thức tham chiến, Chiến tranh Thái Bình Dương bùng nổ.",
-    "time": 1941,
+    "title": "Nhật tấn công Trân Châu Cảng",
+    "description": "Ngày 7/12/1941, không quân và hải quân Nhật Bản bất ngờ tập kích căn cứ hải quân Mỹ tại Trân Châu Cảng (Ha-oai), gây thiệt hại nặng nề cho hạm đội Thái Bình Dương. Mỹ tuyên chiến với Nhật, chiến tranh Thái Bình Dương bùng nổ.",
+    "time": [1941, 12, 7],
     "emoji": "🇺🇸",
     "priority": 90
   },
   {
-    "title": "Singapore thất thủ (15/2/1942)",
-    "description": "Quân đội Nhật Bản dưới sự chỉ huy của Đại tướng Tomoyuki Yamashita buộc quân Anh tại Singapore đầu hàng ngày 15/2/1942. Đây là thảm họa quân sự lớn nhất của Anh trong Thế chiến II, Nhật Bản chiếm toàn bộ Đông Nam Á.",
-    "time": 1942,
+    "title": "Xin-ga-po thất thủ",
+    "description": "Ngày 15/2/1942, quân Anh ở Xin-ga-po đầu hàng quân Nhật - thất bại quân sự nặng nề nhất của Anh trong Chiến tranh thế giới thứ hai. Nhật Bản chiếm đóng gần như toàn bộ Đông Nam Á.",
+    "time": [1942, 2, 15],
     "emoji": "🇬🇧",
     "priority": 86
   },
   {
-    "title": "Tuyên ngôn Liên Hợp Quốc (1/1/1942)",
-    "description": "Ngày 1/1/1942, tại Oa-sinh-tơn, 26 quốc gia (đứng đầu là ba cường quốc Anh, Mĩ, Liên Xô) ký Tuyên ngôn Liên Hợp Quốc, cam kết hợp tác chống phát xít. Tuyên ngôn đặt nền móng cho sự hình thành tổ chức quốc tế Liên Hợp Quốc sau chiến tranh.",
-    "time": 1942,
+    "title": "Tuyên ngôn Liên Hợp Quốc",
+    "description": "Ngày 1/1/1942, tại Oa-sinh-tơn, đại diện 26 quốc gia (đứng đầu là Liên Xô, Mỹ, Anh) ký Tuyên ngôn Liên Hợp Quốc, cam kết cùng nhau chống phát xít, hình thành khối Đồng minh chống phát xít trên toàn thế giới.",
+    "time": [1942, 1, 1],
     "emoji": "🌍",
     "priority": 86
   },
   {
-    "title": "Trận Stalingrad (11/1942 - 2/1943)",
-    "description": "Hồng quân Liên Xô phản công tại Stalingrad từ tháng 11/1942 đến tháng 2/1943, bao vây và tiêu diệt toàn bộ Tập đoàn quân 6 của Đức Quốc xã. Đây là bước ngoặt quyết định trên Mặt trận Xô - Đức, mở đầu quá trình phản công của Đồng minh ở châu Âu.",
-    "time": 1942,
+    "title": "Trận Xta-lin-grát",
+    "description": "Từ tháng 11/1942 đến tháng 2/1943, Hồng quân Liên Xô phản công tại Xta-lin-grát, bao vây và tiêu diệt toàn bộ đạo quân tinh nhuệ của Đức. Chiến thắng Xta-lin-grát tạo nên bước ngoặt của Chiến tranh thế giới thứ hai.",
+    "time": [1942, 11, 19],
+    "endTime": [1943, 2, 2],
     "emoji": "☭",
     "priority": 90
   },
   {
-    "title": "Trận El Alamein (10-11/1942)",
-    "description": "Quân đội Anh dưới sự chỉ huy của Thống chế Montgomery phản công tại El Alamein (Ai Cập), đánh bại và đẩy lùi quân Đức - I-ta-li-a khỏi Bắc Phi. Chiến thắng El Alamein cùng với đổ bộ Đồng minh tại Bắc Phi chấm dứt sự hiện diện của phe Trục ở châu Phi.",
-    "time": 1942,
+    "title": "Trận En A-la-men",
+    "description": "Tháng 10-11/1942, quân Anh do tướng Mông-gô-me-ri chỉ huy phản công thắng lợi tại En A-la-men (Ai Cập), đẩy lùi liên quân Đức - I-ta-li-a, giành lại ưu thế ở mặt trận Bắc Phi.",
+    "time": [1942, 10, 23],
     "emoji": "⚔️",
     "priority": 85
   },
   {
-    "title": "Đổ bộ Normandy - Ngày D (6/6/1944)",
-    "description": "Quân Đồng minh đổ bộ lớn nhất lịch sử tại bãi biển Normandy (Pháp) ngày 6/6/1944, mở đầu Mặt trận phía Tây. Hơn 156.000 quân Anh, Mĩ, Pháp... đổ bộ thành công, tạo nên bước ngoặt quyết định trên Mặt trận châu Âu.",
-    "time": 1944,
+    "title": "Quân Đồng minh đổ bộ Noóc-măng-đi",
+    "description": "Ngày 6/6/1944, quân Đồng minh mở cuộc đổ bộ lớn nhất trong lịch sử lên bờ biển Noóc-măng-đi (Pháp), mở mặt trận thứ hai ở Tây Âu, cùng Hồng quân Liên Xô tạo thế gọng kìm tiêu diệt phát xít Đức.",
+    "time": [1944, 6, 6],
     "emoji": "🏖️",
     "priority": 90
   },
   {
-    "title": "Giải phóng Paris (25/8/1944)",
-    "description": "Nhân dân Paris và lực lượng Đồng minh giải phóng thủ đô Paris khỏi sự chiếm đóng của Đức Quốc xã ngày 25/8/1944, chấm dứt 4 năm dưới gót giày phát xít. Sự kiện này là biểu tượng của chiến thắng và tinh thần giải phóng dân tộc.",
-    "time": 1944,
+    "title": "Giải phóng Pa-ri",
+    "description": "Ngày 25/8/1944, quân Đồng minh cùng lực lượng kháng chiến Pháp giải phóng Pa-ri khỏi ách chiếm đóng của phát xít Đức sau hơn 4 năm.",
+    "time": [1944, 8, 25],
     "emoji": "🇫🇷",
     "priority": 87
   },
   {
-    "title": "Hội nghị Yalta (2/1945)",
-    "description": "Hội nghị Yalta họp tại Crimea (2/1945) với sự tham dự của Roosevelt, Churchill và Stalin, bàn về sắp xếp thế giới sau Thế chiến II. Hội nghị quyết định thành lập Liên Hợp Quốc, phân chia Đức, và quyền lợi của các cường quốc trong thời kỳ hậu chiến.",
-    "time": 1945,
+    "title": "Hội nghị I-an-ta",
+    "description": "Tháng 2/1945, nguyên thủ ba cường quốc Liên Xô, Mỹ, Anh họp tại I-an-ta (Liên Xô), thỏa thuận việc tiêu diệt tận gốc chủ nghĩa phát xít, thành lập Liên Hợp Quốc và phân chia phạm vi ảnh hưởng sau chiến tranh.",
+    "time": [1945, 2],
     "emoji": "🗺️",
     "priority": 84
   },
   {
-    "title": "Đức Quốc xã đầu hàng (9/5/1945)",
-    "description": "Đức Quốc xã đầu hàng không điều kiện trước quân Đồng minh ngày 9/5/1945 (8/5 theo giờ Berlin), chấm dứt Chiến tranh Thế giới thứ hai tại châu Âu. Hàng triệu người ăn mừng khắp lục địa, mở đầu kỷ nguyên hậu chiến.",
-    "time": 1945,
+    "title": "Phát xít Đức đầu hàng",
+    "description": "Ngày 9/5/1945, nước Đức phát xít ký văn kiện đầu hàng không điều kiện, chiến tranh kết thúc ở châu Âu.",
+    "time": [1945, 5, 9],
     "emoji": "🇩🇪",
     "priority": 90
   },
   {
-    "title": "Hội nghị Potsdam (7-8/1945)",
-    "description": "Hội nghị Potsdam họp tại Đức (7-8/1945) với sự tham dự của Truman, Stalin và Churchill (sau là Attlee), quyết định việc phân chia Đức, chế độ chiếm đóng, bồi thường chiến tranh, và vận mệnh của Nhật Bản.",
-    "time": 1945,
+    "title": "Hội nghị Pốt-xđam",
+    "description": "Từ tháng 7 đến đầu tháng 8/1945, ba cường quốc Liên Xô, Mỹ, Anh họp tại Pốt-xđam (Đức), quyết định việc chiếm đóng và phi phát xít hóa nước Đức, đồng thời ra tuyên bố yêu cầu Nhật Bản đầu hàng không điều kiện.",
+    "time": [1945, 7],
     "emoji": "🗺️",
     "priority": 84
   },
   {
-    "title": "Bom nguyên tử Hiroshima (6/8/1945)",
-    "description": "Mĩ thả bom nguyên tử xuống thành phố Hiroshima (Nhật Bản) ngày 6/8/1945, gây thương vong và tàn phá khủng khiếp. Đây là vũ khí hạt nhân đầu tiên được sử dụng trong chiến tranh, tạo ra bước ngoặt quyết định trong Chiến tranh Thái Bình Dương.",
-    "time": 1945,
+    "title": "Mỹ ném bom nguyên tử xuống Hi-rô-si-ma",
+    "description": "Ngày 6/8/1945, Mỹ ném quả bom nguyên tử đầu tiên xuống thành phố Hi-rô-si-ma (Nhật Bản), khiến hàng chục nghìn người chết ngay lập tức và tàn phá khủng khiếp thành phố.",
+    "time": [1945, 8, 6],
     "emoji": "☢️",
     "priority": 90
   },
   {
-    "title": "Bom nguyên tử Nagasaki (9/8/1945)",
-    "description": "Mĩ thả bom nguyên tử lần thứ hai xuống thành phố Nagasaki (Nhật Bản) ngày 9/8/1945, gây thiệt hại nặng nề về người và của. Hai vụ đánh bom nguyên tử buộc Nhật Bản phải xem xét lại quyết định tiếp tục chiến tranh.",
-    "time": 1945,
+    "title": "Mỹ ném bom nguyên tử xuống Na-ga-xa-ki",
+    "description": "Ngày 9/8/1945, Mỹ ném quả bom nguyên tử thứ hai xuống thành phố Na-ga-xa-ki (Nhật Bản), gây thiệt hại nặng nề về người và của, buộc giới cầm quyền Nhật phải tính đến việc đầu hàng.",
+    "time": [1945, 8, 9],
     "emoji": "☢️",
     "priority": 90
   },
   {
-    "title": "Nhật Bản đầu hàng (15/8/1945)",
-    "description": "Nhật Hoàng Hirohito tuyên bố đầu hàng không điều kiện trước Đồng minh ngày 15/8/1945, chấm dứt Chiến tranh Thế giới thứ hai. Chiến tranh kết thúc sau gần 6 năm với hàng chục triệu người thiệt mạng, mở ra trật tự thế giới mới.",
-    "time": 1945,
+    "title": "Nhật Bản đầu hàng, Chiến tranh thế giới thứ hai kết thúc",
+    "description": "Ngày 15/8/1945, Nhật hoàng tuyên bố đầu hàng Đồng minh không điều kiện, Chiến tranh thế giới thứ hai kết thúc, tạo thời cơ cho nhân dân nhiều nước thuộc địa, trong đó có Việt Nam, đứng lên giành độc lập.",
+    "time": [1945, 8, 15],
     "emoji": "🇯🇵",
     "priority": 90
   }

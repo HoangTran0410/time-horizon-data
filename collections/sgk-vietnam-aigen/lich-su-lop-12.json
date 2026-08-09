@@ -1,7 +1,7 @@
 [
   {
     "title": "Việt Nam Dân Chủ Cộng Hòa Thành Lập",
-    "description": "Ngày 2/9/1945, Hồ Chí Minh đọc Tuyên ngôn Độc lập tại Quảng trường Ba Đình, tuyên bố thành lập nước Việt Nam Dân chủ Cộng hòa — nhà nước hiện đại đầu tiên của Việt Nam.",
+    "description": "Ngày 2/9/1945, Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập tại Quảng trường Ba Đình (Hà Nội), tuyên bố thành lập nước Việt Nam Dân chủ Cộng hòa - nhà nước công nông đầu tiên ở Đông Nam Á.",
     "time": [
       1945,
       9,
@@ -11,8 +11,8 @@
     "priority": 95
   },
   {
-    "title": "Chiến Tranh Đông Dương Lần Thứ Nhất Bùng Nổ",
-    "description": "Tháng 12/1946, xung đột vũ trang giữa Việt Minh và quân Pháp leo thang thành chiến tranh toàn diện. Hồ Chí Minh cố gắng đàm phán hòa bình nhưng Pháp từ chối công nhận độc lập của Việt Nam.",
+    "title": "Toàn Quốc Kháng Chiến Bùng Nổ (19/12/1946)",
+    "description": "Trước hành động bội ước và khiêu khích ngày càng trắng trợn của thực dân Pháp, đêm 19/12/1946, Chủ tịch Hồ Chí Minh ra Lời kêu gọi toàn quốc kháng chiến. Cuộc kháng chiến chống thực dân Pháp (1946–1954) bùng nổ trên cả nước.",
     "time": [
       1946,
       12,
@@ -22,27 +22,37 @@
     "priority": 90
   },
   {
-    "title": "Ngoại Giao Của Hồ Chí Minh (1946–1953)",
-    "description": "Hồ Chí Minh liên tục viết thư cho các nhà lãnh đạo phương Tây (Roosevelt, Truman, de Gaulle) kêu gọi công nhận độc lập Việt Nam. Ông sẵn sàng nhượng bộ để đạt hòa bình nhưng Pháp không chấp nhận.",
+    "title": "Hiệp Định Sơ Bộ Việt – Pháp (6/3/1946)",
+    "description": "Ngày 6/3/1946, Chủ tịch Hồ Chí Minh ký với đại diện Chính phủ Pháp bản Hiệp định Sơ bộ: Pháp công nhận Việt Nam là quốc gia tự do trong khối Liên hiệp Pháp; ta đồng ý cho 15.000 quân Pháp ra Bắc thay quân Trung Hoa Dân quốc. Ngày 14/9/1946, Người ký tiếp bản Tạm ước, kéo dài thêm thời gian hòa hoãn để chuẩn bị kháng chiến.",
     "time": [
-      1946
+      1946,
+      3,
+      6
     ],
     "emoji": "🕊️",
     "priority": 78
   },
   {
     "title": "Cải Cách Ruộng Đất Ở Miền Bắc (1953–1956)",
-    "description": "Chính phủ DRV thực hiện cải cách ruộng đất tại miền Bắc, tịch thu ruộng đất của địa chủ phân phát cho nông dân. Cuộc vận động này gây ra nhiều bất công và phản ứng mạnh mẽ trong dân.",
+    "description": "Từ năm 1953 đến 1956, Chính phủ Việt Nam Dân chủ Cộng hòa tiến hành cải cách ruộng đất ở miền Bắc, thực hiện khẩu hiệu 'người cày có ruộng'. Bên cạnh kết quả đem lại ruộng đất cho nông dân, cuộc cải cách phạm nhiều sai lầm nghiêm trọng; năm 1956, Đảng và Chính phủ công khai nhận khuyết điểm và tiến hành sửa sai.",
     "time": [
       1953
+    ],
+    "endTime": [
+      1956
     ],
     "emoji": "🌾",
     "priority": 76
   },
   {
     "title": "Chiến Dịch Điện Biên Phủ",
-    "description": "Ngày 7/5/1954, Quân đội Nhân dân Việt Nam đánh bại hoàn toàn tập đoàn cứ điểm Điện Biên Phủ của Pháp. Đây là trận đánh quan trọng nhất trong Chiến tranh Đông Dương lần thứ nhất, buộc Pháp phải ngồi vào bàn đàm phán.",
+    "description": "Từ ngày 13/3 đến 7/5/1954, quân đội ta mở chiến dịch tiến công tập đoàn cứ điểm Điện Biên Phủ. Chiều 7/5/1954, tướng Đờ Ca-xtơ-ri cùng toàn bộ Bộ tham mưu của địch đầu hàng. Thắng lợi này đập tan kế hoạch Na-va, buộc Pháp phải ký Hiệp định Genève.",
     "time": [
+      1954,
+      3,
+      13
+    ],
+    "endTime": [
       1954,
       5,
       7
@@ -52,7 +62,7 @@
   },
   {
     "title": "Hiệp Định Genève (21/7/1954)",
-    "description": "Hiệp định Genève ký kết, chia tạm thời Việt Nam tại vĩ tuyến 17. Miền Bắc (DRV) do Việt Minh kiểm soát, miền Nam (RVN) do chính quyền Ngô Đình Diệm và Mỹ hậu thuẫn. Toàn quốc sẽ thống nhất qua tổng tuyển cử năm 1956.",
+    "description": "Ngày 21/7/1954, Hiệp định Genève về Đông Dương được ký kết, công nhận độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ của Việt Nam. Đất nước tạm thời chia làm hai miền, lấy vĩ tuyến 17 làm giới tuyến quân sự tạm thời; tổng tuyển cử thống nhất dự kiến tổ chức vào tháng 7/1956.",
     "time": [
       1954,
       7,
@@ -63,7 +73,7 @@
   },
   {
     "title": "Việt Nam Bị Chia Cắt",
-    "description": "Sau Hiệp định Genève, Việt Nam chính thức bị chia cắt. Hơn 1 triệu người miền Bắc di cư vào Nam, trong khi hàng vạn người miền Nam đi ra Bắc. Đây là vết thương chia cắt để lại trong dân tộc Việt Nam.",
+    "description": "Sau Hiệp định Genève, gần một triệu người từ miền Bắc di cư vào Nam, trong khi hàng chục vạn cán bộ, chiến sĩ và đồng bào miền Nam tập kết ra Bắc. Do Mỹ và chính quyền Ngô Đình Diệm phá hoại hiệp định, tổng tuyển cử năm 1956 không được thực hiện, đất nước bị chia cắt lâu dài.",
     "time": [
       1954,
       7
@@ -72,26 +82,31 @@
     "priority": 84
   },
   {
-    "title": "Chiến Dịch Ba Đỏ Tại Miền Bắc (1955–1956)",
-    "description": "Sau cải cách ruộng đất, chiến dịch 'ba đỏ' (cán bộ đỏ, công nhân đỏ, thanh niên đỏ) tại miền Bắc gây ra nhiều sai lầm. Hội nghị Trung ương tháng 11/1956 chỉnh đốn, Trường Chinh thừa nhận sai sót.",
+    "title": "Mỹ – Diệm Phá Hoại Hiệp Định Genève",
+    "description": "Tháng 10/1955, được Mỹ hậu thuẫn, Ngô Đình Diệm tổ chức 'trưng cầu dân ý' phế truất Bảo Đại rồi tuyên bố thành lập 'Việt Nam Cộng hòa' (26/10/1955), từ chối hiệp thương tổng tuyển cử thống nhất đất nước.",
     "time": [
-      1955
+      1955,
+      10,
+      26
     ],
     "emoji": "🏴",
     "priority": 72
   },
   {
-    "title": "Mỹ Tăng Cường Can Thiệp Tại Việt Nam (1961–1963)",
-    "description": "Tổng thống Kennedy tăng cường viện trợ quân sự và cử 'cố vấn' chiến đấu đến miền Nam Việt Nam. Đến năm 1963, có 16.000 quân Mỹ tại Việt Nam. Chính sách này mở đường cho chiến tranh leo thang dưới Johnson.",
+    "title": "Chiến Lược 'Chiến Tranh Đặc Biệt' Của Mỹ (1961–1965)",
+    "description": "Từ năm 1961, Mỹ triển khai chiến lược 'Chiến tranh đặc biệt' ở miền Nam: tăng mạnh cố vấn quân sự (khoảng 16.000 người vào cuối năm 1963), xây dựng quân đội Sài Gòn và dồn dân lập 'ấp chiến lược'. Chiến thắng Ấp Bắc (1/1963) cùng các thắng lợi 1964–1965 làm phá sản chiến lược này.",
     "time": [
       1961
+    ],
+    "endTime": [
+      1965
     ],
     "emoji": "🛩️",
     "priority": 80
   },
   {
-    "title": "Sự Kiện Vịnh Bắc Bộ (2–4/8/1964)",
-    "description": "Ngày 2/8/1964, tàu khu trục Mỹ USS Maddox bị tấn công tại Vịnh Bắc Bộ (theo thông tin từ phía Mỹ). Mỹ lập tức đổ lỗi cho miền Bắc và sử dụng sự kiện này để thông qua Nghị quyết Vịnh Bắc Bộ, mở đường cho chiến tranh toàn diện.",
+    "title": "Sự Kiện Vịnh Bắc Bộ (8/1964)",
+    "description": "Ngày 2/8/1964, tàu khu trục Maddox của Mỹ xâm phạm và đụng độ với hải quân ta ở vịnh Bắc Bộ; Mỹ tiếp tục dựng lên 'sự kiện' đêm 4/8 để lấy cớ. Ngày 5/8/1964, Mỹ cho không quân ném bom miền Bắc và Quốc hội Mỹ thông qua 'Nghị quyết vịnh Bắc Bộ', mở đường cho việc leo thang chiến tranh.",
     "time": [
       1964,
       8,
@@ -101,37 +116,45 @@
     "priority": 86
   },
   {
-    "title": "Chiến Dịch Rolling Thunder (1965–1968)",
-    "description": "Không quân Mỹ tiến hành chiến dịch ném bom hàng loạt miền Bắc Việt Nam, kéo dài 3 năm. Hơn 800.000 tấn bom được thả xuống miền Bắc, phá hủy cơ sở hạ tầng và gây thiệt hại dân sự lớn.",
+    "title": "Mỹ Ném Bom Miền Bắc — Chiến Dịch 'Sấm Rền' (1965–1968)",
+    "description": "Từ tháng 3/1965 đến tháng 11/1968, không quân Mỹ tiến hành chiến dịch 'Sấm Rền' ném bom phá hoại miền Bắc Việt Nam với hàng trăm nghìn tấn bom. Quân dân miền Bắc vừa chiến đấu vừa sản xuất, bắn rơi hơn 3.000 máy bay Mỹ trong cuộc chiến tranh phá hoại lần thứ nhất.",
     "time": [
-      1965
+      1965,
+      3
+    ],
+    "endTime": [
+      1968,
+      11
     ],
     "emoji": "💥",
     "priority": 82
   },
   {
-    "title": "Tổng Tiến Công và Nổi Dậy Tết Mậu Thân (31/1/1968)",
-    "description": "Đêm giao thừa Tết Mậu Thân (31/1/1968), Quân Giải phóng và Việt Cộng phát động tổng tiến công trên toàn miền Nam, bao gồm đánh vào đại sứ quán Mỹ tại Sài Gòn. Dù không đạt mục tiêu quân sự, sự kiện này làm thay đổi hoàn toàn cuộc chiến.",
+    "title": "Tổng Tiến Công và Nổi Dậy Tết Mậu Thân 1968",
+    "description": "Đêm 30 rạng sáng 31/1/1968 (Tết Mậu Thân), quân Giải phóng đồng loạt tiến công vào hầu khắp các đô thị miền Nam, đánh cả vào Đại sứ quán Mỹ ở Sài Gòn. Cuộc Tổng tiến công làm lung lay ý chí xâm lược của Mỹ, buộc Mỹ phải xuống thang chiến tranh và chấp nhận đàm phán ở Paris.",
     "time": [
       1968,
       1,
-      31
+      30
     ],
     "emoji": "🔥",
     "priority": 90
   },
   {
-    "title": "Học Thuyết Nixon — Việt Nam Hóa Chiến Tranh (1969–1973)",
-    "description": "Tổng thống Nixon công bố học thuyết 'Việt Nam hóa chiến tranh': rút dần quân Mỹ, chuyển giao chiến đấu cho quân đội Sài Gòn. Chiến dịch bom Bắc Việt Nam và Campuchia tiếp tục, gây phản ứng dữ dội trong nước Mỹ.",
+    "title": "'Việt Nam Hóa Chiến Tranh' (1969–1973)",
+    "description": "Từ năm 1969, Tổng thống Nixon thực hiện chiến lược 'Việt Nam hóa chiến tranh': rút dần quân Mỹ, tăng cường quân đội Sài Gòn, đồng thời mở rộng chiến tranh sang Campuchia (1970), Lào (1971) và ném bom trở lại miền Bắc. Làn sóng phản đối chiến tranh dâng cao ngay trong lòng nước Mỹ.",
     "time": [
       1969
+    ],
+    "endTime": [
+      1973
     ],
     "emoji": "🕊️",
     "priority": 78
   },
   {
     "title": "Hiệp Định Paris Về Việt Nam (27/1/1973)",
-    "description": "Hiệp định Paris ký kết ngừng bắn, Mỹ rút toàn bộ quân khỏi miền Nam Việt Nam trong vòng 60 ngày. Chính quyền Sài Gòn vẫn được Mỹ hậu thuẫn về tài chính và vũ khí nhưng không có sự hiện diện quân sự trực tiếp.",
+    "description": "Ngày 27/1/1973, Hiệp định Paris về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam được ký kết. Mỹ cam kết tôn trọng độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ của Việt Nam, rút hết quân trong vòng 60 ngày.",
     "time": [
       1973,
       1,
@@ -142,7 +165,7 @@
   },
   {
     "title": "Quân Mỹ Rút Khỏi Việt Nam (29/3/1973)",
-    "description": "Ngày 29/3/1973, đơn vị cuối cùng của quân đội Mỹ rời Việt Nam. Gần 58.000 lính Mỹ đã thiệt mạng và hơn 300.000 người bị thương trong cuộc chiến. Tuy nhiên, chiến tranh vẫn tiếp tục giữa miền Nam và miền Bắc.",
+    "description": "Ngày 29/3/1973, đơn vị cuối cùng của quân đội Mỹ rời khỏi miền Nam Việt Nam. Khoảng 58.000 lính Mỹ đã chết và hơn 300.000 người bị thương trong cuộc chiến. Chiến sự giữa hai miền vẫn tiếp diễn sau đó.",
     "time": [
       1973,
       3,
@@ -152,8 +175,8 @@
     "priority": 80
   },
   {
-    "title": "Đại Thắng Mùa Xuân — Sài Gòn Giải Phóng (30/4/1975)",
-    "description": "Ngày 30/4/1975, xe tăng Quân đội Nhân dân Việt Nam tiến vào Dinh Độc Lập, chính thức kết thúc Chiến tranh Việt Nam. 'Tổng thống' Dương Văn Minh đầu hàng vô điều kiện. Sài Gòn được giải phóng.",
+    "title": "Đại Thắng Mùa Xuân — Giải Phóng Miền Nam (30/4/1975)",
+    "description": "Ngày 30/4/1975, trong Chiến dịch Hồ Chí Minh, xe tăng Quân Giải phóng tiến vào Dinh Độc Lập; 11 giờ 30 phút, lá cờ cách mạng tung bay trên nóc Dinh. Tổng thống chính quyền Sài Gòn Dương Văn Minh tuyên bố đầu hàng không điều kiện - miền Nam hoàn toàn giải phóng.",
     "time": [
       1975,
       4,
@@ -164,7 +187,7 @@
   },
   {
     "title": "Việt Nam Thống Nhất (2/7/1976)",
-    "description": "Ngày 2/7/1976, Quốc hội lâm thời Việt Nam thống nhất thông qua Hiến pháp mới, officially reunifying North and South Vietnam into the Socialist Republic of Vietnam. Hà Nội trở thành thủ đô của cả nước.",
+    "description": "Ngày 2/7/1976, Quốc hội khóa VI của nước Việt Nam thống nhất quyết định đặt tên nước là Cộng hòa Xã hội chủ nghĩa Việt Nam, chọn Hà Nội làm thủ đô và đổi tên Sài Gòn – Gia Định thành Thành phố Hồ Chí Minh. Đất nước hoàn thành thống nhất về mặt nhà nước.",
     "time": [
       1976,
       7,
@@ -174,28 +197,35 @@
     "priority": 92
   },
   {
-    "title": "Cải Tạo Xã Hội Chủ Nghĩa Tại Miền Nam (1975–1985)",
-    "description": "Sau khi thống nhất, chính phủ Việt Nam thực hiện 'cải tạo xã hội chủ nghĩa' tại miền Nam: quốc hữu hóa doanh nghiệp, hợp tác xã hóa nông nghiệp. Chính sách này gây ra khó khăn kinh tế nghiêm trọng.",
+    "title": "Cải Tạo Xã Hội Chủ Nghĩa và Thời Bao Cấp (1975–1986)",
+    "description": "Sau năm 1975, Nhà nước tiến hành cải tạo xã hội chủ nghĩa ở miền Nam: quốc hữu hóa công thương nghiệp tư nhân, tập thể hóa nông nghiệp. Cơ chế kế hoạch hóa tập trung, quan liêu, bao cấp khiến kinh tế đất nước lâm vào khủng hoảng trầm trọng cuối thập niên 1970 – đầu thập niên 1980.",
     "time": [
       1975
+    ],
+    "endTime": [
+      1986
     ],
     "emoji": "🏛️",
     "priority": 74
   },
   {
-    "title": "Chiến Tranh Việt–Campuchia (1978–1979)",
-    "description": "Tháng 12/1978, Việt Nam tấn công Campuchia, lật đổ chế độ Khmer Đỏ của Pol Pot (3/1/1979). Chiến tranh kéo dài 10 năm (cho đến 1989). Đây là hệ quả trực tiếp của xung đột biên giới Việt–Campuchia và sự xâm lược của Pol Pot.",
+    "title": "Chiến Tranh Bảo Vệ Biên Giới Tây Nam (1978–1979)",
+    "description": "Sau nhiều năm quân Khmer Đỏ tấn công, tàn sát dân thường ở biên giới Tây Nam, cuối tháng 12/1978 quân đội Việt Nam mở cuộc phản công. Ngày 7/1/1979, Phnôm Pênh được giải phóng, chế độ diệt chủng Pôn Pốt sụp đổ; quân tình nguyện Việt Nam ở lại giúp Campuchia đến năm 1989.",
     "time": [
       1978,
       12,
       25
+    ],
+    "endTime": [
+      1989,
+      9
     ],
     "emoji": "⚔️",
     "priority": 80
   },
   {
     "title": "Đổi Mới Khởi Động (12/1986)",
-    "description": "Đại hội Đảng Cộng sản Việt Nam lần thứ VI (tháng 12/1986) do Nguyễn Văn Linh lãnh đạo, chính thức khởi động chính sách Đổi Mới (Renovation). Chính sách này chuyển đổi Việt Nam từ kinh tế kế hoạch hóa tập trung sang kinh tế thị trường định hướng XHCN.",
+    "description": "Đại hội đại biểu toàn quốc lần thứ VI của Đảng (15–18/12/1986) đề ra đường lối Đổi mới toàn diện, chuyển nền kinh tế kế hoạch hóa tập trung sang kinh tế thị trường định hướng xã hội chủ nghĩa; đồng chí Nguyễn Văn Linh được bầu làm Tổng Bí thư.",
     "time": [
       1986,
       12
@@ -205,7 +235,7 @@
   },
   {
     "title": "Liên Xô Ngừng Viện Trợ Việt Nam",
-    "description": "Năm 1989, với sự sụp đổ của Liên Xô, viện trợ kinh tế cho Việt Nam chấm dứt. Việt Nam rơi vào khủng hoảng kinh tế nghiêm trọng, thúc đẩy nhanh quá trình Đổi Mới và mở cửa đối ngoại.",
+    "description": "Cuối thập niên 1980, Liên Xô và các nước Đông Âu lâm vào khủng hoảng, viện trợ cho Việt Nam bị cắt giảm mạnh và chấm dứt hẳn khi Liên Xô tan rã (1991). Khó khăn này buộc Việt Nam đẩy nhanh Đổi mới và đa phương hóa quan hệ đối ngoại.",
     "time": [
       1989
     ],
@@ -214,7 +244,7 @@
   },
   {
     "title": "Việt Nam Rút Quân Khỏi Campuchia (1989)",
-    "description": "Tháng 9/1989, Việt Nam hoàn toàn rút quân khỏi Campuchia sau 10 năm can thiệp. Đây là một trong những điều kiện để Việt Nam bình thường hóa quan hệ với ASEAN và phương Tây.",
+    "description": "Tháng 9/1989, Việt Nam hoàn tất việc rút quân tình nguyện khỏi Campuchia sau 10 năm làm nghĩa vụ quốc tế. Đây là bước quan trọng mở đường cho việc bình thường hóa quan hệ với Trung Quốc, ASEAN và các nước phương Tây.",
     "time": [
       1989,
       9
@@ -224,7 +254,7 @@
   },
   {
     "title": "Việt Nam Gia Nhập ASEAN (28/7/1995)",
-    "description": "Ngày 28/7/1995, Việt Nam chính thức gia nhập ASEAN (Hiệp hội các Quốc gia Đông Nam Á), trở thành thành viên thứ 7 của tổ chức. Đây là bước ngoặt quan trọng trong chính sách đối ngoại và hội nhập khu vực của Việt Nam.",
+    "description": "Ngày 28/7/1995, Việt Nam chính thức gia nhập ASEAN (Hiệp hội các quốc gia Đông Nam Á), trở thành thành viên thứ 7 của tổ chức. Đây là bước ngoặt quan trọng trong chính sách đối ngoại và hội nhập khu vực của Việt Nam.",
     "time": [
       1995,
       7,
@@ -234,19 +264,19 @@
     "priority": 82
   },
   {
-    "title": "Việt Nam–Mỹ Bình Thường Hóa Quan Hệ (19/7/1995)",
-    "description": "Ngày 19/7/1995, Tổng thống Mỹ Bill Clinton tuyên bố bình thường hóa quan hệ ngoại giao với Việt Nam, chấm dứt 20 năm thù địch sau Chiến tranh Việt Nam. Hai nước thiết lập quan hệ đại sứ.",
+    "title": "Việt Nam – Mỹ Bình Thường Hóa Quan Hệ (11/7/1995)",
+    "description": "Ngày 11/7/1995, Tổng thống Mỹ Bill Clinton tuyên bố bình thường hóa quan hệ ngoại giao với Việt Nam, khép lại hai thập kỷ đối đầu sau chiến tranh. Hai nước sau đó thiết lập quan hệ ở cấp đại sứ.",
     "time": [
       1995,
       7,
-      19
+      11
     ],
     "emoji": "🤝",
     "priority": 86
   },
   {
     "title": "Việt Nam Gia Nhập WTO (11/1/2007)",
-    "description": "Ngày 11/1/2007, Việt Nam chính thức trở thành thành viên Tổ chức Thương mại Thế giới (WTO), mở ra cơ hội lớn cho xuất khẩu và đầu tư nước ngoài. Việt Nam là thành viên thứ 150 của WTO.",
+    "description": "Ngày 11/1/2007, Việt Nam chính thức trở thành thành viên thứ 150 của Tổ chức Thương mại Thế giới (WTO), mở ra cơ hội lớn cho xuất khẩu và thu hút đầu tư nước ngoài.",
     "time": [
       2007,
       1,
@@ -256,18 +286,8 @@
     "priority": 80
   },
   {
-    "title": "Đảng Cộng Sản Việt Nam Đại Hội VI (12/1986)",
-    "description": "Đại hội VI của Đảng Cộng sản Việt Nam khởi động Đổi Mới, do Nguyễn Văn Linh làm Tổng Bí thư. Đây là bước ngoặt lịch sử, chuyển đổi mô hình kinh tế và mở cửa đối ngoại.",
-    "time": [
-      1986,
-      12
-    ],
-    "emoji": "🟥",
-    "priority": 88
-  },
-  {
     "title": "Đảng Cộng Sản Việt Nam Đại Hội VII (6/1991)",
-    "description": "Đại hội VII tiếp tục Đổi Mới trong bối cảnh Liên Xô sụp đổ. Đảng xác định 4 đối tác chiến lược (Lào, Campuchia, Trung Quốc, Nga) và đa phương hóa quan hệ quốc tế.",
+    "description": "Đại hội VII của Đảng (6/1991) thông qua Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội, bầu đồng chí Đỗ Mười làm Tổng Bí thư và đề ra đường lối đối ngoại độc lập, tự chủ, đa dạng hóa, đa phương hóa quan hệ quốc tế.",
     "time": [
       1991,
       6
@@ -277,7 +297,7 @@
   },
   {
     "title": "Đảng Cộng Sản Việt Nam Đại Hội XIII (1/2021)",
-    "description": "Đại hội XIII của Đảng Cộng sản Việt Nam bầu Nguyễn Phú Trọng làm Tổng Bí thư nhiệm kỳ 2021–2026. Đại hội đề ra các mục tiêu phát triển đến 2030 và 2045, bao gồm mục tiêu trở thành nước phát triển.",
+    "description": "Đại hội XIII của Đảng (25/1–1/2/2021) bầu đồng chí Nguyễn Phú Trọng tiếp tục làm Tổng Bí thư nhiệm kỳ 2021–2026, đề ra mục tiêu đến năm 2030 trở thành nước đang phát triển có công nghiệp hiện đại, thu nhập trung bình cao và đến năm 2045 trở thành nước phát triển, thu nhập cao.",
     "time": [
       2021,
       1,
@@ -288,7 +308,7 @@
   },
   {
     "title": "Hiến Pháp Việt Nam 2013",
-    "description": "Hiến pháp năm 2013 được Quốc hội khóa XIII thông qua với 97,59% phiếu tán thành. Hiến pháp xác định Đảng Cộng sản Việt Nam là lực lượng lãnh đạo, hệ thống kinh tế đa thành phần, và quyền con người.",
+    "description": "Ngày 28/11/2013, Quốc hội khóa XIII thông qua Hiến pháp mới với 97,59% đại biểu tán thành. Hiến pháp 2013 khẳng định vai trò lãnh đạo của Đảng Cộng sản Việt Nam, ghi nhận đầy đủ hơn quyền con người, quyền công dân và nền kinh tế nhiều thành phần.",
     "time": [
       2013,
       11,
@@ -299,30 +319,36 @@
   },
   {
     "title": "Đại Dịch COVID-19 Tại Việt Nam (2020–2022)",
-    "description": "Từ 2020 đến 2022, Việt Nam trải qua 4 đợt dịch COVID-19. Việt Nam từng được ca ngợi vì kiểm soát dịch tốt giai đoạn đầu nhưng sau đó chịu đợt bùng phát nghiêm trọng do biến thể Omicron, với hàng triệu ca nhiễm và hơn 43.000 ca tử vong.",
+    "description": "Việt Nam ghi nhận ca mắc COVID-19 đầu tiên ngày 23/1/2020. Sau giai đoạn đầu chống dịch thành công, đợt dịch thứ tư (từ tháng 4/2021) với biến thể Delta gây hậu quả nặng nề nhất; cả nước có hơn 43.000 người tử vong trước khi dịch được kiểm soát và cuộc sống trở lại bình thường trong năm 2022.",
     "time": [
       2020,
-      3
+      1,
+      23
+    ],
+    "endTime": [
+      2022
     ],
     "emoji": "🦠",
     "priority": 76
   },
   {
-    "title": "Nghị Quyết 18-NQ/TW Về Đổi Mới Tổ Chức Bộ Máy (2023)",
-    "description": "Nghị quyết số 18-NQ/TW của Ban Chấp hành Trung ương Đảng (tháng 6/2023) nhằm đổi mới, sắp xếp tổ chức bộ máy hệ thống chính trị tinh gọn, hiệu quả. Đây là một phần của cuộc đấu tranh chống tham nhũng do Nguyễn Phú Trọng lãnh đạo.",
+    "title": "Nghị Quyết 18-NQ/TW Về Tinh Gọn Bộ Máy (2017)",
+    "description": "Ngày 25/10/2017, Hội nghị Trung ương 6 khóa XII ban hành Nghị quyết 18-NQ/TW về tiếp tục đổi mới, sắp xếp tổ chức bộ máy của hệ thống chính trị tinh gọn, hoạt động hiệu lực, hiệu quả - cơ sở cho cuộc sắp xếp, tinh gọn bộ máy được đẩy mạnh thực hiện từ cuối năm 2024.",
     "time": [
-      2023,
-      6
+      2017,
+      10,
+      25
     ],
     "emoji": "⚖️",
     "priority": 72
   },
   {
     "title": "Nghị Quyết 27-NQ/TW Về Cải Cách Chính Sách Tiền Lương",
-    "description": "Nghị quyết 27-NQ/TW (tháng 5/2018) đề ra lộ trình cải cách tiền lương, tinh giản biên chế, xóa bỏ cơ chế 'lương bằng lương' và áp dụng hệ thống lương mới dựa trên chức vụ, hiệu quả công tác.",
+    "description": "Ngày 21/5/2018, Hội nghị Trung ương 7 khóa XII ban hành Nghị quyết 27-NQ/TW về cải cách chính sách tiền lương, đề ra lộ trình xây dựng hệ thống bảng lương mới theo vị trí việc làm, chức danh và chức vụ lãnh đạo đối với khu vực công.",
     "time": [
       2018,
-      5
+      5,
+      21
     ],
     "emoji": "💰",
     "priority": 70

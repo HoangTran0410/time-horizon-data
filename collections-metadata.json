@@ -7,7 +7,11 @@
     "author": "Time Horizon",
     "createdAt": "2026-04-05",
     "dataUrl": "/collections/sgk-vietnam-new/lich-su-lop-6.json",
-    "categories": ["Education", "History", "Vietnam"]
+    "categories": [
+      "Education",
+      "History",
+      "Vietnam"
+    ]
   },
   {
     "id": "sgk-vietnam-new-lop-7",
@@ -17,7 +21,11 @@
     "author": "Time Horizon",
     "createdAt": "2026-04-05",
     "dataUrl": "/collections/sgk-vietnam-new/lich-su-lop-7.json",
-    "categories": ["Education", "History", "Vietnam"]
+    "categories": [
+      "Education",
+      "History",
+      "Vietnam"
+    ]
   },
   {
     "id": "sgk-vietnam-new-lop-7-canh-dieu",
@@ -27,7 +35,11 @@
     "author": "Time Horizon",
     "createdAt": "2026-04-05",
     "dataUrl": "/collections/sgk-vietnam-new/lich-su-lop-7-kn.json",
-    "categories": ["Education", "History", "Vietnam"]
+    "categories": [
+      "Education",
+      "History",
+      "Vietnam"
+    ]
   },
   {
     "id": "sgk-vietnam-new-lop-7-kt",
@@ -37,7 +49,11 @@
     "author": "Time Horizon",
     "createdAt": "2026-04-05",
     "dataUrl": "/collections/sgk-vietnam-new/lich-su-lop-7-kt.json",
-    "categories": ["Education", "History", "Vietnam"]
+    "categories": [
+      "Education",
+      "History",
+      "Vietnam"
+    ]
   },
   {
     "id": "sgk-vietnam-new-lop-8",
@@ -47,7 +63,11 @@
     "author": "Time Horizon",
     "createdAt": "2026-04-05",
     "dataUrl": "/collections/sgk-vietnam-new/lich-su-lop-8.json",
-    "categories": ["Education", "History", "Vietnam"]
+    "categories": [
+      "Education",
+      "History",
+      "Vietnam"
+    ]
   },
   {
     "id": "sgk-vietnam-new-lop-9",
@@ -57,7 +77,11 @@
     "author": "Time Horizon",
     "createdAt": "2026-04-05",
     "dataUrl": "/collections/sgk-vietnam-new/lich-su-lop-9.json",
-    "categories": ["Education", "History", "Vietnam"]
+    "categories": [
+      "Education",
+      "History",
+      "Vietnam"
+    ]
   },
   {
     "id": "sgk-vietnam-new-lop-10",
@@ -67,7 +91,11 @@
     "author": "Time Horizon",
     "createdAt": "2026-04-05",
     "dataUrl": "/collections/sgk-vietnam-new/lich-su-lop-10.json",
-    "categories": ["Education", "History", "Vietnam"]
+    "categories": [
+      "Education",
+      "History",
+      "Vietnam"
+    ]
   },
   {
     "id": "sgk-vietnam-new-lop-10-kt",
@@ -77,7 +105,11 @@
     "author": "Time Horizon",
     "createdAt": "2026-04-05",
     "dataUrl": "/collections/sgk-vietnam-new/lich-su-lop-10-kt.json",
-    "categories": ["Education", "History", "Vietnam"]
+    "categories": [
+      "Education",
+      "History",
+      "Vietnam"
+    ]
   },
   {
     "id": "sgk-vietnam-new-lop-11",
@@ -87,7 +119,11 @@
     "author": "Time Horizon",
     "createdAt": "2026-04-05",
     "dataUrl": "/collections/sgk-vietnam-new/lich-su-lop-11.json",
-    "categories": ["Education", "History", "Vietnam"]
+    "categories": [
+      "Education",
+      "History",
+      "Vietnam"
+    ]
   },
   {
     "id": "sgk-vietnam-new-lop-12",
@@ -97,7 +133,24 @@
     "author": "Time Horizon",
     "createdAt": "2026-04-05",
     "dataUrl": "/collections/sgk-vietnam-new/lich-su-lop-12.json",
-    "categories": ["Education", "History", "Vietnam"]
+    "categories": [
+      "Education",
+      "History",
+      "Vietnam"
+    ]
+  },
+  {
+    "id": "vn-dynasties",
+    "name": "Các triều đại Việt Nam",
+    "emoji": "🐉",
+    "description": "Dòng chảy các triều đại và thời kỳ lịch sử Việt Nam, từ nước Văn Lang thời Hùng Vương đến công cuộc Đổi mới — mỗi thời kỳ là một khoảng thời gian trên dòng thời gian.",
+    "author": "Time Horizon",
+    "createdAt": "2026-08-09",
+    "dataUrl": "/collections/vn-dynasties.json",
+    "categories": [
+      "History",
+      "Vietnam"
+    ]
   },
   {
     "id": "cosmic",
@@ -107,7 +160,9 @@
     "author": "Time Horizon",
     "createdAt": "2026-03-25",
     "dataUrl": "/collections/cosmic.json",
-    "categories": ["Science"]
+    "categories": [
+      "Science"
+    ]
   },
   {
     "id": "earth",
@@ -117,7 +172,23 @@
     "author": "Time Horizon",
     "createdAt": "2026-03-25",
     "dataUrl": "/collections/earth.json",
-    "categories": ["Science", "Prehistory"]
+    "categories": [
+      "Science",
+      "Prehistory"
+    ]
+  },
+  {
+    "id": "geologic-time",
+    "name": "Niên đại địa chất",
+    "emoji": "🪨",
+    "description": "Thang thời gian địa chất chuẩn ICS: các liên đại, đại, kỷ và thế từ khi Trái Đất hình thành 4,57 tỷ năm trước đến ngày nay.",
+    "author": "Time Horizon",
+    "createdAt": "2026-08-09",
+    "dataUrl": "/collections/geologic-time.json",
+    "categories": [
+      "Science",
+      "Prehistory"
+    ]
   },
   {
     "id": "dinosaur-age",
@@ -127,7 +198,10 @@
     "author": "Time Horizon",
     "createdAt": "2026-03-26",
     "dataUrl": "/collections/dinosaur-age.json",
-    "categories": ["Science", "Prehistory"]
+    "categories": [
+      "Science",
+      "Prehistory"
+    ]
   },
   {
     "id": "ice-age",
@@ -137,7 +211,10 @@
     "author": "Time Horizon",
     "createdAt": "2026-03-26",
     "dataUrl": "/collections/ice-age.json",
-    "categories": ["Science", "Prehistory"]
+    "categories": [
+      "Science",
+      "Prehistory"
+    ]
   },
   {
     "id": "stone-age",
@@ -147,7 +224,10 @@
     "author": "Time Horizon",
     "createdAt": "2026-03-26",
     "dataUrl": "/collections/stone-age.json",
-    "categories": ["Prehistory", "History"]
+    "categories": [
+      "Prehistory",
+      "History"
+    ]
   },
   {
     "id": "bronze-age",
@@ -157,7 +237,9 @@
     "author": "Time Horizon",
     "createdAt": "2026-03-26",
     "dataUrl": "/collections/bronze-age.json",
-    "categories": ["History"]
+    "categories": [
+      "History"
+    ]
   },
   {
     "id": "iron-age",
@@ -167,7 +249,10 @@
     "author": "Time Horizon",
     "createdAt": "2026-03-26",
     "dataUrl": "/collections/iron-age.json",
-    "categories": ["History", "Politics"]
+    "categories": [
+      "History",
+      "Politics"
+    ]
   },
   {
     "id": "medieval-age",
@@ -177,7 +262,10 @@
     "author": "Time Horizon",
     "createdAt": "2026-03-26",
     "dataUrl": "/collections/medieval-age.json",
-    "categories": ["History", "Religion"]
+    "categories": [
+      "History",
+      "Religion"
+    ]
   },
   {
     "id": "industrial-age",
@@ -187,7 +275,11 @@
     "author": "Time Horizon",
     "createdAt": "2026-03-26",
     "dataUrl": "/collections/industrial-age.json",
-    "categories": ["History", "Science", "Politics"]
+    "categories": [
+      "History",
+      "Science",
+      "Politics"
+    ]
   },
   {
     "id": "information-age",
@@ -197,7 +289,10 @@
     "author": "Time Horizon",
     "createdAt": "2026-03-26",
     "dataUrl": "/collections/information-age.json",
-    "categories": ["History", "Science"]
+    "categories": [
+      "History",
+      "Science"
+    ]
   },
   {
     "id": "ho-chi-minh",
@@ -207,7 +302,11 @@
     "author": "Time Horizon",
     "createdAt": "2026-03-26",
     "dataUrl": "/collections/ho-chi-minh.json",
-    "categories": ["Biography", "Politics", "Vietnam"]
+    "categories": [
+      "Biography",
+      "Politics",
+      "Vietnam"
+    ]
   },
   {
     "id": "lenin",
@@ -217,7 +316,10 @@
     "author": "Time Horizon",
     "createdAt": "2026-03-26",
     "dataUrl": "/collections/lenin.json",
-    "categories": ["Biography", "Politics"]
+    "categories": [
+      "Biography",
+      "Politics"
+    ]
   },
   {
     "id": "hitler",
@@ -227,7 +329,10 @@
     "author": "Time Horizon",
     "createdAt": "2026-03-26",
     "dataUrl": "/collections/hitler.json",
-    "categories": ["Biography", "Politics"]
+    "categories": [
+      "Biography",
+      "Politics"
+    ]
   },
   {
     "id": "einstein",
@@ -237,7 +342,10 @@
     "author": "Time Horizon",
     "createdAt": "2026-03-26",
     "dataUrl": "/collections/einstein.json",
-    "categories": ["Biography", "Science"]
+    "categories": [
+      "Biography",
+      "Science"
+    ]
   },
   {
     "id": "buddhism",
@@ -247,7 +355,10 @@
     "author": "Time Horizon",
     "createdAt": "2026-03-26",
     "dataUrl": "/collections/buddhism.json",
-    "categories": ["Religion", "History"]
+    "categories": [
+      "Religion",
+      "History"
+    ]
   },
   {
     "id": "buddha-life",
@@ -257,7 +368,10 @@
     "author": "Time Horizon",
     "createdAt": "2026-03-26",
     "dataUrl": "/collections/buddha-life.json",
-    "categories": ["Biography", "Religion"]
+    "categories": [
+      "Biography",
+      "Religion"
+    ]
   },
   {
     "id": "hinduism",
@@ -267,7 +381,10 @@
     "author": "Time Horizon",
     "createdAt": "2026-03-26",
     "dataUrl": "/collections/hinduism.json",
-    "categories": ["Religion", "History"]
+    "categories": [
+      "Religion",
+      "History"
+    ]
   },
   {
     "id": "christianity",
@@ -277,7 +394,10 @@
     "author": "Time Horizon",
     "createdAt": "2026-03-26",
     "dataUrl": "/collections/christianity.json",
-    "categories": ["Religion", "History"]
+    "categories": [
+      "Religion",
+      "History"
+    ]
   },
   {
     "id": "islam",
@@ -287,7 +407,23 @@
     "author": "Time Horizon",
     "createdAt": "2026-03-26",
     "dataUrl": "/collections/islam.json",
-    "categories": ["Religion", "History"]
+    "categories": [
+      "Religion",
+      "History"
+    ]
+  },
+  {
+    "id": "world-empires",
+    "name": "Các đế quốc thế giới",
+    "emoji": "👑",
+    "description": "Hơn 40 đế quốc lớn của nhân loại từ Akkad đến Đế quốc Anh — mỗi đế quốc là một khoảng thời gian từ khi hình thành đến khi sụp đổ.",
+    "author": "Time Horizon",
+    "createdAt": "2026-08-09",
+    "dataUrl": "/collections/world-empires.json",
+    "categories": [
+      "History",
+      "Politics"
+    ]
   },
   {
     "id": "art",
@@ -297,7 +433,9 @@
     "author": "Histography",
     "createdAt": "2026-03-27",
     "dataUrl": "/collections/histography/art.json",
-    "categories": ["Culture"]
+    "categories": [
+      "Culture"
+    ]
   },
   {
     "id": "assassinations",
@@ -307,7 +445,10 @@
     "author": "Histography",
     "createdAt": "2026-03-27",
     "dataUrl": "/collections/histography/assassinations.json",
-    "categories": ["Politics", "History"]
+    "categories": [
+      "Politics",
+      "History"
+    ]
   },
   {
     "id": "construction",
@@ -317,7 +458,10 @@
     "author": "Histography",
     "createdAt": "2026-03-27",
     "dataUrl": "/collections/histography/construction.json",
-    "categories": ["History", "Science"]
+    "categories": [
+      "History",
+      "Science"
+    ]
   },
   {
     "id": "disasters",
@@ -327,7 +471,10 @@
     "author": "Histography",
     "createdAt": "2026-03-27",
     "dataUrl": "/collections/histography/disasters.json",
-    "categories": ["Science", "History"]
+    "categories": [
+      "Science",
+      "History"
+    ]
   },
   {
     "id": "discoveries",
@@ -337,7 +484,10 @@
     "author": "Histography",
     "createdAt": "2026-03-27",
     "dataUrl": "/collections/histography/discoveries.json",
-    "categories": ["Science", "History"]
+    "categories": [
+      "Science",
+      "History"
+    ]
   },
   {
     "id": "empires",
@@ -347,7 +497,10 @@
     "author": "Histography",
     "createdAt": "2026-03-27",
     "dataUrl": "/collections/histography/empires.json",
-    "categories": ["History", "Politics"]
+    "categories": [
+      "History",
+      "Politics"
+    ]
   },
   {
     "id": "evolution",
@@ -357,7 +510,10 @@
     "author": "Histography",
     "createdAt": "2026-03-27",
     "dataUrl": "/collections/histography/evolution.json",
-    "categories": ["Science", "Prehistory"]
+    "categories": [
+      "Science",
+      "Prehistory"
+    ]
   },
   {
     "id": "human-prehistory",
@@ -367,7 +523,10 @@
     "author": "Histography",
     "createdAt": "2026-03-27",
     "dataUrl": "/collections/histography/human-prehistory.json",
-    "categories": ["Prehistory", "History"]
+    "categories": [
+      "Prehistory",
+      "History"
+    ]
   },
   {
     "id": "inventions",
@@ -377,7 +536,10 @@
     "author": "Histography",
     "createdAt": "2026-03-27",
     "dataUrl": "/collections/histography/inventions.json",
-    "categories": ["Science", "History"]
+    "categories": [
+      "Science",
+      "History"
+    ]
   },
   {
     "id": "literature",
@@ -387,7 +549,9 @@
     "author": "Histography",
     "createdAt": "2026-03-27",
     "dataUrl": "/collections/histography/literature.json",
-    "categories": ["Culture"]
+    "categories": [
+      "Culture"
+    ]
   },
   {
     "id": "music",
@@ -397,7 +561,9 @@
     "author": "Histography",
     "createdAt": "2026-03-27",
     "dataUrl": "/collections/histography/music.json",
-    "categories": ["Culture"]
+    "categories": [
+      "Culture"
+    ]
   },
   {
     "id": "nationality",
@@ -407,7 +573,10 @@
     "author": "Histography",
     "createdAt": "2026-03-27",
     "dataUrl": "/collections/histography/nationality.json",
-    "categories": ["History", "Politics"]
+    "categories": [
+      "History",
+      "Politics"
+    ]
   },
   {
     "id": "natural-history",
@@ -417,7 +586,10 @@
     "author": "Histography",
     "createdAt": "2026-03-27",
     "dataUrl": "/collections/histography/natural-history.json",
-    "categories": ["Science", "Prehistory"]
+    "categories": [
+      "Science",
+      "Prehistory"
+    ]
   },
   {
     "id": "politics",
@@ -427,7 +599,10 @@
     "author": "Histography",
     "createdAt": "2026-03-27",
     "dataUrl": "/collections/histography/politics.json",
-    "categories": ["Politics", "History"]
+    "categories": [
+      "Politics",
+      "History"
+    ]
   },
   {
     "id": "religion",
@@ -437,7 +612,10 @@
     "author": "Histography",
     "createdAt": "2026-03-27",
     "dataUrl": "/collections/histography/religion.json",
-    "categories": ["Religion", "History"]
+    "categories": [
+      "Religion",
+      "History"
+    ]
   },
   {
     "id": "riots",
@@ -447,7 +625,10 @@
     "author": "Histography",
     "createdAt": "2026-03-27",
     "dataUrl": "/collections/histography/riots.json",
-    "categories": ["Politics", "History"]
+    "categories": [
+      "Politics",
+      "History"
+    ]
   },
   {
     "id": "wars",
@@ -457,7 +638,10 @@
     "author": "Histography",
     "createdAt": "2026-03-27",
     "dataUrl": "/collections/histography/wars.json",
-    "categories": ["Politics", "History"]
+    "categories": [
+      "Politics",
+      "History"
+    ]
   },
   {
     "id": "women-rights",
@@ -467,7 +651,10 @@
     "author": "Histography",
     "createdAt": "2026-03-27",
     "dataUrl": "/collections/histography/women-rights.json",
-    "categories": ["Politics", "History"]
+    "categories": [
+      "Politics",
+      "History"
+    ]
   },
   {
     "id": "lich-su-lop-6",
@@ -477,7 +664,11 @@
     "author": "Time Horizon",
     "createdAt": "2026-04-03",
     "dataUrl": "/collections/sgk-vietnam-aigen/lich-su-lop-6.json",
-    "categories": ["Education", "History", "Vietnam"]
+    "categories": [
+      "Education",
+      "History",
+      "Vietnam"
+    ]
   },
   {
     "id": "lich-su-lop-7",
@@ -487,7 +678,11 @@
     "author": "Time Horizon",
     "createdAt": "2026-04-03",
     "dataUrl": "/collections/sgk-vietnam-aigen/lich-su-lop-7.json",
-    "categories": ["Education", "History", "Vietnam"]
+    "categories": [
+      "Education",
+      "History",
+      "Vietnam"
+    ]
   },
   {
     "id": "lich-su-lop-8",
@@ -497,7 +692,11 @@
     "author": "Time Horizon",
     "createdAt": "2026-04-03",
     "dataUrl": "/collections/sgk-vietnam-aigen/lich-su-lop-8.json",
-    "categories": ["Education", "History", "Vietnam"]
+    "categories": [
+      "Education",
+      "History",
+      "Vietnam"
+    ]
   },
   {
     "id": "lich-su-lop-9",
@@ -507,7 +706,11 @@
     "author": "Time Horizon",
     "createdAt": "2026-04-03",
     "dataUrl": "/collections/sgk-vietnam-aigen/lich-su-lop-9.json",
-    "categories": ["Education", "History", "Vietnam"]
+    "categories": [
+      "Education",
+      "History",
+      "Vietnam"
+    ]
   },
   {
     "id": "lich-su-lop-10",
@@ -517,7 +720,11 @@
     "author": "Time Horizon",
     "createdAt": "2026-04-03",
     "dataUrl": "/collections/sgk-vietnam-aigen/lich-su-lop-10.json",
-    "categories": ["Education", "History", "Vietnam"]
+    "categories": [
+      "Education",
+      "History",
+      "Vietnam"
+    ]
   },
   {
     "id": "lich-su-lop-11",
@@ -527,7 +734,11 @@
     "author": "Time Horizon",
     "createdAt": "2026-04-03",
     "dataUrl": "/collections/sgk-vietnam-aigen/lich-su-lop-11.json",
-    "categories": ["Education", "History", "Vietnam"]
+    "categories": [
+      "Education",
+      "History",
+      "Vietnam"
+    ]
   },
   {
     "id": "lich-su-lop-12",
@@ -537,6 +748,10 @@
     "author": "Time Horizon",
     "createdAt": "2026-04-03",
     "dataUrl": "/collections/sgk-vietnam-aigen/lich-su-lop-12.json",
-    "categories": ["Education", "History", "Vietnam"]
+    "categories": [
+      "Education",
+      "History",
+      "Vietnam"
+    ]
   }
 ]
