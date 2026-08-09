@@ -191,9 +191,7 @@
     "time": [
       -538800000
     ],
-    "endTime": [
-      2026
-    ],
+    "ongoing": true,
     "emoji": "🐚",
     "priority": 95
   },
@@ -407,9 +405,7 @@
     "time": [
       -66000000
     ],
-    "endTime": [
-      2026
-    ],
+    "ongoing": true,
     "emoji": "🐘",
     "priority": 87
   },
@@ -551,9 +547,7 @@
     "time": [
       -2580000
     ],
-    "endTime": [
-      2026
-    ],
+    "ongoing": true,
     "emoji": "🧊",
     "priority": 76
   },
@@ -587,9 +581,7 @@
     "time": [
       -9700
     ],
-    "endTime": [
-      2026
-    ],
+    "ongoing": true,
     "emoji": "🏛️",
     "priority": 68
   }
