@@ -1,0 +1,82 @@
+[
+  {
+    "id": "sgk",
+    "match": "any",
+    "categories": ["Education"],
+    "name": {
+      "vi": "Sách giáo khoa Việt Nam",
+      "en": "Vietnam Textbooks"
+    }
+  },
+  {
+    "id": "biography",
+    "match": "any",
+    "categories": ["Biography"],
+    "name": {
+      "vi": "Cuộc đời vĩ nhân",
+      "en": "Great Lives"
+    }
+  },
+  {
+    "id": "vietnam",
+    "match": "any",
+    "categories": ["Vietnam"],
+    "name": {
+      "vi": "Lịch sử Việt Nam",
+      "en": "Vietnamese History"
+    }
+  },
+  {
+    "id": "world-history",
+    "match": "primary",
+    "categories": ["History"],
+    "name": {
+      "vi": "Lịch sử thế giới",
+      "en": "World History"
+    }
+  },
+  {
+    "id": "science",
+    "match": "primary",
+    "categories": ["Science", "Prehistory"],
+    "name": {
+      "vi": "Khoa học & Tiền sử",
+      "en": "Science & Prehistory"
+    }
+  },
+  {
+    "id": "religion",
+    "match": "primary",
+    "categories": ["Religion"],
+    "name": {
+      "vi": "Tôn giáo & Tín ngưỡng",
+      "en": "Religion & Belief"
+    }
+  },
+  {
+    "id": "politics",
+    "match": "primary",
+    "categories": ["Politics"],
+    "name": {
+      "vi": "Chính trị & Xã hội",
+      "en": "Politics & Society"
+    }
+  },
+  {
+    "id": "culture",
+    "match": "primary",
+    "categories": ["Culture"],
+    "name": {
+      "vi": "Văn hóa & Nghệ thuật",
+      "en": "Culture & Arts"
+    }
+  },
+  {
+    "id": "other",
+    "match": "fallback",
+    "name": {
+      "vi": "Khác",
+      "en": "Other"
+    }
+  }
+]
