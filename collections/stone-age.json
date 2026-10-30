@@ -37,18 +37,18 @@
   },
   {
     "title": "Chauvet Cave Art",
-    "description": "Some of the world's most famous figurative cave paintings are created in France.",
+    "description": "Some of the world's most famous figurative cave paintings are created in France, about 37,000 years ago.",
     "time": [
-      -36000
+      -35000
     ],
     "emoji": "🎨",
     "priority": 72
   },
   {
     "title": "Agriculture",
-    "description": "Humans begin farming and settling in multiple regions near the end of the Stone Age.",
+    "description": "Humans begin farming and settling in multiple regions near the end of the Stone Age, around 10,000 BCE.",
     "time": [
-      -12000
+      -10000
     ],
     "emoji": "🌾",
     "priority": 90
