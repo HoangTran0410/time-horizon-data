@@ -472,8 +472,7 @@
     "title": "\"Crucifixion of Jesus Christ\"",
     "description": "",
     "time": [
-      26,
-      7
+      26
     ],
     "emoji": "✝️",
     "priority": 7067,
@@ -484,8 +483,7 @@
     "title": "Council of Jerusalem is held",
     "description": "",
     "time": [
-      50,
-      12
+      50
     ],
     "emoji": "✝️",
     "priority": 582,
@@ -495,8 +493,7 @@
     "title": "Destruction of Jerusalem Temple",
     "description": "",
     "time": [
-      70,
-      5
+      70
     ],
     "emoji": "🛕",
     "priority": 6332,
@@ -506,8 +503,7 @@
     "title": "taoism founded",
     "description": "",
     "time": [
-      142,
-      4
+      142
     ],
     "emoji": "☯️",
     "priority": 2447,
@@ -518,8 +514,7 @@
     "title": "Manichaean religion is formed",
     "description": "",
     "time": [
-      220,
-      8
+      220
     ],
     "emoji": "🛐",
     "priority": 202,
@@ -529,8 +524,7 @@
     "title": "the Ginza Rba is written",
     "description": "",
     "time": [
-      250,
-      7
+      250
     ],
     "emoji": "📜",
     "priority": 438,
@@ -541,8 +535,7 @@
     "title": "Maya pyramids constructed",
     "description": "",
     "time": [
-      250,
-      12
+      250
     ],
     "emoji": "🛕",
     "priority": 291,
@@ -552,8 +545,7 @@
     "title": "rome begins a large-scale persecution of Christians",
     "description": "",
     "time": [
-      285,
-      6
+      285
     ],
     "emoji": "✝️",
     "priority": 1246,
@@ -564,8 +556,7 @@
     "title": "first version of the Tao Te Ching Writings",
     "description": "",
     "time": [
-      300,
-      8
+      300
     ],
     "emoji": "☯️",
     "priority": 1023,
@@ -575,8 +566,7 @@
     "title": "The Edict of Milan",
     "description": "",
     "time": [
-      313,
-      8
+      313
     ],
     "emoji": "📜",
     "priority": 84,
@@ -586,8 +576,7 @@
     "title": "The first Ecumenical Council",
     "description": "",
     "time": [
-      325,
-      11
+      325
     ],
     "emoji": "✝️",
     "priority": 117,
@@ -598,8 +587,7 @@
     "title": "The first Greek bible",
     "description": "",
     "time": [
-      350,
-      7
+      350
     ],
     "emoji": "✝️",
     "priority": 2180,
@@ -610,8 +598,7 @@
     "title": "the roman empire became christian",
     "description": "",
     "time": [
-      380,
-      9
+      380
     ],
     "emoji": "✝️",
     "priority": 11050,
@@ -623,8 +610,7 @@
     "title": "the Arian faith declares heretical",
     "description": "",
     "time": [
-      380,
-      4
+      380
     ],
     "emoji": "🛐",
     "priority": 402,
@@ -634,8 +620,7 @@
     "title": "The second Ecumenical Council",
     "description": "",
     "time": [
-      381,
-      7
+      381
     ],
     "emoji": "✝️",
     "priority": 534,
@@ -645,8 +630,7 @@
     "title": "Roman Empire proscripted Paganism",
     "description": "",
     "time": [
-      381,
-      7
+      381
     ],
     "emoji": "🛐",
     "priority": 1,
@@ -656,8 +640,7 @@
     "title": "the first council of bishops",
     "description": "",
     "time": [
-      393,
-      7
+      393
     ],
     "emoji": "✝️",
     "priority": 308,
@@ -667,8 +650,7 @@
     "title": "all religions other than Christianity are outlawed",
     "description": "",
     "time": [
-      395,
-      2
+      395
     ],
     "emoji": "✝️",
     "priority": 1742,
@@ -678,8 +660,7 @@
     "title": "first Latin translation of the Bible",
     "description": "",
     "time": [
-      405,
-      5
+      405
     ],
     "emoji": "✝️",
     "priority": 211,
@@ -689,8 +670,7 @@
     "title": "A separation in the Assyrian Church",
     "description": "",
     "time": [
-      424,
-      8
+      424
     ],
     "emoji": "✝️",
     "priority": 771,
@@ -700,8 +680,7 @@
     "title": "The third Ecumenical Council",
     "description": "",
     "time": [
-      431,
-      11
+      431
     ],
     "emoji": "✝️",
     "priority": 288,
@@ -711,8 +690,7 @@
     "title": "Council of Ephesus supports Eutyches",
     "description": "",
     "time": [
-      449,
-      11
+      449
     ],
     "emoji": "✝️",
     "priority": 217,
@@ -722,8 +700,7 @@
     "title": "The Council rejects monophysitism",
     "description": "",
     "time": [
-      451,
-      11
+      451
     ],
     "emoji": "✝️",
     "priority": 484,
@@ -733,8 +710,7 @@
     "title": "Christology rejected by the church",
     "description": "",
     "time": [
-      451,
-      10
+      451
     ],
     "emoji": "✝️",
     "priority": 1,
@@ -765,8 +741,7 @@
     "title": "Muhammad became Prophet of Islam",
     "description": "",
     "time": [
-      610,
-      7
+      610
     ],
     "emoji": "🕌",
     "priority": 10590,
@@ -778,8 +753,7 @@
     "title": "the Quran was written",
     "description": "",
     "time": [
-      610,
-      9
+      610
     ],
     "emoji": "🕌",
     "priority": 7623,
@@ -790,8 +764,7 @@
     "title": "Islam spreads to persia",
     "description": "",
     "time": [
-      632,
-      10
+      632
     ],
     "emoji": "🕌",
     "priority": 9025,
@@ -803,8 +776,7 @@
     "title": "the Sunni and Shiites split",
     "description": "",
     "time": [
-      632,
-      9
+      632
     ],
     "emoji": "🕌",
     "priority": 8135,
@@ -815,8 +787,7 @@
     "title": "Islam spreads to egypt",
     "description": "",
     "time": [
-      639,
-      4
+      639
     ],
     "emoji": "🕌",
     "priority": 1469,
@@ -839,8 +810,7 @@
     "title": "Islam spreads to iraq",
     "description": "",
     "time": [
-      670,
-      11
+      670
     ],
     "emoji": "🕌",
     "priority": 2473,
@@ -850,8 +820,7 @@
     "title": "The Ecumenical Council rejects Monothelitism",
     "description": "",
     "time": [
-      680,
-      4
+      680
     ],
     "emoji": "✝️",
     "priority": 872,
@@ -861,8 +830,7 @@
     "title": "The Quinisext Council",
     "description": "",
     "time": [
-      692,
-      5
+      692
     ],
     "emoji": "✝️",
     "priority": 226,
@@ -872,8 +840,7 @@
     "title": "Kojiki is written",
     "description": "",
     "time": [
-      712,
-      11
+      712
     ],
     "emoji": "📜",
     "priority": 544,
@@ -884,8 +851,7 @@
     "title": "Council of Hieria supports iconoclasm",
     "description": "",
     "time": [
-      754,
-      8
+      754
     ],
     "emoji": "✝️",
     "priority": 290,
@@ -895,8 +861,7 @@
     "title": "The seventh Ecumenical Council",
     "description": "",
     "time": [
-      787,
-      11
+      787
     ],
     "emoji": "✝️",
     "priority": 360,
@@ -906,8 +871,7 @@
     "title": "The oldest vocalized Masoretic text",
     "description": "",
     "time": [
-      850,
-      4
+      850
     ],
     "emoji": "📜",
     "priority": 1879,
@@ -927,8 +891,7 @@
     "title": "Crusade on Muslims in Spain",
     "description": "",
     "time": [
-      1107,
-      10
+      1107
     ],
     "emoji": "⚔️",
     "priority": 607,
@@ -938,8 +901,7 @@
     "title": "Crusaders sack Constantinople",
     "description": "",
     "time": [
-      1204,
-      7
+      1204
     ],
     "emoji": "⚔️",
     "priority": 2845,
@@ -949,8 +911,7 @@
     "title": "Delhi Sultanate is established",
     "description": "",
     "time": [
-      1206,
-      11
+      1206
     ],
     "emoji": "🛐",
     "priority": 56,
@@ -960,8 +921,7 @@
     "title": "Codex Gigas completed",
     "description": "",
     "time": [
-      1229,
-      8
+      1229
     ],
     "emoji": "🛐",
     "priority": 44,
@@ -971,8 +931,7 @@
     "title": "Crusaders sack Jerusalem",
     "description": "",
     "time": [
-      1244,
-      7
+      1244
     ],
     "emoji": "⚔️",
     "priority": 214,
@@ -982,8 +941,7 @@
     "title": "persecution of witchcraft by the pope",
     "description": "",
     "time": [
-      1320,
-      5
+      1320
     ],
     "emoji": "✝️",
     "priority": 1,
@@ -993,8 +951,7 @@
     "title": "Split in the Roman Catholic Church",
     "description": "",
     "time": [
-      1378,
-      3
+      1378
     ],
     "emoji": "✝️",
     "priority": 7044,
@@ -1004,8 +961,7 @@
     "title": "Gutenberg Bible is printed",
     "description": "",
     "time": [
-      1455,
-      8
+      1455
     ],
     "emoji": "✝️",
     "priority": 110,
@@ -1015,8 +971,7 @@
     "title": "Sikhism was founded",
     "description": "",
     "time": [
-      1469,
-      9
+      1469
     ],
     "emoji": "☬",
     "priority": 1137,
@@ -1027,8 +982,7 @@
     "title": "the spanish inquisition is formed",
     "description": "",
     "time": [
-      1478,
-      9
+      1478
     ],
     "emoji": "⚔️",
     "priority": 8174,
@@ -1040,8 +994,7 @@
     "title": "witch-hunt announced by the pope",
     "description": "",
     "time": [
-      1484,
-      11
+      1484
     ],
     "emoji": "✝️",
     "priority": 1,
@@ -1051,8 +1004,7 @@
     "title": "African religious introduced to the Americas",
     "description": "",
     "time": [
-      1500,
-      10
+      1500
     ],
     "emoji": "🛐",
     "priority": 155,
@@ -1062,8 +1014,7 @@
     "title": "The Protestant Reformation",
     "description": "",
     "time": [
-      1517,
-      4
+      1517
     ],
     "emoji": "🛐",
     "priority": 6203,
@@ -1074,8 +1025,7 @@
     "title": "Pope Gregory XIII reforms calendar",
     "description": "",
     "time": [
-      1582,
-      2
+      1582
     ],
     "emoji": "✝️",
     "priority": 808,
@@ -1085,8 +1035,7 @@
     "title": "King James Bible is written",
     "description": "",
     "time": [
-      1611,
-      10
+      1611
     ],
     "emoji": "✝️",
     "priority": 4349,
@@ -1096,8 +1045,7 @@
     "title": "Sikh religion began",
     "description": "",
     "time": [
-      1641,
-      9
+      1641
     ],
     "emoji": "☬",
     "priority": 929,
@@ -1107,8 +1055,7 @@
     "title": "Khalsa founded",
     "description": "",
     "time": [
-      1699,
-      10
+      1699
     ],
     "emoji": "🛐",
     "priority": 1681,
@@ -1119,8 +1066,7 @@
     "title": "death of the last Sikh guru",
     "description": "",
     "time": [
-      1708,
-      6
+      1708
     ],
     "emoji": "☬",
     "priority": 142,
@@ -1130,8 +1076,7 @@
     "title": "atheism is founded",
     "description": "",
     "time": [
-      1770,
-      8
+      1770
     ],
     "emoji": "🛐",
     "priority": 4829,
@@ -1142,8 +1087,7 @@
     "title": "freedom of religion in france",
     "description": "",
     "time": [
-      1789,
-      6
+      1789
     ],
     "emoji": "🛐",
     "priority": 9357,
@@ -1167,8 +1111,7 @@
     "title": "france removed as its state religion",
     "description": "",
     "time": [
-      1801,
-      2
+      1801
     ],
     "emoji": "🛐",
     "priority": 4054,
@@ -1178,8 +1121,7 @@
     "title": "Mormonism is founded",
     "description": "",
     "time": [
-      1830,
-      10
+      1830
     ],
     "emoji": "🛐",
     "priority": 3986,
@@ -1222,8 +1164,7 @@
     "title": "Christian Science granted its charter in Boston",
     "description": "",
     "time": [
-      1879,
-      2
+      1879
     ],
     "emoji": "✝️",
     "priority": 1646,
@@ -1233,8 +1174,7 @@
     "title": "Ahmadiyya Movement Founded",
     "description": "",
     "time": [
-      1889,
-      12
+      1889
     ],
     "emoji": "🛐",
     "priority": 736,
@@ -1244,8 +1184,7 @@
     "title": "Vivekananda's first speech",
     "description": "",
     "time": [
-      1893,
-      7
+      1893
     ],
     "emoji": "🛐",
     "priority": 112,
@@ -1255,8 +1194,7 @@
     "title": "Thelema founded",
     "description": "",
     "time": [
-      1904,
-      10
+      1904
     ],
     "emoji": "🛐",
     "priority": 603,
@@ -1267,8 +1205,7 @@
     "title": "Separation of the Churches and the State",
     "description": "",
     "time": [
-      1905,
-      5
+      1905
     ],
     "emoji": "✝️",
     "priority": 1182,
@@ -1279,8 +1216,7 @@
     "title": "establishment of the Khalifatul Masih",
     "description": "",
     "time": [
-      1908,
-      7
+      1908
     ],
     "emoji": "🛐",
     "priority": 680,
@@ -1290,8 +1226,7 @@
     "title": "Cao Dai founded",
     "description": "",
     "time": [
-      1926,
-      2
+      1926
     ],
     "emoji": "🛐",
     "priority": 1311,
@@ -1301,8 +1236,7 @@
     "title": "Rastafari movement begins",
     "description": "",
     "time": [
-      1930,
-      9
+      1930
     ],
     "emoji": "🛐",
     "priority": 57,
@@ -1312,8 +1246,7 @@
     "title": "\"Daughters of Brahma\" started",
     "description": "",
     "time": [
-      1932,
-      7
+      1932
     ],
     "emoji": "🛐",
     "priority": 934,
@@ -1323,8 +1256,7 @@
     "title": "Scientology is founded",
     "description": "",
     "time": [
-      1952,
-      11
+      1952
     ],
     "emoji": "🛐",
     "priority": 5312,
@@ -1334,8 +1266,7 @@
     "title": "Wicca is publicized",
     "description": "",
     "time": [
-      1954,
-      9
+      1954
     ],
     "emoji": "🛐",
     "priority": 2384,
@@ -1345,8 +1276,7 @@
     "title": "New Age movements rises",
     "description": "",
     "time": [
-      1960,
-      8
+      1960
     ],
     "emoji": "🛐",
     "priority": 1142,
@@ -1356,8 +1286,7 @@
     "title": "The Unitarian Religion formed",
     "description": "",
     "time": [
-      1961,
-      5
+      1961
     ],
     "emoji": "🛐",
     "priority": 2286,
@@ -1367,8 +1296,7 @@
     "title": "the first neo-pagan church",
     "description": "",
     "time": [
-      1962,
-      10
+      1962
     ],
     "emoji": "✝️",
     "priority": 3784,
@@ -1378,8 +1306,7 @@
     "title": "The Second Vatican Council",
     "description": "",
     "time": [
-      1962,
-      7
+      1962
     ],
     "emoji": "✝️",
     "priority": 279,
@@ -1401,8 +1328,7 @@
     "title": "Church of Satan founded",
     "description": "",
     "time": [
-      1966,
-      5
+      1966
     ],
     "emoji": "✝️",
     "priority": 1809,
@@ -1413,8 +1339,7 @@
     "title": "Stonehenge free festivals",
     "description": "",
     "time": [
-      1972,
-      11
+      1972
     ],
     "emoji": "🛐",
     "priority": 491,
@@ -1425,8 +1350,7 @@
     "title": "Germanic Neopaganism returns",
     "description": "",
     "time": [
-      1972,
-      4
+      1972
     ],
     "emoji": "🛐",
     "priority": 292,
@@ -1436,8 +1360,7 @@
     "title": "Raëlian Movement established",
     "description": "",
     "time": [
-      1973,
-      7
+      1973
     ],
     "emoji": "🛐",
     "priority": 1591,
@@ -1447,8 +1370,7 @@
     "title": "The Iranian Revolution",
     "description": "",
     "time": [
-      1979,
-      3
+      1979
     ],
     "emoji": "🛐",
     "priority": 9856,
@@ -1460,8 +1382,7 @@
     "title": "\"The Book of the Holy Strega\" is published",
     "description": "",
     "time": [
-      1981,
-      12
+      1981
     ],
     "emoji": "🛐",
     "priority": 87,
@@ -1471,8 +1392,7 @@
     "title": "religious returns to many soviet states",
     "description": "",
     "time": [
-      1989,
-      4
+      1989
     ],
     "emoji": "🛐",
     "priority": 513,
@@ -1482,8 +1402,7 @@
     "title": "modern pagan movements organize",
     "description": "",
     "time": [
-      1990,
-      5
+      1990
     ],
     "emoji": "🛐",
     "priority": 2184,
@@ -1493,8 +1412,7 @@
     "title": "The European Council convened",
     "description": "",
     "time": [
-      1993,
-      11
+      1993
     ],
     "emoji": "✝️",
     "priority": 61,
@@ -1504,8 +1422,7 @@
     "title": "The Strega Arician Tradition is founded",
     "description": "",
     "time": [
-      1998,
-      9
+      1998
     ],
     "emoji": "🛐",
     "priority": 420,
@@ -1527,8 +1444,7 @@
     "title": "The Hindu Kingdom",
     "description": "",
     "time": [
-      2008,
-      3
+      2008
     ],
     "emoji": "🕉️",
     "priority": 97,
@@ -1538,8 +1454,7 @@
     "title": "France fined The Church of Scientology",
     "description": "",
     "time": [
-      2009,
-      7
+      2009
     ],
     "emoji": "✝️",
     "priority": 833,

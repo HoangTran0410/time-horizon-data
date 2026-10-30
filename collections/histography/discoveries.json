@@ -55,8 +55,7 @@
     "title": "first geocentric model of the solar system",
     "description": "",
     "time": [
-      150,
-      2
+      150
     ],
     "emoji": "🔭",
     "priority": 50,
@@ -66,8 +65,7 @@
     "title": "theory of the transmutation of metals",
     "description": "",
     "time": [
-      900,
-      7
+      900
     ],
     "emoji": "⚗️",
     "priority": 73,
@@ -77,8 +75,7 @@
     "title": "Snell's law of refraction",
     "description": "",
     "time": [
-      984,
-      10
+      984
     ],
     "emoji": "📐",
     "priority": 1435,
@@ -88,8 +85,7 @@
     "title": "discovery of smallpox",
     "description": "",
     "time": [
-      1000,
-      10
+      1000
     ],
     "emoji": "🩺",
     "priority": 7581,
@@ -100,8 +96,7 @@
     "title": "discovery of kerosene",
     "description": "",
     "time": [
-      1000,
-      6
+      1000
     ],
     "emoji": "⚗️",
     "priority": 2201,
@@ -112,8 +107,7 @@
     "title": "classical elements discovered",
     "description": "",
     "time": [
-      1000,
-      11
+      1000
     ],
     "emoji": "⚗️",
     "priority": 1788,
@@ -124,8 +118,7 @@
     "title": "discovery of distilled petroleum",
     "description": "",
     "time": [
-      1000,
-      2
+      1000
     ],
     "emoji": "⚗️",
     "priority": 251,
@@ -135,8 +128,7 @@
     "title": "Vikings land for the first time in America",
     "description": "",
     "time": [
-      1001,
-      9
+      1001
     ],
     "emoji": "🧭",
     "priority": 7845,
@@ -147,8 +139,7 @@
     "title": "Avicenna's The Canon of Medicine",
     "description": "",
     "time": [
-      1020,
-      10
+      1020
     ],
     "emoji": "🩺",
     "priority": 71,
@@ -158,8 +149,7 @@
     "title": "First use of controlled experiments",
     "description": "",
     "time": [
-      1021,
-      11
+      1021
     ],
     "emoji": "🔬",
     "priority": 390,
@@ -169,8 +159,7 @@
     "title": "the coffee plant discovered",
     "description": "",
     "time": [
-      1050,
-      4
+      1050
     ],
     "emoji": "🌿",
     "priority": 6418,
@@ -192,8 +181,7 @@
     "title": "the discovery of air density",
     "description": "",
     "time": [
-      1121,
-      2
+      1121
     ],
     "emoji": "📐",
     "priority": 517,
@@ -203,8 +191,7 @@
     "title": "the discovery of reaction",
     "description": "",
     "time": [
-      1150,
-      7
+      1150
     ],
     "emoji": "⚗️",
     "priority": 184,
@@ -215,8 +202,7 @@
     "title": "the discovery of force/acceleration",
     "description": "",
     "time": [
-      1170,
-      9
+      1170
     ],
     "emoji": "📐",
     "priority": 942,
@@ -226,8 +212,7 @@
     "title": "the discovery of kinetic energy",
     "description": "",
     "time": [
-      1180,
-      11
+      1180
     ],
     "emoji": "📐",
     "priority": 1810,
@@ -238,8 +223,7 @@
     "title": "rudimentals of the scientific method",
     "description": "",
     "time": [
-      1220,
-      12
+      1220
     ],
     "emoji": "🔬",
     "priority": 301,
@@ -249,8 +233,7 @@
     "title": "the discovery of the pulmonary circulation",
     "description": "",
     "time": [
-      1242,
-      8
+      1242
     ],
     "emoji": "🩺",
     "priority": 26,
@@ -260,8 +243,7 @@
     "title": "the discovery of the circulatory system",
     "description": "",
     "time": [
-      1253,
-      5
+      1253
     ],
     "emoji": "🔬",
     "priority": 199,
@@ -272,8 +254,7 @@
     "title": "Marco Polo exploration of China",
     "description": "",
     "time": [
-      1265,
-      8
+      1265
     ],
     "emoji": "🧭",
     "priority": 9149,
@@ -285,8 +266,7 @@
     "title": "first explanation of rainbow",
     "description": "",
     "time": [
-      1270,
-      11
+      1270
     ],
     "emoji": "📐",
     "priority": 1839,
@@ -296,8 +276,7 @@
     "title": "fist view of a solar eclipses",
     "description": "",
     "time": [
-      1290,
-      12
+      1290
     ],
     "emoji": "🔭",
     "priority": 1139,
@@ -307,8 +286,7 @@
     "title": "the discovery of the mean speed theorem",
     "description": "",
     "time": [
-      1350,
-      4
+      1350
     ],
     "emoji": "📐",
     "priority": 254,
@@ -319,8 +297,7 @@
     "title": "theory of impetus - Jean Buridan",
     "description": "",
     "time": [
-      1370,
-      2
+      1370
     ],
     "emoji": "🔬",
     "priority": 472,
@@ -330,8 +307,7 @@
     "title": "the discovery of atmospheric refraction",
     "description": "",
     "time": [
-      1390,
-      5
+      1390
     ],
     "emoji": "📐",
     "priority": 1038,
@@ -342,8 +318,7 @@
     "title": "Azores exploration",
     "description": "",
     "time": [
-      1432,
-      3
+      1432
     ],
     "emoji": "🧭",
     "priority": 250,
@@ -353,8 +328,7 @@
     "title": "Africa west coast exploration",
     "description": "",
     "time": [
-      1445,
-      4
+      1445
     ],
     "emoji": "🧭",
     "priority": 587,
@@ -364,8 +338,7 @@
     "title": "Cape Verde islands exploration",
     "description": "",
     "time": [
-      1456,
-      4
+      1456
     ],
     "emoji": "🧭",
     "priority": 61,
@@ -375,8 +348,7 @@
     "title": "Africa exploration",
     "description": "",
     "time": [
-      1470,
-      4
+      1470
     ],
     "emoji": "🧭",
     "priority": 4582,
@@ -386,8 +358,7 @@
     "title": "Granada exploration",
     "description": "",
     "time": [
-      1482,
-      2
+      1482
     ],
     "emoji": "🧭",
     "priority": 1419,
@@ -397,8 +368,7 @@
     "title": "south of Africa exploration",
     "description": "",
     "time": [
-      1488,
-      12
+      1488
     ],
     "emoji": "🧭",
     "priority": 132,
@@ -408,8 +378,7 @@
     "title": "Columbus discovers America",
     "description": "",
     "time": [
-      1492,
-      12
+      1492
     ],
     "emoji": "🧭",
     "priority": 9089,
@@ -421,8 +390,7 @@
     "title": "first European to cross the Mississippi River",
     "description": "",
     "time": [
-      1496,
-      7
+      1496
     ],
     "emoji": "🧭",
     "priority": 65,
@@ -432,8 +400,7 @@
     "title": "discovery of Canada",
     "description": "",
     "time": [
-      1497,
-      7
+      1497
     ],
     "emoji": "🧭",
     "priority": 7703,
@@ -445,8 +412,7 @@
     "title": "first European to reach India by sea",
     "description": "",
     "time": [
-      1498,
-      3
+      1498
     ],
     "emoji": "🧭",
     "priority": 1,
@@ -456,8 +422,7 @@
     "title": "Columbia exploration",
     "description": "",
     "time": [
-      1499,
-      7
+      1499
     ],
     "emoji": "🧭",
     "priority": 123,
@@ -467,8 +432,7 @@
     "title": "Panama exploration",
     "description": "",
     "time": [
-      1500,
-      10
+      1500
     ],
     "emoji": "🧭",
     "priority": 1280,
@@ -478,8 +442,7 @@
     "title": "brazil exploration",
     "description": "",
     "time": [
-      1500,
-      10
+      1500
     ],
     "emoji": "🧭",
     "priority": 54,
@@ -489,8 +452,7 @@
     "title": "South America exploration",
     "description": "",
     "time": [
-      1501,
-      11
+      1501
     ],
     "emoji": "🧭",
     "priority": 45,
@@ -500,8 +462,7 @@
     "title": "Argentina exploration",
     "description": "",
     "time": [
-      1508,
-      8
+      1508
     ],
     "emoji": "🧭",
     "priority": 96,
@@ -511,8 +472,7 @@
     "title": "discovery of the Pacific Ocean",
     "description": "",
     "time": [
-      1513,
-      2
+      1513
     ],
     "emoji": "🧭",
     "priority": 255,
@@ -523,8 +483,7 @@
     "title": "Florida exploration",
     "description": "",
     "time": [
-      1513,
-      5
+      1513
     ],
     "emoji": "🧭",
     "priority": 58,
@@ -534,8 +493,7 @@
     "title": "Uruguay exploration",
     "description": "",
     "time": [
-      1516,
-      8
+      1516
     ],
     "emoji": "🧭",
     "priority": 99,
@@ -545,8 +503,7 @@
     "title": "Yucatan exploration",
     "description": "",
     "time": [
-      1517,
-      8
+      1517
     ],
     "emoji": "🧭",
     "priority": 1033,
@@ -556,8 +513,7 @@
     "title": "Mexico exploration",
     "description": "",
     "time": [
-      1518,
-      7
+      1518
     ],
     "emoji": "🧭",
     "priority": 275,
@@ -567,8 +523,7 @@
     "title": "first trip around the world",
     "description": "",
     "time": [
-      1519,
-      5
+      1519
     ],
     "emoji": "🧭",
     "priority": 7239,
@@ -579,8 +534,7 @@
     "title": "Nicaragua exploration",
     "description": "",
     "time": [
-      1522,
-      10
+      1522
     ],
     "emoji": "🧭",
     "priority": 63,
@@ -590,8 +544,7 @@
     "title": "New York Bay exploration",
     "description": "",
     "time": [
-      1524,
-      4
+      1524
     ],
     "emoji": "🧭",
     "priority": 1140,
@@ -601,8 +554,7 @@
     "title": "Yucatan exploration",
     "description": "",
     "time": [
-      1526,
-      3
+      1526
     ],
     "emoji": "🧭",
     "priority": 1033,
@@ -612,8 +564,7 @@
     "title": "exploration of New Mexico",
     "description": "",
     "time": [
-      1528,
-      3
+      1528
     ],
     "emoji": "🧭",
     "priority": 42,
@@ -623,8 +574,7 @@
     "title": "Peru exploration",
     "description": "",
     "time": [
-      1531,
-      9
+      1531
     ],
     "emoji": "🧭",
     "priority": 164,
@@ -634,8 +584,7 @@
     "title": "Ecuador exploration",
     "description": "",
     "time": [
-      1533,
-      7
+      1533
     ],
     "emoji": "🧭",
     "priority": 1260,
@@ -645,8 +594,7 @@
     "title": "canada exploration",
     "description": "",
     "time": [
-      1534,
-      7
+      1534
     ],
     "emoji": "🧭",
     "priority": 1219,
@@ -656,8 +604,7 @@
     "title": "the Great Lakes exploration",
     "description": "",
     "time": [
-      1534,
-      2
+      1534
     ],
     "emoji": "🧭",
     "priority": 981,
@@ -667,8 +614,7 @@
     "title": "Paraguay exploration",
     "description": "",
     "time": [
-      1536,
-      3
+      1536
     ],
     "emoji": "🧭",
     "priority": 758,
@@ -679,8 +625,7 @@
     "title": "Gila River exploration",
     "description": "",
     "time": [
-      1540,
-      8
+      1540
     ],
     "emoji": "🧭",
     "priority": 806,
@@ -690,8 +635,7 @@
     "title": "south-western North America exploration",
     "description": "",
     "time": [
-      1540,
-      7
+      1540
     ],
     "emoji": "🧭",
     "priority": 321,
@@ -701,8 +645,7 @@
     "title": "southeastern North America exploration",
     "description": "",
     "time": [
-      1541,
-      2
+      1541
     ],
     "emoji": "🧭",
     "priority": 687,
@@ -712,8 +655,7 @@
     "title": "Kansas exploration",
     "description": "",
     "time": [
-      1541,
-      11
+      1541
     ],
     "emoji": "🧭",
     "priority": 98,
@@ -723,8 +665,7 @@
     "title": "Californian coast exploration",
     "description": "",
     "time": [
-      1542,
-      3
+      1542
     ],
     "emoji": "🧭",
     "priority": 684,
@@ -735,8 +676,7 @@
     "title": "earth moves around the sun discovery",
     "description": "",
     "time": [
-      1543,
-      3
+      1543
     ],
     "emoji": "🔭",
     "priority": 8794,
@@ -748,8 +688,7 @@
     "title": "Vesalius human anatomy research",
     "description": "",
     "time": [
-      1543,
-      11
+      1543
     ],
     "emoji": "🩺",
     "priority": 744,
@@ -759,8 +698,7 @@
     "title": "North America exploration",
     "description": "",
     "time": [
-      1559,
-      2
+      1559
     ],
     "emoji": "🧭",
     "priority": 4235,
@@ -770,8 +708,7 @@
     "title": "Africa exploration",
     "description": "",
     "time": [
-      1562,
-      11
+      1562
     ],
     "emoji": "🧭",
     "priority": 582,
@@ -781,8 +718,7 @@
     "title": "New Mexico exploration",
     "description": "",
     "time": [
-      1563,
-      8
+      1563
     ],
     "emoji": "🧭",
     "priority": 1715,
@@ -792,8 +728,7 @@
     "title": "The first permanent European settlement",
     "description": "",
     "time": [
-      1565,
-      10
+      1565
     ],
     "emoji": "🧭",
     "priority": 4107,
@@ -803,8 +738,7 @@
     "title": "first detailed astronomical observations",
     "description": "",
     "time": [
-      1570,
-      11
+      1570
     ],
     "emoji": "🔭",
     "priority": 167,
@@ -814,8 +748,7 @@
     "title": "Baffin Bay exploration",
     "description": "",
     "time": [
-      1576,
-      12
+      1576
     ],
     "emoji": "🧭",
     "priority": 709,
@@ -825,8 +758,7 @@
     "title": "first sailing around the world",
     "description": "",
     "time": [
-      1577,
-      4
+      1577
     ],
     "emoji": "🧭",
     "priority": 5256,
@@ -837,8 +769,7 @@
     "title": "North Carolina coast exploration",
     "description": "",
     "time": [
-      1584,
-      10
+      1584
     ],
     "emoji": "🧭",
     "priority": 822,
@@ -848,8 +779,7 @@
     "title": "Virginia exploration",
     "description": "",
     "time": [
-      1584,
-      4
+      1584
     ],
     "emoji": "🧭",
     "priority": 155,
@@ -859,8 +789,7 @@
     "title": "Roanoke colony established",
     "description": "",
     "time": [
-      1585,
-      5
+      1585
     ],
     "emoji": "🧭",
     "priority": 1761,
@@ -870,8 +799,7 @@
     "title": "first travel to the South Pacific",
     "description": "",
     "time": [
-      1593,
-      2
+      1593
     ],
     "emoji": "🧭",
     "priority": 66,
@@ -881,8 +809,7 @@
     "title": "Sea Route to Indonesia discovery",
     "description": "",
     "time": [
-      1595,
-      7
+      1595
     ],
     "emoji": "🧭",
     "priority": 798,
@@ -892,8 +819,7 @@
     "title": "quest to find the El Dorado Legend",
     "description": "",
     "time": [
-      1595,
-      7
+      1595
     ],
     "emoji": "🧭",
     "priority": 195,
@@ -903,8 +829,7 @@
     "title": "Colorado exploration",
     "description": "",
     "time": [
-      1598,
-      5
+      1598
     ],
     "emoji": "🧭",
     "priority": 901,
@@ -914,8 +839,7 @@
     "title": "the discovery of Earth's magnetic field",
     "description": "",
     "time": [
-      1600,
-      6
+      1600
     ],
     "emoji": "⚗️",
     "priority": 7161,
@@ -926,8 +850,7 @@
     "title": "The Moon observed for the first time",
     "description": "",
     "time": [
-      1609,
-      10
+      1609
     ],
     "emoji": "🔭",
     "priority": 11095,
@@ -939,8 +862,7 @@
     "title": "the Arctic Ocean exploration",
     "description": "",
     "time": [
-      1609,
-      10
+      1609
     ],
     "emoji": "🧭",
     "priority": 1114,
@@ -950,8 +872,7 @@
     "title": "first two laws of planetary motion",
     "description": "",
     "time": [
-      1609,
-      4
+      1609
     ],
     "emoji": "🔭",
     "priority": 1034,
@@ -961,8 +882,7 @@
     "title": "Galileo makes first astronomical observations",
     "description": "",
     "time": [
-      1609,
-      4
+      1609
     ],
     "emoji": "🔭",
     "priority": 674,
@@ -972,8 +892,7 @@
     "title": "first telescopic observations",
     "description": "",
     "time": [
-      1610,
-      8
+      1610
     ],
     "emoji": "🔬",
     "priority": 9177,
@@ -985,8 +904,7 @@
     "title": "Moons of Jupiter Discovered",
     "description": "",
     "time": [
-      1610,
-      3
+      1610
     ],
     "emoji": "🔭",
     "priority": 8739,
@@ -997,8 +915,7 @@
     "title": "first use of logarithms for calculation",
     "description": "",
     "time": [
-      1614,
-      11
+      1614
     ],
     "emoji": "🔬",
     "priority": 83,
@@ -1008,8 +925,7 @@
     "title": "the discovery of Blood circulation",
     "description": "",
     "time": [
-      1628,
-      10
+      1628
     ],
     "emoji": "🩺",
     "priority": 1197,
@@ -1030,8 +946,7 @@
     "title": "New Zealand exploration",
     "description": "",
     "time": [
-      1642,
-      7
+      1642
     ],
     "emoji": "🧭",
     "priority": 268,
@@ -1051,8 +966,7 @@
     "title": "Saturns rings and a moon discovered",
     "description": "",
     "time": [
-      1656,
-      11
+      1656
     ],
     "emoji": "🔭",
     "priority": 128,
@@ -1062,8 +976,7 @@
     "title": "Boyle's law of ideal gas",
     "description": "",
     "time": [
-      1662,
-      2
+      1662
     ],
     "emoji": "📐",
     "priority": 49,
@@ -1073,8 +986,7 @@
     "title": "the discovery of the Cell",
     "description": "",
     "time": [
-      1665,
-      7
+      1665
     ],
     "emoji": "🦠",
     "priority": 826,
@@ -1085,8 +997,7 @@
     "title": "first scientific journal published",
     "description": "",
     "time": [
-      1665,
-      10
+      1665
     ],
     "emoji": "📰",
     "priority": 73,
@@ -1096,8 +1007,7 @@
     "title": "newton Laws of Gravity",
     "description": "",
     "time": [
-      1666,
-      12
+      1666
     ],
     "emoji": "📐",
     "priority": 1817,
@@ -1117,8 +1027,7 @@
     "title": "the discovery of fossils",
     "description": "",
     "time": [
-      1669,
-      7
+      1669
     ],
     "emoji": "🌿",
     "priority": 248,
@@ -1129,8 +1038,7 @@
     "title": "Jan Swammerdam: Species breed true",
     "description": "",
     "time": [
-      1669,
-      10
+      1669
     ],
     "emoji": "🌿",
     "priority": 1
@@ -1139,8 +1047,7 @@
     "title": "first study of oscillating system",
     "description": "",
     "time": [
-      1673,
-      10
+      1673
     ],
     "emoji": "🔬",
     "priority": 83,
@@ -1150,8 +1057,7 @@
     "title": "Microscopic Organisms first discovered",
     "description": "",
     "time": [
-      1675,
-      7
+      1675
     ],
     "emoji": "🦠",
     "priority": 7114,
@@ -1163,8 +1069,7 @@
     "title": "the discovery of Infinitesimal calculus",
     "description": "",
     "time": [
-      1675,
-      3
+      1675
     ],
     "emoji": "🔬",
     "priority": 1727,
@@ -1174,8 +1079,7 @@
     "title": "first Observes Microorganisms",
     "description": "",
     "time": [
-      1675,
-      4
+      1675
     ],
     "emoji": "🦠",
     "priority": 497,
@@ -1185,8 +1089,7 @@
     "title": "first measurement of the speed of light",
     "description": "",
     "time": [
-      1676,
-      12
+      1676
     ],
     "emoji": "🔬",
     "priority": 259,
@@ -1196,8 +1099,7 @@
     "title": "the discovery of the Bacteria",
     "description": "",
     "time": [
-      1683,
-      11
+      1683
     ],
     "emoji": "🦠",
     "priority": 5694,
@@ -1208,8 +1110,7 @@
     "title": "first Mathematical description of gravity",
     "description": "",
     "time": [
-      1687,
-      9
+      1687
     ],
     "emoji": "📐",
     "priority": 1572,
@@ -1219,8 +1120,7 @@
     "title": "discovery of Sunspots",
     "description": "",
     "time": [
-      1700,
-      5
+      1700
     ],
     "emoji": "🔭",
     "priority": 1957,
@@ -1231,8 +1131,7 @@
     "title": "latent heat first described",
     "description": "",
     "time": [
-      1750,
-      11
+      1750
     ],
     "emoji": "🔬",
     "priority": 80,
@@ -1242,8 +1141,7 @@
     "title": "electricity discovered",
     "description": "",
     "time": [
-      1751,
-      3
+      1751
     ],
     "emoji": "⚗️",
     "priority": 27381,
@@ -1266,8 +1164,7 @@
     "title": "Bayes' theorem published",
     "description": "",
     "time": [
-      1763,
-      6
+      1763
     ],
     "emoji": "📐",
     "priority": 909,
@@ -1289,8 +1186,7 @@
     "title": "catalogue of astronomical objects published",
     "description": "",
     "time": [
-      1771,
-      4
+      1771
     ],
     "emoji": "🔭",
     "priority": 218,
@@ -1300,8 +1196,7 @@
     "title": "discovery of oxygen",
     "description": "",
     "time": [
-      1778,
-      10
+      1778
     ],
     "emoji": "⚗️",
     "priority": 6994,
@@ -1312,8 +1207,7 @@
     "title": "discovery of Uranus",
     "description": "",
     "time": [
-      1781,
-      5
+      1781
     ],
     "emoji": "🔬",
     "priority": 6370,
@@ -1324,8 +1218,7 @@
     "title": "first use of foxglove",
     "description": "",
     "time": [
-      1785,
-      7
+      1785
     ],
     "emoji": "🔬",
     "priority": 276,
@@ -1335,8 +1228,7 @@
     "title": "Charles' law of ideal gas",
     "description": "",
     "time": [
-      1787,
-      7
+      1787
     ],
     "emoji": "📐",
     "priority": 476,
@@ -1346,8 +1238,7 @@
     "title": "law of conservation of mass",
     "description": "",
     "time": [
-      1789,
-      8
+      1789
     ],
     "emoji": "📐",
     "priority": 1384,
@@ -1358,8 +1249,7 @@
     "title": "smallpox vaccine discovered",
     "description": "",
     "time": [
-      1796,
-      11
+      1796
     ],
     "emoji": "🩺",
     "priority": 4327,
@@ -1370,8 +1260,7 @@
     "title": "small pox historical accounting",
     "description": "",
     "time": [
-      1796,
-      10
+      1796
     ],
     "emoji": "🔬",
     "priority": 2434,
@@ -1381,8 +1270,7 @@
     "title": "Establishes extinction",
     "description": "",
     "time": [
-      1796,
-      9
+      1796
     ],
     "emoji": "🔬",
     "priority": 166,
@@ -1393,8 +1281,7 @@
     "title": "electrochemical series discovered",
     "description": "",
     "time": [
-      1800,
-      5
+      1800
     ],
     "emoji": "⚗️",
     "priority": 182,
@@ -1404,8 +1291,7 @@
     "title": "discovery of the teleological evolution",
     "description": "",
     "time": [
-      1802,
-      10
+      1802
     ],
     "emoji": "🔬",
     "priority": 87,
@@ -1415,8 +1301,7 @@
     "title": "Louisiana Territory exploration",
     "description": "",
     "time": [
-      1804,
-      2
+      1804
     ],
     "emoji": "🧭",
     "priority": 412,
@@ -1427,8 +1312,7 @@
     "title": "the Atomic Theory in",
     "description": "",
     "time": [
-      1805,
-      7
+      1805
     ],
     "emoji": "🔬",
     "priority": 1506,
@@ -1439,8 +1323,7 @@
     "title": "the discovery of electromagnetism",
     "description": "",
     "time": [
-      1820,
-      5
+      1820
     ],
     "emoji": "🔬",
     "priority": 1570,
@@ -1451,8 +1334,7 @@
     "title": "first man on Antarctica",
     "description": "",
     "time": [
-      1820,
-      8
+      1820
     ],
     "emoji": "🔬",
     "priority": 75,
@@ -1462,8 +1344,7 @@
     "title": "the heat engine invented",
     "description": "",
     "time": [
-      1824,
-      4
+      1824
     ],
     "emoji": "🔬",
     "priority": 1428,
@@ -1474,8 +1355,7 @@
     "title": "Ohm's law of Electricity",
     "description": "",
     "time": [
-      1827,
-      7
+      1827
     ],
     "emoji": "⚗️",
     "priority": 1052,
@@ -1485,8 +1365,7 @@
     "title": "Avogadro's law - Amedeo Avogadro",
     "description": "",
     "time": [
-      1827,
-      11
+      1827
     ],
     "emoji": "📐",
     "priority": 560,
@@ -1496,8 +1375,7 @@
     "title": "discovery of the Non",
     "description": "",
     "time": [
-      1830,
-      5
+      1830
     ],
     "emoji": "🔬",
     "priority": 269,
@@ -1507,8 +1385,7 @@
     "title": "discovery of the electromagnetic induction",
     "description": "",
     "time": [
-      1831,
-      2
+      1831
     ],
     "emoji": "🔬",
     "priority": 1344,
@@ -1519,8 +1396,7 @@
     "title": "first enzyme isolated",
     "description": "",
     "time": [
-      1833,
-      2
+      1833
     ],
     "emoji": "🔬",
     "priority": 18,
@@ -1530,8 +1406,7 @@
     "title": "plants are made of cells discovery",
     "description": "",
     "time": [
-      1838,
-      5
+      1838
     ],
     "emoji": "🦠",
     "priority": 1203,
@@ -1541,8 +1416,7 @@
     "title": "first successful measure of stellar parallax",
     "description": "",
     "time": [
-      1838,
-      2
+      1838
     ],
     "emoji": "🔬",
     "priority": 507,
@@ -1552,8 +1426,7 @@
     "title": "the \"Doppler effect\" is discovered",
     "description": "",
     "time": [
-      1842,
-      10
+      1842
     ],
     "emoji": "🔬",
     "priority": 1178,
@@ -1564,8 +1437,7 @@
     "title": "Law of Conservation of energy",
     "description": "",
     "time": [
-      1843,
-      7
+      1843
     ],
     "emoji": "📐",
     "priority": 1619,
@@ -1576,8 +1448,7 @@
     "title": "Africa exploration",
     "description": "",
     "time": [
-      1843,
-      5
+      1843
     ],
     "emoji": "🧭",
     "priority": 582,
@@ -1587,8 +1458,7 @@
     "title": "discovery of Neptune",
     "description": "",
     "time": [
-      1846,
-      5
+      1846
     ],
     "emoji": "🔬",
     "priority": 3492,
@@ -1599,8 +1469,7 @@
     "title": "discovery of anesthesia",
     "description": "",
     "time": [
-      1846,
-      11
+      1846
     ],
     "emoji": "🔬",
     "priority": 360,
@@ -1611,8 +1480,7 @@
     "title": "discovery of absolute zero",
     "description": "",
     "time": [
-      1848,
-      2
+      1848
     ],
     "emoji": "🔬",
     "priority": 1644,
@@ -1623,8 +1491,7 @@
     "title": "cells creation process discovered",
     "description": "",
     "time": [
-      1858,
-      8
+      1858
     ],
     "emoji": "🦠",
     "priority": 1198,
@@ -1634,8 +1501,7 @@
     "title": "Darwin discovers evolution",
     "description": "",
     "time": [
-      1859,
-      5
+      1859
     ],
     "emoji": "🔬",
     "priority": 13345,
@@ -1647,8 +1513,7 @@
     "title": "Germ theory discovered",
     "description": "",
     "time": [
-      1861,
-      2
+      1861
     ],
     "emoji": "🔬",
     "priority": 1718,
@@ -1658,8 +1523,7 @@
     "title": "Mendel's laws of inheritance",
     "description": "",
     "time": [
-      1865,
-      2
+      1865
     ],
     "emoji": "📐",
     "priority": 1287,
@@ -1670,8 +1534,7 @@
     "title": "first Definition of Entropy",
     "description": "",
     "time": [
-      1865,
-      10
+      1865
     ],
     "emoji": "🔬",
     "priority": 510,
@@ -1681,8 +1544,7 @@
     "title": "table of elements discovery",
     "description": "",
     "time": [
-      1869,
-      12
+      1869
     ],
     "emoji": "⚗️",
     "priority": 2236,
@@ -1692,8 +1554,7 @@
     "title": "dr. livingstone expedition",
     "description": "",
     "time": [
-      1871,
-      10
+      1871
     ],
     "emoji": "🧭",
     "priority": 4516,
@@ -1705,8 +1566,7 @@
     "title": "Diffuse sky radiation discovered",
     "description": "",
     "time": [
-      1871,
-      7
+      1871
     ],
     "emoji": "🔬",
     "priority": 547,
@@ -1717,8 +1577,7 @@
     "title": "Theory of electromagnetism",
     "description": "",
     "time": [
-      1873,
-      10
+      1873
     ],
     "emoji": "🔬",
     "priority": 1570,
@@ -1729,8 +1588,7 @@
     "title": "cathode rays discovered",
     "description": "",
     "time": [
-      1875,
-      12
+      1875
     ],
     "emoji": "🔬",
     "priority": 1259,
@@ -1741,8 +1599,7 @@
     "title": "The Discovery of the Source Of The Nile",
     "description": "",
     "time": [
-      1875,
-      7
+      1875
     ],
     "emoji": "🔬",
     "priority": 783,
@@ -1752,8 +1609,7 @@
     "title": "chemical thermodynamics founded",
     "description": "",
     "time": [
-      1876,
-      7
+      1876
     ],
     "emoji": "⚗️",
     "priority": 1439,
@@ -1764,8 +1620,7 @@
     "title": "the phase rule discovered",
     "description": "",
     "time": [
-      1876,
-      5
+      1876
     ],
     "emoji": "🔬",
     "priority": 34,
@@ -1775,8 +1630,7 @@
     "title": "first Statistical definition of entropy",
     "description": "",
     "time": [
-      1877,
-      10
+      1877
     ],
     "emoji": "🔬",
     "priority": 238,
@@ -1786,8 +1640,7 @@
     "title": "Europe colonizes African continent",
     "description": "",
     "time": [
-      1880,
-      7
+      1880
     ],
     "emoji": "🔬",
     "priority": 1381,
@@ -1797,8 +1650,7 @@
     "title": "discovery of x-rays",
     "description": "",
     "time": [
-      1895,
-      4
+      1895
     ],
     "emoji": "🔬",
     "priority": 4833,
@@ -1822,8 +1674,7 @@
     "title": "radioactivity discovered",
     "description": "",
     "time": [
-      1896,
-      7
+      1896
     ],
     "emoji": "🔬",
     "priority": 5052,
@@ -1834,8 +1685,7 @@
     "title": "Antarctica exploration",
     "description": "",
     "time": [
-      1897,
-      12
+      1897
     ],
     "emoji": "🧭",
     "priority": 4782,
@@ -1847,8 +1697,7 @@
     "title": "discovery of the electron",
     "description": "",
     "time": [
-      1897,
-      10
+      1897
     ],
     "emoji": "🔬",
     "priority": 1135,
@@ -1859,8 +1708,7 @@
     "title": "the Plum pudding model",
     "description": "",
     "time": [
-      1898,
-      5
+      1898
     ],
     "emoji": "📐",
     "priority": 527,
@@ -1871,8 +1719,7 @@
     "title": "the discovery of polonium",
     "description": "",
     "time": [
-      1898,
-      7
+      1898
     ],
     "emoji": "🔬",
     "priority": 308,
@@ -1883,8 +1730,7 @@
     "title": "The outer planets, Uranus",
     "description": "",
     "time": [
-      1900,
-      4
+      1900
     ],
     "emoji": "🔭",
     "priority": 150,
@@ -1904,8 +1750,7 @@
     "title": "Einstein special relativity",
     "description": "",
     "time": [
-      1905,
-      5
+      1905
     ],
     "emoji": "🔬",
     "priority": 7940,
@@ -1917,8 +1762,7 @@
     "title": "Third law of thermodynamics",
     "description": "",
     "time": [
-      1906,
-      8
+      1906
     ],
     "emoji": "📐",
     "priority": 1466,
@@ -1929,8 +1773,7 @@
     "title": "the Oil drop experiment",
     "description": "",
     "time": [
-      1909,
-      11
+      1909
     ],
     "emoji": "🔬",
     "priority": 1116,
@@ -1941,8 +1784,7 @@
     "title": "the Haber Process - Fritz Haber",
     "description": "",
     "time": [
-      1909,
-      4
+      1909
     ],
     "emoji": "🔬",
     "priority": 735,
@@ -1952,8 +1794,7 @@
     "title": "Superconductivity discovered",
     "description": "",
     "time": [
-      1911,
-      11
+      1911
     ],
     "emoji": "🔬",
     "priority": 2052,
@@ -1964,8 +1805,7 @@
     "title": "discovery of the Atomic nucleus",
     "description": "",
     "time": [
-      1911,
-      7
+      1911
     ],
     "emoji": "🔬",
     "priority": 1529,
@@ -1976,8 +1816,7 @@
     "title": "Rutherford discovers structure of atom",
     "description": "",
     "time": [
-      1911,
-      6
+      1911
     ],
     "emoji": "🔬",
     "priority": 1170,
@@ -1998,8 +1837,7 @@
     "title": "discovery of the Continental drift",
     "description": "",
     "time": [
-      1912,
-      4
+      1912
     ],
     "emoji": "🔬",
     "priority": 1345,
@@ -2010,8 +1848,7 @@
     "title": "discovery of the x-ray diffraction",
     "description": "",
     "time": [
-      1912,
-      8
+      1912
     ],
     "emoji": "🔬",
     "priority": 120,
@@ -2021,8 +1858,7 @@
     "title": "discovery of the defined atomic number",
     "description": "",
     "time": [
-      1913,
-      10
+      1913
     ],
     "emoji": "🔬",
     "priority": 1663,
@@ -2032,8 +1868,7 @@
     "title": "the first atom model",
     "description": "",
     "time": [
-      1913,
-      3
+      1913
     ],
     "emoji": "📐",
     "priority": 157,
@@ -2043,8 +1878,7 @@
     "title": "Einstein's general relativity",
     "description": "",
     "time": [
-      1915,
-      7
+      1915
     ],
     "emoji": "🔬",
     "priority": 8516,
@@ -2056,8 +1890,7 @@
     "title": "the Schwarzschild radius discovered",
     "description": "",
     "time": [
-      1915,
-      4
+      1915
     ],
     "emoji": "🔬",
     "priority": 1888,
@@ -2068,8 +1901,7 @@
     "title": "Noether's theorem –",
     "description": "",
     "time": [
-      1918,
-      7
+      1918
     ],
     "emoji": "📐",
     "priority": 1886,
@@ -2080,8 +1912,7 @@
     "title": "discovery of the Stellar nucleosynthesis",
     "description": "",
     "time": [
-      1920,
-      7
+      1920
     ],
     "emoji": "🔬",
     "priority": 1276,
@@ -2092,8 +1923,7 @@
     "title": "the discovery of many new galaxies",
     "description": "",
     "time": [
-      1924,
-      6
+      1924
     ],
     "emoji": "🔬",
     "priority": 2131,
@@ -2103,8 +1933,7 @@
     "title": "Pauli exclusion principle",
     "description": "",
     "time": [
-      1924,
-      4
+      1924
     ],
     "emoji": "🔬",
     "priority": 1329,
@@ -2115,8 +1944,7 @@
     "title": "Discovery of the composition of the Sun",
     "description": "",
     "time": [
-      1925,
-      8
+      1925
     ],
     "emoji": "🔭",
     "priority": 1487,
@@ -2126,8 +1954,7 @@
     "title": "discovery of the Schrödinger equation",
     "description": "",
     "time": [
-      1925,
-      2
+      1925
     ],
     "emoji": "🔬",
     "priority": 186,
@@ -2138,8 +1965,7 @@
     "title": "Theory of the Big Bang",
     "description": "",
     "time": [
-      1927,
-      12
+      1927
     ],
     "emoji": "🔬",
     "priority": 11290,
@@ -2151,8 +1977,7 @@
     "title": "the Uncertainty principle discovered",
     "description": "",
     "time": [
-      1927,
-      4
+      1927
     ],
     "emoji": "🔬",
     "priority": 2630,
@@ -2163,8 +1988,7 @@
     "title": "Dirac equation - Paul Dirac",
     "description": "",
     "time": [
-      1928,
-      2
+      1928
     ],
     "emoji": "🔬",
     "priority": 1503,
@@ -2174,8 +1998,7 @@
     "title": "Hubble's law of the expanding universe",
     "description": "",
     "time": [
-      1929,
-      11
+      1929
     ],
     "emoji": "📐",
     "priority": 1150,
@@ -2185,8 +2008,7 @@
     "title": "Lars Onsager's reciprocal relations",
     "description": "",
     "time": [
-      1929,
-      4
+      1929
     ],
     "emoji": "🔬",
     "priority": 772,
@@ -2197,8 +2019,7 @@
     "title": "Discovery of the neutron",
     "description": "",
     "time": [
-      1932,
-      8
+      1932
     ],
     "emoji": "🔬",
     "priority": 193,
@@ -2208,8 +2029,7 @@
     "title": "Nuclear fission discovered",
     "description": "",
     "time": [
-      1938,
-      11
+      1938
     ],
     "emoji": "🔬",
     "priority": 5996,
@@ -2220,8 +2040,7 @@
     "title": "discovery of The chromosome",
     "description": "",
     "time": [
-      1943,
-      5
+      1943
     ],
     "emoji": "🔬",
     "priority": 271,
@@ -2231,8 +2050,7 @@
     "title": "Quantum electrodynamics",
     "description": "",
     "time": [
-      1948,
-      8
+      1948
     ],
     "emoji": "🔬",
     "priority": 2696,
@@ -2243,8 +2061,7 @@
     "title": "Information theory - Claude Elwood Shannon",
     "description": "",
     "time": [
-      1948,
-      11
+      1948
     ],
     "emoji": "🔬",
     "priority": 566,
@@ -2254,8 +2071,7 @@
     "title": "discovery of the first cancer cell",
     "description": "",
     "time": [
-      1951,
-      4
+      1951
     ],
     "emoji": "🦠",
     "priority": 3531,
@@ -2266,8 +2082,7 @@
     "title": "discovery of the polio vaccine",
     "description": "",
     "time": [
-      1952,
-      6
+      1952
     ],
     "emoji": "🔬",
     "priority": 4416,
@@ -2278,8 +2093,7 @@
     "title": "First Ascent of Mount Everest",
     "description": "",
     "time": [
-      1953,
-      10
+      1953
     ],
     "emoji": "🔬",
     "priority": 5810,
@@ -2289,8 +2103,7 @@
     "title": "discovery of the structure of DNA",
     "description": "",
     "time": [
-      1953,
-      7
+      1953
     ],
     "emoji": "🔬",
     "priority": 277,
@@ -2300,8 +2113,7 @@
     "title": "First Animal in Space",
     "description": "",
     "time": [
-      1957,
-      11
+      1957
     ],
     "emoji": "🔬",
     "priority": 293,
@@ -2324,8 +2136,7 @@
     "title": "first plate tectonics evidence",
     "description": "",
     "time": [
-      1963,
-      7
+      1963
     ],
     "emoji": "🔬",
     "priority": 203,
@@ -2335,8 +2146,7 @@
     "title": "first evidence of the Big Bang",
     "description": "",
     "time": [
-      1964,
-      3
+      1964
     ],
     "emoji": "🔬",
     "priority": 5709,
@@ -2346,8 +2156,7 @@
     "title": "discovery of postulates quarks",
     "description": "",
     "time": [
-      1964,
-      11
+      1964
     ],
     "emoji": "🔬",
     "priority": 1521,
@@ -2357,8 +2166,7 @@
     "title": "discovery of the cell divide limit",
     "description": "",
     "time": [
-      1965,
-      11
+      1965
     ],
     "emoji": "🦠",
     "priority": 358,
@@ -2368,8 +2176,7 @@
     "title": "first pulsar discovered",
     "description": "",
     "time": [
-      1967,
-      5
+      1967
     ],
     "emoji": "🔬",
     "priority": 148,
@@ -2390,8 +2197,7 @@
     "title": "the Moon Landing",
     "description": "",
     "time": [
-      1969,
-      10
+      1969
     ],
     "emoji": "🔭",
     "priority": 15393,
@@ -2403,8 +2209,7 @@
     "title": "landing on the Moon",
     "description": "",
     "time": [
-      1969,
-      5
+      1969
     ],
     "emoji": "🔭",
     "priority": 2041,
@@ -2414,8 +2219,7 @@
     "title": "the discovery of the Mammal to mammal gene",
     "description": "",
     "time": [
-      1978,
-      7
+      1978
     ],
     "emoji": "🔬",
     "priority": 74,
@@ -2425,8 +2229,7 @@
     "title": "Scientists identify AIDS",
     "description": "",
     "time": [
-      1981,
-      11
+      1981
     ],
     "emoji": "🔬",
     "priority": 387,
@@ -2436,8 +2239,7 @@
     "title": "the polymerase chain reaction",
     "description": "",
     "time": [
-      1983,
-      11
+      1983
     ],
     "emoji": "⚗️",
     "priority": 324,
@@ -2448,8 +2250,7 @@
     "title": "Discovery of High-temperature superconductivity",
     "description": "",
     "time": [
-      1986,
-      4
+      1986
     ],
     "emoji": "🔬",
     "priority": 1722,
@@ -2460,8 +2261,7 @@
     "title": "Fermat's Last Theorem proven",
     "description": "",
     "time": [
-      1994,
-      8
+      1994
     ],
     "emoji": "📐",
     "priority": 239,
@@ -2471,8 +2271,7 @@
     "title": "the first Bose-Einstein Condensate",
     "description": "",
     "time": [
-      1995,
-      5
+      1995
     ],
     "emoji": "🔬",
     "priority": 316,
@@ -2483,8 +2282,7 @@
     "title": "first extrasolar planet observed",
     "description": "",
     "time": [
-      1995,
-      2
+      1995
     ],
     "emoji": "🔭",
     "priority": 94,
@@ -2494,8 +2292,7 @@
     "title": "Top quark experiments",
     "description": "",
     "time": [
-      1997,
-      11
+      1997
     ],
     "emoji": "🔬",
     "priority": 1344,
@@ -2505,8 +2302,7 @@
     "title": "Dolly the sheep was cloned",
     "description": "",
     "time": [
-      1997,
-      5
+      1997
     ],
     "emoji": "🔬",
     "priority": 53,
@@ -2518,8 +2314,7 @@
     "title": "discovery of Dark Energy",
     "description": "",
     "time": [
-      1998,
-      8
+      1998
     ],
     "emoji": "🔬",
     "priority": 4584,
@@ -2530,8 +2325,7 @@
     "title": "the fastest wind recorded on earth",
     "description": "",
     "time": [
-      1999,
-      12
+      1999
     ],
     "emoji": "🔬",
     "priority": 3511,
@@ -2541,8 +2335,7 @@
     "title": "first draft of the human genome",
     "description": "",
     "time": [
-      2001,
-      7
+      2001
     ],
     "emoji": "🔬",
     "priority": 99,
@@ -2552,8 +2345,7 @@
     "title": "proof of the Poincaré Conjecture",
     "description": "",
     "time": [
-      2003,
-      7
+      2003
     ],
     "emoji": "🔬",
     "priority": 66,
@@ -2563,8 +2355,7 @@
     "title": "The Neanderthal Genome Project",
     "description": "",
     "time": [
-      2010,
-      9
+      2010
     ],
     "emoji": "🔬",
     "priority": 1474,
@@ -2575,8 +2366,7 @@
     "title": "first synthetic genome for a bacterial cell",
     "description": "",
     "time": [
-      2010,
-      4
+      2010
     ],
     "emoji": "🦠",
     "priority": 741,
@@ -2598,8 +2388,7 @@
     "title": "discovery of the Photonic molecules",
     "description": "",
     "time": [
-      2012,
-      8
+      2012
     ],
     "emoji": "🔬",
     "priority": 792,
@@ -2610,8 +2399,7 @@
     "title": "discovery of the Exotic hadrons",
     "description": "",
     "time": [
-      2014,
-      4
+      2014
     ],
     "emoji": "🔬",
     "priority": 283,
@@ -2622,8 +2410,7 @@
     "title": "new horizons orbit pluto",
     "description": "",
     "time": [
-      2015,
-      8
+      2015
     ],
     "emoji": "🔬",
     "priority": 7778,
@@ -2634,8 +2421,7 @@
     "title": "NASA probe enters orbit around Ceres",
     "description": "",
     "time": [
-      2015,
-      4
+      2015
     ],
     "emoji": "🔬",
     "priority": 5741,
@@ -2645,8 +2431,7 @@
     "title": "NASA discover water on Mars",
     "description": "",
     "time": [
-      2015,
-      11
+      2015
     ],
     "emoji": "🔬",
     "priority": 2329,

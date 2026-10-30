@@ -259,8 +259,7 @@
     "title": "Conducted at Northwest Territories",
     "description": "",
     "time": [
-      11,
-      8
+      11
     ],
     "emoji": "🏛️",
     "priority": 147,
@@ -270,8 +269,7 @@
     "title": "Claudius became caesar of rome",
     "description": "",
     "time": [
-      41,
-      9
+      41
     ],
     "emoji": "👑",
     "priority": 2218,
@@ -291,8 +289,7 @@
     "title": "Hadrian became caesar of rome",
     "description": "",
     "time": [
-      117,
-      10
+      117
     ],
     "emoji": "👑",
     "priority": 1938,
@@ -302,8 +299,7 @@
     "title": "British colonies Trade treaty",
     "description": "",
     "time": [
-      117,
-      4
+      117
     ],
     "emoji": "🤝",
     "priority": 344,
@@ -313,8 +309,7 @@
     "title": "Antoninus Pius became caesar of rome",
     "description": "",
     "time": [
-      138,
-      4
+      138
     ],
     "emoji": "👑",
     "priority": 1111,
@@ -324,8 +319,7 @@
     "title": "The Arctic archipelago of Svalbard becomes",
     "description": "",
     "time": [
-      148,
-      6
+      148
     ],
     "emoji": "👑",
     "priority": 1019,
@@ -335,8 +329,7 @@
     "title": "Ends the Irish War of Independence",
     "description": "",
     "time": [
-      149,
-      2
+      149
     ],
     "emoji": "🕊️",
     "priority": 78,
@@ -346,8 +339,7 @@
     "title": "Ends the Polish–Soviet War",
     "description": "",
     "time": [
-      150,
-      8
+      150
     ],
     "emoji": "🕊️",
     "priority": 1
@@ -356,8 +348,7 @@
     "title": "Three Kingdoms period begins in China",
     "description": "",
     "time": [
-      220,
-      5
+      220
     ],
     "emoji": "👑",
     "priority": 20,
@@ -367,8 +358,7 @@
     "title": "Diocletian becomes emperor of Rome",
     "description": "",
     "time": [
-      285,
-      5
+      285
     ],
     "emoji": "👑",
     "priority": 1543,
@@ -378,8 +368,7 @@
     "title": "Samudragupta becomes the emperor of the Gupta empire",
     "description": "",
     "time": [
-      335,
-      7
+      335
     ],
     "emoji": "👑",
     "priority": 889,
@@ -389,8 +378,7 @@
     "title": "Julian becomes the emperor of the roman empire",
     "description": "",
     "time": [
-      378,
-      8
+      378
     ],
     "emoji": "👑",
     "priority": 1
@@ -399,8 +387,7 @@
     "title": "Peace of Acilisene",
     "description": "",
     "time": [
-      387,
-      8
+      387
     ],
     "emoji": "🤝",
     "priority": 211,
@@ -411,8 +398,7 @@
     "title": "The Eternal Peace",
     "description": "",
     "time": [
-      532,
-      12
+      532
     ],
     "emoji": "🤝",
     "priority": 215,
@@ -422,8 +408,7 @@
     "title": "The Fifty-Year Peace",
     "description": "",
     "time": [
-      562,
-      10
+      562
     ],
     "emoji": "🤝",
     "priority": 33,
@@ -433,8 +418,7 @@
     "title": "Treaty of Andelot",
     "description": "",
     "time": [
-      587,
-      11
+      587
     ],
     "emoji": "🤝",
     "priority": 225,
@@ -445,8 +429,7 @@
     "title": "Treaty of Hudaybiyyah",
     "description": "",
     "time": [
-      628,
-      4
+      628
     ],
     "emoji": "🤝",
     "priority": 830,
@@ -457,8 +440,7 @@
     "title": "Ili River Treaty",
     "description": "",
     "time": [
-      638,
-      7
+      638
     ],
     "emoji": "🤝",
     "priority": 294,
@@ -469,8 +451,7 @@
     "title": "The Bakt",
     "description": "",
     "time": [
-      651,
-      5
+      651
     ],
     "emoji": "🏛️",
     "priority": 570,
@@ -480,8 +461,7 @@
     "title": "Treaty of Orihuela",
     "description": "",
     "time": [
-      713,
-      7
+      713
     ],
     "emoji": "🤝",
     "priority": 992,
@@ -492,8 +472,7 @@
     "title": "Byzantine–Bulgarian Treaty",
     "description": "",
     "time": [
-      716,
-      7
+      716
     ],
     "emoji": "🤝",
     "priority": 390,
@@ -504,8 +483,7 @@
     "title": "Pax Nicephori",
     "description": "",
     "time": [
-      803,
-      2
+      803
     ],
     "emoji": "🏛️",
     "priority": 463,
@@ -516,8 +494,7 @@
     "title": "Treaty of Heiligen",
     "description": "",
     "time": [
-      811,
-      8
+      811
     ],
     "emoji": "🤝",
     "priority": 316,
@@ -528,8 +505,7 @@
     "title": "Byzantine–Bulgarian Treaty",
     "description": "",
     "time": [
-      815,
-      12
+      815
     ],
     "emoji": "🤝",
     "priority": 390,
@@ -540,8 +516,7 @@
     "title": "Pactum Sicardi",
     "description": "",
     "time": [
-      836,
-      6
+      836
     ],
     "emoji": "🤝",
     "priority": 311,
@@ -552,8 +527,7 @@
     "title": "Treaty of Verdun",
     "description": "",
     "time": [
-      843,
-      10
+      843
     ],
     "emoji": "🤝",
     "priority": 487,
@@ -564,8 +538,7 @@
     "title": "Treaty of Mersen",
     "description": "",
     "time": [
-      870,
-      4
+      870
     ],
     "emoji": "🤝",
     "priority": 473,
@@ -576,8 +549,7 @@
     "title": "Treaty of Alfred and Guthrum",
     "description": "",
     "time": [
-      878,
-      10
+      878
     ],
     "emoji": "🤝",
     "priority": 463,
@@ -588,8 +560,7 @@
     "title": "Rus'–Byzantine Treaty",
     "description": "",
     "time": [
-      907,
-      8
+      907
     ],
     "emoji": "🤝",
     "priority": 118,
@@ -599,8 +570,7 @@
     "title": "Treaty of Saint-Clair-sur-Epte",
     "description": "",
     "time": [
-      911,
-      11
+      911
     ],
     "emoji": "🤝",
     "priority": 346,
@@ -611,8 +581,7 @@
     "title": "Rus'–Byzantine Treaty",
     "description": "",
     "time": [
-      911,
-      8
+      911
     ],
     "emoji": "🤝",
     "priority": 118,
@@ -622,8 +591,7 @@
     "title": "Treaty of Bonn",
     "description": "",
     "time": [
-      921,
-      2
+      921
     ],
     "emoji": "🤝",
     "priority": 439,
@@ -644,8 +612,7 @@
     "title": "Peace of Bautzen",
     "description": "",
     "time": [
-      1002,
-      11
+      1002
     ],
     "emoji": "🤝",
     "priority": 1246,
@@ -656,8 +623,7 @@
     "title": "Chanyuan Treaty",
     "description": "",
     "time": [
-      1004,
-      7
+      1004
     ],
     "emoji": "🤝",
     "priority": 585,
@@ -668,8 +634,7 @@
     "title": "Peace of Merseburg",
     "description": "",
     "time": [
-      1013,
-      11
+      1013
     ],
     "emoji": "🤝",
     "priority": 113,
@@ -679,8 +644,7 @@
     "title": "Peace of Bautzen",
     "description": "",
     "time": [
-      1018,
-      2
+      1018
     ],
     "emoji": "🤝",
     "priority": 1246,
@@ -691,8 +655,7 @@
     "title": "Peace of Bautzen",
     "description": "",
     "time": [
-      1031,
-      5
+      1031
     ],
     "emoji": "🤝",
     "priority": 1246,
@@ -703,8 +666,7 @@
     "title": "Peace of Merseburg",
     "description": "",
     "time": [
-      1033,
-      10
+      1033
     ],
     "emoji": "🤝",
     "priority": 113,
@@ -714,8 +676,7 @@
     "title": "Treaty of Melfi",
     "description": "",
     "time": [
-      1059,
-      5
+      1059
     ],
     "emoji": "🤝",
     "priority": 187,
@@ -726,8 +687,7 @@
     "title": "Treaty of Ceprano",
     "description": "",
     "time": [
-      1080,
-      8
+      1080
     ],
     "emoji": "🤝",
     "priority": 171,
@@ -738,8 +698,7 @@
     "title": "Byzantine–Venetian Treaty of",
     "description": "",
     "time": [
-      1082,
-      8
+      1082
     ],
     "emoji": "🤝",
     "priority": 303,
@@ -750,8 +709,7 @@
     "title": "Treaty of Caen",
     "description": "",
     "time": [
-      1091,
-      7
+      1091
     ],
     "emoji": "🤝",
     "priority": 205,
@@ -762,8 +720,7 @@
     "title": "Treaty of Alton",
     "description": "",
     "time": [
-      1101,
-      4
+      1101
     ],
     "emoji": "🤝",
     "priority": 313,
@@ -774,8 +731,7 @@
     "title": "Treaty of Devol",
     "description": "",
     "time": [
-      1108,
-      4
+      1108
     ],
     "emoji": "🤝",
     "priority": 2075,
@@ -786,8 +742,7 @@
     "title": "Pactum Calixtinum",
     "description": "",
     "time": [
-      1122,
-      8
+      1122
     ],
     "emoji": "🤝",
     "priority": 542,
@@ -797,8 +752,7 @@
     "title": "Pactum Warmundi",
     "description": "",
     "time": [
-      1123,
-      4
+      1123
     ],
     "emoji": "🤝",
     "priority": 651,
@@ -809,8 +763,7 @@
     "title": "Treaty of Mignano",
     "description": "",
     "time": [
-      1139,
-      7
+      1139
     ],
     "emoji": "🤝",
     "priority": 286,
@@ -821,8 +774,7 @@
     "title": "Treaty of Shaoxing",
     "description": "",
     "time": [
-      1141,
-      8
+      1141
     ],
     "emoji": "🤝",
     "priority": 240,
@@ -833,8 +785,7 @@
     "title": "Treaty of Zamora",
     "description": "",
     "time": [
-      1143,
-      6
+      1143
     ],
     "emoji": "🤝",
     "priority": 196,
@@ -845,8 +796,7 @@
     "title": "Treaty of Tudilén",
     "description": "",
     "time": [
-      1151,
-      7
+      1151
     ],
     "emoji": "🤝",
     "priority": 146,
@@ -857,8 +807,7 @@
     "title": "Treaty of Wallingford",
     "description": "",
     "time": [
-      1153,
-      2
+      1153
     ],
     "emoji": "🤝",
     "priority": 435,
@@ -869,8 +818,7 @@
     "title": "Treaty of Constance",
     "description": "",
     "time": [
-      1153,
-      5
+      1153
     ],
     "emoji": "🤝",
     "priority": 245,
@@ -881,8 +829,7 @@
     "title": "Treaty of Benevento",
     "description": "",
     "time": [
-      1156,
-      5
+      1156
     ],
     "emoji": "🤝",
     "priority": 360,
@@ -893,8 +840,7 @@
     "title": "Treaty of Sahagún",
     "description": "",
     "time": [
-      1158,
-      2
+      1158
     ],
     "emoji": "🤝",
     "priority": 122,
@@ -916,8 +862,7 @@
     "title": "Treaty of Windsor",
     "description": "",
     "time": [
-      1175,
-      10
+      1175
     ],
     "emoji": "🤝",
     "priority": 186,
@@ -928,8 +873,7 @@
     "title": "Treaty of Venice",
     "description": "",
     "time": [
-      1177,
-      12
+      1177
     ],
     "emoji": "🤝",
     "priority": 338,
@@ -940,8 +884,7 @@
     "title": "Treaty of Cazorla",
     "description": "",
     "time": [
-      1179,
-      10
+      1179
     ],
     "emoji": "🤝",
     "priority": 1248,
@@ -952,8 +895,7 @@
     "title": "Peace of Constance",
     "description": "",
     "time": [
-      1183,
-      10
+      1183
     ],
     "emoji": "🤝",
     "priority": 302,
@@ -964,8 +906,7 @@
     "title": "Treaty of Jaffa",
     "description": "",
     "time": [
-      1192,
-      4
+      1192
     ],
     "emoji": "🤝",
     "priority": 284,
@@ -976,8 +917,7 @@
     "title": "Treaty of Le Goulet",
     "description": "",
     "time": [
-      1200,
-      6
+      1200
     ],
     "emoji": "🤝",
     "priority": 350,
@@ -988,8 +928,7 @@
     "title": "Partitio terrarum imperii Romaniae",
     "description": "",
     "time": [
-      1204,
-      2
+      1204
     ],
     "emoji": "🏛️",
     "priority": 393,
@@ -1022,8 +961,7 @@
     "title": "Treaty of Nymphaeum",
     "description": "",
     "time": [
-      1214,
-      4
+      1214
     ],
     "emoji": "🤝",
     "priority": 176,
@@ -1034,8 +972,7 @@
     "title": "the Magna Carta",
     "description": "",
     "time": [
-      1215,
-      5
+      1215
     ],
     "emoji": "🏛️",
     "priority": 4678,
@@ -1046,8 +983,7 @@
     "title": "Treaty of Lambeth",
     "description": "",
     "time": [
-      1217,
-      10
+      1217
     ],
     "emoji": "🤝",
     "priority": 480,
@@ -1058,8 +994,7 @@
     "title": "Golden Charter of Bern",
     "description": "",
     "time": [
-      1218,
-      7
+      1218
     ],
     "emoji": "📜",
     "priority": 389,
@@ -1070,8 +1005,7 @@
     "title": "Nicaean–Venetian Treaty of",
     "description": "",
     "time": [
-      1219,
-      8
+      1219
     ],
     "emoji": "🤝",
     "priority": 389,
@@ -1082,8 +1016,7 @@
     "title": "Treaty with the Princes of the Church",
     "description": "",
     "time": [
-      1220,
-      3
+      1220
     ],
     "emoji": "🤝",
     "priority": 122,
@@ -1093,8 +1026,7 @@
     "title": "Golden Bull of 1222",
     "description": "",
     "time": [
-      1222,
-      9
+      1222
     ],
     "emoji": "📜",
     "priority": 678,
@@ -1105,8 +1037,7 @@
     "title": "Golden Bull of Rimini",
     "description": "",
     "time": [
-      1226,
-      2
+      1226
     ],
     "emoji": "📜",
     "priority": 476,
@@ -1117,8 +1048,7 @@
     "title": "Treaty of Melun",
     "description": "",
     "time": [
-      1226,
-      4
+      1226
     ],
     "emoji": "🤝",
     "priority": 214,
@@ -1129,8 +1059,7 @@
     "title": "Treaty of San Germano",
     "description": "",
     "time": [
-      1230,
-      5
+      1230
     ],
     "emoji": "🤝",
     "priority": 215,
@@ -1141,8 +1070,7 @@
     "title": "Treaty of Kruszwica",
     "description": "",
     "time": [
-      1230,
-      2
+      1230
     ],
     "emoji": "🤝",
     "priority": 212,
@@ -1153,8 +1081,7 @@
     "title": "Treaty of Ceprano",
     "description": "",
     "time": [
-      1230,
-      5
+      1230
     ],
     "emoji": "🤝",
     "priority": 171,
@@ -1165,8 +1092,7 @@
     "title": "Golden Bull of Rieti",
     "description": "",
     "time": [
-      1234,
-      8
+      1234
     ],
     "emoji": "📜",
     "priority": 418,
@@ -1177,8 +1103,7 @@
     "title": "Treaty of Kremmen",
     "description": "",
     "time": [
-      1236,
-      7
+      1236
     ],
     "emoji": "🤝",
     "priority": 256,
@@ -1189,8 +1114,7 @@
     "title": "Treaty of York",
     "description": "",
     "time": [
-      1237,
-      4
+      1237
     ],
     "emoji": "🤝",
     "priority": 2771,
@@ -1201,8 +1125,7 @@
     "title": "Treaty of Almizra",
     "description": "",
     "time": [
-      1244,
-      4
+      1244
     ],
     "emoji": "🤝",
     "priority": 285,
@@ -1213,8 +1136,7 @@
     "title": "Treaty of Játiva",
     "description": "",
     "time": [
-      1244,
-      3
+      1244
     ],
     "emoji": "🤝",
     "priority": 138,
@@ -1225,8 +1147,7 @@
     "title": "Al-Azraq Treaty",
     "description": "",
     "time": [
-      1245,
-      10
+      1245
     ],
     "emoji": "🤝",
     "priority": 513,
@@ -1237,8 +1158,7 @@
     "title": "Treaty of Christburg",
     "description": "",
     "time": [
-      1249,
-      12
+      1249
     ],
     "emoji": "🤝",
     "priority": 656,
@@ -1249,8 +1169,7 @@
     "title": "Treaty of Lödöse",
     "description": "",
     "time": [
-      1249,
-      11
+      1249
     ],
     "emoji": "🤝",
     "priority": 432,
@@ -1260,8 +1179,7 @@
     "title": "Treaty of Landin",
     "description": "",
     "time": [
-      1250,
-      11
+      1250
     ],
     "emoji": "🤝",
     "priority": 210,
@@ -1272,8 +1190,7 @@
     "title": "Provisions of Oxford",
     "description": "",
     "time": [
-      1258,
-      4
+      1258
     ],
     "emoji": "📜",
     "priority": 351,
@@ -1284,8 +1201,7 @@
     "title": "Treaty of Corbeil",
     "description": "",
     "time": [
-      1258,
-      4
+      1258
     ],
     "emoji": "🤝",
     "priority": 163,
@@ -1296,8 +1212,7 @@
     "title": "Treaty of Paris",
     "description": "",
     "time": [
-      1259,
-      2
+      1259
     ],
     "emoji": "🤝",
     "priority": 452,
@@ -1308,8 +1223,7 @@
     "title": "Treaty of Nymphaeum",
     "description": "",
     "time": [
-      1261,
-      7
+      1261
     ],
     "emoji": "🤝",
     "priority": 176,
@@ -1320,8 +1234,7 @@
     "title": "Old Covenant",
     "description": "",
     "time": [
-      1262,
-      12
+      1262
     ],
     "emoji": "📜",
     "priority": 625,
@@ -1332,8 +1245,7 @@
     "title": "Treaty of Pipton",
     "description": "",
     "time": [
-      1265,
-      8
+      1265
     ],
     "emoji": "🤝",
     "priority": 234,
@@ -1344,8 +1256,7 @@
     "title": "Dictum of Kenilworth",
     "description": "",
     "time": [
-      1266,
-      4
+      1266
     ],
     "emoji": "📜",
     "priority": 997,
@@ -1356,8 +1267,7 @@
     "title": "Treaty of Perth",
     "description": "",
     "time": [
-      1266,
-      4
+      1266
     ],
     "emoji": "🤝",
     "priority": 294,
@@ -1368,8 +1278,7 @@
     "title": "Treaty of Viterbo",
     "description": "",
     "time": [
-      1267,
-      4
+      1267
     ],
     "emoji": "🤝",
     "priority": 566,
@@ -1391,8 +1300,7 @@
     "title": "Treaty of Badajoz",
     "description": "",
     "time": [
-      1267,
-      7
+      1267
     ],
     "emoji": "🤝",
     "priority": 161,
@@ -1403,8 +1311,7 @@
     "title": "Peace of Pressburg",
     "description": "",
     "time": [
-      1271,
-      3
+      1271
     ],
     "emoji": "🤝",
     "priority": 197,
@@ -1415,8 +1322,7 @@
     "title": "Treaty of Aberconwy",
     "description": "",
     "time": [
-      1277,
-      2
+      1277
     ],
     "emoji": "🤝",
     "priority": 348,
@@ -1427,8 +1333,7 @@
     "title": "Treaty of Orvieto",
     "description": "",
     "time": [
-      1281,
-      4
+      1281
     ],
     "emoji": "🤝",
     "priority": 655,
@@ -1439,8 +1344,7 @@
     "title": "Egyptian–Hittite peace treaty",
     "description": "",
     "time": [
-      1283,
-      7
+      1283
     ],
     "emoji": "🤝",
     "priority": 1995,
@@ -1451,8 +1355,7 @@
     "title": "Treaty of Rheinfelden",
     "description": "",
     "time": [
-      1283,
-      5
+      1283
     ],
     "emoji": "🤝",
     "priority": 292,
@@ -1463,8 +1366,7 @@
     "title": "Rostock Peace Treaty",
     "description": "",
     "time": [
-      1283,
-      5
+      1283
     ],
     "emoji": "🤝",
     "priority": 219,
@@ -1475,8 +1377,7 @@
     "title": "Treaty of Birgham",
     "description": "",
     "time": [
-      1289,
-      9
+      1289
     ],
     "emoji": "🤝",
     "priority": 343,
@@ -1487,8 +1388,7 @@
     "title": "Treaty of Tarascon",
     "description": "",
     "time": [
-      1291,
-      4
+      1291
     ],
     "emoji": "🤝",
     "priority": 321,
@@ -1499,8 +1399,7 @@
     "title": "Auld Alliance",
     "description": "",
     "time": [
-      1295,
-      3
+      1295
     ],
     "emoji": "🤝",
     "priority": 1160,
@@ -1511,8 +1410,7 @@
     "title": "Treaty of Anagni",
     "description": "",
     "time": [
-      1295,
-      4
+      1295
     ],
     "emoji": "🤝",
     "priority": 287,
@@ -1523,8 +1421,7 @@
     "title": "Peace of Caltabellotta",
     "description": "",
     "time": [
-      1302,
-      7
+      1302
     ],
     "emoji": "🤝",
     "priority": 285,
@@ -1535,8 +1432,7 @@
     "title": "Treaty of Paris",
     "description": "",
     "time": [
-      1303,
-      4
+      1303
     ],
     "emoji": "🤝",
     "priority": 452,
@@ -1547,8 +1443,7 @@
     "title": "Treaty of Torrellas",
     "description": "",
     "time": [
-      1304,
-      7
+      1304
     ],
     "emoji": "🤝",
     "priority": 222,
@@ -1559,8 +1454,7 @@
     "title": "Treaty of Athis-sur-Orge",
     "description": "",
     "time": [
-      1305,
-      4
+      1305
     ],
     "emoji": "🤝",
     "priority": 199,
@@ -1571,8 +1465,7 @@
     "title": "Treaty of Elche",
     "description": "",
     "time": [
-      1305,
-      8
+      1305
     ],
     "emoji": "🤝",
     "priority": 192,
@@ -1583,8 +1476,7 @@
     "title": "Treaty of Soldin",
     "description": "",
     "time": [
-      1309,
-      5
+      1309
     ],
     "emoji": "🤝",
     "priority": 162,
@@ -1595,8 +1487,7 @@
     "title": "Treaty of Templin",
     "description": "",
     "time": [
-      1317,
-      11
+      1317
     ],
     "emoji": "🤝",
     "priority": 344,
@@ -1607,8 +1498,7 @@
     "title": "Treaty of Nöteborg",
     "description": "",
     "time": [
-      1323,
-      2
+      1323
     ],
     "emoji": "🤝",
     "priority": 463,
@@ -1630,8 +1520,7 @@
     "title": "Treaty of Corbeil",
     "description": "",
     "time": [
-      1326,
-      12
+      1326
     ],
     "emoji": "🤝",
     "priority": 163,
@@ -1642,8 +1531,7 @@
     "title": "Treaty of Novgorod",
     "description": "",
     "time": [
-      1326,
-      9
+      1326
     ],
     "emoji": "🤝",
     "priority": 161,
@@ -1654,8 +1542,7 @@
     "title": "Treaty of Edinburgh–Northampton",
     "description": "",
     "time": [
-      1328,
-      5
+      1328
     ],
     "emoji": "🤝",
     "priority": 553,
@@ -1666,8 +1553,7 @@
     "title": "Treaty of Pavia",
     "description": "",
     "time": [
-      1329,
-      6
+      1329
     ],
     "emoji": "🤝",
     "priority": 183,
@@ -1689,8 +1575,7 @@
     "title": "Truce of Espléchin",
     "description": "",
     "time": [
-      1340,
-      9
+      1340
     ],
     "emoji": "📜",
     "priority": 301,
@@ -1701,8 +1586,7 @@
     "title": "Treaty of Kalisz",
     "description": "",
     "time": [
-      1343,
-      10
+      1343
     ],
     "emoji": "🤝",
     "priority": 164,
@@ -1713,8 +1597,7 @@
     "title": "Treaty of Mantes",
     "description": "",
     "time": [
-      1354,
-      6
+      1354
     ],
     "emoji": "🤝",
     "priority": 227,
@@ -1725,8 +1608,7 @@
     "title": "Treaty of Stralsund",
     "description": "",
     "time": [
-      1354,
-      7
+      1354
     ],
     "emoji": "🤝",
     "priority": 157,
@@ -1737,8 +1619,7 @@
     "title": "Treaty of Paris",
     "description": "",
     "time": [
-      1355,
-      11
+      1355
     ],
     "emoji": "🤝",
     "priority": 452,
@@ -1749,8 +1630,7 @@
     "title": "Treaty of Valognes",
     "description": "",
     "time": [
-      1355,
-      11
+      1355
     ],
     "emoji": "🤝",
     "priority": 239,
@@ -1761,8 +1641,7 @@
     "title": "Treaty of Zadar",
     "description": "",
     "time": [
-      1358,
-      12
+      1358
     ],
     "emoji": "🤝",
     "priority": 478,
@@ -1773,8 +1652,7 @@
     "title": "Treaty of London",
     "description": "",
     "time": [
-      1359,
-      6
+      1359
     ],
     "emoji": "🤝",
     "priority": 396,
@@ -1785,8 +1663,7 @@
     "title": "Treaty of Brétigny",
     "description": "",
     "time": [
-      1360,
-      11
+      1360
     ],
     "emoji": "🤝",
     "priority": 397,
@@ -1797,8 +1674,7 @@
     "title": "Treaty of Stralsund",
     "description": "",
     "time": [
-      1370,
-      8
+      1370
     ],
     "emoji": "🤝",
     "priority": 157,
@@ -1809,8 +1685,7 @@
     "title": "Treaty of Vincennes-Edinburgh",
     "description": "",
     "time": [
-      1371,
-      7
+      1371
     ],
     "emoji": "🤝",
     "priority": 232,
@@ -1821,8 +1696,7 @@
     "title": "Anglo-Portuguese Treaty of",
     "description": "",
     "time": [
-      1373,
-      8
+      1373
     ],
     "emoji": "🤝",
     "priority": 360,
@@ -1833,8 +1707,7 @@
     "title": "Treaty of Neuberg",
     "description": "",
     "time": [
-      1379,
-      11
+      1379
     ],
     "emoji": "🤝",
     "priority": 384,
@@ -1845,8 +1718,7 @@
     "title": "Treaty of Dovydiškės",
     "description": "",
     "time": [
-      1380,
-      2
+      1380
     ],
     "emoji": "🤝",
     "priority": 406,
@@ -1867,8 +1739,7 @@
     "title": "Union of Krewo",
     "description": "",
     "time": [
-      1385,
-      8
+      1385
     ],
     "emoji": "🤝",
     "priority": 1185,
@@ -1879,8 +1750,7 @@
     "title": "Treaty of Windsor",
     "description": "",
     "time": [
-      1386,
-      2
+      1386
     ],
     "emoji": "🤝",
     "priority": 186,
@@ -1891,8 +1761,7 @@
     "title": "Treaty of Königsberg",
     "description": "",
     "time": [
-      1390,
-      5
+      1390
     ],
     "emoji": "🤝",
     "priority": 149,
@@ -1903,8 +1772,7 @@
     "title": "Treaty of Kalmar",
     "description": "",
     "time": [
-      1397,
-      9
+      1397
     ],
     "emoji": "🤝",
     "priority": 190,
@@ -1915,8 +1783,7 @@
     "title": "Treaty of Salynas",
     "description": "",
     "time": [
-      1398,
-      11
+      1398
     ],
     "emoji": "🤝",
     "priority": 645,
@@ -1927,8 +1794,7 @@
     "title": "Pact of Vilnius and Radom",
     "description": "",
     "time": [
-      1401,
-      8
+      1401
     ],
     "emoji": "🤝",
     "priority": 643,
@@ -1939,8 +1805,7 @@
     "title": "First Peace of Thorn",
     "description": "",
     "time": [
-      1411,
-      12
+      1411
     ],
     "emoji": "🤝",
     "priority": 161,
@@ -1951,8 +1816,7 @@
     "title": "Treaty of Lubowla",
     "description": "",
     "time": [
-      1412,
-      11
+      1412
     ],
     "emoji": "🤝",
     "priority": 353,
@@ -1963,8 +1827,7 @@
     "title": "Union of Horodło",
     "description": "",
     "time": [
-      1413,
-      5
+      1413
     ],
     "emoji": "🤝",
     "priority": 509,
@@ -1975,8 +1838,7 @@
     "title": "Ottoman–Venetian maritime treaty",
     "description": "",
     "time": [
-      1416,
-      2
+      1416
     ],
     "emoji": "🤝",
     "priority": 224,
@@ -1987,8 +1849,7 @@
     "title": "Treaty of Troyes",
     "description": "",
     "time": [
-      1420,
-      8
+      1420
     ],
     "emoji": "🤝",
     "priority": 520,
@@ -1999,8 +1860,7 @@
     "title": "Treaty of Melno",
     "description": "",
     "time": [
-      1422,
-      8
+      1422
     ],
     "emoji": "🤝",
     "priority": 900,
@@ -2011,8 +1871,7 @@
     "title": "Edict of Wieluń",
     "description": "",
     "time": [
-      1424,
-      10
+      1424
     ],
     "emoji": "📜",
     "priority": 238,
@@ -2023,8 +1882,7 @@
     "title": "Treaty of Delft",
     "description": "",
     "time": [
-      1428,
-      2
+      1428
     ],
     "emoji": "🤝",
     "priority": 237,
@@ -2035,8 +1893,7 @@
     "title": "Treaty of Medina del Campo",
     "description": "",
     "time": [
-      1431,
-      7
+      1431
     ],
     "emoji": "🤝",
     "priority": 160,
@@ -2047,8 +1904,7 @@
     "title": "Union of Grodno",
     "description": "",
     "time": [
-      1432,
-      2
+      1432
     ],
     "emoji": "🤝",
     "priority": 161,
@@ -2059,8 +1915,7 @@
     "title": "Truce of Łęczyca",
     "description": "",
     "time": [
-      1433,
-      4
+      1433
     ],
     "emoji": "📜",
     "priority": 193,
@@ -2070,8 +1925,7 @@
     "title": "Peace of Brześć Kujawski",
     "description": "",
     "time": [
-      1435,
-      7
+      1435
     ],
     "emoji": "🤝",
     "priority": 188,
@@ -2082,8 +1936,7 @@
     "title": "Treaty of Arras",
     "description": "",
     "time": [
-      1435,
-      7
+      1435
     ],
     "emoji": "🤝",
     "priority": 182,
@@ -2094,8 +1947,7 @@
     "title": "Treaty of Copenhagen",
     "description": "",
     "time": [
-      1441,
-      8
+      1441
     ],
     "emoji": "🤝",
     "priority": 196,
@@ -2106,8 +1958,7 @@
     "title": "Treaty of Gyehae",
     "description": "",
     "time": [
-      1443,
-      10
+      1443
     ],
     "emoji": "🤝",
     "priority": 473,
@@ -2118,8 +1969,7 @@
     "title": "Peace of Szeged",
     "description": "",
     "time": [
-      1444,
-      8
+      1444
     ],
     "emoji": "🤝",
     "priority": 1120,
@@ -2130,8 +1980,7 @@
     "title": "Treaty of Cölln",
     "description": "",
     "time": [
-      1454,
-      11
+      1454
     ],
     "emoji": "🤝",
     "priority": 439,
@@ -2141,8 +1990,7 @@
     "title": "Treaty of Lodi",
     "description": "",
     "time": [
-      1454,
-      5
+      1454
     ],
     "emoji": "🤝",
     "priority": 356,
@@ -2153,8 +2001,7 @@
     "title": "Treaty of Mewe",
     "description": "",
     "time": [
-      1455,
-      2
+      1455
     ],
     "emoji": "🤝",
     "priority": 463,
@@ -2164,8 +2011,7 @@
     "title": "Treaty of Yazhelbitsy",
     "description": "",
     "time": [
-      1456,
-      12
+      1456
     ],
     "emoji": "🤝",
     "priority": 496,
@@ -2176,8 +2022,7 @@
     "title": "Treaty of Ribe",
     "description": "",
     "time": [
-      1460,
-      7
+      1460
     ],
     "emoji": "🤝",
     "priority": 1427,
@@ -2188,8 +2033,7 @@
     "title": "Treaty of Westminster",
     "description": "",
     "time": [
-      1462,
-      7
+      1462
     ],
     "emoji": "🤝",
     "priority": 216,
@@ -2200,8 +2044,7 @@
     "title": "Treaty of York",
     "description": "",
     "time": [
-      1464,
-      5
+      1464
     ],
     "emoji": "🤝",
     "priority": 771,
@@ -2212,8 +2055,7 @@
     "title": "Treaty of Conflans",
     "description": "",
     "time": [
-      1465,
-      11
+      1465
     ],
     "emoji": "🤝",
     "priority": 219,
@@ -2224,8 +2066,7 @@
     "title": "Second Peace of Thorn",
     "description": "",
     "time": [
-      1466,
-      3
+      1466
     ],
     "emoji": "🤝",
     "priority": 316,
@@ -2236,8 +2077,7 @@
     "title": "Treaty of Soldin",
     "description": "",
     "time": [
-      1466,
-      2
+      1466
     ],
     "emoji": "🤝",
     "priority": 162,
@@ -2248,8 +2088,7 @@
     "title": "Treaty of Péronne",
     "description": "",
     "time": [
-      1468,
-      11
+      1468
     ],
     "emoji": "🤝",
     "priority": 122,
@@ -2260,8 +2099,7 @@
     "title": "Treaty of Prenzlau",
     "description": "",
     "time": [
-      1472,
-      8
+      1472
     ],
     "emoji": "🤝",
     "priority": 416,
@@ -2272,8 +2110,7 @@
     "title": "Treaty of Utrecht",
     "description": "",
     "time": [
-      1474,
-      10
+      1474
     ],
     "emoji": "🤝",
     "priority": 855,
@@ -2284,8 +2121,7 @@
     "title": "Treaty of Picquigny",
     "description": "",
     "time": [
-      1475,
-      11
+      1475
     ],
     "emoji": "🤝",
     "priority": 453,
@@ -2296,8 +2132,7 @@
     "title": "Treaty of Brno",
     "description": "",
     "time": [
-      1478,
-      8
+      1478
     ],
     "emoji": "🤝",
     "priority": 157,
@@ -2308,8 +2143,7 @@
     "title": "Treaty of Alcáçovas",
     "description": "",
     "time": [
-      1479,
-      10
+      1479
     ],
     "emoji": "🤝",
     "priority": 648,
@@ -2319,8 +2153,7 @@
     "title": "Peace of Olomouc",
     "description": "",
     "time": [
-      1479,
-      5
+      1479
     ],
     "emoji": "🤝",
     "priority": 321,
@@ -2331,8 +2164,7 @@
     "title": "Treaty of Constantinople",
     "description": "",
     "time": [
-      1479,
-      5
+      1479
     ],
     "emoji": "🤝",
     "priority": 319,
@@ -2343,8 +2175,7 @@
     "title": "Treaty of Fotheringhay",
     "description": "",
     "time": [
-      1482,
-      6
+      1482
     ],
     "emoji": "🤝",
     "priority": 1048,
@@ -2354,8 +2185,7 @@
     "title": "Treaty of Arras",
     "description": "",
     "time": [
-      1482,
-      7
+      1482
     ],
     "emoji": "🤝",
     "priority": 182,
@@ -2366,8 +2196,7 @@
     "title": "Treaty of Bagnolo",
     "description": "",
     "time": [
-      1484,
-      10
+      1484
     ],
     "emoji": "🤝",
     "priority": 299,
@@ -2377,8 +2206,7 @@
     "title": "Treaty of Leipzig",
     "description": "",
     "time": [
-      1485,
-      10
+      1485
     ],
     "emoji": "🤝",
     "priority": 393,
@@ -2389,8 +2217,7 @@
     "title": "Treaty of Sablé",
     "description": "",
     "time": [
-      1488,
-      5
+      1488
     ],
     "emoji": "🤝",
     "priority": 276,
@@ -2401,8 +2228,7 @@
     "title": "Treaty of Redon",
     "description": "",
     "time": [
-      1489,
-      8
+      1489
     ],
     "emoji": "🤝",
     "priority": 800,
@@ -2413,8 +2239,7 @@
     "title": "Treaty of Frankfurt",
     "description": "",
     "time": [
-      1489,
-      9
+      1489
     ],
     "emoji": "🤝",
     "priority": 182,
@@ -2425,8 +2250,7 @@
     "title": "Treaty of Medina del Campo",
     "description": "",
     "time": [
-      1489,
-      8
+      1489
     ],
     "emoji": "🤝",
     "priority": 160,
@@ -2437,8 +2261,7 @@
     "title": "Treaty of Dordrecht",
     "description": "",
     "time": [
-      1489,
-      5
+      1489
     ],
     "emoji": "🤝",
     "priority": 146,
@@ -2449,8 +2272,7 @@
     "title": "Treaty of Woking - Okyng",
     "description": "",
     "time": [
-      1490,
-      7
+      1490
     ],
     "emoji": "🤝",
     "priority": 1066,
@@ -2460,8 +2282,7 @@
     "title": "Treaty of Granada",
     "description": "",
     "time": [
-      1491,
-      4
+      1491
     ],
     "emoji": "🤝",
     "priority": 505,
@@ -2472,8 +2293,7 @@
     "title": "Peace of Pressburg",
     "description": "",
     "time": [
-      1491,
-      11
+      1491
     ],
     "emoji": "🤝",
     "priority": 197,
@@ -2484,8 +2304,7 @@
     "title": "Peace of Etaples",
     "description": "",
     "time": [
-      1492,
-      8
+      1492
     ],
     "emoji": "🤝",
     "priority": 221,
@@ -2496,8 +2315,7 @@
     "title": "Treaty of Pyritz",
     "description": "",
     "time": [
-      1493,
-      8
+      1493
     ],
     "emoji": "🤝",
     "priority": 807,
@@ -2508,8 +2326,7 @@
     "title": "Treaty of Senlis",
     "description": "",
     "time": [
-      1493,
-      7
+      1493
     ],
     "emoji": "🤝",
     "priority": 319,
@@ -2520,8 +2337,7 @@
     "title": "Treaty of Barcelona",
     "description": "",
     "time": [
-      1493,
-      11
+      1493
     ],
     "emoji": "🤝",
     "priority": 216,
@@ -2532,8 +2348,7 @@
     "title": "Treaty of Tordesillas",
     "description": "",
     "time": [
-      1494,
-      6
+      1494
     ],
     "emoji": "🤝",
     "priority": 2137,
@@ -2544,8 +2359,7 @@
     "title": "spain and Portugal divides the new world",
     "description": "",
     "time": [
-      1494,
-      7
+      1494
     ],
     "emoji": "📜",
     "priority": 1
@@ -2554,8 +2368,7 @@
     "title": "Intercursus Magnus",
     "description": "",
     "time": [
-      1496,
-      7
+      1496
     ],
     "emoji": "🏛️",
     "priority": 720,
@@ -2566,8 +2379,7 @@
     "title": "Treaty of Ayton",
     "description": "",
     "time": [
-      1497,
-      2
+      1497
     ],
     "emoji": "🤝",
     "priority": 1033,
@@ -2598,8 +2410,7 @@
     "title": "Treaty of Granada",
     "description": "",
     "time": [
-      1500,
-      7
+      1500
     ],
     "emoji": "🤝",
     "priority": 505,
@@ -2610,8 +2421,7 @@
     "title": "Treaty of Trente",
     "description": "",
     "time": [
-      1501,
-      7
+      1501
     ],
     "emoji": "🤝",
     "priority": 276,
@@ -2621,8 +2431,7 @@
     "title": "Treaty of Perpetual Peace",
     "description": "",
     "time": [
-      1502,
-      12
+      1502
     ],
     "emoji": "🤝",
     "priority": 537,
@@ -2633,8 +2442,7 @@
     "title": "Treaty of Blois",
     "description": "",
     "time": [
-      1504,
-      11
+      1504
     ],
     "emoji": "🤝",
     "priority": 269,
@@ -2645,8 +2453,7 @@
     "title": "Treaty of Westminster",
     "description": "",
     "time": [
-      1511,
-      12
+      1511
     ],
     "emoji": "🤝",
     "priority": 216,
@@ -2657,8 +2464,7 @@
     "title": "Peace of Noyon",
     "description": "",
     "time": [
-      1516,
-      10
+      1516
     ],
     "emoji": "🤝",
     "priority": 750,
@@ -2668,8 +2474,7 @@
     "title": "Treaty of Rouen",
     "description": "",
     "time": [
-      1517,
-      10
+      1517
     ],
     "emoji": "🤝",
     "priority": 256,
@@ -2680,8 +2485,7 @@
     "title": "Treaty of London",
     "description": "",
     "time": [
-      1518,
-      10
+      1518
     ],
     "emoji": "🤝",
     "priority": 396,
@@ -2692,8 +2496,7 @@
     "title": "Treaty of Windsor",
     "description": "",
     "time": [
-      1522,
-      8
+      1522
     ],
     "emoji": "🤝",
     "priority": 186,
@@ -2704,8 +2507,7 @@
     "title": "Treaty of Malmö",
     "description": "",
     "time": [
-      1524,
-      6
+      1524
     ],
     "emoji": "🤝",
     "priority": 154,
@@ -2716,8 +2518,7 @@
     "title": "Alliance treaty between Geneva, Berne",
     "description": "",
     "time": [
-      1526,
-      4
+      1526
     ],
     "emoji": "🤝",
     "priority": 1489,
@@ -2727,8 +2528,7 @@
     "title": "Treaty of Madrid",
     "description": "",
     "time": [
-      1526,
-      6
+      1526
     ],
     "emoji": "🤝",
     "priority": 245,
@@ -2739,8 +2539,7 @@
     "title": "Treaty of Berwick",
     "description": "",
     "time": [
-      1526,
-      8
+      1526
     ],
     "emoji": "🤝",
     "priority": 217,
@@ -2751,8 +2550,7 @@
     "title": "Treaty of Hampton Court",
     "description": "",
     "time": [
-      1526,
-      7
+      1526
     ],
     "emoji": "🤝",
     "priority": 173,
@@ -2763,8 +2561,7 @@
     "title": "Treaty of Westminster",
     "description": "",
     "time": [
-      1527,
-      7
+      1527
     ],
     "emoji": "🤝",
     "priority": 216,
@@ -2775,8 +2572,7 @@
     "title": "Treaty of Gorinchem",
     "description": "",
     "time": [
-      1528,
-      10
+      1528
     ],
     "emoji": "🤝",
     "priority": 194,
@@ -2787,8 +2583,7 @@
     "title": "Treaty of Grimnitz",
     "description": "",
     "time": [
-      1529,
-      11
+      1529
     ],
     "emoji": "🤝",
     "priority": 741,
@@ -2799,8 +2594,7 @@
     "title": "Treaty of Saragossa",
     "description": "",
     "time": [
-      1529,
-      12
+      1529
     ],
     "emoji": "🤝",
     "priority": 737,
@@ -2811,8 +2605,7 @@
     "title": "Treaty of Cambrai",
     "description": "",
     "time": [
-      1529,
-      10
+      1529
     ],
     "emoji": "🤝",
     "priority": 296,
@@ -2822,8 +2615,7 @@
     "title": "Treaty of Barcelona",
     "description": "",
     "time": [
-      1529,
-      8
+      1529
     ],
     "emoji": "🤝",
     "priority": 216,
@@ -2845,8 +2637,7 @@
     "title": "Treaty of Bassein",
     "description": "",
     "time": [
-      1534,
-      10
+      1534
     ],
     "emoji": "🤝",
     "priority": 175,
@@ -2857,8 +2648,7 @@
     "title": "Treaty of Novgorod",
     "description": "",
     "time": [
-      1537,
-      5
+      1537
     ],
     "emoji": "🤝",
     "priority": 161,
@@ -2869,8 +2659,7 @@
     "title": "Treaty of Nagyvár",
     "description": "",
     "time": [
-      1538,
-      5
+      1538
     ],
     "emoji": "🤝",
     "priority": 1
@@ -2879,8 +2668,7 @@
     "title": "First Treaty of Brömsebro",
     "description": "",
     "time": [
-      1541,
-      4
+      1541
     ],
     "emoji": "🤝",
     "priority": 133,
@@ -2891,8 +2679,7 @@
     "title": "Treaty of Venlo",
     "description": "",
     "time": [
-      1543,
-      10
+      1543
     ],
     "emoji": "🤝",
     "priority": 968,
@@ -2902,8 +2689,7 @@
     "title": "Treaty of Greenwich",
     "description": "",
     "time": [
-      1543,
-      5
+      1543
     ],
     "emoji": "🤝",
     "priority": 330,
@@ -2914,8 +2700,7 @@
     "title": "Treaty of Crépy",
     "description": "",
     "time": [
-      1544,
-      4
+      1544
     ],
     "emoji": "🤝",
     "priority": 792,
@@ -2947,8 +2732,7 @@
     "title": "Treaty of Chambord",
     "description": "",
     "time": [
-      1552,
-      2
+      1552
     ],
     "emoji": "🤝",
     "priority": 375,
@@ -2959,8 +2743,7 @@
     "title": "Peace of Passau",
     "description": "",
     "time": [
-      1552,
-      2
+      1552
     ],
     "emoji": "🤝",
     "priority": 255,
@@ -2971,8 +2754,7 @@
     "title": "Peace of Augsburg",
     "description": "",
     "time": [
-      1555,
-      5
+      1555
     ],
     "emoji": "🤝",
     "priority": 797,
@@ -2983,8 +2765,7 @@
     "title": "Treaty of Amasya",
     "description": "",
     "time": [
-      1555,
-      2
+      1555
     ],
     "emoji": "🤝",
     "priority": 275,
@@ -2995,8 +2776,7 @@
     "title": "Treaty of Vaucelles",
     "description": "",
     "time": [
-      1556,
-      7
+      1556
     ],
     "emoji": "🤝",
     "priority": 229,
@@ -3006,8 +2786,7 @@
     "title": "Treaty of Pozvol",
     "description": "",
     "time": [
-      1557,
-      6
+      1557
     ],
     "emoji": "🤝",
     "priority": 503,
@@ -3018,8 +2797,7 @@
     "title": "Treaty of Novgorod",
     "description": "",
     "time": [
-      1557,
-      8
+      1557
     ],
     "emoji": "🤝",
     "priority": 161,
@@ -3030,8 +2808,7 @@
     "title": "Treaty of Vilna",
     "description": "",
     "time": [
-      1559,
-      3
+      1559
     ],
     "emoji": "🤝",
     "priority": 178,
@@ -3052,8 +2829,7 @@
     "title": "Treaty of Edinburgh",
     "description": "",
     "time": [
-      1560,
-      7
+      1560
     ],
     "emoji": "🤝",
     "priority": 554,
@@ -3064,8 +2840,7 @@
     "title": "Treaty of Vilna",
     "description": "",
     "time": [
-      1561,
-      12
+      1561
     ],
     "emoji": "🤝",
     "priority": 178,
@@ -3076,8 +2851,7 @@
     "title": "Treaty of Mozhaysk",
     "description": "",
     "time": [
-      1562,
-      4
+      1562
     ],
     "emoji": "🤝",
     "priority": 762,
@@ -3088,8 +2862,7 @@
     "title": "Edict of Saint-Germain",
     "description": "",
     "time": [
-      1562,
-      7
+      1562
     ],
     "emoji": "📜",
     "priority": 403,
@@ -3100,8 +2873,7 @@
     "title": "Treaty of Hampton Court",
     "description": "",
     "time": [
-      1562,
-      11
+      1562
     ],
     "emoji": "🤝",
     "priority": 173,
@@ -3112,8 +2884,7 @@
     "title": "Edict of Amboise",
     "description": "",
     "time": [
-      1563,
-      7
+      1563
     ],
     "emoji": "📜",
     "priority": 294,
@@ -3124,8 +2895,7 @@
     "title": "Treaty of Dorpat",
     "description": "",
     "time": [
-      1564,
-      2
+      1564
     ],
     "emoji": "🤝",
     "priority": 228,
@@ -3147,8 +2917,7 @@
     "title": "Peace of Longjumeau",
     "description": "",
     "time": [
-      1568,
-      11
+      1568
     ],
     "emoji": "🤝",
     "priority": 189,
@@ -3159,8 +2928,7 @@
     "title": "Union of Lublin",
     "description": "",
     "time": [
-      1569,
-      2
+      1569
     ],
     "emoji": "🤝",
     "priority": 1335,
@@ -3171,8 +2939,7 @@
     "title": "Peace of Saint-Germain-en-Laye",
     "description": "",
     "time": [
-      1570,
-      12
+      1570
     ],
     "emoji": "🤝",
     "priority": 252,
@@ -3183,8 +2950,7 @@
     "title": "Treaty of Stettin",
     "description": "",
     "time": [
-      1570,
-      7
+      1570
     ],
     "emoji": "🤝",
     "priority": 184,
@@ -3195,8 +2961,7 @@
     "title": "Treaty of Blois",
     "description": "",
     "time": [
-      1572,
-      10
+      1572
     ],
     "emoji": "🤝",
     "priority": 269,
@@ -3207,8 +2972,7 @@
     "title": "Edict of Boulogne",
     "description": "",
     "time": [
-      1573,
-      10
+      1573
     ],
     "emoji": "📜",
     "priority": 328,
@@ -3219,8 +2983,7 @@
     "title": "Pacification of Ghent",
     "description": "",
     "time": [
-      1576,
-      12
+      1576
     ],
     "emoji": "🏛️",
     "priority": 1001,
@@ -3231,8 +2994,7 @@
     "title": "Edict of Beaulieu",
     "description": "",
     "time": [
-      1576,
-      2
+      1576
     ],
     "emoji": "📜",
     "priority": 426,
@@ -3243,8 +3005,7 @@
     "title": "Treaty of Bergerac",
     "description": "",
     "time": [
-      1577,
-      9
+      1577
     ],
     "emoji": "🤝",
     "priority": 227,
@@ -3255,8 +3016,7 @@
     "title": "Union of Utrecht",
     "description": "",
     "time": [
-      1579,
-      6
+      1579
     ],
     "emoji": "🤝",
     "priority": 597,
@@ -3267,8 +3027,7 @@
     "title": "Union of Atrecht",
     "description": "",
     "time": [
-      1579,
-      2
+      1579
     ],
     "emoji": "🤝",
     "priority": 319,
@@ -3279,8 +3038,7 @@
     "title": "Treaty of Plessis-les-Tours",
     "description": "",
     "time": [
-      1580,
-      5
+      1580
     ],
     "emoji": "🤝",
     "priority": 208,
@@ -3291,8 +3049,7 @@
     "title": "Treaty of Fleix",
     "description": "",
     "time": [
-      1580,
-      6
+      1580
     ],
     "emoji": "🤝",
     "priority": 193,
@@ -3314,8 +3071,7 @@
     "title": "Treaty of Plussa",
     "description": "",
     "time": [
-      1583,
-      7
+      1583
     ],
     "emoji": "🤝",
     "priority": 270,
@@ -3337,8 +3093,7 @@
     "title": "Treaty of Nemours",
     "description": "",
     "time": [
-      1585,
-      8
+      1585
     ],
     "emoji": "🤝",
     "priority": 576,
@@ -3349,8 +3104,7 @@
     "title": "Treaty of Nonsuch",
     "description": "",
     "time": [
-      1585,
-      7
+      1585
     ],
     "emoji": "🤝",
     "priority": 328,
@@ -3361,8 +3115,7 @@
     "title": "Treaty of Berwick",
     "description": "",
     "time": [
-      1586,
-      11
+      1586
     ],
     "emoji": "🤝",
     "priority": 217,
@@ -3373,8 +3126,7 @@
     "title": "Treaty of Ferhat Paşa",
     "description": "",
     "time": [
-      1590,
-      7
+      1590
     ],
     "emoji": "🤝",
     "priority": 155,
@@ -3384,8 +3136,7 @@
     "title": "Treaty of Teusina",
     "description": "",
     "time": [
-      1595,
-      7
+      1595
     ],
     "emoji": "🤝",
     "priority": 263,
@@ -3396,8 +3147,7 @@
     "title": "Edict of Nantes",
     "description": "",
     "time": [
-      1598,
-      6
+      1598
     ],
     "emoji": "📜",
     "priority": 1385,
@@ -3408,8 +3158,7 @@
     "title": "Peace of Vervins",
     "description": "",
     "time": [
-      1598,
-      2
+      1598
     ],
     "emoji": "🤝",
     "priority": 339,
@@ -3420,8 +3169,7 @@
     "title": "Treaty of Lyon",
     "description": "",
     "time": [
-      1601,
-      4
+      1601
     ],
     "emoji": "🤝",
     "priority": 174,
@@ -3432,8 +3180,7 @@
     "title": "Treaty of Lyons",
     "description": "",
     "time": [
-      1601,
-      8
+      1601
     ],
     "emoji": "🤝",
     "priority": 169,
@@ -3444,8 +3191,7 @@
     "title": "Treaty of London",
     "description": "",
     "time": [
-      1604,
-      11
+      1604
     ],
     "emoji": "🤝",
     "priority": 396,
@@ -3456,8 +3202,7 @@
     "title": "Treaty of Vienna",
     "description": "",
     "time": [
-      1606,
-      6
+      1606
     ],
     "emoji": "🤝",
     "priority": 262,
@@ -3468,8 +3213,7 @@
     "title": "Peace of Žitava",
     "description": "",
     "time": [
-      1606,
-      8
+      1606
     ],
     "emoji": "🤝",
     "priority": 256,
@@ -3480,8 +3224,7 @@
     "title": "Treaty of Lieben",
     "description": "",
     "time": [
-      1608,
-      2
+      1608
     ],
     "emoji": "🤝",
     "priority": 201,
@@ -3492,8 +3235,7 @@
     "title": "Treaty of Antwerp",
     "description": "",
     "time": [
-      1609,
-      12
+      1609
     ],
     "emoji": "🤝",
     "priority": 161,
@@ -3504,8 +3246,7 @@
     "title": "Treaty of Brussol",
     "description": "",
     "time": [
-      1610,
-      4
+      1610
     ],
     "emoji": "🤝",
     "priority": 295,
@@ -3516,8 +3257,7 @@
     "title": "Treaty of Nasuh Pasha",
     "description": "",
     "time": [
-      1612,
-      11
+      1612
     ],
     "emoji": "🤝",
     "priority": 372,
@@ -3528,8 +3268,7 @@
     "title": "Two Row Wampum Treaty",
     "description": "",
     "time": [
-      1613,
-      5
+      1613
     ],
     "emoji": "🤝",
     "priority": 906,
@@ -3540,8 +3279,7 @@
     "title": "Treaty of Knäred",
     "description": "",
     "time": [
-      1613,
-      3
+      1613
     ],
     "emoji": "🤝",
     "priority": 152,
@@ -3552,8 +3290,7 @@
     "title": "Treaty of Xanten",
     "description": "",
     "time": [
-      1614,
-      9
+      1614
     ],
     "emoji": "🤝",
     "priority": 309,
@@ -3564,8 +3301,7 @@
     "title": "Peace of Asti",
     "description": "",
     "time": [
-      1615,
-      2
+      1615
     ],
     "emoji": "🤝",
     "priority": 180,
@@ -3576,8 +3312,7 @@
     "title": "Peace of Tyrnau",
     "description": "",
     "time": [
-      1615,
-      2
+      1615
     ],
     "emoji": "🤝",
     "priority": 176,
@@ -3588,8 +3323,7 @@
     "title": "Treaty of Loudun",
     "description": "",
     "time": [
-      1616,
-      12
+      1616
     ],
     "emoji": "🤝",
     "priority": 347,
@@ -3600,8 +3334,7 @@
     "title": "Treaty of Stolbovo",
     "description": "",
     "time": [
-      1617,
-      7
+      1617
     ],
     "emoji": "🤝",
     "priority": 436,
@@ -3612,8 +3345,7 @@
     "title": "Treaty of Pavia",
     "description": "",
     "time": [
-      1617,
-      8
+      1617
     ],
     "emoji": "🤝",
     "priority": 183,
@@ -3624,8 +3356,7 @@
     "title": "Truce of Deulino",
     "description": "",
     "time": [
-      1618,
-      9
+      1618
     ],
     "emoji": "📜",
     "priority": 267,
@@ -3636,8 +3367,7 @@
     "title": "slavery in america began",
     "description": "",
     "time": [
-      1619,
-      6
+      1619
     ],
     "emoji": "🏛️",
     "priority": 10459,
@@ -3649,8 +3379,7 @@
     "title": "Treaty of Munich",
     "description": "",
     "time": [
-      1619,
-      7
+      1619
     ],
     "emoji": "🤝",
     "priority": 1570,
@@ -3660,8 +3389,7 @@
     "title": "Treaty of Angoulême",
     "description": "",
     "time": [
-      1619,
-      5
+      1619
     ],
     "emoji": "🤝",
     "priority": 155,
@@ -3672,8 +3400,7 @@
     "title": "Treaty of Ulm",
     "description": "",
     "time": [
-      1620,
-      5
+      1620
     ],
     "emoji": "🤝",
     "priority": 163,
@@ -3684,8 +3411,7 @@
     "title": "Peace of Nikolsburg",
     "description": "",
     "time": [
-      1621,
-      2
+      1621
     ],
     "emoji": "🤝",
     "priority": 321,
@@ -3696,8 +3422,7 @@
     "title": "Treaty of Khotyn",
     "description": "",
     "time": [
-      1621,
-      3
+      1621
     ],
     "emoji": "🤝",
     "priority": 311,
@@ -3708,8 +3433,7 @@
     "title": "Treaty of Madrid",
     "description": "",
     "time": [
-      1621,
-      8
+      1621
     ],
     "emoji": "🤝",
     "priority": 245,
@@ -3720,8 +3444,7 @@
     "title": "Treaty of Bremen",
     "description": "",
     "time": [
-      1621,
-      4
+      1621
     ],
     "emoji": "🤝",
     "priority": 203,
@@ -3731,8 +3454,7 @@
     "title": "Treaty of Montpellier",
     "description": "",
     "time": [
-      1622,
-      10
+      1622
     ],
     "emoji": "🤝",
     "priority": 188,
@@ -3743,8 +3465,7 @@
     "title": "Treaty of Paris",
     "description": "",
     "time": [
-      1623,
-      5
+      1623
     ],
     "emoji": "🤝",
     "priority": 452,
@@ -3755,8 +3476,7 @@
     "title": "Treaty of The Hague",
     "description": "",
     "time": [
-      1625,
-      3
+      1625
     ],
     "emoji": "🤝",
     "priority": 306,
@@ -3767,8 +3487,7 @@
     "title": "Treaty of Monzón",
     "description": "",
     "time": [
-      1626,
-      8
+      1626
     ],
     "emoji": "🤝",
     "priority": 439,
@@ -3778,8 +3497,7 @@
     "title": "Peace of Pressburg",
     "description": "",
     "time": [
-      1626,
-      5
+      1626
     ],
     "emoji": "🤝",
     "priority": 197,
@@ -3790,8 +3508,7 @@
     "title": "Capitulation of Franzburg",
     "description": "",
     "time": [
-      1627,
-      5
+      1627
     ],
     "emoji": "🏛️",
     "priority": 1420,
@@ -3802,8 +3519,7 @@
     "title": "Treaty of Munich",
     "description": "",
     "time": [
-      1628,
-      2
+      1628
     ],
     "emoji": "🤝",
     "priority": 1570,
@@ -3813,8 +3529,7 @@
     "title": "Treaty of Cherasco",
     "description": "",
     "time": [
-      1628,
-      8
+      1628
     ],
     "emoji": "🤝",
     "priority": 402,
@@ -3824,8 +3539,7 @@
     "title": "Edict of Restitution",
     "description": "",
     "time": [
-      1629,
-      5
+      1629
     ],
     "emoji": "📜",
     "priority": 637,
@@ -3836,8 +3550,7 @@
     "title": "Treaty of Lübeck",
     "description": "",
     "time": [
-      1629,
-      3
+      1629
     ],
     "emoji": "🤝",
     "priority": 611,
@@ -3848,8 +3561,7 @@
     "title": "Truce of Altmark",
     "description": "",
     "time": [
-      1629,
-      7
+      1629
     ],
     "emoji": "📜",
     "priority": 322,
@@ -3860,8 +3572,7 @@
     "title": "Peace of Alais",
     "description": "",
     "time": [
-      1629,
-      2
+      1629
     ],
     "emoji": "🤝",
     "priority": 165,
@@ -3872,8 +3583,7 @@
     "title": "Peace of Regensburg",
     "description": "",
     "time": [
-      1630,
-      2
+      1630
     ],
     "emoji": "🤝",
     "priority": 282,
@@ -3883,8 +3593,7 @@
     "title": "Treaty of Madrid",
     "description": "",
     "time": [
-      1630,
-      12
+      1630
     ],
     "emoji": "🤝",
     "priority": 245,
@@ -3895,8 +3604,7 @@
     "title": "Treaty of Stettin",
     "description": "",
     "time": [
-      1630,
-      12
+      1630
     ],
     "emoji": "🤝",
     "priority": 184,
@@ -3907,8 +3615,7 @@
     "title": "Treaty of Munich",
     "description": "",
     "time": [
-      1631,
-      4
+      1631
     ],
     "emoji": "🤝",
     "priority": 1570,
@@ -3918,8 +3625,7 @@
     "title": "Treaty of Bärwalde",
     "description": "",
     "time": [
-      1631,
-      4
+      1631
     ],
     "emoji": "🤝",
     "priority": 466,
@@ -3930,8 +3636,7 @@
     "title": "Treaty of Ahmet Pasha",
     "description": "",
     "time": [
-      1632,
-      11
+      1632
     ],
     "emoji": "🤝",
     "priority": 303,
@@ -3942,8 +3647,7 @@
     "title": "Treaty of Saint-Germain-en-Laye",
     "description": "",
     "time": [
-      1632,
-      7
+      1632
     ],
     "emoji": "🤝",
     "priority": 202,
@@ -3954,8 +3658,7 @@
     "title": "Treaty of Polyanovka",
     "description": "",
     "time": [
-      1634,
-      11
+      1634
     ],
     "emoji": "🤝",
     "priority": 275,
@@ -3966,8 +3669,7 @@
     "title": "Treaty of Sztumska Wieś",
     "description": "",
     "time": [
-      1635,
-      7
+      1635
     ],
     "emoji": "🤝",
     "priority": 786,
@@ -3977,8 +3679,7 @@
     "title": "Peace of Prague",
     "description": "",
     "time": [
-      1635,
-      8
+      1635
     ],
     "emoji": "🤝",
     "priority": 181,
@@ -3989,8 +3690,7 @@
     "title": "Treaty of Wismar",
     "description": "",
     "time": [
-      1636,
-      7
+      1636
     ],
     "emoji": "🤝",
     "priority": 196,
@@ -4001,8 +3701,7 @@
     "title": "Treaty of Hartford",
     "description": "",
     "time": [
-      1638,
-      11
+      1638
     ],
     "emoji": "🤝",
     "priority": 566,
@@ -4013,8 +3712,7 @@
     "title": "Treaty of Hamburg",
     "description": "",
     "time": [
-      1638,
-      5
+      1638
     ],
     "emoji": "🤝",
     "priority": 159,
@@ -4025,8 +3723,7 @@
     "title": "Treaty of Zuhab",
     "description": "",
     "time": [
-      1639,
-      2
+      1639
     ],
     "emoji": "🤝",
     "priority": 300,
@@ -4048,8 +3745,7 @@
     "title": "Treaty of Berwick",
     "description": "",
     "time": [
-      1639,
-      7
+      1639
     ],
     "emoji": "🤝",
     "priority": 217,
@@ -4060,8 +3756,7 @@
     "title": "Treaty of Ripon",
     "description": "",
     "time": [
-      1640,
-      8
+      1640
     ],
     "emoji": "🤝",
     "priority": 273,
@@ -4072,8 +3767,7 @@
     "title": "Treaty of Axim",
     "description": "",
     "time": [
-      1642,
-      11
+      1642
     ],
     "emoji": "🤝",
     "priority": 764,
@@ -4084,8 +3778,7 @@
     "title": "Solemn League and Covenant",
     "description": "",
     "time": [
-      1643,
-      7
+      1643
     ],
     "emoji": "📜",
     "priority": 518,
@@ -4107,8 +3800,7 @@
     "title": "Truce of Ulm",
     "description": "",
     "time": [
-      1647,
-      11
+      1647
     ],
     "emoji": "📜",
     "priority": 150,
@@ -4119,8 +3811,7 @@
     "title": "Peace of Westphalia",
     "description": "",
     "time": [
-      1648,
-      3
+      1648
     ],
     "emoji": "🤝",
     "priority": 1320,
@@ -4131,8 +3822,7 @@
     "title": "Treaty of Concordia",
     "description": "",
     "time": [
-      1648,
-      2
+      1648
     ],
     "emoji": "🤝",
     "priority": 350,
@@ -4143,8 +3833,7 @@
     "title": "Peace of Rueil",
     "description": "",
     "time": [
-      1649,
-      9
+      1649
     ],
     "emoji": "🤝",
     "priority": 510,
@@ -4155,8 +3844,7 @@
     "title": "Treaty of Zboriv",
     "description": "",
     "time": [
-      1649,
-      4
+      1649
     ],
     "emoji": "🤝",
     "priority": 251,
@@ -4167,8 +3855,7 @@
     "title": "Treaty of Hartford",
     "description": "",
     "time": [
-      1650,
-      2
+      1650
     ],
     "emoji": "🤝",
     "priority": 566,
@@ -4179,8 +3866,7 @@
     "title": "Treaty of Breda",
     "description": "",
     "time": [
-      1650,
-      10
+      1650
     ],
     "emoji": "🤝",
     "priority": 216,
@@ -4191,8 +3877,7 @@
     "title": "Treaty of Bila Tserkva",
     "description": "",
     "time": [
-      1651,
-      10
+      1651
     ],
     "emoji": "🤝",
     "priority": 444,
@@ -4203,8 +3888,7 @@
     "title": "Treaty of Stettin",
     "description": "",
     "time": [
-      1653,
-      4
+      1653
     ],
     "emoji": "🤝",
     "priority": 184,
@@ -4215,8 +3899,7 @@
     "title": "Treaty of Pereyaslav",
     "description": "",
     "time": [
-      1654,
-      3
+      1654
     ],
     "emoji": "🤝",
     "priority": 1426,
@@ -4227,8 +3910,7 @@
     "title": "Treaty of Westminster",
     "description": "",
     "time": [
-      1654,
-      7
+      1654
     ],
     "emoji": "🤝",
     "priority": 216,
@@ -4239,8 +3921,7 @@
     "title": "Union of Kėdainiai",
     "description": "",
     "time": [
-      1655,
-      11
+      1655
     ],
     "emoji": "🤝",
     "priority": 470,
@@ -4251,8 +3932,7 @@
     "title": "Treaty of Rinsk",
     "description": "",
     "time": [
-      1655,
-      4
+      1655
     ],
     "emoji": "🤝",
     "priority": 228,
@@ -4263,8 +3943,7 @@
     "title": "Treaty of Kėdainiai",
     "description": "",
     "time": [
-      1655,
-      6
+      1655
     ],
     "emoji": "🤝",
     "priority": 181,
@@ -4275,8 +3954,7 @@
     "title": "Treaty of Elbing",
     "description": "",
     "time": [
-      1656,
-      7
+      1656
     ],
     "emoji": "🤝",
     "priority": 805,
@@ -4298,8 +3976,7 @@
     "title": "Treaty of Labiau",
     "description": "",
     "time": [
-      1656,
-      12
+      1656
     ],
     "emoji": "🤝",
     "priority": 675,
@@ -4310,8 +3987,7 @@
     "title": "Truce of Vilna",
     "description": "",
     "time": [
-      1656,
-      2
+      1656
     ],
     "emoji": "📜",
     "priority": 425,
@@ -4322,8 +3998,7 @@
     "title": "Treaty of Marienburg",
     "description": "",
     "time": [
-      1656,
-      9
+      1656
     ],
     "emoji": "🤝",
     "priority": 265,
@@ -4334,8 +4009,7 @@
     "title": "Treaty of Radnot",
     "description": "",
     "time": [
-      1656,
-      8
+      1656
     ],
     "emoji": "🤝",
     "priority": 262,
@@ -4346,8 +4020,7 @@
     "title": "Treaty of Vienna",
     "description": "",
     "time": [
-      1656,
-      5
+      1656
     ],
     "emoji": "🤝",
     "priority": 262,
@@ -4358,8 +4031,7 @@
     "title": "Treaty of Königsberg",
     "description": "",
     "time": [
-      1656,
-      8
+      1656
     ],
     "emoji": "🤝",
     "priority": 149,
@@ -4370,8 +4042,7 @@
     "title": "Treaty of Bromberg - Bydgoszcz",
     "description": "",
     "time": [
-      1657,
-      12
+      1657
     ],
     "emoji": "🤝",
     "priority": 1634,
@@ -4382,8 +4053,7 @@
     "title": "Treaty of Wehlau",
     "description": "",
     "time": [
-      1657,
-      8
+      1657
     ],
     "emoji": "🤝",
     "priority": 1416,
@@ -4393,8 +4063,7 @@
     "title": "Treaty of Paris",
     "description": "",
     "time": [
-      1657,
-      9
+      1657
     ],
     "emoji": "🤝",
     "priority": 452,
@@ -4405,8 +4074,7 @@
     "title": "Treaty of Vienna",
     "description": "",
     "time": [
-      1657,
-      9
+      1657
     ],
     "emoji": "🤝",
     "priority": 262,
@@ -4417,8 +4085,7 @@
     "title": "Treaty of Raalte",
     "description": "",
     "time": [
-      1657,
-      5
+      1657
     ],
     "emoji": "🤝",
     "priority": 176,
@@ -4429,8 +4096,7 @@
     "title": "Treaty of Hadiach",
     "description": "",
     "time": [
-      1658,
-      4
+      1658
     ],
     "emoji": "🤝",
     "priority": 840,
@@ -4452,8 +4118,7 @@
     "title": "Treaty of Valiesar",
     "description": "",
     "time": [
-      1658,
-      4
+      1658
     ],
     "emoji": "🤝",
     "priority": 227,
@@ -4464,8 +4129,7 @@
     "title": "Treaty of Taastrup",
     "description": "",
     "time": [
-      1658,
-      7
+      1658
     ],
     "emoji": "🤝",
     "priority": 193,
@@ -4476,8 +4140,7 @@
     "title": "Treaty of the Pyrenees",
     "description": "",
     "time": [
-      1659,
-      3
+      1659
     ],
     "emoji": "🤝",
     "priority": 551,
@@ -4488,8 +4151,7 @@
     "title": "Concert of The Hague",
     "description": "",
     "time": [
-      1659,
-      11
+      1659
     ],
     "emoji": "🏛️",
     "priority": 303,
@@ -4500,8 +4162,7 @@
     "title": "Treaty of Oliva",
     "description": "",
     "time": [
-      1660,
-      11
+      1660
     ],
     "emoji": "🤝",
     "priority": 627,
@@ -4512,8 +4173,7 @@
     "title": "Treaty of Copenhagen",
     "description": "",
     "time": [
-      1660,
-      2
+      1660
     ],
     "emoji": "🤝",
     "priority": 196,
@@ -4524,8 +4184,7 @@
     "title": "Treaty of Den Haag",
     "description": "",
     "time": [
-      1661,
-      6
+      1661
     ],
     "emoji": "🤝",
     "priority": 247,
@@ -4536,8 +4195,7 @@
     "title": "Treaty of Cardis",
     "description": "",
     "time": [
-      1661,
-      5
+      1661
     ],
     "emoji": "🤝",
     "priority": 204,
@@ -4548,8 +4206,7 @@
     "title": "Treaty of Montmartre",
     "description": "",
     "time": [
-      1662,
-      7
+      1662
     ],
     "emoji": "🤝",
     "priority": 187,
@@ -4560,8 +4217,7 @@
     "title": "Treaty of Ghilajharighat",
     "description": "",
     "time": [
-      1663,
-      2
+      1663
     ],
     "emoji": "🤝",
     "priority": 296,
@@ -4572,8 +4228,7 @@
     "title": "Peace of Vasvár",
     "description": "",
     "time": [
-      1664,
-      4
+      1664
     ],
     "emoji": "🤝",
     "priority": 259,
@@ -4584,8 +4239,7 @@
     "title": "Treaty of Purandar",
     "description": "",
     "time": [
-      1665,
-      11
+      1665
     ],
     "emoji": "🤝",
     "priority": 168,
@@ -4596,8 +4250,7 @@
     "title": "Treaty of Andrusovo",
     "description": "",
     "time": [
-      1667,
-      7
+      1667
     ],
     "emoji": "🤝",
     "priority": 398,
@@ -4608,8 +4261,7 @@
     "title": "Treaty of Bongaja",
     "description": "",
     "time": [
-      1667,
-      11
+      1667
     ],
     "emoji": "🤝",
     "priority": 223,
@@ -4620,8 +4272,7 @@
     "title": "Treaty of Breda",
     "description": "",
     "time": [
-      1667,
-      11
+      1667
     ],
     "emoji": "🤝",
     "priority": 216,
@@ -4632,8 +4283,7 @@
     "title": "Treaty of Lisbon",
     "description": "",
     "time": [
-      1668,
-      3
+      1668
     ],
     "emoji": "🤝",
     "priority": 943,
@@ -4644,8 +4294,7 @@
     "title": "First Triple Alliance",
     "description": "",
     "time": [
-      1668,
-      11
+      1668
     ],
     "emoji": "🤝",
     "priority": 232,
@@ -4656,8 +4305,7 @@
     "title": "Treaty of Aix-la-Chapelle",
     "description": "",
     "time": [
-      1668,
-      7
+      1668
     ],
     "emoji": "🤝",
     "priority": 193,
@@ -4668,8 +4316,7 @@
     "title": "Secret Treaty of Dover",
     "description": "",
     "time": [
-      1670,
-      4
+      1670
     ],
     "emoji": "🤝",
     "priority": 724,
@@ -4680,8 +4327,7 @@
     "title": "Treaty of Madrid",
     "description": "",
     "time": [
-      1670,
-      4
+      1670
     ],
     "emoji": "🤝",
     "priority": 245,
@@ -4692,8 +4338,7 @@
     "title": "Treaty of Copenhagen",
     "description": "",
     "time": [
-      1670,
-      11
+      1670
     ],
     "emoji": "🤝",
     "priority": 196,
@@ -4704,8 +4349,7 @@
     "title": "Treaty of Buczacz",
     "description": "",
     "time": [
-      1672,
-      2
+      1672
     ],
     "emoji": "🤝",
     "priority": 193,
@@ -4716,8 +4360,7 @@
     "title": "Treaty of Westminster",
     "description": "",
     "time": [
-      1674,
-      7
+      1674
     ],
     "emoji": "🤝",
     "priority": 216,
@@ -4728,8 +4371,7 @@
     "title": "Strasbourg Agreement",
     "description": "",
     "time": [
-      1675,
-      4
+      1675
     ],
     "emoji": "🏛️",
     "priority": 163,
@@ -4740,8 +4382,7 @@
     "title": "Treaty of Żurawno",
     "description": "",
     "time": [
-      1676,
-      6
+      1676
     ],
     "emoji": "🤝",
     "priority": 191,
@@ -4752,8 +4393,7 @@
     "title": "The Native American Treaty",
     "description": "",
     "time": [
-      1677,
-      2
+      1677
     ],
     "emoji": "🤝",
     "priority": 1,
@@ -4763,8 +4403,7 @@
     "title": "Treaties of Nijmegen",
     "description": "",
     "time": [
-      1678,
-      4
+      1678
     ],
     "emoji": "🏛️",
     "priority": 444,
@@ -4775,8 +4414,7 @@
     "title": "Treaty of Casco",
     "description": "",
     "time": [
-      1678,
-      12
+      1678
     ],
     "emoji": "🤝",
     "priority": 157,
@@ -4787,8 +4425,7 @@
     "title": "Treaty of Saint-Germain-en-Laye",
     "description": "",
     "time": [
-      1679,
-      8
+      1679
     ],
     "emoji": "🤝",
     "priority": 202,
@@ -4799,8 +4436,7 @@
     "title": "Treaty of Bakhchisarai",
     "description": "",
     "time": [
-      1681,
-      4
+      1681
     ],
     "emoji": "🤝",
     "priority": 254,
@@ -4811,8 +4447,7 @@
     "title": "Truce of Ratisbon",
     "description": "",
     "time": [
-      1684,
-      10
+      1684
     ],
     "emoji": "📜",
     "priority": 219,
@@ -4823,8 +4458,7 @@
     "title": "Eternal Peace Treaty of",
     "description": "",
     "time": [
-      1686,
-      12
+      1686
     ],
     "emoji": "🤝",
     "priority": 333,
@@ -4835,8 +4469,7 @@
     "title": "Treaty of Nerchinsk",
     "description": "",
     "time": [
-      1689,
-      5
+      1689
     ],
     "emoji": "🤝",
     "priority": 1151,
@@ -4847,8 +4480,7 @@
     "title": "Treaty of Limerick",
     "description": "",
     "time": [
-      1691,
-      2
+      1691
     ],
     "emoji": "🤝",
     "priority": 587,
@@ -4859,8 +4491,7 @@
     "title": "Treaty of Ryswick",
     "description": "",
     "time": [
-      1697,
-      5
+      1697
     ],
     "emoji": "🤝",
     "priority": 500,
@@ -4871,8 +4502,7 @@
     "title": "Treaty of Den Haag",
     "description": "",
     "time": [
-      1698,
-      4
+      1698
     ],
     "emoji": "🤝",
     "priority": 247,
@@ -4883,8 +4513,7 @@
     "title": "Treaty of Karlowitz",
     "description": "",
     "time": [
-      1699,
-      7
+      1699
     ],
     "emoji": "🤝",
     "priority": 410,
@@ -4895,8 +4524,7 @@
     "title": "Treaty of Preobrazhenskoye",
     "description": "",
     "time": [
-      1699,
-      12
+      1699
     ],
     "emoji": "🤝",
     "priority": 219,
@@ -4907,8 +4535,7 @@
     "title": "Peace of Travendal",
     "description": "",
     "time": [
-      1700,
-      12
+      1700
     ],
     "emoji": "🤝",
     "priority": 759,
@@ -4919,8 +4546,7 @@
     "title": "Treaty of London",
     "description": "",
     "time": [
-      1700,
-      9
+      1700
     ],
     "emoji": "🤝",
     "priority": 396,
@@ -4931,8 +4557,7 @@
     "title": "Treaty of Constantinople",
     "description": "",
     "time": [
-      1700,
-      5
+      1700
     ],
     "emoji": "🤝",
     "priority": 319,
@@ -4943,8 +4568,7 @@
     "title": "Great Peace of Montreal",
     "description": "",
     "time": [
-      1701,
-      7
+      1701
     ],
     "emoji": "🤝",
     "priority": 1731,
@@ -4955,8 +4579,7 @@
     "title": "Treaty of The Hague",
     "description": "",
     "time": [
-      1701,
-      3
+      1701
     ],
     "emoji": "🤝",
     "priority": 306,
@@ -4967,8 +4590,7 @@
     "title": "Methuen Treaty",
     "description": "",
     "time": [
-      1703,
-      4
+      1703
     ],
     "emoji": "🤝",
     "priority": 541,
@@ -4979,8 +4601,7 @@
     "title": "Treaty of Narva",
     "description": "",
     "time": [
-      1704,
-      5
+      1704
     ],
     "emoji": "🤝",
     "priority": 522,
@@ -4991,8 +4612,7 @@
     "title": "Treaty of Ilbersheim",
     "description": "",
     "time": [
-      1704,
-      11
+      1704
     ],
     "emoji": "🤝",
     "priority": 191,
@@ -5003,8 +4623,7 @@
     "title": "Treaty of Warsaw",
     "description": "",
     "time": [
-      1705,
-      7
+      1705
     ],
     "emoji": "🤝",
     "priority": 1231,
@@ -5015,8 +4634,7 @@
     "title": "Treaty of Altranstädt",
     "description": "",
     "time": [
-      1706,
-      7
+      1706
     ],
     "emoji": "🤝",
     "priority": 140,
@@ -5027,8 +4645,7 @@
     "title": "Treaty of Union",
     "description": "",
     "time": [
-      1707,
-      5
+      1707
     ],
     "emoji": "🤝",
     "priority": 1066,
@@ -5039,8 +4656,7 @@
     "title": "Treaty of Altranstädt",
     "description": "",
     "time": [
-      1707,
-      12
+      1707
     ],
     "emoji": "🤝",
     "priority": 140,
@@ -5051,8 +4667,7 @@
     "title": "Treaty of Copenhagen",
     "description": "",
     "time": [
-      1709,
-      6
+      1709
     ],
     "emoji": "🤝",
     "priority": 196,
@@ -5063,8 +4678,7 @@
     "title": "Treaty of Thorn",
     "description": "",
     "time": [
-      1709,
-      3
+      1709
     ],
     "emoji": "🤝",
     "priority": 126,
@@ -5075,8 +4689,7 @@
     "title": "Capitulation of Estonia and Livonia",
     "description": "",
     "time": [
-      1710,
-      12
+      1710
     ],
     "emoji": "🏛️",
     "priority": 1003,
@@ -5087,8 +4700,7 @@
     "title": "Treaty of Hanover",
     "description": "",
     "time": [
-      1710,
-      8
+      1710
     ],
     "emoji": "🤝",
     "priority": 183,
@@ -5099,8 +4711,7 @@
     "title": "Treaty of Szatmár",
     "description": "",
     "time": [
-      1711,
-      2
+      1711
     ],
     "emoji": "🤝",
     "priority": 282,
@@ -5111,8 +4722,7 @@
     "title": "Treaty of Pruth",
     "description": "",
     "time": [
-      1711,
-      12
+      1711
     ],
     "emoji": "🤝",
     "priority": 191,
@@ -5123,8 +4733,7 @@
     "title": "Treaty of Portsmouth",
     "description": "",
     "time": [
-      1713,
-      11
+      1713
     ],
     "emoji": "🤝",
     "priority": 1055,
@@ -5135,8 +4744,7 @@
     "title": "Treaty of Utrecht",
     "description": "",
     "time": [
-      1713,
-      4
+      1713
     ],
     "emoji": "🤝",
     "priority": 855,
@@ -5147,8 +4755,7 @@
     "title": "Treaty of Schwedt",
     "description": "",
     "time": [
-      1713,
-      6
+      1713
     ],
     "emoji": "🤝",
     "priority": 218,
@@ -5159,8 +4766,7 @@
     "title": "Treaty of Rastatt",
     "description": "",
     "time": [
-      1714,
-      2
+      1714
     ],
     "emoji": "🤝",
     "priority": 375,
@@ -5171,8 +4777,7 @@
     "title": "Treaty of Baden",
     "description": "",
     "time": [
-      1714,
-      2
+      1714
     ],
     "emoji": "🤝",
     "priority": 363,
@@ -5183,8 +4788,7 @@
     "title": "Treaty of Berlin",
     "description": "",
     "time": [
-      1715,
-      2
+      1715
     ],
     "emoji": "🤝",
     "priority": 215,
@@ -5195,8 +4799,7 @@
     "title": "Treaty of Greifswald",
     "description": "",
     "time": [
-      1715,
-      10
+      1715
     ],
     "emoji": "🤝",
     "priority": 199,
@@ -5207,8 +4810,7 @@
     "title": "Treaty of Stettin",
     "description": "",
     "time": [
-      1715,
-      2
+      1715
     ],
     "emoji": "🤝",
     "priority": 184,
@@ -5219,8 +4821,7 @@
     "title": "Second Triple Alliance",
     "description": "",
     "time": [
-      1717,
-      10
+      1717
     ],
     "emoji": "🤝",
     "priority": 365,
@@ -5230,8 +4831,7 @@
     "title": "Treaty of Passarowitz",
     "description": "",
     "time": [
-      1718,
-      7
+      1718
     ],
     "emoji": "🤝",
     "priority": 309,
@@ -5242,8 +4842,7 @@
     "title": "Treaty of the Hague",
     "description": "",
     "time": [
-      1720,
-      5
+      1720
     ],
     "emoji": "🤝",
     "priority": 306,
@@ -5254,8 +4853,7 @@
     "title": "Treaty of The Hague",
     "description": "",
     "time": [
-      1720,
-      9
+      1720
     ],
     "emoji": "🤝",
     "priority": 306,
@@ -5266,8 +4864,7 @@
     "title": "Treaty of Frederiksborg",
     "description": "",
     "time": [
-      1720,
-      6
+      1720
     ],
     "emoji": "🤝",
     "priority": 266,
@@ -5278,8 +4875,7 @@
     "title": "Treaty of Den Haag",
     "description": "",
     "time": [
-      1720,
-      9
+      1720
     ],
     "emoji": "🤝",
     "priority": 247,
@@ -5290,8 +4886,7 @@
     "title": "Treaty of Stockholm",
     "description": "",
     "time": [
-      1720,
-      3
+      1720
     ],
     "emoji": "🤝",
     "priority": 188,
@@ -5302,8 +4897,7 @@
     "title": "Treaty of Nyst",
     "description": "",
     "time": [
-      1721,
-      9
+      1721
     ],
     "emoji": "🤝",
     "priority": 519,
@@ -5313,8 +4907,7 @@
     "title": "Treaty of Vienna",
     "description": "",
     "time": [
-      1725,
-      7
+      1725
     ],
     "emoji": "🤝",
     "priority": 262,
@@ -5325,8 +4918,7 @@
     "title": "Treaty of Hanover",
     "description": "",
     "time": [
-      1725,
-      6
+      1725
     ],
     "emoji": "🤝",
     "priority": 183,
@@ -5337,8 +4929,7 @@
     "title": "Treaty of Kyakhta",
     "description": "",
     "time": [
-      1727,
-      3
+      1727
     ],
     "emoji": "🤝",
     "priority": 558,
@@ -5349,8 +4940,7 @@
     "title": "Treaty of Seville",
     "description": "",
     "time": [
-      1729,
-      3
+      1729
     ],
     "emoji": "🤝",
     "priority": 219,
@@ -5361,8 +4951,7 @@
     "title": "Treaty of Vienna",
     "description": "",
     "time": [
-      1731,
-      9
+      1731
     ],
     "emoji": "🤝",
     "priority": 262,
@@ -5373,8 +4962,7 @@
     "title": "Treaty of Rasht",
     "description": "",
     "time": [
-      1732,
-      2
+      1732
     ],
     "emoji": "🤝",
     "priority": 246,
@@ -5385,8 +4973,7 @@
     "title": "Löwenwolde's Treaty",
     "description": "",
     "time": [
-      1732,
-      10
+      1732
     ],
     "emoji": "🤝",
     "priority": 161,
@@ -5396,8 +4983,7 @@
     "title": "Treaty of Turin",
     "description": "",
     "time": [
-      1733,
-      2
+      1733
     ],
     "emoji": "🤝",
     "priority": 2945,
@@ -5408,8 +4994,7 @@
     "title": "Treaty of the Escorial",
     "description": "",
     "time": [
-      1733,
-      4
+      1733
     ],
     "emoji": "🤝",
     "priority": 163,
@@ -5419,8 +5004,7 @@
     "title": "Treaty of Constantinople",
     "description": "",
     "time": [
-      1736,
-      5
+      1736
     ],
     "emoji": "🤝",
     "priority": 319,
@@ -5431,8 +5015,7 @@
     "title": "Treaty of Vienna",
     "description": "",
     "time": [
-      1738,
-      11
+      1738
     ],
     "emoji": "🤝",
     "priority": 262,
@@ -5443,8 +5026,7 @@
     "title": "Treaty of Belgrade",
     "description": "",
     "time": [
-      1739,
-      9
+      1739
     ],
     "emoji": "🤝",
     "priority": 287,
@@ -5455,8 +5037,7 @@
     "title": "Treaty of El Pardo",
     "description": "",
     "time": [
-      1739,
-      11
+      1739
     ],
     "emoji": "🤝",
     "priority": 171,
@@ -5467,8 +5048,7 @@
     "title": "Treaty of Niš",
     "description": "",
     "time": [
-      1739,
-      7
+      1739
     ],
     "emoji": "🤝",
     "priority": 139,
@@ -5479,8 +5059,7 @@
     "title": "Treaty of Friendship",
     "description": "",
     "time": [
-      1740,
-      2
+      1740
     ],
     "emoji": "🤝",
     "priority": 1
@@ -5489,8 +5068,7 @@
     "title": "Treaty of Breslau",
     "description": "",
     "time": [
-      1742,
-      4
+      1742
     ],
     "emoji": "🤝",
     "priority": 324,
@@ -5501,8 +5079,7 @@
     "title": "Convention of Turin",
     "description": "",
     "time": [
-      1742,
-      8
+      1742
     ],
     "emoji": "🏛️",
     "priority": 279,
@@ -5513,8 +5090,7 @@
     "title": "Treaty of Berlin",
     "description": "",
     "time": [
-      1742,
-      11
+      1742
     ],
     "emoji": "🤝",
     "priority": 215,
@@ -5525,8 +5101,7 @@
     "title": "Treaty of Worms",
     "description": "",
     "time": [
-      1743,
-      11
+      1743
     ],
     "emoji": "🤝",
     "priority": 402,
@@ -5537,8 +5112,7 @@
     "title": "Treaty of Åbo",
     "description": "",
     "time": [
-      1743,
-      11
+      1743
     ],
     "emoji": "🤝",
     "priority": 244,
@@ -5549,8 +5123,7 @@
     "title": "Treaty of Dresden",
     "description": "",
     "time": [
-      1745,
-      7
+      1745
     ],
     "emoji": "🤝",
     "priority": 358,
@@ -5561,8 +5134,7 @@
     "title": "Treaty of Fontainebleau",
     "description": "",
     "time": [
-      1745,
-      4
+      1745
     ],
     "emoji": "🤝",
     "priority": 306,
@@ -5573,8 +5145,7 @@
     "title": "Treaty of Füssen",
     "description": "",
     "time": [
-      1745,
-      6
+      1745
     ],
     "emoji": "🤝",
     "priority": 259,
@@ -5585,8 +5156,7 @@
     "title": "Treaty of Kerden",
     "description": "",
     "time": [
-      1746,
-      7
+      1746
     ],
     "emoji": "🤝",
     "priority": 349,
@@ -5597,8 +5167,7 @@
     "title": "Treaty of Aix-la-Chapelle",
     "description": "",
     "time": [
-      1748,
-      11
+      1748
     ],
     "emoji": "🤝",
     "priority": 193,
@@ -5609,8 +5178,7 @@
     "title": "Treaty of Madrid - January 1750",
     "description": "",
     "time": [
-      1750,
-      2
+      1750
     ],
     "emoji": "🤝",
     "priority": 574,
@@ -5621,8 +5189,7 @@
     "title": "Treaty of Aranjuez",
     "description": "",
     "time": [
-      1752,
-      7
+      1752
     ],
     "emoji": "🤝",
     "priority": 192,
@@ -5633,8 +5200,7 @@
     "title": "Treaty of Giyanti",
     "description": "",
     "time": [
-      1755,
-      7
+      1755
     ],
     "emoji": "🤝",
     "priority": 374,
@@ -5645,8 +5211,7 @@
     "title": "Treaty of Westminster",
     "description": "",
     "time": [
-      1756,
-      5
+      1756
     ],
     "emoji": "🤝",
     "priority": 216,
@@ -5657,8 +5222,7 @@
     "title": "Treaty of Alinagar",
     "description": "",
     "time": [
-      1757,
-      12
+      1757
     ],
     "emoji": "🤝",
     "priority": 217,
@@ -5669,8 +5233,7 @@
     "title": "Treaty of Easton",
     "description": "",
     "time": [
-      1758,
-      7
+      1758
     ],
     "emoji": "🤝",
     "priority": 389,
@@ -5681,8 +5244,7 @@
     "title": "Treaty of El Pardo",
     "description": "",
     "time": [
-      1761,
-      12
+      1761
     ],
     "emoji": "🤝",
     "priority": 171,
@@ -5693,8 +5255,7 @@
     "title": "Treaty of Fontainebleau",
     "description": "",
     "time": [
-      1762,
-      5
+      1762
     ],
     "emoji": "🤝",
     "priority": 306,
@@ -5716,8 +5277,7 @@
     "title": "Treaty of Hamburg",
     "description": "",
     "time": [
-      1762,
-      9
+      1762
     ],
     "emoji": "🤝",
     "priority": 159,
@@ -5728,8 +5288,7 @@
     "title": "Treaty of Hubertusburg",
     "description": "",
     "time": [
-      1763,
-      10
+      1763
     ],
     "emoji": "🤝",
     "priority": 487,
@@ -5740,8 +5299,7 @@
     "title": "First Treaty of Paris",
     "description": "",
     "time": [
-      1763,
-      6
+      1763
     ],
     "emoji": "🤝",
     "priority": 438,
@@ -5752,8 +5310,7 @@
     "title": "Treaty of Allahab",
     "description": "",
     "time": [
-      1765,
-      9
+      1765
     ],
     "emoji": "🤝",
     "priority": 1
@@ -5762,8 +5319,7 @@
     "title": "Treaty of Batticaloa",
     "description": "",
     "time": [
-      1766,
-      7
+      1766
     ],
     "emoji": "🤝",
     "priority": 248,
@@ -5774,8 +5330,7 @@
     "title": "Treaty of Fort Stanwix",
     "description": "",
     "time": [
-      1768,
-      10
+      1768
     ],
     "emoji": "🤝",
     "priority": 615,
@@ -5786,8 +5341,7 @@
     "title": "Treaty of Masulipatam",
     "description": "",
     "time": [
-      1768,
-      11
+      1768
     ],
     "emoji": "🤝",
     "priority": 167,
@@ -5798,8 +5352,7 @@
     "title": "Treaty of Lochaber",
     "description": "",
     "time": [
-      1770,
-      8
+      1770
     ],
     "emoji": "🤝",
     "priority": 258,
@@ -5810,8 +5363,7 @@
     "title": "Treaty of Küçük Kaynarca",
     "description": "",
     "time": [
-      1774,
-      7
+      1774
     ],
     "emoji": "🤝",
     "priority": 1213,
@@ -5821,8 +5373,7 @@
     "title": "Treaty of Watertown",
     "description": "",
     "time": [
-      1776,
-      2
+      1776
     ],
     "emoji": "🤝",
     "priority": 482,
@@ -5833,8 +5384,7 @@
     "title": "Treaty of Purandar",
     "description": "",
     "time": [
-      1776,
-      11
+      1776
     ],
     "emoji": "🤝",
     "priority": 168,
@@ -5845,8 +5395,7 @@
     "title": "Treaty of Aranjuez",
     "description": "",
     "time": [
-      1777,
-      2
+      1777
     ],
     "emoji": "🤝",
     "priority": 192,
@@ -5857,8 +5406,7 @@
     "title": "Treaty of Aranjuez",
     "description": "",
     "time": [
-      1777,
-      6
+      1777
     ],
     "emoji": "🤝",
     "priority": 192,
@@ -5869,8 +5417,7 @@
     "title": "First Treaty of San Ildefonso",
     "description": "",
     "time": [
-      1777,
-      5
+      1777
     ],
     "emoji": "🤝",
     "priority": 183,
@@ -5892,8 +5439,7 @@
     "title": "Treaty of Fort Pitt",
     "description": "",
     "time": [
-      1778,
-      2
+      1778
     ],
     "emoji": "🤝",
     "priority": 421,
@@ -5904,8 +5450,7 @@
     "title": "US / France Amity Treaty",
     "description": "",
     "time": [
-      1778,
-      7
+      1778
     ],
     "emoji": "🤝",
     "priority": 259,
@@ -5915,8 +5460,7 @@
     "title": "Treaty of El Pardo",
     "description": "",
     "time": [
-      1778,
-      8
+      1778
     ],
     "emoji": "🤝",
     "priority": 171,
@@ -5927,8 +5471,7 @@
     "title": "Treaty of Teschen",
     "description": "",
     "time": [
-      1779,
-      7
+      1779
     ],
     "emoji": "🤝",
     "priority": 524,
@@ -5939,8 +5482,7 @@
     "title": "Treaty of Aynalıkavak",
     "description": "",
     "time": [
-      1779,
-      10
+      1779
     ],
     "emoji": "🤝",
     "priority": 249,
@@ -5951,8 +5493,7 @@
     "title": "Treaty of Aranjuez",
     "description": "",
     "time": [
-      1779,
-      2
+      1779
     ],
     "emoji": "🤝",
     "priority": 192,
@@ -5963,8 +5504,7 @@
     "title": "Treaty of Aranjuez",
     "description": "",
     "time": [
-      1780,
-      6
+      1780
     ],
     "emoji": "🤝",
     "priority": 192,
@@ -5975,8 +5515,7 @@
     "title": "Edict of Tolerance",
     "description": "",
     "time": [
-      1782,
-      5
+      1782
     ],
     "emoji": "📜",
     "priority": 660,
@@ -5987,8 +5526,7 @@
     "title": "Treaty of Salbai",
     "description": "",
     "time": [
-      1782,
-      3
+      1782
     ],
     "emoji": "🤝",
     "priority": 300,
@@ -5999,8 +5537,7 @@
     "title": "Treaty of Georgievsk",
     "description": "",
     "time": [
-      1783,
-      7
+      1783
     ],
     "emoji": "🤝",
     "priority": 1270,
@@ -6011,8 +5548,7 @@
     "title": "Treaty of Paris",
     "description": "",
     "time": [
-      1783,
-      7
+      1783
     ],
     "emoji": "🤝",
     "priority": 452,
@@ -6023,8 +5559,7 @@
     "title": "US–Sweden Amity Treaty",
     "description": "",
     "time": [
-      1783,
-      3
+      1783
     ],
     "emoji": "🤝",
     "priority": 267,
@@ -6034,8 +5569,7 @@
     "title": "Treaty of Mangalore",
     "description": "",
     "time": [
-      1784,
-      7
+      1784
     ],
     "emoji": "🤝",
     "priority": 1157,
@@ -6046,8 +5580,7 @@
     "title": "Treaty of Fort Stanwix",
     "description": "",
     "time": [
-      1784,
-      2
+      1784
     ],
     "emoji": "🤝",
     "priority": 615,
@@ -6058,8 +5591,7 @@
     "title": "Prussia / US - Commerce Treaty",
     "description": "",
     "time": [
-      1785,
-      9
+      1785
     ],
     "emoji": "🤝",
     "priority": 1791,
@@ -6069,8 +5601,7 @@
     "title": "Treaty of Hopewell",
     "description": "",
     "time": [
-      1785,
-      7
+      1785
     ],
     "emoji": "🤝",
     "priority": 542,
@@ -6081,8 +5612,7 @@
     "title": "Treaty of Fort McIntosh",
     "description": "",
     "time": [
-      1785,
-      4
+      1785
     ],
     "emoji": "🤝",
     "priority": 364,
@@ -6093,8 +5623,7 @@
     "title": "Treaty of Fontainebleau",
     "description": "",
     "time": [
-      1785,
-      4
+      1785
     ],
     "emoji": "🤝",
     "priority": 306,
@@ -6105,8 +5634,7 @@
     "title": "UK France Eden Agreement",
     "description": "",
     "time": [
-      1786,
-      11
+      1786
     ],
     "emoji": "🏛️",
     "priority": 1869,
@@ -6116,8 +5644,7 @@
     "title": "Treaty of Hartford",
     "description": "",
     "time": [
-      1786,
-      4
+      1786
     ],
     "emoji": "🤝",
     "priority": 566,
@@ -6128,8 +5655,7 @@
     "title": "Treaty of Hopewell",
     "description": "",
     "time": [
-      1786,
-      8
+      1786
     ],
     "emoji": "🤝",
     "priority": 542,
@@ -6140,8 +5666,7 @@
     "title": "Moroccan–American Treaty of Friendship",
     "description": "",
     "time": [
-      1786,
-      8
+      1786
     ],
     "emoji": "🤝",
     "priority": 296,
@@ -6152,8 +5677,7 @@
     "title": "Convention of London",
     "description": "",
     "time": [
-      1786,
-      7
+      1786
     ],
     "emoji": "🏛️",
     "priority": 241,
@@ -6163,8 +5687,7 @@
     "title": "US Constitution",
     "description": "",
     "time": [
-      1787,
-      5
+      1787
     ],
     "emoji": "🗳️",
     "priority": 7427,
@@ -6175,8 +5698,7 @@
     "title": "Treaty of Beaufort",
     "description": "",
     "time": [
-      1787,
-      7
+      1787
     ],
     "emoji": "🤝",
     "priority": 436,
@@ -6187,8 +5709,7 @@
     "title": "Third Triple Alliance",
     "description": "",
     "time": [
-      1788,
-      11
+      1788
     ],
     "emoji": "🤝",
     "priority": 381,
@@ -6198,8 +5719,7 @@
     "title": "George Washington became US president",
     "description": "",
     "time": [
-      1789,
-      12
+      1789
     ],
     "emoji": "👑",
     "priority": 2860,
@@ -6209,8 +5729,7 @@
     "title": "Treaty of Fort Harmar",
     "description": "",
     "time": [
-      1789,
-      9
+      1789
     ],
     "emoji": "🤝",
     "priority": 341,
@@ -6221,8 +5740,7 @@
     "title": "Jay–Gardoqui Treaty",
     "description": "",
     "time": [
-      1789,
-      5
+      1789
     ],
     "emoji": "🤝",
     "priority": 287,
@@ -6233,8 +5751,7 @@
     "title": "Treaty of New York",
     "description": "",
     "time": [
-      1790,
-      5
+      1790
     ],
     "emoji": "🤝",
     "priority": 365,
@@ -6245,8 +5762,7 @@
     "title": "Treaty of Reichenbach",
     "description": "",
     "time": [
-      1790,
-      3
+      1790
     ],
     "emoji": "🤝",
     "priority": 160,
@@ -6257,8 +5773,7 @@
     "title": "Treaty of Värälä",
     "description": "",
     "time": [
-      1790,
-      7
+      1790
     ],
     "emoji": "🤝",
     "priority": 132,
@@ -6268,8 +5783,7 @@
     "title": "Treaty of Holston",
     "description": "",
     "time": [
-      1791,
-      8
+      1791
     ],
     "emoji": "🤝",
     "priority": 332,
@@ -6280,8 +5794,7 @@
     "title": "Treaty of Sistova",
     "description": "",
     "time": [
-      1791,
-      8
+      1791
     ],
     "emoji": "🤝",
     "priority": 300,
@@ -6292,8 +5805,7 @@
     "title": "Treaty of Seringapatam",
     "description": "",
     "time": [
-      1792,
-      9
+      1792
     ],
     "emoji": "🤝",
     "priority": 342,
@@ -6304,8 +5816,7 @@
     "title": "Treaty of Jassy",
     "description": "",
     "time": [
-      1792,
-      11
+      1792
     ],
     "emoji": "🤝",
     "priority": 215,
@@ -6316,8 +5827,7 @@
     "title": "Jay Treaty",
     "description": "",
     "time": [
-      1794,
-      11
+      1794
     ],
     "emoji": "🤝",
     "priority": 1808,
@@ -6328,8 +5838,7 @@
     "title": "Treaty of Canandaigua",
     "description": "",
     "time": [
-      1794,
-      2
+      1794
     ],
     "emoji": "🤝",
     "priority": 408,
@@ -6340,8 +5849,7 @@
     "title": "Pinckney's Treaty",
     "description": "",
     "time": [
-      1795,
-      5
+      1795
     ],
     "emoji": "🤝",
     "priority": 609,
@@ -6352,8 +5860,7 @@
     "title": "Treaty of Greenville",
     "description": "",
     "time": [
-      1795,
-      2
+      1795
     ],
     "emoji": "🤝",
     "priority": 459,
@@ -6364,8 +5871,7 @@
     "title": "Treaty of The Hague",
     "description": "",
     "time": [
-      1795,
-      4
+      1795
     ],
     "emoji": "🤝",
     "priority": 306,
@@ -6376,8 +5882,7 @@
     "title": "Treaty of Basel",
     "description": "",
     "time": [
-      1795,
-      6
+      1795
     ],
     "emoji": "🤝",
     "priority": 165,
@@ -6388,8 +5893,7 @@
     "title": "Treaty of New York",
     "description": "",
     "time": [
-      1796,
-      3
+      1796
     ],
     "emoji": "🤝",
     "priority": 365,
@@ -6400,8 +5904,7 @@
     "title": "Treaty of Colerain",
     "description": "",
     "time": [
-      1796,
-      6
+      1796
     ],
     "emoji": "🤝",
     "priority": 305,
@@ -6412,8 +5915,7 @@
     "title": "Second Treaty of San Ildefonso",
     "description": "",
     "time": [
-      1796,
-      8
+      1796
     ],
     "emoji": "🤝",
     "priority": 180,
@@ -6424,8 +5926,7 @@
     "title": "Treaty with Tripoli",
     "description": "",
     "time": [
-      1796,
-      2
+      1796
     ],
     "emoji": "🤝",
     "priority": 71,
@@ -6435,8 +5936,7 @@
     "title": "John Adams became US president",
     "description": "",
     "time": [
-      1797,
-      6
+      1797
     ],
     "emoji": "👑",
     "priority": 1658,
@@ -6446,8 +5946,7 @@
     "title": "Treaty of Campo Formio",
     "description": "",
     "time": [
-      1797,
-      2
+      1797
     ],
     "emoji": "🤝",
     "priority": 584,
@@ -6458,8 +5957,7 @@
     "title": "Treaty of Tolentino",
     "description": "",
     "time": [
-      1797,
-      7
+      1797
     ],
     "emoji": "🤝",
     "priority": 408,
@@ -6470,8 +5968,7 @@
     "title": "Treaty of Leoben",
     "description": "",
     "time": [
-      1797,
-      5
+      1797
     ],
     "emoji": "🤝",
     "priority": 377,
@@ -6482,8 +5979,7 @@
     "title": "Treaty with Tunis",
     "description": "",
     "time": [
-      1797,
-      11
+      1797
     ],
     "emoji": "🤝",
     "priority": 233,
@@ -6494,8 +5990,7 @@
     "title": "Third Treaty of San Ildefonso",
     "description": "",
     "time": [
-      1800,
-      10
+      1800
     ],
     "emoji": "🤝",
     "priority": 969,
@@ -6506,8 +6001,7 @@
     "title": "Treaty of Mortefontaine",
     "description": "",
     "time": [
-      1800,
-      12
+      1800
     ],
     "emoji": "🤝",
     "priority": 132,
@@ -6517,8 +6011,7 @@
     "title": "Thomas Jefferson became US president",
     "description": "",
     "time": [
-      1801,
-      7
+      1801
     ],
     "emoji": "👑",
     "priority": 2382,
@@ -6528,8 +6021,7 @@
     "title": "Treaty of Florence",
     "description": "",
     "time": [
-      1801,
-      11
+      1801
     ],
     "emoji": "🤝",
     "priority": 521,
@@ -6540,8 +6032,7 @@
     "title": "Treaty of Madrid",
     "description": "",
     "time": [
-      1801,
-      6
+      1801
     ],
     "emoji": "🤝",
     "priority": 245,
@@ -6552,8 +6043,7 @@
     "title": "Treaty of Lunéville",
     "description": "",
     "time": [
-      1801,
-      7
+      1801
     ],
     "emoji": "🤝",
     "priority": 233,
@@ -6575,8 +6065,7 @@
     "title": "Treaty of Badajoz",
     "description": "",
     "time": [
-      1801,
-      2
+      1801
     ],
     "emoji": "🤝",
     "priority": 161,
@@ -6587,8 +6076,7 @@
     "title": "France - UK Treaty of Amiens",
     "description": "",
     "time": [
-      1802,
-      10
+      1802
     ],
     "emoji": "🤝",
     "priority": 882,
@@ -6598,8 +6086,7 @@
     "title": "Treaty of Al Arish",
     "description": "",
     "time": [
-      1802,
-      11
+      1802
     ],
     "emoji": "🤝",
     "priority": 221,
@@ -6609,8 +6096,7 @@
     "title": "Treaty of Bassein",
     "description": "",
     "time": [
-      1802,
-      4
+      1802
     ],
     "emoji": "🤝",
     "priority": 175,
@@ -6621,8 +6107,7 @@
     "title": "Treaty of Surji-Anjangaon",
     "description": "",
     "time": [
-      1803,
-      12
+      1803
     ],
     "emoji": "🤝",
     "priority": 256,
@@ -6633,8 +6118,7 @@
     "title": "Treaty of Fort Wayne",
     "description": "",
     "time": [
-      1803,
-      9
+      1803
     ],
     "emoji": "🤝",
     "priority": 180,
@@ -6645,8 +6129,7 @@
     "title": "Treaty of St Louis",
     "description": "",
     "time": [
-      1804,
-      7
+      1804
     ],
     "emoji": "🤝",
     "priority": 1179,
@@ -6657,8 +6140,7 @@
     "title": "US and Tripoli Peace Treaty",
     "description": "",
     "time": [
-      1805,
-      6
+      1805
     ],
     "emoji": "🤝",
     "priority": 684,
@@ -6668,8 +6150,7 @@
     "title": "Treaty of Fort Industry",
     "description": "",
     "time": [
-      1805,
-      11
+      1805
     ],
     "emoji": "🤝",
     "priority": 296,
@@ -6680,8 +6161,7 @@
     "title": "Treaty of Pressburg",
     "description": "",
     "time": [
-      1805,
-      7
+      1805
     ],
     "emoji": "🤝",
     "priority": 159,
@@ -6692,8 +6172,7 @@
     "title": "Treaty of Poznań",
     "description": "",
     "time": [
-      1806,
-      10
+      1806
     ],
     "emoji": "🤝",
     "priority": 147,
@@ -6704,8 +6183,7 @@
     "title": "Treaties of Tilsit",
     "description": "",
     "time": [
-      1807,
-      7
+      1807
     ],
     "emoji": "🏛️",
     "priority": 732,
@@ -6716,8 +6194,7 @@
     "title": "Treaty of Fontainebleau",
     "description": "",
     "time": [
-      1807,
-      10
+      1807
     ],
     "emoji": "🤝",
     "priority": 306,
@@ -6728,8 +6205,7 @@
     "title": "Treaty of Detroit",
     "description": "",
     "time": [
-      1807,
-      11
+      1807
     ],
     "emoji": "🤝",
     "priority": 302,
@@ -6762,8 +6238,7 @@
     "title": "James Madison became US president",
     "description": "",
     "time": [
-      1809,
-      4
+      1809
     ],
     "emoji": "👑",
     "priority": 1002,
@@ -6773,8 +6248,7 @@
     "title": "Treaty of Hamina",
     "description": "",
     "time": [
-      1809,
-      8
+      1809
     ],
     "emoji": "🤝",
     "priority": 315,
@@ -6785,8 +6259,7 @@
     "title": "Treaty of Schönbrunn",
     "description": "",
     "time": [
-      1809,
-      8
+      1809
     ],
     "emoji": "🤝",
     "priority": 281,
@@ -6797,8 +6270,7 @@
     "title": "Treaty of the Dardanelles",
     "description": "",
     "time": [
-      1809,
-      9
+      1809
     ],
     "emoji": "🤝",
     "priority": 224,
@@ -6809,8 +6281,7 @@
     "title": "Treaty of Fort Wayne",
     "description": "",
     "time": [
-      1809,
-      5
+      1809
     ],
     "emoji": "🤝",
     "priority": 180,
@@ -6821,8 +6292,7 @@
     "title": "Treaty of Amritsar",
     "description": "",
     "time": [
-      1809,
-      7
+      1809
     ],
     "emoji": "🤝",
     "priority": 179,
@@ -6833,8 +6303,7 @@
     "title": "Treaty of Paris",
     "description": "",
     "time": [
-      1810,
-      10
+      1810
     ],
     "emoji": "🤝",
     "priority": 452,
@@ -6845,8 +6314,7 @@
     "title": "Treaty of Bucharest",
     "description": "",
     "time": [
-      1812,
-      7
+      1812
     ],
     "emoji": "🤝",
     "priority": 204,
@@ -6857,8 +6325,7 @@
     "title": "Treaty of Gulistan",
     "description": "",
     "time": [
-      1813,
-      6
+      1813
     ],
     "emoji": "🤝",
     "priority": 1445,
@@ -6869,8 +6336,7 @@
     "title": "Treaties of Reichenbach",
     "description": "",
     "time": [
-      1813,
-      7
+      1813
     ],
     "emoji": "🏛️",
     "priority": 314,
@@ -6881,8 +6347,7 @@
     "title": "Treaty of Peterswaldau",
     "description": "",
     "time": [
-      1813,
-      11
+      1813
     ],
     "emoji": "🤝",
     "priority": 222,
@@ -6893,8 +6358,7 @@
     "title": "Treaty of Töplitz",
     "description": "",
     "time": [
-      1813,
-      5
+      1813
     ],
     "emoji": "🤝",
     "priority": 194,
@@ -6905,8 +6369,7 @@
     "title": "Treaty of Ried",
     "description": "",
     "time": [
-      1813,
-      7
+      1813
     ],
     "emoji": "🤝",
     "priority": 189,
@@ -6917,8 +6380,7 @@
     "title": "Treaty of Fulda",
     "description": "",
     "time": [
-      1813,
-      4
+      1813
     ],
     "emoji": "🤝",
     "priority": 182,
@@ -6929,8 +6391,7 @@
     "title": "Treaty of Kalisz",
     "description": "",
     "time": [
-      1813,
-      12
+      1813
     ],
     "emoji": "🤝",
     "priority": 164,
@@ -6941,8 +6402,7 @@
     "title": "Treaty of Ghent",
     "description": "",
     "time": [
-      1814,
-      5
+      1814
     ],
     "emoji": "🤝",
     "priority": 1641,
@@ -6953,8 +6413,7 @@
     "title": "Treaty of Kiel",
     "description": "",
     "time": [
-      1814,
-      11
+      1814
     ],
     "emoji": "🤝",
     "priority": 1371,
@@ -6965,8 +6424,7 @@
     "title": "Treaty of Fort Jackson",
     "description": "",
     "time": [
-      1814,
-      11
+      1814
     ],
     "emoji": "🤝",
     "priority": 1163,
@@ -6977,8 +6435,7 @@
     "title": "London Protocol",
     "description": "",
     "time": [
-      1814,
-      2
+      1814
     ],
     "emoji": "🏛️",
     "priority": 687,
@@ -6989,8 +6446,7 @@
     "title": "Convention of Moss",
     "description": "",
     "time": [
-      1814,
-      9
+      1814
     ],
     "emoji": "🏛️",
     "priority": 516,
@@ -7001,8 +6457,7 @@
     "title": "Third Treaty of Paris",
     "description": "",
     "time": [
-      1814,
-      11
+      1814
     ],
     "emoji": "🤝",
     "priority": 369,
@@ -7012,8 +6467,7 @@
     "title": "Treaty of Fontainebleau",
     "description": "",
     "time": [
-      1814,
-      4
+      1814
     ],
     "emoji": "🤝",
     "priority": 306,
@@ -7024,8 +6478,7 @@
     "title": "First Anglo-Dutch Treaty",
     "description": "",
     "time": [
-      1814,
-      11
+      1814
     ],
     "emoji": "🤝",
     "priority": 161,
@@ -7036,8 +6489,7 @@
     "title": "Final Act of the Congress of Vienna",
     "description": "",
     "time": [
-      1815,
-      7
+      1815
     ],
     "emoji": "🏛️",
     "priority": 1621,
@@ -7047,8 +6499,7 @@
     "title": "Sugauli Treaty",
     "description": "",
     "time": [
-      1815,
-      9
+      1815
     ],
     "emoji": "🤝",
     "priority": 1519,
@@ -7059,8 +6510,7 @@
     "title": "the Second Treaty of Paris",
     "description": "",
     "time": [
-      1815,
-      10
+      1815
     ],
     "emoji": "🤝",
     "priority": 1154,
@@ -7071,8 +6521,7 @@
     "title": "Fourth Treaty of Paris",
     "description": "",
     "time": [
-      1815,
-      7
+      1815
     ],
     "emoji": "🤝",
     "priority": 366,
@@ -7083,8 +6532,7 @@
     "title": "Treaty of Springwells",
     "description": "",
     "time": [
-      1815,
-      6
+      1815
     ],
     "emoji": "🤝",
     "priority": 277,
@@ -7095,8 +6543,7 @@
     "title": "Treaty of St Louis",
     "description": "",
     "time": [
-      1816,
-      2
+      1816
     ],
     "emoji": "🤝",
     "priority": 1179,
@@ -7107,8 +6554,7 @@
     "title": "James Monroe became US president",
     "description": "",
     "time": [
-      1817,
-      5
+      1817
     ],
     "emoji": "👑",
     "priority": 2318,
@@ -7118,8 +6564,7 @@
     "title": "Treaty of Titalia",
     "description": "",
     "time": [
-      1817,
-      5
+      1817
     ],
     "emoji": "🤝",
     "priority": 481,
@@ -7130,8 +6575,7 @@
     "title": "Rush–Bagot Treaty",
     "description": "",
     "time": [
-      1817,
-      8
+      1817
     ],
     "emoji": "🤝",
     "priority": 466,
@@ -7142,8 +6586,7 @@
     "title": "Treaty of Fort Meigs",
     "description": "",
     "time": [
-      1817,
-      2
+      1817
     ],
     "emoji": "🤝",
     "priority": 276,
@@ -7154,8 +6597,7 @@
     "title": "Treaty of St Louis",
     "description": "",
     "time": [
-      1818,
-      7
+      1818
     ],
     "emoji": "🤝",
     "priority": 1179,
@@ -7166,8 +6608,7 @@
     "title": "Treaty of St Mary's",
     "description": "",
     "time": [
-      1818,
-      10
+      1818
     ],
     "emoji": "🤝",
     "priority": 875,
@@ -7178,8 +6619,7 @@
     "title": "Treaty of the Creek Agency",
     "description": "",
     "time": [
-      1818,
-      4
+      1818
     ],
     "emoji": "🤝",
     "priority": 173,
@@ -7190,8 +6630,7 @@
     "title": "Adams–Onís Treaty",
     "description": "",
     "time": [
-      1819,
-      4
+      1819
     ],
     "emoji": "🤝",
     "priority": 817,
@@ -7212,8 +6651,7 @@
     "title": "Treaty of Doak's Stand",
     "description": "",
     "time": [
-      1820,
-      7
+      1820
     ],
     "emoji": "🤝",
     "priority": 374,
@@ -7224,8 +6662,7 @@
     "title": "Treaty of Chicago",
     "description": "",
     "time": [
-      1821,
-      2
+      1821
     ],
     "emoji": "🤝",
     "priority": 1844,
@@ -7236,8 +6673,7 @@
     "title": "Treaty of Indian Springs",
     "description": "",
     "time": [
-      1821,
-      2
+      1821
     ],
     "emoji": "🤝",
     "priority": 470,
@@ -7248,8 +6684,7 @@
     "title": "Treaty of Córdoba",
     "description": "",
     "time": [
-      1821,
-      6
+      1821
     ],
     "emoji": "🤝",
     "priority": 331,
@@ -7260,8 +6695,7 @@
     "title": "Capitulation of Quito",
     "description": "",
     "time": [
-      1822,
-      8
+      1822
     ],
     "emoji": "🏛️",
     "priority": 178,
@@ -7271,8 +6705,7 @@
     "title": "Second Anglo-Dutch Treaty",
     "description": "",
     "time": [
-      1824,
-      10
+      1824
     ],
     "emoji": "🤝",
     "priority": 255,
@@ -7282,8 +6715,7 @@
     "title": "Russo-American Treaty",
     "description": "",
     "time": [
-      1824,
-      7
+      1824
     ],
     "emoji": "🤝",
     "priority": 218,
@@ -7294,8 +6726,7 @@
     "title": "Anderson–Gual Treaty",
     "description": "",
     "time": [
-      1824,
-      9
+      1824
     ],
     "emoji": "🤝",
     "priority": 185,
@@ -7306,8 +6737,7 @@
     "title": "John Quincy Adams became US president",
     "description": "",
     "time": [
-      1825,
-      12
+      1825
     ],
     "emoji": "👑",
     "priority": 2658,
@@ -7317,8 +6747,7 @@
     "title": "Treaty of St Louis",
     "description": "",
     "time": [
-      1825,
-      7
+      1825
     ],
     "emoji": "🤝",
     "priority": 1179,
@@ -7329,8 +6758,7 @@
     "title": "Treaty of Prairie du Chien",
     "description": "",
     "time": [
-      1825,
-      8
+      1825
     ],
     "emoji": "🤝",
     "priority": 558,
@@ -7341,8 +6769,7 @@
     "title": "Treaty of Indian Springs",
     "description": "",
     "time": [
-      1825,
-      5
+      1825
     ],
     "emoji": "🤝",
     "priority": 470,
@@ -7353,8 +6780,7 @@
     "title": "Treaty of Saint Petersburg",
     "description": "",
     "time": [
-      1825,
-      8
+      1825
     ],
     "emoji": "🤝",
     "priority": 231,
@@ -7365,8 +6791,7 @@
     "title": "United States–Central America Treaty",
     "description": "",
     "time": [
-      1825,
-      7
+      1825
     ],
     "emoji": "🤝",
     "priority": 227,
@@ -7377,8 +6802,7 @@
     "title": "Treaty of Hanover",
     "description": "",
     "time": [
-      1825,
-      8
+      1825
     ],
     "emoji": "🤝",
     "priority": 183,
@@ -7389,8 +6813,7 @@
     "title": "Osage Treaty",
     "description": "",
     "time": [
-      1825,
-      9
+      1825
     ],
     "emoji": "🤝",
     "priority": 168,
@@ -7401,8 +6824,7 @@
     "title": "Treaty of Yandaboo",
     "description": "",
     "time": [
-      1826,
-      7
+      1826
     ],
     "emoji": "🤝",
     "priority": 1440,
@@ -7413,8 +6835,7 @@
     "title": "Treaty of Mississinwas",
     "description": "",
     "time": [
-      1826,
-      2
+      1826
     ],
     "emoji": "🤝",
     "priority": 347,
@@ -7425,8 +6846,7 @@
     "title": "Burney Treaty",
     "description": "",
     "time": [
-      1826,
-      4
+      1826
     ],
     "emoji": "🤝",
     "priority": 329,
@@ -7437,8 +6857,7 @@
     "title": "Akkerman Convention",
     "description": "",
     "time": [
-      1826,
-      7
+      1826
     ],
     "emoji": "🏛️",
     "priority": 245,
@@ -7449,8 +6868,7 @@
     "title": "Treaty of London",
     "description": "",
     "time": [
-      1827,
-      7
+      1827
     ],
     "emoji": "🤝",
     "priority": 396,
@@ -7461,8 +6879,7 @@
     "title": "Treaty of Turkmenchay",
     "description": "",
     "time": [
-      1828,
-      11
+      1828
     ],
     "emoji": "🤝",
     "priority": 797,
@@ -7473,8 +6890,7 @@
     "title": "Treaty of Limits - Mexico–United States",
     "description": "",
     "time": [
-      1828,
-      7
+      1828
     ],
     "emoji": "🤝",
     "priority": 249,
@@ -7485,8 +6901,7 @@
     "title": "Treaty of Montevideo",
     "description": "",
     "time": [
-      1828,
-      7
+      1828
     ],
     "emoji": "🤝",
     "priority": 196,
@@ -7497,8 +6912,7 @@
     "title": "Jackson became US president",
     "description": "",
     "time": [
-      1829,
-      7
+      1829
     ],
     "emoji": "👑",
     "priority": 1826,
@@ -7508,8 +6922,7 @@
     "title": "Treaty of Prairie du Chien",
     "description": "",
     "time": [
-      1829,
-      7
+      1829
     ],
     "emoji": "🤝",
     "priority": 558,
@@ -7531,8 +6944,7 @@
     "title": "London Protocol",
     "description": "",
     "time": [
-      1830,
-      7
+      1830
     ],
     "emoji": "🏛️",
     "priority": 1687,
@@ -7543,8 +6955,7 @@
     "title": "Treaty of Dancing Rabbit Creek",
     "description": "",
     "time": [
-      1830,
-      4
+      1830
     ],
     "emoji": "🤝",
     "priority": 1215,
@@ -7555,8 +6966,7 @@
     "title": "London Protocol",
     "description": "",
     "time": [
-      1830,
-      6
+      1830
     ],
     "emoji": "🏛️",
     "priority": 687,
@@ -7567,8 +6977,7 @@
     "title": "Pacto Federal",
     "description": "",
     "time": [
-      1831,
-      12
+      1831
     ],
     "emoji": "🤝",
     "priority": 246,
@@ -7578,8 +6987,7 @@
     "title": "Treaty of the Eighteen Articles",
     "description": "",
     "time": [
-      1831,
-      2
+      1831
     ],
     "emoji": "🤝",
     "priority": 184,
@@ -7590,8 +6998,7 @@
     "title": "Treaty of Cusseta",
     "description": "",
     "time": [
-      1832,
-      10
+      1832
     ],
     "emoji": "🤝",
     "priority": 457,
@@ -7602,8 +7009,7 @@
     "title": "Treaty of Constantinople",
     "description": "",
     "time": [
-      1832,
-      8
+      1832
     ],
     "emoji": "🤝",
     "priority": 319,
@@ -7614,8 +7020,7 @@
     "title": "Slavery abolished in British Empire",
     "description": "",
     "time": [
-      1833,
-      5
+      1833
     ],
     "emoji": "🏛️",
     "priority": 5737,
@@ -7625,8 +7030,7 @@
     "title": "Treaty of Hünkâr İskelesi",
     "description": "",
     "time": [
-      1833,
-      2
+      1833
     ],
     "emoji": "🤝",
     "priority": 893,
@@ -7636,8 +7040,7 @@
     "title": "Treaty of Chicago",
     "description": "",
     "time": [
-      1833,
-      12
+      1833
     ],
     "emoji": "🤝",
     "priority": 844,
@@ -7648,8 +7051,7 @@
     "title": "Convention of Kütahya",
     "description": "",
     "time": [
-      1833,
-      7
+      1833
     ],
     "emoji": "🏛️",
     "priority": 312,
@@ -7660,8 +7062,7 @@
     "title": "Treaty of Zonhoven",
     "description": "",
     "time": [
-      1833,
-      10
+      1833
     ],
     "emoji": "🤝",
     "priority": 282,
@@ -7672,8 +7073,7 @@
     "title": "Treaty of Desmichels",
     "description": "",
     "time": [
-      1834,
-      2
+      1834
     ],
     "emoji": "🤝",
     "priority": 104,
@@ -7683,8 +7083,7 @@
     "title": "Treaty of New Echota",
     "description": "",
     "time": [
-      1835,
-      4
+      1835
     ],
     "emoji": "🤝",
     "priority": 1406,
@@ -7695,8 +7094,7 @@
     "title": "Batman's Treaty",
     "description": "",
     "time": [
-      1835,
-      10
+      1835
     ],
     "emoji": "🤝",
     "priority": 854,
@@ -7707,8 +7105,7 @@
     "title": "Treaties of Velasco",
     "description": "",
     "time": [
-      1836,
-      9
+      1836
     ],
     "emoji": "🏛️",
     "priority": 596,
@@ -7719,8 +7116,7 @@
     "title": "Treaty of Washington",
     "description": "",
     "time": [
-      1836,
-      11
+      1836
     ],
     "emoji": "🤝",
     "priority": 150,
@@ -7730,8 +7126,7 @@
     "title": "Martin Van Buren became US president",
     "description": "",
     "time": [
-      1837,
-      10
+      1837
     ],
     "emoji": "👑",
     "priority": 1319,
@@ -7741,8 +7136,7 @@
     "title": "Treaty of Tafna",
     "description": "",
     "time": [
-      1837,
-      7
+      1837
     ],
     "emoji": "🤝",
     "priority": 315,
@@ -7753,8 +7147,7 @@
     "title": "Munich Coin Treaty",
     "description": "",
     "time": [
-      1837,
-      6
+      1837
     ],
     "emoji": "🤝",
     "priority": 275,
@@ -7765,8 +7158,7 @@
     "title": "Treaty of Buffalo Creek",
     "description": "",
     "time": [
-      1838,
-      4
+      1838
     ],
     "emoji": "🤝",
     "priority": 504,
@@ -7777,8 +7169,7 @@
     "title": "Treaty of Balta Liman",
     "description": "",
     "time": [
-      1838,
-      2
+      1838
     ],
     "emoji": "🤝",
     "priority": 487,
@@ -7789,8 +7180,7 @@
     "title": "Dresden Coinage Convention",
     "description": "",
     "time": [
-      1838,
-      10
+      1838
     ],
     "emoji": "🏛️",
     "priority": 292,
@@ -7801,8 +7191,7 @@
     "title": "Treaty of London",
     "description": "",
     "time": [
-      1839,
-      8
+      1839
     ],
     "emoji": "🤝",
     "priority": 396,
@@ -7813,8 +7202,7 @@
     "title": "Edict of Toleration - Hawaii",
     "description": "",
     "time": [
-      1839,
-      11
+      1839
     ],
     "emoji": "📜",
     "priority": 203,
@@ -7825,8 +7213,7 @@
     "title": "Treaty of Waitangi",
     "description": "",
     "time": [
-      1840,
-      12
+      1840
     ],
     "emoji": "🤝",
     "priority": 1,
@@ -7836,8 +7223,7 @@
     "title": "John Tyler became US president",
     "description": "",
     "time": [
-      1841,
-      12
+      1841
     ],
     "emoji": "👑",
     "priority": 1476,
@@ -7847,8 +7233,7 @@
     "title": "Webster–Ashburton Treaty",
     "description": "",
     "time": [
-      1842,
-      12
+      1842
     ],
     "emoji": "🤝",
     "priority": 894,
@@ -7859,8 +7244,7 @@
     "title": "Treaty of Nanjing",
     "description": "",
     "time": [
-      1842,
-      8
+      1842
     ],
     "emoji": "🤝",
     "priority": 708,
@@ -7871,8 +7255,7 @@
     "title": "Treaty of Maastricht",
     "description": "",
     "time": [
-      1843,
-      5
+      1843
     ],
     "emoji": "🤝",
     "priority": 476,
@@ -7882,8 +7265,7 @@
     "title": "Treaty of Tehuacana Creek",
     "description": "",
     "time": [
-      1844,
-      5
+      1844
     ],
     "emoji": "🤝",
     "priority": 685,
@@ -7894,8 +7276,7 @@
     "title": "Treaty of Wanghia",
     "description": "",
     "time": [
-      1844,
-      12
+      1844
     ],
     "emoji": "🤝",
     "priority": 421,
@@ -7906,8 +7287,7 @@
     "title": "Treaty of Whampoa",
     "description": "",
     "time": [
-      1844,
-      8
+      1844
     ],
     "emoji": "🤝",
     "priority": 277,
@@ -7918,8 +7298,7 @@
     "title": "Treaty of Tangiers",
     "description": "",
     "time": [
-      1844,
-      10
+      1844
     ],
     "emoji": "🤝",
     "priority": 166,
@@ -7930,8 +7309,7 @@
     "title": "James K. Polk became US president",
     "description": "",
     "time": [
-      1845,
-      7
+      1845
     ],
     "emoji": "👑",
     "priority": 2064,
@@ -7941,8 +7319,7 @@
     "title": "Treaty of Lahore",
     "description": "",
     "time": [
-      1846,
-      4
+      1846
     ],
     "emoji": "🤝",
     "priority": 1414,
@@ -7953,8 +7330,7 @@
     "title": "Oregon Treaty",
     "description": "",
     "time": [
-      1846,
-      8
+      1846
     ],
     "emoji": "🤝",
     "priority": 620,
@@ -7965,8 +7341,7 @@
     "title": "Mallarino–Bidlack Treaty",
     "description": "",
     "time": [
-      1846,
-      5
+      1846
     ],
     "emoji": "🤝",
     "priority": 267,
@@ -7977,8 +7352,7 @@
     "title": "Treaty of Amritsar",
     "description": "",
     "time": [
-      1846,
-      4
+      1846
     ],
     "emoji": "🤝",
     "priority": 179,
@@ -7989,8 +7363,7 @@
     "title": "Treaty of Cahuenga",
     "description": "",
     "time": [
-      1847,
-      3
+      1847
     ],
     "emoji": "🤝",
     "priority": 909,
@@ -8001,8 +7374,7 @@
     "title": "Manifesto",
     "description": "",
     "time": [
-      1847,
-      7
+      1847
     ],
     "emoji": "🏛️",
     "priority": 1,
@@ -8012,8 +7384,7 @@
     "title": "Treaty of Guadalupe Hidalgo",
     "description": "",
     "time": [
-      1848,
-      5
+      1848
     ],
     "emoji": "🤝",
     "priority": 2451,
@@ -8024,8 +7395,7 @@
     "title": "Taylor became US president",
     "description": "",
     "time": [
-      1849,
-      9
+      1849
     ],
     "emoji": "👑",
     "priority": 1227,
@@ -8045,8 +7415,7 @@
     "title": "Arana–Southern Treaty",
     "description": "",
     "time": [
-      1850,
-      2
+      1850
     ],
     "emoji": "🤝",
     "priority": 894,
@@ -8057,8 +7426,7 @@
     "title": "Clayton–Bulwer Treaty",
     "description": "",
     "time": [
-      1850,
-      8
+      1850
     ],
     "emoji": "🤝",
     "priority": 610,
@@ -8080,8 +7448,7 @@
     "title": "Treaty of Mendota",
     "description": "",
     "time": [
-      1851,
-      7
+      1851
     ],
     "emoji": "🤝",
     "priority": 1473,
@@ -8103,8 +7470,7 @@
     "title": "Treaty of Kulja",
     "description": "",
     "time": [
-      1851,
-      10
+      1851
     ],
     "emoji": "🤝",
     "priority": 328,
@@ -8115,8 +7481,7 @@
     "title": "Treaty of Fort Laramie",
     "description": "",
     "time": [
-      1851,
-      12
+      1851
     ],
     "emoji": "🤝",
     "priority": 165,
@@ -8127,8 +7492,7 @@
     "title": "London Protocol",
     "description": "",
     "time": [
-      1852,
-      8
+      1852
     ],
     "emoji": "🏛️",
     "priority": 687,
@@ -8139,8 +7503,7 @@
     "title": "Sand River Convention",
     "description": "",
     "time": [
-      1852,
-      4
+      1852
     ],
     "emoji": "🏛️",
     "priority": 430,
@@ -8151,8 +7514,7 @@
     "title": "Pierce became US president",
     "description": "",
     "time": [
-      1853,
-      7
+      1853
     ],
     "emoji": "👑",
     "priority": 1940,
@@ -8173,8 +7535,7 @@
     "title": "Convention of Kanagawa",
     "description": "",
     "time": [
-      1854,
-      4
+      1854
     ],
     "emoji": "🏛️",
     "priority": 984,
@@ -8185,8 +7546,7 @@
     "title": "Treaty of Medicine Creek",
     "description": "",
     "time": [
-      1854,
-      11
+      1854
     ],
     "emoji": "🤝",
     "priority": 521,
@@ -8197,8 +7557,7 @@
     "title": "Treaty with the Umpqua and Kalapuya",
     "description": "",
     "time": [
-      1854,
-      7
+      1854
     ],
     "emoji": "🤝",
     "priority": 443,
@@ -8209,8 +7568,7 @@
     "title": "Anglo-Japanese Friendship Treaty&#",
     "description": "",
     "time": [
-      1854,
-      2
+      1854
     ],
     "emoji": "🤝",
     "priority": 1
@@ -8219,8 +7577,7 @@
     "title": "Bowring Treaty",
     "description": "",
     "time": [
-      1855,
-      7
+      1855
     ],
     "emoji": "🤝",
     "priority": 500,
@@ -8231,8 +7588,7 @@
     "title": "Fifth Treaty of Paris",
     "description": "",
     "time": [
-      1856,
-      8
+      1856
     ],
     "emoji": "🤝",
     "priority": 162,
@@ -8242,8 +7598,7 @@
     "title": "Treaty of Tientsin",
     "description": "",
     "time": [
-      1858,
-      7
+      1858
     ],
     "emoji": "🤝",
     "priority": 443,
@@ -8254,8 +7609,7 @@
     "title": "Treaty of Aigun",
     "description": "",
     "time": [
-      1858,
-      9
+      1858
     ],
     "emoji": "🤝",
     "priority": 427,
@@ -8266,8 +7620,7 @@
     "title": "US - Japan Amity Treaty",
     "description": "",
     "time": [
-      1858,
-      2
+      1858
     ],
     "emoji": "🤝",
     "priority": 164,
@@ -8277,8 +7630,7 @@
     "title": "Treaty of Zurich",
     "description": "",
     "time": [
-      1859,
-      6
+      1859
     ],
     "emoji": "🤝",
     "priority": 197,
@@ -8289,8 +7641,7 @@
     "title": "Convention of Peking",
     "description": "",
     "time": [
-      1860,
-      3
+      1860
     ],
     "emoji": "👑",
     "priority": 451,
@@ -8301,8 +7652,7 @@
     "title": "Cobden–Chevalier Treaty",
     "description": "",
     "time": [
-      1860,
-      10
+      1860
     ],
     "emoji": "🤝",
     "priority": 384,
@@ -8313,8 +7663,7 @@
     "title": "Lincoln became US president",
     "description": "",
     "time": [
-      1861,
-      12
+      1861
     ],
     "emoji": "👑",
     "priority": 1420,
@@ -8324,8 +7673,7 @@
     "title": "Franco-Monegasque Treaty",
     "description": "",
     "time": [
-      1861,
-      8
+      1861
     ],
     "emoji": "🤝",
     "priority": 290,
@@ -8336,8 +7684,7 @@
     "title": "Treaty of Commerce and Navigation",
     "description": "",
     "time": [
-      1862,
-      11
+      1862
     ],
     "emoji": "🤝",
     "priority": 273,
@@ -8348,8 +7695,7 @@
     "title": "First Treaty of Saigon",
     "description": "",
     "time": [
-      1862,
-      7
+      1862
     ],
     "emoji": "🤝",
     "priority": 271,
@@ -8360,8 +7706,7 @@
     "title": "Convention of Scutari",
     "description": "",
     "time": [
-      1862,
-      5
+      1862
     ],
     "emoji": "🏛️",
     "priority": 179,
@@ -8372,8 +7717,7 @@
     "title": "Treaty of Ruby Valley",
     "description": "",
     "time": [
-      1863,
-      11
+      1863
     ],
     "emoji": "🤝",
     "priority": 739,
@@ -8384,8 +7728,7 @@
     "title": "Treaty of Hué",
     "description": "",
     "time": [
-      1863,
-      9
+      1863
     ],
     "emoji": "🤝",
     "priority": 124,
@@ -8407,8 +7750,7 @@
     "title": "First Geneva Convention",
     "description": "",
     "time": [
-      1864,
-      9
+      1864
     ],
     "emoji": "🏛️",
     "priority": 1813,
@@ -8419,8 +7761,7 @@
     "title": "Treaty of London",
     "description": "",
     "time": [
-      1864,
-      8
+      1864
     ],
     "emoji": "🤝",
     "priority": 396,
@@ -8431,8 +7772,7 @@
     "title": "Treaty of Vienna",
     "description": "",
     "time": [
-      1864,
-      2
+      1864
     ],
     "emoji": "🤝",
     "priority": 262,
@@ -8443,8 +7783,7 @@
     "title": "Johnson became US president",
     "description": "",
     "time": [
-      1865,
-      11
+      1865
     ],
     "emoji": "👑",
     "priority": 2059,
@@ -8454,8 +7793,7 @@
     "title": "Hampton Roads Conference",
     "description": "",
     "time": [
-      1865,
-      10
+      1865
     ],
     "emoji": "🏛️",
     "priority": 441,
@@ -8466,8 +7804,7 @@
     "title": "Peace of Prague",
     "description": "",
     "time": [
-      1865,
-      10
+      1865
     ],
     "emoji": "🤝",
     "priority": 181,
@@ -8478,8 +7815,7 @@
     "title": "Alaska Purchase",
     "description": "",
     "time": [
-      1867,
-      12
+      1867
     ],
     "emoji": "🏛️",
     "priority": 5880,
@@ -8490,8 +7826,7 @@
     "title": "Medicine Lodge Treaty",
     "description": "",
     "time": [
-      1867,
-      5
+      1867
     ],
     "emoji": "🤝",
     "priority": 1539,
@@ -8502,8 +7837,7 @@
     "title": "shogun rule ends in japan",
     "description": "",
     "time": [
-      1867,
-      5
+      1867
     ],
     "emoji": "🏛️",
     "priority": 465,
@@ -8513,8 +7847,7 @@
     "title": "Treaty of London",
     "description": "",
     "time": [
-      1867,
-      8
+      1867
     ],
     "emoji": "🤝",
     "priority": 396,
@@ -8525,8 +7858,7 @@
     "title": "Burlingame Treaty",
     "description": "",
     "time": [
-      1868,
-      10
+      1868
     ],
     "emoji": "🤝",
     "priority": 390,
@@ -8537,8 +7869,7 @@
     "title": "Treaty of Fort Laramie",
     "description": "",
     "time": [
-      1868,
-      12
+      1868
     ],
     "emoji": "🤝",
     "priority": 165,
@@ -8549,8 +7880,7 @@
     "title": "Treaty on Naturalization - US/North&#",
     "description": "",
     "time": [
-      1868,
-      7
+      1868
     ],
     "emoji": "🤝",
     "priority": 1
@@ -8559,8 +7889,7 @@
     "title": "Grant became US president",
     "description": "",
     "time": [
-      1869,
-      6
+      1869
     ],
     "emoji": "👑",
     "priority": 2101,
@@ -8570,8 +7899,7 @@
     "title": "Treaty of Frankfurt",
     "description": "",
     "time": [
-      1871,
-      4
+      1871
     ],
     "emoji": "🤝",
     "priority": 182,
@@ -8582,8 +7910,7 @@
     "title": "Treaty of Washington",
     "description": "",
     "time": [
-      1871,
-      9
+      1871
     ],
     "emoji": "🤝",
     "priority": 150,
@@ -8593,8 +7920,7 @@
     "title": "Manitoba Post Treaty",
     "description": "",
     "time": [
-      1871,
-      10
+      1871
     ],
     "emoji": "🤝",
     "priority": 138,
@@ -8614,8 +7940,7 @@
     "title": "Treaty - Northwest Angle Treaty",
     "description": "",
     "time": [
-      1873,
-      4
+      1873
     ],
     "emoji": "🤝",
     "priority": 121,
@@ -8636,8 +7961,7 @@
     "title": "Treaty of Berne",
     "description": "",
     "time": [
-      1874,
-      10
+      1874
     ],
     "emoji": "🤝",
     "priority": 300,
@@ -8648,8 +7972,7 @@
     "title": "Second Treaty of Saigon",
     "description": "",
     "time": [
-      1874,
-      10
+      1874
     ],
     "emoji": "🤝",
     "priority": 229,
@@ -8660,8 +7983,7 @@
     "title": "Treaty - Qu'appelle Treaty",
     "description": "",
     "time": [
-      1874,
-      9
+      1874
     ],
     "emoji": "🤝",
     "priority": 219,
@@ -8671,8 +7993,7 @@
     "title": "Convention du Mètre",
     "description": "",
     "time": [
-      1875,
-      7
+      1875
     ],
     "emoji": "🏛️",
     "priority": 1422,
@@ -8682,8 +8003,7 @@
     "title": "Reciprocity Treaty of",
     "description": "",
     "time": [
-      1875,
-      5
+      1875
     ],
     "emoji": "🤝",
     "priority": 246,
@@ -8694,8 +8014,7 @@
     "title": "Treaty of Saint Petersburg",
     "description": "",
     "time": [
-      1875,
-      12
+      1875
     ],
     "emoji": "🤝",
     "priority": 231,
@@ -8706,8 +8025,7 @@
     "title": "Japan–Korea Treaty",
     "description": "",
     "time": [
-      1876,
-      3
+      1876
     ],
     "emoji": "🤝",
     "priority": 521,
@@ -8717,8 +8035,7 @@
     "title": "B. Hayes became US president",
     "description": "",
     "time": [
-      1877,
-      11
+      1877
     ],
     "emoji": "👑",
     "priority": 914,
@@ -8728,8 +8045,7 @@
     "title": "London Protocol",
     "description": "",
     "time": [
-      1877,
-      5
+      1877
     ],
     "emoji": "🏛️",
     "priority": 687,
@@ -8740,8 +8056,7 @@
     "title": "Treaty of San Stefano",
     "description": "",
     "time": [
-      1878,
-      7
+      1878
     ],
     "emoji": "🤝",
     "priority": 722,
@@ -8752,8 +8067,7 @@
     "title": "Cyprus Convention",
     "description": "",
     "time": [
-      1878,
-      4
+      1878
     ],
     "emoji": "🏛️",
     "priority": 490,
@@ -8764,8 +8078,7 @@
     "title": "Treaty of Berlin",
     "description": "",
     "time": [
-      1878,
-      10
+      1878
     ],
     "emoji": "🤝",
     "priority": 215,
@@ -8776,8 +8089,7 @@
     "title": "Pact of Zanjón",
     "description": "",
     "time": [
-      1878,
-      8
+      1878
     ],
     "emoji": "🤝",
     "priority": 126,
@@ -8788,8 +8100,7 @@
     "title": "Treaty of Gandamak",
     "description": "",
     "time": [
-      1879,
-      11
+      1879
     ],
     "emoji": "🤝",
     "priority": 572,
@@ -8800,8 +8111,7 @@
     "title": "A. Arthur became US president",
     "description": "",
     "time": [
-      1881,
-      8
+      1881
     ],
     "emoji": "👑",
     "priority": 1218,
@@ -8811,8 +8121,7 @@
     "title": "Chile Argentina Boundary treaty",
     "description": "",
     "time": [
-      1881,
-      5
+      1881
     ],
     "emoji": "🤝",
     "priority": 598,
@@ -8822,8 +8131,7 @@
     "title": "Treaty of Bardo",
     "description": "",
     "time": [
-      1881,
-      5
+      1881
     ],
     "emoji": "🤝",
     "priority": 302,
@@ -8834,8 +8142,7 @@
     "title": "Treaty of Akhal",
     "description": "",
     "time": [
-      1881,
-      2
+      1881
     ],
     "emoji": "🤝",
     "priority": 281,
@@ -8846,8 +8153,7 @@
     "title": "Fourth Triple Alliance",
     "description": "",
     "time": [
-      1882,
-      3
+      1882
     ],
     "emoji": "🤝",
     "priority": 569,
@@ -8857,8 +8163,7 @@
     "title": "Kilmainham Treaty",
     "description": "",
     "time": [
-      1882,
-      7
+      1882
     ],
     "emoji": "🤝",
     "priority": 500,
@@ -8869,8 +8174,7 @@
     "title": "Industrial Property Convention",
     "description": "",
     "time": [
-      1883,
-      5
+      1883
     ],
     "emoji": "🏛️",
     "priority": 1007,
@@ -8880,8 +8184,7 @@
     "title": "Treaty of Ancón",
     "description": "",
     "time": [
-      1883,
-      5
+      1883
     ],
     "emoji": "🤝",
     "priority": 167,
@@ -8892,8 +8195,7 @@
     "title": "Treaty of Hué",
     "description": "",
     "time": [
-      1883,
-      5
+      1883
     ],
     "emoji": "🤝",
     "priority": 124,
@@ -8904,8 +8206,7 @@
     "title": "Treaty of Hué",
     "description": "",
     "time": [
-      1884,
-      10
+      1884
     ],
     "emoji": "🤝",
     "priority": 124,
@@ -8916,8 +8217,7 @@
     "title": "Treaty of Simulambuco",
     "description": "",
     "time": [
-      1885,
-      3
+      1885
     ],
     "emoji": "🤝",
     "priority": 350,
@@ -8928,8 +8228,7 @@
     "title": "Berne Convention",
     "description": "",
     "time": [
-      1886,
-      8
+      1886
     ],
     "emoji": "🏛️",
     "priority": 1203,
@@ -8940,8 +8239,7 @@
     "title": "Treaty of Bucharest",
     "description": "",
     "time": [
-      1886,
-      11
+      1886
     ],
     "emoji": "🤝",
     "priority": 204,
@@ -8952,8 +8250,7 @@
     "title": "Reinsurance Treaty",
     "description": "",
     "time": [
-      1887,
-      10
+      1887
     ],
     "emoji": "🤝",
     "priority": 414,
@@ -8974,8 +8271,7 @@
     "title": "Treaty of Wuchale",
     "description": "",
     "time": [
-      1889,
-      12
+      1889
     ],
     "emoji": "🤝",
     "priority": 294,
@@ -8986,8 +8282,7 @@
     "title": "Treaty of Berlin",
     "description": "",
     "time": [
-      1889,
-      4
+      1889
     ],
     "emoji": "🤝",
     "priority": 215,
@@ -8998,8 +8293,7 @@
     "title": "Heligoland–Zanzibar Treaty",
     "description": "",
     "time": [
-      1890,
-      2
+      1890
     ],
     "emoji": "🤝",
     "priority": 405,
@@ -9021,8 +8315,7 @@
     "title": "Cleveland became US president",
     "description": "",
     "time": [
-      1893,
-      7
+      1893
     ],
     "emoji": "👑",
     "priority": 1322,
@@ -9032,8 +8325,7 @@
     "title": "The Nobel prizes established",
     "description": "",
     "time": [
-      1895,
-      3
+      1895
     ],
     "emoji": "🏛️",
     "priority": 7654,
@@ -9045,8 +8337,7 @@
     "title": "Treaty of Shimonoseki",
     "description": "",
     "time": [
-      1895,
-      7
+      1895
     ],
     "emoji": "🤝",
     "priority": 1291,
@@ -9057,8 +8348,7 @@
     "title": "Brazil/Japan Friendship Treaty",
     "description": "",
     "time": [
-      1895,
-      2
+      1895
     ],
     "emoji": "🤝",
     "priority": 412,
@@ -9068,8 +8358,7 @@
     "title": "Treaty of Addis Ababa",
     "description": "",
     "time": [
-      1896,
-      5
+      1896
     ],
     "emoji": "🤝",
     "priority": 440,
@@ -9080,8 +8369,7 @@
     "title": "the Zionist movement is founded",
     "description": "",
     "time": [
-      1897,
-      10
+      1897
     ],
     "emoji": "🏙️",
     "priority": 6210,
@@ -9092,8 +8380,7 @@
     "title": "McKinley became US president",
     "description": "",
     "time": [
-      1897,
-      8
+      1897
     ],
     "emoji": "👑",
     "priority": 2645,
@@ -9103,8 +8390,7 @@
     "title": "Franco-Ethiopian treaty",
     "description": "",
     "time": [
-      1897,
-      11
+      1897
     ],
     "emoji": "🤝",
     "priority": 662,
@@ -9114,8 +8400,7 @@
     "title": "Treaty of Constantinople",
     "description": "",
     "time": [
-      1897,
-      8
+      1897
     ],
     "emoji": "🤝",
     "priority": 319,
@@ -9126,8 +8411,7 @@
     "title": "Sixth Treaty of Paris",
     "description": "",
     "time": [
-      1898,
-      7
+      1898
     ],
     "emoji": "🤝",
     "priority": 375,
@@ -9138,8 +8422,7 @@
     "title": "Extension of Hong Kong Territory",
     "description": "",
     "time": [
-      1898,
-      8
+      1898
     ],
     "emoji": "🏛️",
     "priority": 353,
@@ -9150,8 +8433,7 @@
     "title": "Tripartite Convention",
     "description": "",
     "time": [
-      1899,
-      11
+      1899
     ],
     "emoji": "🏛️",
     "priority": 978,
@@ -9172,8 +8454,7 @@
     "title": "Treaty of Paris",
     "description": "",
     "time": [
-      1900,
-      4
+      1900
     ],
     "emoji": "🤝",
     "priority": 452,
@@ -9184,8 +8465,7 @@
     "title": "Convention for the Preservation of Wild Animals",
     "description": "",
     "time": [
-      1900,
-      9
+      1900
     ],
     "emoji": "🏛️",
     "priority": 344,
@@ -9196,8 +8476,7 @@
     "title": "Treaty of Washington",
     "description": "",
     "time": [
-      1900,
-      11
+      1900
     ],
     "emoji": "🤝",
     "priority": 150,
@@ -9207,8 +8486,7 @@
     "title": "Roosevelt became US president",
     "description": "",
     "time": [
-      1901,
-      4
+      1901
     ],
     "emoji": "👑",
     "priority": 2627,
@@ -9218,8 +8496,7 @@
     "title": "Boxer Protocol",
     "description": "",
     "time": [
-      1901,
-      2
+      1901
     ],
     "emoji": "🏛️",
     "priority": 1493,
@@ -9230,8 +8507,7 @@
     "title": "Hay–Pauncefote Treaty",
     "description": "",
     "time": [
-      1901,
-      10
+      1901
     ],
     "emoji": "🤝",
     "priority": 502,
@@ -9242,8 +8518,7 @@
     "title": "Anglo-Japanese Alliance",
     "description": "",
     "time": [
-      1902,
-      4
+      1902
     ],
     "emoji": "🤝",
     "priority": 1541,
@@ -9254,8 +8529,7 @@
     "title": "Treaty of Vereeniging",
     "description": "",
     "time": [
-      1902,
-      2
+      1902
     ],
     "emoji": "🤝",
     "priority": 372,
@@ -9266,8 +8540,7 @@
     "title": "Hay–Bunau-Varilla Treaty",
     "description": "",
     "time": [
-      1903,
-      7
+      1903
     ],
     "emoji": "🤝",
     "priority": 739,
@@ -9278,8 +8551,7 @@
     "title": "Cuban–American Treaty",
     "description": "",
     "time": [
-      1903,
-      8
+      1903
     ],
     "emoji": "🤝",
     "priority": 691,
@@ -9301,8 +8573,7 @@
     "title": "Hay–Herrán Treaty",
     "description": "",
     "time": [
-      1903,
-      4
+      1903
     ],
     "emoji": "🤝",
     "priority": 185,
@@ -9312,8 +8583,7 @@
     "title": "Hay–Herbert Treaty",
     "description": "",
     "time": [
-      1903,
-      4
+      1903
     ],
     "emoji": "🤝",
     "priority": 182,
@@ -9323,8 +8593,7 @@
     "title": "Treaty of Portsmouth",
     "description": "",
     "time": [
-      1905,
-      4
+      1905
     ],
     "emoji": "🤝",
     "priority": 1055,
@@ -9335,8 +8604,7 @@
     "title": "Taft–Katsura Agreement",
     "description": "",
     "time": [
-      1905,
-      12
+      1905
     ],
     "emoji": "🏛️",
     "priority": 714,
@@ -9347,8 +8615,7 @@
     "title": "Treaty of Björkö",
     "description": "",
     "time": [
-      1905,
-      7
+      1905
     ],
     "emoji": "🤝",
     "priority": 305,
@@ -9358,8 +8625,7 @@
     "title": "Treaty - James Bay Treaty",
     "description": "",
     "time": [
-      1905,
-      7
+      1905
     ],
     "emoji": "🤝",
     "priority": 49,
@@ -9369,8 +8635,7 @@
     "title": "Convention of Karlst",
     "description": "",
     "time": [
-      1905,
-      2
+      1905
     ],
     "emoji": "🏛️",
     "priority": 1
@@ -9379,8 +8644,7 @@
     "title": "Second Geneva Convention",
     "description": "",
     "time": [
-      1906,
-      2
+      1906
     ],
     "emoji": "🏛️",
     "priority": 325,
@@ -9391,8 +8655,7 @@
     "title": "Treaty of Limits - Brazil–Netherlands",
     "description": "",
     "time": [
-      1906,
-      6
+      1906
     ],
     "emoji": "🤝",
     "priority": 212,
@@ -9403,8 +8666,7 @@
     "title": "Howard Taft became US president",
     "description": "",
     "time": [
-      1909,
-      6
+      1909
     ],
     "emoji": "👑",
     "priority": 2394,
@@ -9414,8 +8676,7 @@
     "title": "Anglo-Siamese Treaty of",
     "description": "",
     "time": [
-      1909,
-      4
+      1909
     ],
     "emoji": "🤝",
     "priority": 767,
@@ -9426,8 +8687,7 @@
     "title": "Japan Korea Treaty",
     "description": "",
     "time": [
-      1910,
-      6
+      1910
     ],
     "emoji": "🤝",
     "priority": 1545,
@@ -9437,8 +8697,7 @@
     "title": "Southern African Customs Union Agreement",
     "description": "",
     "time": [
-      1910,
-      4
+      1910
     ],
     "emoji": "🤝",
     "priority": 534,
@@ -9449,8 +8708,7 @@
     "title": "Brussels Collision Convention",
     "description": "",
     "time": [
-      1910,
-      11
+      1910
     ],
     "emoji": "🏛️",
     "priority": 290,
@@ -9461,8 +8719,7 @@
     "title": "Japan–Korea Treaty of 1910",
     "description": "",
     "time": [
-      1910,
-      11
+      1910
     ],
     "emoji": "🤝",
     "priority": 215,
@@ -9473,8 +8730,7 @@
     "title": "North Pacific Fur Seal Convention of",
     "description": "",
     "time": [
-      1911,
-      2
+      1911
     ],
     "emoji": "🏛️",
     "priority": 387,
@@ -9496,8 +8752,7 @@
     "title": "International Opium Convention",
     "description": "",
     "time": [
-      1912,
-      2
+      1912
     ],
     "emoji": "🏛️",
     "priority": 458,
@@ -9508,8 +8763,7 @@
     "title": "Treaty of London",
     "description": "",
     "time": [
-      1913,
-      10
+      1913
     ],
     "emoji": "🤝",
     "priority": 396,
@@ -9520,8 +8774,7 @@
     "title": "Treaty of Athens",
     "description": "",
     "time": [
-      1913,
-      12
+      1913
     ],
     "emoji": "🤝",
     "priority": 375,
@@ -9532,8 +8785,7 @@
     "title": "Treaty of Constantinople",
     "description": "",
     "time": [
-      1913,
-      8
+      1913
     ],
     "emoji": "🤝",
     "priority": 319,
@@ -9555,8 +8807,7 @@
     "title": "Mongolia Tibet Alliance",
     "description": "",
     "time": [
-      1913,
-      7
+      1913
     ],
     "emoji": "🤝",
     "priority": 155,
@@ -9566,8 +8817,7 @@
     "title": "Bryan–Chamorro Treaty",
     "description": "",
     "time": [
-      1914,
-      7
+      1914
     ],
     "emoji": "🤝",
     "priority": 294,
@@ -9578,8 +8828,7 @@
     "title": "Treaty of Kyakhta",
     "description": "",
     "time": [
-      1915,
-      2
+      1915
     ],
     "emoji": "🤝",
     "priority": 558,
@@ -9590,8 +8839,7 @@
     "title": "Treaty of London - London Pact",
     "description": "",
     "time": [
-      1915,
-      11
+      1915
     ],
     "emoji": "🤝",
     "priority": 199,
@@ -9601,8 +8849,7 @@
     "title": "Sykes–Picot Agreement",
     "description": "",
     "time": [
-      1916,
-      11
+      1916
     ],
     "emoji": "🏛️",
     "priority": 1950,
@@ -9613,8 +8860,7 @@
     "title": "Treaty of Bucharest",
     "description": "",
     "time": [
-      1916,
-      4
+      1916
     ],
     "emoji": "🤝",
     "priority": 204,
@@ -9625,8 +8871,7 @@
     "title": "Corfu Declaration",
     "description": "",
     "time": [
-      1917,
-      12
+      1917
     ],
     "emoji": "📜",
     "priority": 354,
@@ -9637,8 +8882,7 @@
     "title": "Lansing–Ishii Agreement",
     "description": "",
     "time": [
-      1917,
-      6
+      1917
     ],
     "emoji": "🏛️",
     "priority": 279,
@@ -9649,8 +8893,7 @@
     "title": "Treaty of Brest-Litovsk",
     "description": "",
     "time": [
-      1918,
-      11
+      1918
     ],
     "emoji": "🤝",
     "priority": 1793,
@@ -9661,8 +8904,7 @@
     "title": "Armistice with Germany",
     "description": "",
     "time": [
-      1918,
-      10
+      1918
     ],
     "emoji": "🏛️",
     "priority": 998,
@@ -9672,8 +8914,7 @@
     "title": "Armistice of Mudros",
     "description": "",
     "time": [
-      1918,
-      11
+      1918
     ],
     "emoji": "🏛️",
     "priority": 984,
@@ -9684,8 +8925,7 @@
     "title": "Treaty of Brest-Litovsk - Ukraine–Central Powers",
     "description": "",
     "time": [
-      1918,
-      2
+      1918
     ],
     "emoji": "🤝",
     "priority": 843,
@@ -9696,8 +8936,7 @@
     "title": "Treaty of Batum",
     "description": "",
     "time": [
-      1918,
-      2
+      1918
     ],
     "emoji": "🤝",
     "priority": 508,
@@ -9708,8 +8947,7 @@
     "title": "Treaty of Bucharest",
     "description": "",
     "time": [
-      1918,
-      3
+      1918
     ],
     "emoji": "🤝",
     "priority": 204,
@@ -9720,8 +8958,7 @@
     "title": "Treaty of Versailles",
     "description": "",
     "time": [
-      1919,
-      3
+      1919
     ],
     "emoji": "🤝",
     "priority": 2351,
@@ -9732,8 +8969,7 @@
     "title": "Faisal–Weizmann Agreement",
     "description": "",
     "time": [
-      1919,
-      4
+      1919
     ],
     "emoji": "🏛️",
     "priority": 1504,
@@ -9744,8 +8980,7 @@
     "title": "Treaty of Neuilly-sur-Seine",
     "description": "",
     "time": [
-      1919,
-      7
+      1919
     ],
     "emoji": "🤝",
     "priority": 613,
@@ -9756,8 +8991,7 @@
     "title": "Treaty of Saint-Germain-en-Laye",
     "description": "",
     "time": [
-      1919,
-      4
+      1919
     ],
     "emoji": "🤝",
     "priority": 202,
@@ -9768,8 +9002,7 @@
     "title": "Anglo-Afghan Treaty of - Treaty of Rawalpindi",
     "description": "",
     "time": [
-      1919,
-      8
+      1919
     ],
     "emoji": "🤝",
     "priority": 137,
@@ -9779,8 +9012,7 @@
     "title": "Seventh Treaty of Paris",
     "description": "",
     "time": [
-      1920,
-      2
+      1920
     ],
     "emoji": "🤝",
     "priority": 1259,
@@ -9790,8 +9022,7 @@
     "title": "Mutual recognition of the Russian SFSR",
     "description": "",
     "time": [
-      1920,
-      9
+      1920
     ],
     "emoji": "🏛️",
     "priority": 672,
@@ -9801,8 +9032,7 @@
     "title": "Treaty of Serav",
     "description": "",
     "time": [
-      1920,
-      2
+      1920
     ],
     "emoji": "🤝",
     "priority": 292,
@@ -9813,8 +9043,7 @@
     "title": "Between Italy and the Kingdom of Serbs",
     "description": "",
     "time": [
-      1920,
-      7
+      1920
     ],
     "emoji": "👑",
     "priority": 106,
@@ -9824,8 +9053,7 @@
     "title": "US and Germany Peace agreement",
     "description": "",
     "time": [
-      1921,
-      10
+      1921
     ],
     "emoji": "🤝",
     "priority": 8321,
@@ -9836,8 +9064,7 @@
     "title": "Chinese communist party founded",
     "description": "",
     "time": [
-      1921,
-      8
+      1921
     ],
     "emoji": "🏙️",
     "priority": 6406,
@@ -9847,8 +9074,7 @@
     "title": "G. Harding became US president",
     "description": "",
     "time": [
-      1921,
-      4
+      1921
     ],
     "emoji": "👑",
     "priority": 1597,
@@ -9858,8 +9084,7 @@
     "title": "Turkey USSR friendship treaty",
     "description": "",
     "time": [
-      1921,
-      2
+      1921
     ],
     "emoji": "🤝",
     "priority": 1168,
@@ -9869,8 +9094,7 @@
     "title": "Franco-Polish alliance",
     "description": "",
     "time": [
-      1921,
-      9
+      1921
     ],
     "emoji": "🤝",
     "priority": 588,
@@ -9881,8 +9105,7 @@
     "title": "Grants both Iran and the Soviet Union full",
     "description": "",
     "time": [
-      1921,
-      7
+      1921
     ],
     "emoji": "🤝",
     "priority": 512,
@@ -9892,8 +9115,7 @@
     "title": "Turkey acknowledges French sovereignty over Syria",
     "description": "",
     "time": [
-      1921,
-      2
+      1921
     ],
     "emoji": "🏛️",
     "priority": 308,
@@ -9903,8 +9125,7 @@
     "title": "Anglo-Afghan Treaty",
     "description": "",
     "time": [
-      1921,
-      10
+      1921
     ],
     "emoji": "🤝",
     "priority": 177,
@@ -9915,8 +9136,7 @@
     "title": "Treaty on the Creation of the USSR",
     "description": "",
     "time": [
-      1922,
-      7
+      1922
     ],
     "emoji": "🤝",
     "priority": 1808,
@@ -9927,8 +9147,7 @@
     "title": "Washington Naval Treaty",
     "description": "",
     "time": [
-      1922,
-      8
+      1922
     ],
     "emoji": "🤝",
     "priority": 1642,
@@ -9939,8 +9158,7 @@
     "title": "Treaty of Genoa",
     "description": "",
     "time": [
-      1922,
-      7
+      1922
     ],
     "emoji": "🤝",
     "priority": 888,
@@ -9950,8 +9168,7 @@
     "title": "Treaty of Rapallo",
     "description": "",
     "time": [
-      1922,
-      3
+      1922
     ],
     "emoji": "🤝",
     "priority": 198,
@@ -9962,8 +9179,7 @@
     "title": "Calvin Coolidge became US president",
     "description": "",
     "time": [
-      1923,
-      5
+      1923
     ],
     "emoji": "👑",
     "priority": 1116,
@@ -9973,8 +9189,7 @@
     "title": "Treaty of Lausanne",
     "description": "",
     "time": [
-      1923,
-      3
+      1923
     ],
     "emoji": "🤝",
     "priority": 789,
@@ -9985,8 +9200,7 @@
     "title": "Halibut Treaty",
     "description": "",
     "time": [
-      1923,
-      5
+      1923
     ],
     "emoji": "🤝",
     "priority": 313,
@@ -9997,8 +9211,7 @@
     "title": "Treaty of Rome",
     "description": "",
     "time": [
-      1924,
-      11
+      1924
     ],
     "emoji": "🤝",
     "priority": 893,
@@ -10009,8 +9222,7 @@
     "title": "Brussels Agreement",
     "description": "",
     "time": [
-      1924,
-      8
+      1924
     ],
     "emoji": "🏛️",
     "priority": 175,
@@ -10021,8 +9233,7 @@
     "title": "Locarno Treaties",
     "description": "",
     "time": [
-      1925,
-      7
+      1925
     ],
     "emoji": "🏛️",
     "priority": 869,
@@ -10033,8 +9244,7 @@
     "title": "Treaty of Berlin",
     "description": "",
     "time": [
-      1926,
-      12
+      1926
     ],
     "emoji": "🤝",
     "priority": 215,
@@ -10045,8 +9255,7 @@
     "title": "Treaty of Jeddah",
     "description": "",
     "time": [
-      1927,
-      8
+      1927
     ],
     "emoji": "🤝",
     "priority": 176,
@@ -10057,8 +9266,7 @@
     "title": "Kellogg–Briand Pact",
     "description": "",
     "time": [
-      1928,
-      7
+      1928
     ],
     "emoji": "🤝",
     "priority": 460,
@@ -10069,8 +9277,7 @@
     "title": "Italo-Ethiopian Treaty",
     "description": "",
     "time": [
-      1928,
-      12
+      1928
     ],
     "emoji": "🤝",
     "priority": 385,
@@ -10081,8 +9288,7 @@
     "title": "Geneva Convention",
     "description": "",
     "time": [
-      1929,
-      12
+      1929
     ],
     "emoji": "🏛️",
     "priority": 1871,
@@ -10093,8 +9299,7 @@
     "title": "Herbert Hoover became US president",
     "description": "",
     "time": [
-      1929,
-      10
+      1929
     ],
     "emoji": "👑",
     "priority": 1179,
@@ -10104,8 +9309,7 @@
     "title": "Lateran Treaty",
     "description": "",
     "time": [
-      1929,
-      11
+      1929
     ],
     "emoji": "🤝",
     "priority": 929,
@@ -10116,8 +9320,7 @@
     "title": "UK, US Convention",
     "description": "",
     "time": [
-      1930,
-      10
+      1930
     ],
     "emoji": "🏛️",
     "priority": 1204,
@@ -10127,8 +9330,7 @@
     "title": "London Naval Treaty",
     "description": "",
     "time": [
-      1930,
-      9
+      1930
     ],
     "emoji": "🤝",
     "priority": 486,
@@ -10139,8 +9341,7 @@
     "title": "Gandhi Salt March",
     "description": "",
     "time": [
-      1930,
-      11
+      1930
     ],
     "emoji": "🏛️",
     "priority": 195,
@@ -10150,8 +9351,7 @@
     "title": "Treaty of Westminster",
     "description": "",
     "time": [
-      1931,
-      4
+      1931
     ],
     "emoji": "🤝",
     "priority": 216,
@@ -10162,8 +9362,7 @@
     "title": "Soviet Polish Non-Aggression Pact",
     "description": "",
     "time": [
-      1932,
-      5
+      1932
     ],
     "emoji": "🤝",
     "priority": 2389,
@@ -10174,8 +9373,7 @@
     "title": "Roosevelt became US president",
     "description": "",
     "time": [
-      1933,
-      5
+      1933
     ],
     "emoji": "👑",
     "priority": 627,
@@ -10185,8 +9383,7 @@
     "title": "German–Polish Non-Aggression Pact",
     "description": "",
     "time": [
-      1934,
-      7
+      1934
     ],
     "emoji": "🤝",
     "priority": 2663,
@@ -10197,8 +9394,7 @@
     "title": "Balkan Pact",
     "description": "",
     "time": [
-      1934,
-      4
+      1934
     ],
     "emoji": "🤝",
     "priority": 304,
@@ -10209,8 +9405,7 @@
     "title": "Franco-Soviet Treaty of Mutual Assistance",
     "description": "",
     "time": [
-      1935,
-      2
+      1935
     ],
     "emoji": "🤝",
     "priority": 634,
@@ -10221,8 +9416,7 @@
     "title": "Treaty of Establishment, Commerce",
     "description": "",
     "time": [
-      1935,
-      9
+      1935
     ],
     "emoji": "🤝",
     "priority": 263,
@@ -10233,8 +9427,7 @@
     "title": "Anglo-Egyptian Treaty of",
     "description": "",
     "time": [
-      1936,
-      4
+      1936
     ],
     "emoji": "🤝",
     "priority": 591,
@@ -10245,8 +9438,7 @@
     "title": "Franco-Syrian Treaty of Independence",
     "description": "",
     "time": [
-      1936,
-      4
+      1936
     ],
     "emoji": "🤝",
     "priority": 353,
@@ -10257,8 +9449,7 @@
     "title": "UN Whaling protocols",
     "description": "",
     "time": [
-      1937,
-      6
+      1937
     ],
     "emoji": "🏛️",
     "priority": 3,
@@ -10268,8 +9459,7 @@
     "title": "Treaty of Saadab",
     "description": "",
     "time": [
-      1937,
-      8
+      1937
     ],
     "emoji": "🤝",
     "priority": 1
@@ -10278,8 +9468,7 @@
     "title": "Munich Agreement",
     "description": "",
     "time": [
-      1938,
-      2
+      1938
     ],
     "emoji": "🏛️",
     "priority": 132,
@@ -10290,8 +9479,7 @@
     "title": "Molotov–Ribbentrop Pact",
     "description": "",
     "time": [
-      1939,
-      9
+      1939
     ],
     "emoji": "🤝",
     "priority": 4580,
@@ -10313,8 +9501,7 @@
     "title": "Moscow Peace Treaty",
     "description": "",
     "time": [
-      1940,
-      11
+      1940
     ],
     "emoji": "🤝",
     "priority": 785,
@@ -10325,8 +9512,7 @@
     "title": "Treaty of Craiova",
     "description": "",
     "time": [
-      1940,
-      11
+      1940
     ],
     "emoji": "🤝",
     "priority": 278,
@@ -10337,8 +9523,7 @@
     "title": "Treaty of Commerce and Navigation",
     "description": "",
     "time": [
-      1940,
-      7
+      1940
     ],
     "emoji": "🤝",
     "priority": 273,
@@ -10349,8 +9534,7 @@
     "title": "Tokyu Convention",
     "description": "",
     "time": [
-      1941,
-      9
+      1941
     ],
     "emoji": "🏛️",
     "priority": 31,
@@ -10360,8 +9544,7 @@
     "title": "the Anglo-Soviet Treaty",
     "description": "",
     "time": [
-      1942,
-      6
+      1942
     ],
     "emoji": "🤝",
     "priority": 152,
@@ -10372,8 +9555,7 @@
     "title": "International Civil Aviation Convention",
     "description": "",
     "time": [
-      1944,
-      9
+      1944
     ],
     "emoji": "🏛️",
     "priority": 1310,
@@ -10384,8 +9566,7 @@
     "title": "London Protocol",
     "description": "",
     "time": [
-      1944,
-      7
+      1944
     ],
     "emoji": "🏛️",
     "priority": 687,
@@ -10396,8 +9577,7 @@
     "title": "Bretton Woods Agreement",
     "description": "",
     "time": [
-      1944,
-      11
+      1944
     ],
     "emoji": "🏛️",
     "priority": 615,
@@ -10429,8 +9609,7 @@
     "title": "Truman became US president",
     "description": "",
     "time": [
-      1945,
-      4
+      1945
     ],
     "emoji": "👑",
     "priority": 2279,
@@ -10440,8 +9619,7 @@
     "title": "United Nations Charter",
     "description": "",
     "time": [
-      1945,
-      11
+      1945
     ],
     "emoji": "📜",
     "priority": 1447,
@@ -10452,8 +9630,7 @@
     "title": "Treaty of Varkiza",
     "description": "",
     "time": [
-      1945,
-      10
+      1945
     ],
     "emoji": "🤝",
     "priority": 519,
@@ -10464,8 +9641,7 @@
     "title": "Wanfried Agreement",
     "description": "",
     "time": [
-      1945,
-      11
+      1945
     ],
     "emoji": "🏛️",
     "priority": 306,
@@ -10476,8 +9652,7 @@
     "title": "Bermuda Agreement",
     "description": "",
     "time": [
-      1946,
-      6
+      1946
     ],
     "emoji": "🏛️",
     "priority": 951,
@@ -10488,8 +9663,7 @@
     "title": "Treaty of London",
     "description": "",
     "time": [
-      1946,
-      6
+      1946
     ],
     "emoji": "🤝",
     "priority": 396,
@@ -10500,8 +9674,7 @@
     "title": "Lake Success Protocol",
     "description": "",
     "time": [
-      1946,
-      6
+      1946
     ],
     "emoji": "🏛️",
     "priority": 378,
@@ -10512,8 +9685,7 @@
     "title": "First meeting of U.N. General Assembly",
     "description": "",
     "time": [
-      1946,
-      7
+      1946
     ],
     "emoji": "🗳️",
     "priority": 305,
@@ -10523,8 +9695,7 @@
     "title": "Treaty of Manila",
     "description": "",
     "time": [
-      1946,
-      3
+      1946
     ],
     "emoji": "🤝",
     "priority": 174,
@@ -10535,8 +9706,7 @@
     "title": "Gruber–De Gasperi Agreement",
     "description": "",
     "time": [
-      1946,
-      4
+      1946
     ],
     "emoji": "🏛️",
     "priority": 143,
@@ -10547,8 +9717,7 @@
     "title": "UN new Whaling regulation",
     "description": "",
     "time": [
-      1946,
-      2
+      1946
     ],
     "emoji": "🏛️",
     "priority": 1,
@@ -10558,8 +9727,7 @@
     "title": "WW2 Paris Peace Treaties",
     "description": "",
     "time": [
-      1947,
-      4
+      1947
     ],
     "emoji": "🤝",
     "priority": 3598,
@@ -10569,8 +9737,7 @@
     "title": "General Agreement on Tariffs and Trade",
     "description": "",
     "time": [
-      1947,
-      5
+      1947
     ],
     "emoji": "🏛️",
     "priority": 1202,
@@ -10581,8 +9748,7 @@
     "title": "Inter-American Treaty of Reciprocal Assistance",
     "description": "",
     "time": [
-      1947,
-      7
+      1947
     ],
     "emoji": "🤝",
     "priority": 630,
@@ -10593,8 +9759,7 @@
     "title": "the apartheid in south africa",
     "description": "",
     "time": [
-      1948,
-      7
+      1948
     ],
     "emoji": "🏛️",
     "priority": 9056,
@@ -10606,8 +9771,7 @@
     "title": "The Marshall Plan",
     "description": "",
     "time": [
-      1948,
-      8
+      1948
     ],
     "emoji": "🏛️",
     "priority": 3350,
@@ -10618,8 +9782,7 @@
     "title": "NATO Establishes",
     "description": "",
     "time": [
-      1949,
-      5
+      1949
     ],
     "emoji": "🏛️",
     "priority": 7150,
@@ -10630,8 +9793,7 @@
     "title": "Fourth Geneva Convention",
     "description": "",
     "time": [
-      1949,
-      12
+      1949
     ],
     "emoji": "🏛️",
     "priority": 1167,
@@ -10642,8 +9804,7 @@
     "title": "The Council of Europe Formed",
     "description": "",
     "time": [
-      1949,
-      11
+      1949
     ],
     "emoji": "🏛️",
     "priority": 1084,
@@ -10653,8 +9814,7 @@
     "title": "UN Convention on Genocide",
     "description": "",
     "time": [
-      1949,
-      3
+      1949
     ],
     "emoji": "🏛️",
     "priority": 136,
@@ -10664,8 +9824,7 @@
     "title": "Treaty of Zgorzelec",
     "description": "",
     "time": [
-      1950,
-      7
+      1950
     ],
     "emoji": "🤝",
     "priority": 364,
@@ -10676,8 +9835,7 @@
     "title": "Liaquat–Nehru Pact",
     "description": "",
     "time": [
-      1950,
-      8
+      1950
     ],
     "emoji": "🤝",
     "priority": 169,
@@ -10688,8 +9846,7 @@
     "title": "Treaty of San Francisco",
     "description": "",
     "time": [
-      1951,
-      5
+      1951
     ],
     "emoji": "🤝",
     "priority": 1866,
@@ -10700,8 +9857,7 @@
     "title": "UN Genocide Convention",
     "description": "",
     "time": [
-      1951,
-      2
+      1951
     ],
     "emoji": "🏛️",
     "priority": 1726,
@@ -10711,8 +9867,7 @@
     "title": "Japan / United States Security Treaty",
     "description": "",
     "time": [
-      1951,
-      11
+      1951
     ],
     "emoji": "🤝",
     "priority": 432,
@@ -10722,8 +9877,7 @@
     "title": "US and Japan Mutual Defense Assistance Agreement",
     "description": "",
     "time": [
-      1951,
-      11
+      1951
     ],
     "emoji": "🏛️",
     "priority": 211,
@@ -10734,8 +9888,7 @@
     "title": "US–Philippines Defense Treaty",
     "description": "",
     "time": [
-      1951,
-      5
+      1951
     ],
     "emoji": "🤝",
     "priority": 191,
@@ -10745,8 +9898,7 @@
     "title": "Treaty of Taipei",
     "description": "",
     "time": [
-      1952,
-      2
+      1952
     ],
     "emoji": "🤝",
     "priority": 1153,
@@ -10757,8 +9909,7 @@
     "title": "ANZUS Treaty",
     "description": "",
     "time": [
-      1952,
-      11
+      1952
     ],
     "emoji": "🤝",
     "priority": 1113,
@@ -10768,8 +9919,7 @@
     "title": "General Treaty",
     "description": "",
     "time": [
-      1952,
-      8
+      1952
     ],
     "emoji": "🤝",
     "priority": 286,
@@ -10780,8 +9930,7 @@
     "title": "UN Sea-going Ships Resolution",
     "description": "",
     "time": [
-      1952,
-      11
+      1952
     ],
     "emoji": "🏛️",
     "priority": 124,
@@ -10791,8 +9940,7 @@
     "title": "Korean War Armistice Agreement",
     "description": "",
     "time": [
-      1953,
-      11
+      1953
     ],
     "emoji": "🏛️",
     "priority": 1902,
@@ -10803,8 +9951,7 @@
     "title": "Eisenhower became US president",
     "description": "",
     "time": [
-      1953,
-      7
+      1953
     ],
     "emoji": "👑",
     "priority": 252,
@@ -10814,8 +9961,7 @@
     "title": "Southeast Asia Collective Defense Treaty",
     "description": "",
     "time": [
-      1954,
-      4
+      1954
     ],
     "emoji": "🤝",
     "priority": 1738,
@@ -10825,8 +9971,7 @@
     "title": "Central Treaty Organization",
     "description": "",
     "time": [
-      1954,
-      11
+      1954
     ],
     "emoji": "🤝",
     "priority": 1154,
@@ -10837,8 +9982,7 @@
     "title": "Warsaw Pact",
     "description": "",
     "time": [
-      1955,
-      6
+      1955
     ],
     "emoji": "🤝",
     "priority": 1681,
@@ -10849,8 +9993,7 @@
     "title": "Asian–African Conference",
     "description": "",
     "time": [
-      1955,
-      8
+      1955
     ],
     "emoji": "🏛️",
     "priority": 822,
@@ -10860,8 +10003,7 @@
     "title": "Austrian State Treaty",
     "description": "",
     "time": [
-      1955,
-      6
+      1955
     ],
     "emoji": "🤝",
     "priority": 439,
@@ -10872,8 +10014,7 @@
     "title": "Simonstown Agreement",
     "description": "",
     "time": [
-      1955,
-      9
+      1955
     ],
     "emoji": "🏛️",
     "priority": 336,
@@ -10884,8 +10025,7 @@
     "title": "Soviet–Japanese Joint Declaration of",
     "description": "",
     "time": [
-      1956,
-      10
+      1956
     ],
     "emoji": "📜",
     "priority": 294,
@@ -10896,8 +10036,7 @@
     "title": "Treaty of Rome",
     "description": "",
     "time": [
-      1957,
-      6
+      1957
     ],
     "emoji": "🤝",
     "priority": 1893,
@@ -10908,8 +10047,7 @@
     "title": "International Atomic Energy Treaty",
     "description": "",
     "time": [
-      1957,
-      4
+      1957
     ],
     "emoji": "🤝",
     "priority": 1730,
@@ -10920,8 +10058,7 @@
     "title": "Anglo-Malayan Defence Agreement",
     "description": "",
     "time": [
-      1957,
-      8
+      1957
     ],
     "emoji": "🏛️",
     "priority": 249,
@@ -10932,8 +10069,7 @@
     "title": "US–UK Mutual Defence Agreement",
     "description": "",
     "time": [
-      1958,
-      4
+      1958
     ],
     "emoji": "🏛️",
     "priority": 593,
@@ -10944,8 +10080,7 @@
     "title": "Convention on the Territorial Sea",
     "description": "",
     "time": [
-      1958,
-      4
+      1958
     ],
     "emoji": "🏛️",
     "priority": 140,
@@ -10956,8 +10091,7 @@
     "title": "Antarctic Treaty System",
     "description": "",
     "time": [
-      1959,
-      12
+      1959
     ],
     "emoji": "🤝",
     "priority": 1275,
@@ -10968,8 +10102,7 @@
     "title": "Indus Waters Treaty",
     "description": "",
     "time": [
-      1960,
-      7
+      1960
     ],
     "emoji": "🤝",
     "priority": 1353,
@@ -10980,8 +10113,7 @@
     "title": "US and Japan Treaty",
     "description": "",
     "time": [
-      1960,
-      8
+      1960
     ],
     "emoji": "🤝",
     "priority": 1090,
@@ -10991,8 +10123,7 @@
     "title": "London and Zurich Agreements",
     "description": "",
     "time": [
-      1960,
-      8
+      1960
     ],
     "emoji": "🏛️",
     "priority": 678,
@@ -11003,8 +10134,7 @@
     "title": "Treaty of Montevideo",
     "description": "",
     "time": [
-      1960,
-      7
+      1960
     ],
     "emoji": "🤝",
     "priority": 196,
@@ -11015,8 +10145,7 @@
     "title": "Kennedy became US president",
     "description": "",
     "time": [
-      1961,
-      10
+      1961
     ],
     "emoji": "👑",
     "priority": 7866,
@@ -11027,8 +10156,7 @@
     "title": "Alliance for Progress",
     "description": "",
     "time": [
-      1961,
-      9
+      1961
     ],
     "emoji": "🤝",
     "priority": 1161,
@@ -11039,8 +10167,7 @@
     "title": "Convention on the Reduction of Statelessness",
     "description": "",
     "time": [
-      1961,
-      7
+      1961
     ],
     "emoji": "🏛️",
     "priority": 1008,
@@ -11051,8 +10178,7 @@
     "title": "Arms Control and Disarmament Agency",
     "description": "",
     "time": [
-      1961,
-      4
+      1961
     ],
     "emoji": "🏛️",
     "priority": 794,
@@ -11063,8 +10189,7 @@
     "title": "Single Convention on Narcotic Drugs",
     "description": "",
     "time": [
-      1961,
-      10
+      1961
     ],
     "emoji": "🏛️",
     "priority": 687,
@@ -11075,8 +10200,7 @@
     "title": "Vienna Convention on Diplomatic Relations",
     "description": "",
     "time": [
-      1961,
-      11
+      1961
     ],
     "emoji": "🏛️",
     "priority": 577,
@@ -11087,8 +10211,7 @@
     "title": "Columbia River Treaty",
     "description": "",
     "time": [
-      1961,
-      12
+      1961
     ],
     "emoji": "🤝",
     "priority": 498,
@@ -11099,8 +10222,7 @@
     "title": "Hague Convention of October 1961",
     "description": "",
     "time": [
-      1961,
-      9
+      1961
     ],
     "emoji": "🏛️",
     "priority": 93,
@@ -11110,8 +10232,7 @@
     "title": "New York Agreement",
     "description": "",
     "time": [
-      1962,
-      11
+      1962
     ],
     "emoji": "🏛️",
     "priority": 1479,
@@ -11122,8 +10243,7 @@
     "title": "Nassau Agreement",
     "description": "",
     "time": [
-      1962,
-      5
+      1962
     ],
     "emoji": "🏛️",
     "priority": 912,
@@ -11134,8 +10254,7 @@
     "title": "B. Johnson became US president",
     "description": "",
     "time": [
-      1963,
-      2
+      1963
     ],
     "emoji": "👑",
     "priority": 2177,
@@ -11156,8 +10275,7 @@
     "title": "Vienna Convention on Consular Relations",
     "description": "",
     "time": [
-      1963,
-      8
+      1963
     ],
     "emoji": "🏛️",
     "priority": 514,
@@ -11168,8 +10286,7 @@
     "title": "Strasbourg Convention",
     "description": "",
     "time": [
-      1963,
-      5
+      1963
     ],
     "emoji": "🏛️",
     "priority": 219,
@@ -11190,8 +10307,7 @@
     "title": "Vienna Nuclear Damage Conventionon",
     "description": "",
     "time": [
-      1963,
-      11
+      1963
     ],
     "emoji": "🏛️",
     "priority": 1
@@ -11200,8 +10316,7 @@
     "title": "Treaty on Basic Relations between Japan",
     "description": "",
     "time": [
-      1965,
-      4
+      1965
     ],
     "emoji": "🤝",
     "priority": 576,
@@ -11212,8 +10327,7 @@
     "title": "Merger Treaty",
     "description": "",
     "time": [
-      1965,
-      10
+      1965
     ],
     "emoji": "🤝",
     "priority": 268,
@@ -11224,8 +10338,7 @@
     "title": "Outer Space Treaty",
     "description": "",
     "time": [
-      1967,
-      10
+      1967
     ],
     "emoji": "🤝",
     "priority": 798,
@@ -11236,8 +10349,7 @@
     "title": "Treaty of Tlatelolco",
     "description": "",
     "time": [
-      1967,
-      6
+      1967
     ],
     "emoji": "🤝",
     "priority": 481,
@@ -11248,8 +10360,7 @@
     "title": "ASEAN Declaration",
     "description": "",
     "time": [
-      1967,
-      11
+      1967
     ],
     "emoji": "📜",
     "priority": 354,
@@ -11260,8 +10371,7 @@
     "title": "WIPO Convention",
     "description": "",
     "time": [
-      1967,
-      7
+      1967
     ],
     "emoji": "🏛️",
     "priority": 234,
@@ -11272,8 +10382,7 @@
     "title": "Nixon became US president",
     "description": "",
     "time": [
-      1969,
-      2
+      1969
     ],
     "emoji": "👑",
     "priority": 2232,
@@ -11283,8 +10392,7 @@
     "title": "un resolution against racism",
     "description": "",
     "time": [
-      1969,
-      5
+      1969
     ],
     "emoji": "🏛️",
     "priority": 1397,
@@ -11294,8 +10402,7 @@
     "title": "Vienna Convention on the Law of Treaties",
     "description": "",
     "time": [
-      1969,
-      3
+      1969
     ],
     "emoji": "🏛️",
     "priority": 828,
@@ -11306,8 +10413,7 @@
     "title": "Arusha Agreement",
     "description": "",
     "time": [
-      1969,
-      5
+      1969
     ],
     "emoji": "🏛️",
     "priority": 299,
@@ -11318,8 +10424,7 @@
     "title": "Boundary Treaty of",
     "description": "",
     "time": [
-      1970,
-      8
+      1970
     ],
     "emoji": "🤝",
     "priority": 840,
@@ -11329,8 +10434,7 @@
     "title": "Hague Hijacking Convention",
     "description": "",
     "time": [
-      1970,
-      3
+      1970
     ],
     "emoji": "👑",
     "priority": 351,
@@ -11341,8 +10445,7 @@
     "title": "Treaty of Warsaw",
     "description": "",
     "time": [
-      1970,
-      4
+      1970
     ],
     "emoji": "🤝",
     "priority": 231,
@@ -11353,8 +10456,7 @@
     "title": "Indo-Soviet Treaty of Friendship",
     "description": "",
     "time": [
-      1971,
-      8
+      1971
     ],
     "emoji": "🤝",
     "priority": 732,
@@ -11365,8 +10467,7 @@
     "title": "Seabed Arms Control Treaty",
     "description": "",
     "time": [
-      1971,
-      8
+      1971
     ],
     "emoji": "🤝",
     "priority": 628,
@@ -11377,8 +10478,7 @@
     "title": "Five Power Defence Arrangements",
     "description": "",
     "time": [
-      1971,
-      9
+      1971
     ],
     "emoji": "🏛️",
     "priority": 596,
@@ -11389,8 +10489,7 @@
     "title": "Convention on Psychotropic Substances",
     "description": "",
     "time": [
-      1971,
-      7
+      1971
     ],
     "emoji": "🏛️",
     "priority": 579,
@@ -11412,8 +10511,7 @@
     "title": "IPC Agreement",
     "description": "",
     "time": [
-      1971,
-      7
+      1971
     ],
     "emoji": "🏛️",
     "priority": 57,
@@ -11423,8 +10521,7 @@
     "title": "Anti-Ballistic Missile Treaty",
     "description": "",
     "time": [
-      1972,
-      7
+      1972
     ],
     "emoji": "🤝",
     "priority": 4000,
@@ -11435,8 +10532,7 @@
     "title": "Biological Weapons Convention",
     "description": "",
     "time": [
-      1972,
-      3
+      1972
     ],
     "emoji": "🏛️",
     "priority": 1057,
@@ -11447,8 +10543,7 @@
     "title": "Simla Agreement",
     "description": "",
     "time": [
-      1972,
-      7
+      1972
     ],
     "emoji": "🏛️",
     "priority": 927,
@@ -11459,8 +10554,7 @@
     "title": "Antarctic Seals Conservation",
     "description": "",
     "time": [
-      1972,
-      7
+      1972
     ],
     "emoji": "🏛️",
     "priority": 555,
@@ -11470,8 +10564,7 @@
     "title": "London Pollution Convention",
     "description": "",
     "time": [
-      1972,
-      5
+      1972
     ],
     "emoji": "🏛️",
     "priority": 239,
@@ -11491,8 +10584,7 @@
     "title": "Basic Treaty",
     "description": "",
     "time": [
-      1972,
-      8
+      1972
     ],
     "emoji": "🤝",
     "priority": 183,
@@ -11503,8 +10595,7 @@
     "title": "Addis Ababa Agreement",
     "description": "",
     "time": [
-      1972,
-      4
+      1972
     ],
     "emoji": "🏛️",
     "priority": 170,
@@ -11515,8 +10606,7 @@
     "title": "European Patent Convention",
     "description": "",
     "time": [
-      1973,
-      2
+      1973
     ],
     "emoji": "🏛️",
     "priority": 2701,
@@ -11527,8 +10617,7 @@
     "title": "Paris Peace Accords",
     "description": "",
     "time": [
-      1973,
-      9
+      1973
     ],
     "emoji": "🤝",
     "priority": 1384,
@@ -11539,8 +10628,7 @@
     "title": "Agreement on the Transfer of Corpses",
     "description": "",
     "time": [
-      1973,
-      5
+      1973
     ],
     "emoji": "🏛️",
     "priority": 342,
@@ -11551,8 +10639,7 @@
     "title": "Agreement on the Transfer of Corpses",
     "description": "",
     "time": [
-      1973,
-      10
+      1973
     ],
     "emoji": "🏛️",
     "priority": 342,
@@ -11563,8 +10650,7 @@
     "title": "Vientiane Treaty",
     "description": "",
     "time": [
-      1973,
-      12
+      1973
     ],
     "emoji": "🤝",
     "priority": 259,
@@ -11575,8 +10661,7 @@
     "title": "Gerald Ford became US president",
     "description": "",
     "time": [
-      1974,
-      5
+      1974
     ],
     "emoji": "👑",
     "priority": 3409,
@@ -11586,8 +10671,7 @@
     "title": "Threshold Test Ban Treaty",
     "description": "",
     "time": [
-      1974,
-      3
+      1974
     ],
     "emoji": "🤝",
     "priority": 451,
@@ -11598,8 +10682,7 @@
     "title": "Japan–Australia Migratory Bird Agreement",
     "description": "",
     "time": [
-      1974,
-      11
+      1974
     ],
     "emoji": "🏛️",
     "priority": 219,
@@ -11610,8 +10693,7 @@
     "title": "Treaty of Osimo",
     "description": "",
     "time": [
-      1975,
-      9
+      1975
     ],
     "emoji": "🤝",
     "priority": 503,
@@ -11622,8 +10704,7 @@
     "title": "Treaty of Lagos",
     "description": "",
     "time": [
-      1975,
-      7
+      1975
     ],
     "emoji": "🤝",
     "priority": 217,
@@ -11634,8 +10715,7 @@
     "title": "Treaty of Amity and Cooperation in Southeast Asia",
     "description": "",
     "time": [
-      1976,
-      5
+      1976
     ],
     "emoji": "🤝",
     "priority": 697,
@@ -11646,8 +10726,7 @@
     "title": "Environmental Modification Convention",
     "description": "",
     "time": [
-      1976,
-      2
+      1976
     ],
     "emoji": "🏛️",
     "priority": 456,
@@ -11658,8 +10737,7 @@
     "title": "Jimmy Carter became US president",
     "description": "",
     "time": [
-      1977,
-      3
+      1977
     ],
     "emoji": "👑",
     "priority": 3287,
@@ -11669,8 +10747,7 @@
     "title": "Torrijos–Carter Treaties",
     "description": "",
     "time": [
-      1977,
-      2
+      1977
     ],
     "emoji": "🏛️",
     "priority": 812,
@@ -11681,8 +10758,7 @@
     "title": "Camp David Accords",
     "description": "",
     "time": [
-      1978,
-      11
+      1978
     ],
     "emoji": "🤝",
     "priority": 2901,
@@ -11693,8 +10769,7 @@
     "title": "Chinese Economic Reform",
     "description": "",
     "time": [
-      1978,
-      2
+      1978
     ],
     "emoji": "🏛️",
     "priority": 2627,
@@ -11705,8 +10780,7 @@
     "title": "Treaty of Peace and Friendship between Japan",
     "description": "",
     "time": [
-      1978,
-      7
+      1978
     ],
     "emoji": "🤝",
     "priority": 222,
@@ -11716,8 +10790,7 @@
     "title": "Egypt–Israel Peace Treaty",
     "description": "",
     "time": [
-      1979,
-      10
+      1979
     ],
     "emoji": "🤝",
     "priority": 2755,
@@ -11728,8 +10801,7 @@
     "title": "Moon Treaty",
     "description": "",
     "time": [
-      1979,
-      6
+      1979
     ],
     "emoji": "🤝",
     "priority": 480,
@@ -11740,8 +10812,7 @@
     "title": "Treaty of Accession",
     "description": "",
     "time": [
-      1979,
-      2
+      1979
     ],
     "emoji": "🤝",
     "priority": 190,
@@ -11752,8 +10823,7 @@
     "title": "The Washington Convention",
     "description": "",
     "time": [
-      1980,
-      8
+      1980
     ],
     "emoji": "🏛️",
     "priority": 143,
@@ -11764,8 +10834,7 @@
     "title": "Reagan became US president",
     "description": "",
     "time": [
-      1981,
-      4
+      1981
     ],
     "emoji": "👑",
     "priority": 2110,
@@ -11775,8 +10844,7 @@
     "title": "Australia New Zealand Trade Agreement",
     "description": "",
     "time": [
-      1983,
-      11
+      1983
     ],
     "emoji": "🏛️",
     "priority": 524,
@@ -11787,8 +10855,7 @@
     "title": "Sino-British Joint Declaration",
     "description": "",
     "time": [
-      1984,
-      4
+      1984
     ],
     "emoji": "📜",
     "priority": 1959,
@@ -11799,8 +10866,7 @@
     "title": "Treaty of Peace and Friendship of between Chile",
     "description": "",
     "time": [
-      1984,
-      7
+      1984
     ],
     "emoji": "🤝",
     "priority": 1098,
@@ -11811,8 +10877,7 @@
     "title": "Nkomati Accord",
     "description": "",
     "time": [
-      1984,
-      10
+      1984
     ],
     "emoji": "🤝",
     "priority": 272,
@@ -11834,8 +10899,7 @@
     "title": "Schengen Agreement",
     "description": "",
     "time": [
-      1985,
-      7
+      1985
     ],
     "emoji": "🏛️",
     "priority": 884,
@@ -11846,8 +10910,7 @@
     "title": "Plaza Accord",
     "description": "",
     "time": [
-      1985,
-      5
+      1985
     ],
     "emoji": "🤝",
     "priority": 549,
@@ -11858,8 +10921,7 @@
     "title": "Treaty of Rarotonga",
     "description": "",
     "time": [
-      1985,
-      7
+      1985
     ],
     "emoji": "🤝",
     "priority": 495,
@@ -11870,8 +10932,7 @@
     "title": "Helsinki Protocol",
     "description": "",
     "time": [
-      1985,
-      4
+      1985
     ],
     "emoji": "🏛️",
     "priority": 363,
@@ -11881,8 +10942,7 @@
     "title": "Nuclear Accidents regulations",
     "description": "",
     "time": [
-      1986,
-      10
+      1986
     ],
     "emoji": "🏛️",
     "priority": 1496,
@@ -11892,8 +10952,7 @@
     "title": "China–Australia Migratory Bird Agreement",
     "description": "",
     "time": [
-      1986,
-      6
+      1986
     ],
     "emoji": "🏛️",
     "priority": 187,
@@ -11904,8 +10963,7 @@
     "title": "Intermediate-Range Nuclear Forces Treaty",
     "description": "",
     "time": [
-      1987,
-      8
+      1987
     ],
     "emoji": "🤝",
     "priority": 854,
@@ -11916,8 +10974,7 @@
     "title": "Joint Declaration on the Question of Macau",
     "description": "",
     "time": [
-      1987,
-      6
+      1987
     ],
     "emoji": "📜",
     "priority": 442,
@@ -11928,8 +10985,7 @@
     "title": "UN resolution Against Narcotic Drugs",
     "description": "",
     "time": [
-      1988,
-      12
+      1988
     ],
     "emoji": "🏛️",
     "priority": 1652,
@@ -11950,8 +11006,7 @@
     "title": "Montreal Protocol",
     "description": "",
     "time": [
-      1989,
-      11
+      1989
     ],
     "emoji": "🏛️",
     "priority": 2251,
@@ -11972,8 +11027,7 @@
     "title": "Treaty on Conventional Armed Forces in Europe",
     "description": "",
     "time": [
-      1989,
-      2
+      1989
     ],
     "emoji": "🤝",
     "priority": 2002,
@@ -11984,8 +11038,7 @@
     "title": "Timor Gap Treaty",
     "description": "",
     "time": [
-      1989,
-      10
+      1989
     ],
     "emoji": "🤝",
     "priority": 445,
@@ -11996,8 +11049,7 @@
     "title": "Wellington Convention",
     "description": "",
     "time": [
-      1989,
-      7
+      1989
     ],
     "emoji": "🏛️",
     "priority": 394,
@@ -12008,8 +11060,7 @@
     "title": "Treaty on the Final Settlement",
     "description": "",
     "time": [
-      1990,
-      10
+      1990
     ],
     "emoji": "🤝",
     "priority": 617,
@@ -12020,8 +11071,7 @@
     "title": "Chemical Weapons Accord",
     "description": "",
     "time": [
-      1990,
-      6
+      1990
     ],
     "emoji": "🤝",
     "priority": 217,
@@ -12032,8 +11082,7 @@
     "title": "Malaysia–Singapore Treaty",
     "description": "",
     "time": [
-      1990,
-      8
+      1990
     ],
     "emoji": "🤝",
     "priority": 183,
@@ -12043,8 +11092,7 @@
     "title": "Nuclear arsenal Reductions Treaty",
     "description": "",
     "time": [
-      1991,
-      4
+      1991
     ],
     "emoji": "🤝",
     "priority": 3309,
@@ -12054,8 +11102,7 @@
     "title": "Extradition treaty",
     "description": "",
     "time": [
-      1991,
-      11
+      1991
     ],
     "emoji": "🤝",
     "priority": 1104,
@@ -12066,8 +11113,7 @@
     "title": "Brioni Agreement",
     "description": "",
     "time": [
-      1991,
-      4
+      1991
     ],
     "emoji": "🏛️",
     "priority": 1048,
@@ -12078,8 +11124,7 @@
     "title": "Belavezha Accords",
     "description": "",
     "time": [
-      1991,
-      2
+      1991
     ],
     "emoji": "🤝",
     "priority": 814,
@@ -12090,8 +11135,7 @@
     "title": "Treaty of Asunción",
     "description": "",
     "time": [
-      1991,
-      2
+      1991
     ],
     "emoji": "🤝",
     "priority": 253,
@@ -12102,8 +11146,7 @@
     "title": "Abuja Treaty",
     "description": "",
     "time": [
-      1991,
-      4
+      1991
     ],
     "emoji": "🤝",
     "priority": 211,
@@ -12113,8 +11156,7 @@
     "title": "UN Climate Change Resolution",
     "description": "",
     "time": [
-      1992,
-      7
+      1992
     ],
     "emoji": "🏛️",
     "priority": 2622,
@@ -12124,8 +11166,7 @@
     "title": "ASEAN Free Trade Area",
     "description": "",
     "time": [
-      1992,
-      7
+      1992
     ],
     "emoji": "🏛️",
     "priority": 1252,
@@ -12136,8 +11177,7 @@
     "title": "Treaty on Open Skies",
     "description": "",
     "time": [
-      1992,
-      4
+      1992
     ],
     "emoji": "🤝",
     "priority": 1190,
@@ -12148,8 +11188,7 @@
     "title": "CIS Collective Security Treaty",
     "description": "",
     "time": [
-      1992,
-      2
+      1992
     ],
     "emoji": "🤝",
     "priority": 1086,
@@ -12160,8 +11199,7 @@
     "title": "Maastricht Treaty",
     "description": "",
     "time": [
-      1992,
-      12
+      1992
     ],
     "emoji": "🤝",
     "priority": 881,
@@ -12172,8 +11210,7 @@
     "title": "Sochi agreement",
     "description": "",
     "time": [
-      1992,
-      7
+      1992
     ],
     "emoji": "🏛️",
     "priority": 634,
@@ -12184,8 +11221,7 @@
     "title": "Bill Clinton became US president",
     "description": "",
     "time": [
-      1993,
-      2
+      1993
     ],
     "emoji": "👑",
     "priority": 4172,
@@ -12195,8 +11231,7 @@
     "title": "Chemical Weapons Convention",
     "description": "",
     "time": [
-      1993,
-      3
+      1993
     ],
     "emoji": "🏛️",
     "priority": 1656,
@@ -12207,8 +11242,7 @@
     "title": "Oslo Agreements",
     "description": "",
     "time": [
-      1993,
-      10
+      1993
     ],
     "emoji": "🏛️",
     "priority": 160,
@@ -12219,8 +11253,7 @@
     "title": "North American Free Trade Agreement",
     "description": "",
     "time": [
-      1994,
-      7
+      1994
     ],
     "emoji": "🏛️",
     "priority": 2660,
@@ -12231,8 +11264,7 @@
     "title": "end of the apartheid in south africa",
     "description": "",
     "time": [
-      1994,
-      10
+      1994
     ],
     "emoji": "🏛️",
     "priority": 2096,
@@ -12244,8 +11276,7 @@
     "title": "United Nations Convention on the Law of the Sea",
     "description": "",
     "time": [
-      1994,
-      10
+      1994
     ],
     "emoji": "🏛️",
     "priority": 1651,
@@ -12256,8 +11287,7 @@
     "title": "Extradition treaty",
     "description": "",
     "time": [
-      1994,
-      11
+      1994
     ],
     "emoji": "🤝",
     "priority": 1104,
@@ -12268,8 +11298,7 @@
     "title": "Israel–Jordan Treaty of Peace",
     "description": "",
     "time": [
-      1994,
-      10
+      1994
     ],
     "emoji": "🤝",
     "priority": 479,
@@ -12279,8 +11308,7 @@
     "title": "UN Convention to Combat Desertification",
     "description": "",
     "time": [
-      1994,
-      7
+      1994
     ],
     "emoji": "🏛️",
     "priority": 340,
@@ -12290,8 +11318,7 @@
     "title": "Convention on Nuclear Safety",
     "description": "",
     "time": [
-      1994,
-      7
+      1994
     ],
     "emoji": "🏛️",
     "priority": 240,
@@ -12302,8 +11329,7 @@
     "title": "Kremlin accords",
     "description": "",
     "time": [
-      1994,
-      2
+      1994
     ],
     "emoji": "🤝",
     "priority": 177,
@@ -12314,8 +11340,7 @@
     "title": "Dayton Agreement",
     "description": "",
     "time": [
-      1995,
-      10
+      1995
     ],
     "emoji": "🏛️",
     "priority": 1404,
@@ -12326,8 +11351,7 @@
     "title": "General Agreement on Trade in Services",
     "description": "",
     "time": [
-      1995,
-      11
+      1995
     ],
     "emoji": "🏛️",
     "priority": 556,
@@ -12338,8 +11362,7 @@
     "title": "Comprehensive Nuclear-Test-Ban Treaty",
     "description": "",
     "time": [
-      1996,
-      12
+      1996
     ],
     "emoji": "🤝",
     "priority": 960,
@@ -12350,8 +11373,7 @@
     "title": "WIPO Copyright Treaty",
     "description": "",
     "time": [
-      1996,
-      7
+      1996
     ],
     "emoji": "🤝",
     "priority": 370,
@@ -12362,8 +11384,7 @@
     "title": "Khasavyurt Accord",
     "description": "",
     "time": [
-      1996,
-      7
+      1996
     ],
     "emoji": "🤝",
     "priority": 249,
@@ -12374,8 +11395,7 @@
     "title": "WIPO Performances and Phonograms Treaty",
     "description": "",
     "time": [
-      1996,
-      8
+      1996
     ],
     "emoji": "🤝",
     "priority": 246,
@@ -12386,8 +11406,7 @@
     "title": "Kyoto Protocol",
     "description": "",
     "time": [
-      1997,
-      3
+      1997
     ],
     "emoji": "🏛️",
     "priority": 4852,
@@ -12398,8 +11417,7 @@
     "title": "Death of Princess Diana",
     "description": "",
     "time": [
-      1997,
-      3
+      1997
     ],
     "emoji": "🏛️",
     "priority": 2203,
@@ -12409,8 +11427,7 @@
     "title": "Ottawa Treaty",
     "description": "",
     "time": [
-      1997,
-      10
+      1997
     ],
     "emoji": "🤝",
     "priority": 2145,
@@ -12421,8 +11438,7 @@
     "title": "Chemical Weapons Convention",
     "description": "",
     "time": [
-      1997,
-      5
+      1997
     ],
     "emoji": "🏛️",
     "priority": 1656,
@@ -12433,8 +11449,7 @@
     "title": "Amsterdam Treaty",
     "description": "",
     "time": [
-      1997,
-      7
+      1997
     ],
     "emoji": "🤝",
     "priority": 635,
@@ -12445,8 +11460,7 @@
     "title": "Good Friday Agreement",
     "description": "",
     "time": [
-      1998,
-      5
+      1998
     ],
     "emoji": "🏛️",
     "priority": 2902,
@@ -12457,8 +11471,7 @@
     "title": "POP Air Pollution Protocol",
     "description": "",
     "time": [
-      1998,
-      8
+      1998
     ],
     "emoji": "🏛️",
     "priority": 237,
@@ -12469,8 +11482,7 @@
     "title": "Rome Statute of the International Criminal Court",
     "description": "",
     "time": [
-      1998,
-      4
+      1998
     ],
     "emoji": "🏛️",
     "priority": 193,
@@ -12491,8 +11503,7 @@
     "title": "Armed Forces in Europe Treaty",
     "description": "",
     "time": [
-      1999,
-      7
+      1999
     ],
     "emoji": "🤝",
     "priority": 505,
@@ -12503,8 +11514,7 @@
     "title": "East African Community Treaty",
     "description": "",
     "time": [
-      1999,
-      9
+      1999
     ],
     "emoji": "🤝",
     "priority": 198,
@@ -12515,8 +11525,7 @@
     "title": "Cotonou Agreement",
     "description": "",
     "time": [
-      2000,
-      5
+      2000
     ],
     "emoji": "🏛️",
     "priority": 933,
@@ -12527,8 +11536,7 @@
     "title": "Patent Law Treaty",
     "description": "",
     "time": [
-      2000,
-      12
+      2000
     ],
     "emoji": "🤝",
     "priority": 402,
@@ -12539,8 +11547,7 @@
     "title": "Treaty of Jeddah",
     "description": "",
     "time": [
-      2000,
-      5
+      2000
     ],
     "emoji": "🤝",
     "priority": 176,
@@ -12551,8 +11558,7 @@
     "title": "George Bush became US president",
     "description": "",
     "time": [
-      2001,
-      10
+      2001
     ],
     "emoji": "👑",
     "priority": 4279,
@@ -12562,8 +11568,7 @@
     "title": "Treaty of Nice",
     "description": "",
     "time": [
-      2001,
-      8
+      2001
     ],
     "emoji": "🤝",
     "priority": 1042,
@@ -12574,8 +11579,7 @@
     "title": "Convention on Cybercrime",
     "description": "",
     "time": [
-      2001,
-      2
+      2001
     ],
     "emoji": "🏛️",
     "priority": 799,
@@ -12586,8 +11590,7 @@
     "title": "Agreement on the Conservation of Albatrosses",
     "description": "",
     "time": [
-      2001,
-      5
+      2001
     ],
     "emoji": "🏛️",
     "priority": 618,
@@ -12598,8 +11601,7 @@
     "title": "Sino-Russian Treaty of Friendship",
     "description": "",
     "time": [
-      2001,
-      4
+      2001
     ],
     "emoji": "🤝",
     "priority": 388,
@@ -12610,8 +11612,7 @@
     "title": "Ohrid Agreement",
     "description": "",
     "time": [
-      2001,
-      10
+      2001
     ],
     "emoji": "🏛️",
     "priority": 231,
@@ -12622,8 +11623,7 @@
     "title": "ASEAN Agreement on Transboundary Haze Pollution",
     "description": "",
     "time": [
-      2002,
-      11
+      2002
     ],
     "emoji": "🏛️",
     "priority": 649,
@@ -12634,8 +11634,7 @@
     "title": "Gbadolite Agreement",
     "description": "",
     "time": [
-      2002,
-      6
+      2002
     ],
     "emoji": "🏛️",
     "priority": 209,
@@ -12646,8 +11645,7 @@
     "title": "Pretoria Accord",
     "description": "",
     "time": [
-      2002,
-      4
+      2002
     ],
     "emoji": "🤝",
     "priority": 205,
@@ -12658,8 +11656,7 @@
     "title": "Accra Comprehensive Peace Agreement",
     "description": "",
     "time": [
-      2003,
-      7
+      2003
     ],
     "emoji": "🤝",
     "priority": 453,
@@ -12670,8 +11667,7 @@
     "title": "Treaty of Accession",
     "description": "",
     "time": [
-      2003,
-      9
+      2003
     ],
     "emoji": "🤝",
     "priority": 190,
@@ -12682,8 +11678,7 @@
     "title": "International Treaty on Plant Genetic",
     "description": "",
     "time": [
-      2004,
-      8
+      2004
     ],
     "emoji": "🤝",
     "priority": 1079,
@@ -12693,8 +11688,7 @@
     "title": "Energy Community Treaty",
     "description": "",
     "time": [
-      2005,
-      2
+      2005
     ],
     "emoji": "🤝",
     "priority": 1120,
@@ -12705,8 +11699,7 @@
     "title": "Comprehensive Peace Agreement",
     "description": "",
     "time": [
-      2005,
-      4
+      2005
     ],
     "emoji": "🤝",
     "priority": 531,
@@ -12717,8 +11710,7 @@
     "title": "Treaty of Accession",
     "description": "",
     "time": [
-      2005,
-      11
+      2005
     ],
     "emoji": "🤝",
     "priority": 190,
@@ -12729,8 +11721,7 @@
     "title": "Tripoli Agreement",
     "description": "",
     "time": [
-      2006,
-      4
+      2006
     ],
     "emoji": "🏛️",
     "priority": 1068,
@@ -12741,8 +11732,7 @@
     "title": "St Andrews Agreement",
     "description": "",
     "time": [
-      2006,
-      5
+      2006
     ],
     "emoji": "🏛️",
     "priority": 934,
@@ -12753,8 +11743,7 @@
     "title": "Waziristan Accord",
     "description": "",
     "time": [
-      2006,
-      6
+      2006
     ],
     "emoji": "🤝",
     "priority": 654,
@@ -12776,8 +11765,7 @@
     "title": "ASEAN Charter",
     "description": "",
     "time": [
-      2007,
-      10
+      2007
     ],
     "emoji": "📜",
     "priority": 587,
@@ -12788,8 +11776,7 @@
     "title": "UNASUR Constitutive Treaty",
     "description": "",
     "time": [
-      2008,
-      11
+      2008
     ],
     "emoji": "🤝",
     "priority": 629,
@@ -12800,8 +11787,7 @@
     "title": "Extradition treaty",
     "description": "",
     "time": [
-      2009,
-      7
+      2009
     ],
     "emoji": "🤝",
     "priority": 1104,
@@ -12812,8 +11798,7 @@
     "title": "barack obama became US president",
     "description": "",
     "time": [
-      2009,
-      9
+      2009
     ],
     "emoji": "👑",
     "priority": 68,
@@ -12823,8 +11808,7 @@
     "title": "UN adoptes trafficking action plan",
     "description": "",
     "time": [
-      2010,
-      8
+      2010
     ],
     "emoji": "👑",
     "priority": 847,
@@ -12834,8 +11818,7 @@
     "title": "Barents Sea border treaty",
     "description": "",
     "time": [
-      2010,
-      2
+      2010
     ],
     "emoji": "🤝",
     "priority": 513,
@@ -12845,8 +11828,7 @@
     "title": "Non-Proliferation of Nuclear Weapons",
     "description": "",
     "time": [
-      2010,
-      8
+      2010
     ],
     "emoji": "🏛️",
     "priority": 380,
@@ -12856,8 +11838,7 @@
     "title": "Arctic Search and Rescue Agreement",
     "description": "",
     "time": [
-      2011,
-      10
+      2011
     ],
     "emoji": "🏛️",
     "priority": 311,
@@ -12868,8 +11849,7 @@
     "title": "barack obama won us election",
     "description": "",
     "time": [
-      2012,
-      8
+      2012
     ],
     "emoji": "🗳️",
     "priority": 7843,
@@ -12880,8 +11860,7 @@
     "title": "Framework Agreement on the Bangsamoro",
     "description": "",
     "time": [
-      2012,
-      11
+      2012
     ],
     "emoji": "🏛️",
     "priority": 749,
@@ -12892,8 +11871,7 @@
     "title": "Intergovernmental Agreement on Dry Ports",
     "description": "",
     "time": [
-      2013,
-      12
+      2013
     ],
     "emoji": "🏛️",
     "priority": 1,
@@ -12903,8 +11881,7 @@
     "title": "Treaty on the Accession of Crimea to Russia",
     "description": "",
     "time": [
-      2014,
-      9
+      2014
     ],
     "emoji": "🤝",
     "priority": 4547,
@@ -12914,8 +11891,7 @@
     "title": "Manipulation of Sports Convention",
     "description": "",
     "time": [
-      2014,
-      4
+      2014
     ],
     "emoji": "🏛️",
     "priority": 201,
@@ -12925,8 +11901,7 @@
     "title": "Ukraine Cease-fire",
     "description": "",
     "time": [
-      2015,
-      11
+      2015
     ],
     "emoji": "🏛️",
     "priority": 4537,
@@ -12946,8 +11921,7 @@
     "title": "Ireland legalize same-sex marriage",
     "description": "",
     "time": [
-      2015,
-      8
+      2015
     ],
     "emoji": "🏛️",
     "priority": 266,
@@ -12959,8 +11933,7 @@
     "title": "Cuba and the US full diplomatic relations",
     "description": "",
     "time": [
-      2015,
-      9
+      2015
     ],
     "emoji": "🏛️",
     "priority": 227,
@@ -12970,8 +11943,7 @@
     "title": "FIFA President Sepp Blatter resigns",
     "description": "",
     "time": [
-      2015,
-      11
+      2015
     ],
     "emoji": "👑",
     "priority": 1,
