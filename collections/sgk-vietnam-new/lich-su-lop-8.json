@@ -132,8 +132,8 @@
   },
   {
     "title": "Cách mạng Nga 1905–1907",
-    "description": "Cách mạng Nga 1905–1907 bùng nổ sau sự kiện 'Ngày chủ nhật đẫm máu' (9 tháng 1 năm 1905), buộc Nga hoàng phải nhượng bộ một phần; tuy thất bại nhưng được coi là cuộc tổng diễn tập cho Cách mạng tháng Mười năm 1917.",
-    "time": [1905, 1, 9],
+    "description": "Cách mạng Nga 1905–1907 bùng nổ sau sự kiện 'Ngày chủ nhật đẫm máu' (9 tháng 1 năm 1905 theo lịch Nga, tức 22-1-1905 dương lịch), buộc Nga hoàng phải nhượng bộ một phần; tuy thất bại nhưng được coi là cuộc tổng diễn tập cho Cách mạng tháng Mười năm 1917.",
+    "time": [1905, 1, 22],
     "endTime": [1907],
     "emoji": "⭐",
     "priority": 85
@@ -177,8 +177,8 @@
   },
   {
     "title": "Cách mạng tháng Hai ở Nga lật đổ chế độ Nga hoàng",
-    "description": "Tháng 2 năm 1917 (theo lịch Nga), cách mạng bùng nổ ở Pê-tơ-rô-grát, lật đổ chế độ Nga hoàng Ni-cô-lai II, chấm dứt hơn 300 năm cai trị của dòng họ Rô-ma-nốp; nước Nga rơi vào cục diện hai chính quyền song song tồn tại.",
-    "time": [1917, 2],
+    "description": "Tháng 2 năm 1917 theo lịch Nga (tháng 3-1917 dương lịch), cách mạng bùng nổ ở Pê-tơ-rô-grát, lật đổ chế độ Nga hoàng Ni-cô-lai II, chấm dứt hơn 300 năm cai trị của dòng họ Rô-ma-nốp; nước Nga rơi vào cục diện hai chính quyền song song tồn tại.",
+    "time": [1917, 3],
     "emoji": "🏳️",
     "priority": 86
   },
@@ -327,7 +327,7 @@
   },
   {
     "title": "Phong trào Đông Du sang Nhật tìm đường cứu nước",
-    "description": "Phong trào Đông Du (1905–1909) do Phan Bội Châu và Hội Duy tân tổ chức, đưa khoảng 200 thanh niên Việt Nam sang Nhật Bản học tập, tìm con đường cứu nước mới; năm 1909, phong trào tan rã do Pháp câu kết với Nhật trục xuất du học sinh.",
+    "description": "Phong trào Đông Du (1905–1909) do Phan Bội Châu và Hội Duy tân tổ chức, đưa khoảng 200 thanh niên Việt Nam sang Nhật Bản học tập, tìm con đường cứu nước mới; từ năm 1908, Pháp câu kết với Nhật trục xuất du học sinh, đến năm 1909 phong trào tan rã.",
     "time": [1905],
     "endTime": [1909],
     "emoji": "🚢",
