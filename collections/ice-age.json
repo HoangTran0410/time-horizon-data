@@ -10,7 +10,7 @@
   },
   {
     "title": "Homo sapiens Appears",
-    "description": "Our species emerges in Africa during the late Pleistocene.",
+    "description": "Our species emerges in Africa about 300,000 years ago, during the Middle Pleistocene.",
     "time": [
       -300000
     ],
@@ -19,9 +19,9 @@
   },
   {
     "title": "Last Glacial Maximum",
-    "description": "Ice sheets reach their greatest extent during the last glacial period.",
+    "description": "Ice sheets reach their greatest extent during the last glacial period, beginning about 26,500 years ago.",
     "time": [
-      -26500
+      -24500
     ],
     "emoji": "🧊",
     "priority": 84

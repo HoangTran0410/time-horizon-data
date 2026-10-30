@@ -24,9 +24,9 @@
   },
   {
     "title": "Lives in London",
-    "description": "From 1915 to 1917 he lives in London before moving on to France.",
+    "description": "From 1913 to 1917 he lives in London before moving on to France.",
     "time": [
-      1915
+      1913
     ],
     "emoji": "🇬🇧",
     "priority": 60
@@ -65,9 +65,14 @@
   },
   {
     "title": "Travels to Moscow",
-    "description": "At the end of 1923 he travels to Moscow and deepens his ties to the Communist International.",
+    "description": "In June 1923 he travels to Soviet Russia, arriving in Petrograd on June 30, and deepens his ties to the Communist International in Moscow.",
     "time": [
-      1923
+      1923,
+      6,
+      30,
+      null,
+      null,
+      null
     ],
     "emoji": "🚆",
     "priority": 74
@@ -83,10 +88,10 @@
   },
   {
     "title": "Moves to Canton",
-    "description": "In late 1924 he goes to Canton in China and begins organizing Vietnamese exiles there.",
+    "description": "In November 1924 he arrives in Canton in China and begins organizing Vietnamese exiles there.",
     "time": [
       1924,
-      12,
+      11,
       null,
       null,
       null,
@@ -120,16 +125,16 @@
   },
   {
     "title": "Condemned in Absentia",
-    "description": "In 1930 French colonial authorities condemn him in absentia to death as a revolutionary.",
+    "description": "In October 1929 a colonial court in Vinh condemns him to death in absentia as a revolutionary.",
     "time": [
-      1930
+      1929
     ],
     "emoji": "⚖️",
     "priority": 64
   },
   {
     "title": "Escapes Hong Kong Extradition",
-    "description": "After seeking refuge in Hong Kong, he avoids French extradition and escapes back toward Moscow.",
+    "description": "In June 1931 he is arrested by British police in Hong Kong; with the help of lawyer Frank Loseby he avoids extradition to the French, and after his release in 1933 he slips away and makes his way back to Moscow.",
     "time": [
       1931
     ],
@@ -156,9 +161,9 @@
   },
   {
     "title": "Uses the Name Ho Chi Minh",
-    "description": "Around 1940 he begins using the name Ho Chi Minh while preparing to return to Vietnam.",
+    "description": "In August 1942, setting out for China, he adopts the name Ho Chi Minh, which he keeps for the rest of his life.",
     "time": [
-      1940
+      1942
     ],
     "emoji": "✍️",
     "priority": 68
@@ -193,7 +198,7 @@
   },
   {
     "title": "Imprisoned in China",
-    "description": "In 1942 Chiang Kai-shek's authorities imprison him in China for about 18 months.",
+    "description": "In August 1942 Chiang Kai-shek's authorities arrest him in Guangxi and hold him in prison for about 13 months, until September 1943.",
     "time": [
       1942
     ],

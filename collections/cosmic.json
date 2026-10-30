@@ -39,7 +39,7 @@
     "title": "Milky Way Forms",
     "description": "Our galaxy begins to take shape from gas clouds and early mergers.",
     "time": [
-      -10600000000
+      -13000000000
     ],
     "emoji": "🌀",
     "priority": 92
@@ -73,7 +73,7 @@
   },
   {
     "title": "Milky Way-Andromeda Collision",
-    "description": "The Milky Way and Andromeda are expected to make their first major collision about 4 billion years from now.",
+    "description": "The Milky Way and Andromeda may make their first close passage about 4 to 5 billion years from now, though recent Gaia and Hubble data make a collision far from certain.",
     "time": [
       4000000000
     ],
@@ -91,7 +91,7 @@
   },
   {
     "title": "Milky Way-Andromeda Merge",
-    "description": "Roughly 6 billion years from now, the Milky Way and Andromeda are expected to merge into one larger galaxy.",
+    "description": "If they collide, the Milky Way and Andromeda could merge into one larger galaxy roughly 6 billion years from now; recent estimates give only about even odds of a merger within 10 billion years.",
     "time": [
       6000000000
     ],
@@ -100,9 +100,9 @@
   },
   {
     "title": "Sun Becomes White Dwarf",
-    "description": "After its red giant phase, the Sun is expected to end as a white dwarf in about 10 billion years.",
+    "description": "After its red giant phase, the Sun is expected to shed its outer layers and end as a white dwarf in about 8 billion years.",
     "time": [
-      10000000000
+      8000000000
     ],
     "emoji": "⚪",
     "priority": 78

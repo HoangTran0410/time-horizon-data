@@ -106,7 +106,7 @@
   },
   {
     "title": "Sự Kiện Vịnh Bắc Bộ (8/1964)",
-    "description": "Ngày 2/8/1964, tàu khu trục Maddox của Mỹ xâm phạm và đụng độ với hải quân ta ở vịnh Bắc Bộ; Mỹ tiếp tục dựng lên 'sự kiện' đêm 4/8 để lấy cớ. Ngày 5/8/1964, Mỹ cho không quân ném bom miền Bắc và Quốc hội Mỹ thông qua 'Nghị quyết vịnh Bắc Bộ', mở đường cho việc leo thang chiến tranh.",
+    "description": "Ngày 2/8/1964, tàu khu trục Maddox của Mỹ xâm phạm và đụng độ với hải quân ta ở vịnh Bắc Bộ; Mỹ tiếp tục dựng lên 'sự kiện' đêm 4/8 để lấy cớ. Ngày 5/8/1964, Mỹ cho không quân ném bom miền Bắc; ngày 7/8, Quốc hội Mỹ thông qua 'Nghị quyết vịnh Bắc Bộ', mở đường cho việc leo thang chiến tranh.",
     "time": [
       1964,
       8,
@@ -217,8 +217,9 @@
       25
     ],
     "endTime": [
-      1989,
-      9
+      1979,
+      1,
+      7
     ],
     "emoji": "⚔️",
     "priority": 80

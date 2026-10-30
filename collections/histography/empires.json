@@ -805,7 +805,6 @@
     "title": "rise of the Xin Dynasty",
     "description": "",
     "time": [
-      9,
       9
     ],
     "emoji": "👑",
@@ -817,8 +816,7 @@
     "title": "tiberius became caesar",
     "description": "",
     "time": [
-      14,
-      10
+      14
     ],
     "emoji": "👑",
     "priority": 1813,
@@ -828,8 +826,7 @@
     "title": "fall of the Xin Dynasty",
     "description": "",
     "time": [
-      23,
-      9
+      23
     ],
     "emoji": "🏚️",
     "priority": 237,
@@ -840,8 +837,7 @@
     "title": "Caligula became caesar of rome",
     "description": "",
     "time": [
-      37,
-      9
+      37
     ],
     "emoji": "👑",
     "priority": 1791,
@@ -851,8 +847,7 @@
     "title": "Emperor Nero commits suicide",
     "description": "",
     "time": [
-      68,
-      8
+      68
     ],
     "emoji": "👑",
     "priority": 1
@@ -861,8 +856,7 @@
     "title": "Trajan became caesar of rome",
     "description": "",
     "time": [
-      98,
-      12
+      98
     ],
     "emoji": "👑",
     "priority": 938,
@@ -872,8 +866,7 @@
     "title": "rise of the Kushan Empire",
     "description": "",
     "time": [
-      105,
-      8
+      105
     ],
     "emoji": "👑",
     "priority": 2363,
@@ -884,8 +877,7 @@
     "title": "rise of the Aksumite Empire",
     "description": "",
     "time": [
-      150,
-      4
+      150
     ],
     "emoji": "👑",
     "priority": 2926,
@@ -895,8 +887,7 @@
     "title": "Kingdom of Champa",
     "description": "",
     "time": [
-      192,
-      2
+      192
     ],
     "emoji": "👑",
     "priority": 898,
@@ -906,8 +897,7 @@
     "title": "fall of the Satavahana Dynasty",
     "description": "",
     "time": [
-      220,
-      4
+      220
     ],
     "emoji": "🏚️",
     "priority": 1554,
@@ -918,8 +908,7 @@
     "title": "fall of the Han Dynasty",
     "description": "",
     "time": [
-      220,
-      5
+      220
     ],
     "emoji": "🏚️",
     "priority": 851,
@@ -930,8 +919,7 @@
     "title": "rise of the Shu Empire",
     "description": "",
     "time": [
-      221,
-      3
+      221
     ],
     "emoji": "👑",
     "priority": 116,
@@ -941,8 +929,7 @@
     "title": "rise of the Persian Empire",
     "description": "",
     "time": [
-      224,
-      6
+      224
     ],
     "emoji": "👑",
     "priority": 7228,
@@ -953,8 +940,7 @@
     "title": "fall of the Parthian Empire",
     "description": "",
     "time": [
-      224,
-      5
+      224
     ],
     "emoji": "🏚️",
     "priority": 3666,
@@ -965,8 +951,7 @@
     "title": "Rise of the Sassanian Empire",
     "description": "",
     "time": [
-      226,
-      5
+      226
     ],
     "emoji": "👑",
     "priority": 3986,
@@ -977,8 +962,7 @@
     "title": "rise of the Eastern Wu",
     "description": "",
     "time": [
-      229,
-      10
+      229
     ],
     "emoji": "👑",
     "priority": 2018,
@@ -989,8 +973,7 @@
     "title": "fall of the Kushan Empire",
     "description": "",
     "time": [
-      250,
-      4
+      250
     ],
     "emoji": "🏚️",
     "priority": 4363,
@@ -1001,8 +984,7 @@
     "title": "rise of the Frankish Empire",
     "description": "",
     "time": [
-      250,
-      2
+      250
     ],
     "emoji": "👑",
     "priority": 1568,
@@ -1012,8 +994,7 @@
     "title": "rise of the Gallic Empire",
     "description": "",
     "time": [
-      260,
-      8
+      260
     ],
     "emoji": "👑",
     "priority": 4867,
@@ -1024,8 +1005,7 @@
     "title": "rise of the Palmyrene Empire",
     "description": "",
     "time": [
-      260,
-      11
+      260
     ],
     "emoji": "👑",
     "priority": 1469,
@@ -1036,8 +1016,7 @@
     "title": "fall of the Shu Empire",
     "description": "",
     "time": [
-      263,
-      9
+      263
     ],
     "emoji": "🏚️",
     "priority": 2116,
@@ -1047,8 +1026,7 @@
     "title": "fall of the Wei Empire",
     "description": "",
     "time": [
-      265,
-      10
+      265
     ],
     "emoji": "🏚️",
     "priority": 2112,
@@ -1058,8 +1036,7 @@
     "title": "rise of the Jin Dynasty",
     "description": "",
     "time": [
-      265,
-      7
+      265
     ],
     "emoji": "👑",
     "priority": 205,
@@ -1081,8 +1058,7 @@
     "title": "fall of the Gallic Empire",
     "description": "",
     "time": [
-      274,
-      7
+      274
     ],
     "emoji": "🏚️",
     "priority": 867,
@@ -1093,8 +1069,7 @@
     "title": "fall of the Eastern Wu",
     "description": "",
     "time": [
-      280,
-      7
+      280
     ],
     "emoji": "🏚️",
     "priority": 2018,
@@ -1105,8 +1080,7 @@
     "title": "rome Empire splits into Eastern and Western",
     "description": "",
     "time": [
-      285,
-      7
+      285
     ],
     "emoji": "👑",
     "priority": 664,
@@ -1116,8 +1090,7 @@
     "title": "rise of the Britannic Empire",
     "description": "",
     "time": [
-      286,
-      5
+      286
     ],
     "emoji": "👑",
     "priority": 4178,
@@ -1128,8 +1101,7 @@
     "title": "Roman empire capital is moved to Mediolanum",
     "description": "",
     "time": [
-      292,
-      7
+      292
     ],
     "emoji": "👑",
     "priority": 339,
@@ -1139,8 +1111,7 @@
     "title": "fall of the Britannic Empire",
     "description": "",
     "time": [
-      296,
-      7
+      296
     ],
     "emoji": "🏚️",
     "priority": 2178,
@@ -1151,8 +1122,7 @@
     "title": "fall of the Chera Dynasty",
     "description": "",
     "time": [
-      300,
-      12
+      300
     ],
     "emoji": "🏚️",
     "priority": 132,
@@ -1163,8 +1133,7 @@
     "title": "rise of the Gupta Empire",
     "description": "",
     "time": [
-      320,
-      2
+      320
     ],
     "emoji": "👑",
     "priority": 2373,
@@ -1175,8 +1144,7 @@
     "title": "rise of the Byzantine Empire",
     "description": "",
     "time": [
-      330,
-      10
+      330
     ],
     "emoji": "👑",
     "priority": 4222,
@@ -1187,8 +1155,7 @@
     "title": "Constantinople becomes the capital of the eastern Roman Empire",
     "description": "",
     "time": [
-      330,
-      10
+      330
     ],
     "emoji": "👑",
     "priority": 1478,
@@ -1198,8 +1165,7 @@
     "title": "rise of the Rouran Khaganate",
     "description": "",
     "time": [
-      330,
-      9
+      330
     ],
     "emoji": "👑",
     "priority": 731,
@@ -1210,8 +1176,7 @@
     "title": "Constantius II is left sole emperor of rome",
     "description": "",
     "time": [
-      350,
-      8
+      350
     ],
     "emoji": "👑",
     "priority": 286,
@@ -1221,8 +1186,7 @@
     "title": "rise of the Hunnic Empire",
     "description": "",
     "time": [
-      370,
-      8
+      370
     ],
     "emoji": "👑",
     "priority": 1305,
@@ -1232,8 +1196,7 @@
     "title": "rise of the Western Roman Empire",
     "description": "",
     "time": [
-      395,
-      2
+      395
     ],
     "emoji": "👑",
     "priority": 2957,
@@ -1244,8 +1207,7 @@
     "title": "rise of the Hephthalite Empire",
     "description": "",
     "time": [
-      420,
-      7
+      420
     ],
     "emoji": "👑",
     "priority": 2202,
@@ -1256,8 +1218,7 @@
     "title": "fall of the Jin Dynasty",
     "description": "",
     "time": [
-      420,
-      11
+      420
     ],
     "emoji": "🏚️",
     "priority": 205,
@@ -1268,8 +1229,7 @@
     "title": "fall of the Armenian Empire",
     "description": "",
     "time": [
-      428,
-      7
+      428
     ],
     "emoji": "🏚️",
     "priority": 1003,
@@ -1279,8 +1239,7 @@
     "title": "rise of the Göktürk Khaganate",
     "description": "",
     "time": [
-      439,
-      5
+      439
     ],
     "emoji": "👑",
     "priority": 1095,
@@ -1291,8 +1250,7 @@
     "title": "rise of the Wei Empire",
     "description": "",
     "time": [
-      450,
-      4
+      450
     ],
     "emoji": "👑",
     "priority": 2112,
@@ -1302,8 +1260,7 @@
     "title": "fall of the Hunnic Empire",
     "description": "",
     "time": [
-      469,
-      8
+      469
     ],
     "emoji": "🏚️",
     "priority": 1305,
@@ -1325,8 +1282,7 @@
     "title": "the last Western Roman Emperor",
     "description": "",
     "time": [
-      476,
-      6
+      476
     ],
     "emoji": "👑",
     "priority": 7123,
@@ -1337,8 +1293,7 @@
     "title": "fall of the Western Roman Empire",
     "description": "",
     "time": [
-      476,
-      5
+      476
     ],
     "emoji": "🏚️",
     "priority": 2957,
@@ -1349,8 +1304,7 @@
     "title": "rise of the Toltec Empire",
     "description": "",
     "time": [
-      496,
-      8
+      496
     ],
     "emoji": "👑",
     "priority": 1604,
@@ -1361,8 +1315,7 @@
     "title": "rise of the Wari Empire",
     "description": "",
     "time": [
-      500,
-      7
+      500
     ],
     "emoji": "⚔️",
     "priority": 2474,
@@ -1373,8 +1326,7 @@
     "title": "fall of the Gupta Empire",
     "description": "",
     "time": [
-      550,
-      9
+      550
     ],
     "emoji": "🏚️",
     "priority": 2373,
@@ -1385,8 +1337,7 @@
     "title": "fall of the Rouran Khaganate",
     "description": "",
     "time": [
-      555,
-      4
+      555
     ],
     "emoji": "🏚️",
     "priority": 731,
@@ -1397,8 +1348,7 @@
     "title": "fall of the Hephthalite Empire",
     "description": "",
     "time": [
-      567,
-      4
+      567
     ],
     "emoji": "🏚️",
     "priority": 2202,
@@ -1409,8 +1359,7 @@
     "title": "rise of the Sui Dynasty",
     "description": "",
     "time": [
-      581,
-      5
+      581
     ],
     "emoji": "👑",
     "priority": 1177,
@@ -1421,8 +1370,7 @@
     "title": "rise of the Bruneian Empire",
     "description": "",
     "time": [
-      600,
-      12
+      600
     ],
     "emoji": "👑",
     "priority": 824,
@@ -1433,8 +1381,7 @@
     "title": "rise of the Empire of Harsha",
     "description": "",
     "time": [
-      606,
-      4
+      606
     ],
     "emoji": "👑",
     "priority": 690,
@@ -1444,8 +1391,7 @@
     "title": "fall of the Sui Dynasty",
     "description": "",
     "time": [
-      618,
-      5
+      618
     ],
     "emoji": "🏚️",
     "priority": 1177,
@@ -1456,8 +1402,7 @@
     "title": "rise of the Tang Dynasty",
     "description": "",
     "time": [
-      618,
-      4
+      618
     ],
     "emoji": "👑",
     "priority": 737,
@@ -1468,8 +1413,7 @@
     "title": "rise of the Rashidun Caliphate",
     "description": "",
     "time": [
-      632,
-      8
+      632
     ],
     "emoji": "👑",
     "priority": 354,
@@ -1480,8 +1424,7 @@
     "title": "fall of the Empire of Harsha",
     "description": "",
     "time": [
-      647,
-      12
+      647
     ],
     "emoji": "🏚️",
     "priority": 690,
@@ -1491,8 +1434,7 @@
     "title": "fall of the Sassanid Dynasty",
     "description": "",
     "time": [
-      651,
-      12
+      651
     ],
     "emoji": "🏚️",
     "priority": 206,
@@ -1502,8 +1444,7 @@
     "title": "fall of the Baekje",
     "description": "",
     "time": [
-      660,
-      7
+      660
     ],
     "emoji": "🏚️",
     "priority": 2010,
@@ -1514,8 +1455,7 @@
     "title": "rise of the Umayyad Caliphate",
     "description": "",
     "time": [
-      661,
-      7
+      661
     ],
     "emoji": "👑",
     "priority": 841,
@@ -1526,8 +1466,7 @@
     "title": "fall of the Rashidun Caliphate",
     "description": "",
     "time": [
-      661,
-      4
+      661
     ],
     "emoji": "🏚️",
     "priority": 354,
@@ -1538,8 +1477,7 @@
     "title": "fall of the Goguryeo",
     "description": "",
     "time": [
-      668,
-      6
+      668
     ],
     "emoji": "🏚️",
     "priority": 813,
@@ -1561,8 +1499,7 @@
     "title": "rise of the Srivijaya Empire",
     "description": "",
     "time": [
-      683,
-      10
+      683
     ],
     "emoji": "👑",
     "priority": 2739,
@@ -1572,8 +1509,7 @@
     "title": "rise of the Goguryeo kingdom",
     "description": "",
     "time": [
-      698,
-      11
+      698
     ],
     "emoji": "👑",
     "priority": 2596,
@@ -1583,8 +1519,7 @@
     "title": "rise of the Turgesh Khaganate",
     "description": "",
     "time": [
-      699,
-      11
+      699
     ],
     "emoji": "👑",
     "priority": 37,
@@ -1594,8 +1529,7 @@
     "title": "rise of the Kanem Empire",
     "description": "",
     "time": [
-      700,
-      8
+      700
     ],
     "emoji": "👑",
     "priority": 2703,
@@ -1606,8 +1540,7 @@
     "title": "rise of the Khazar Khaganate",
     "description": "",
     "time": [
-      700,
-      2
+      700
     ],
     "emoji": "👑",
     "priority": 1150,
@@ -1617,8 +1550,7 @@
     "title": "rise of the Uyghur Khaganate",
     "description": "",
     "time": [
-      742,
-      10
+      742
     ],
     "emoji": "👑",
     "priority": 1711,
@@ -1629,8 +1561,7 @@
     "title": "fall of the Göktürk Khaganate",
     "description": "",
     "time": [
-      747,
-      4
+      747
     ],
     "emoji": "🏚️",
     "priority": 1095,
@@ -1641,8 +1572,7 @@
     "title": "rise of the Pala Empire",
     "description": "",
     "time": [
-      750,
-      3
+      750
     ],
     "emoji": "👑",
     "priority": 2285,
@@ -1653,8 +1583,7 @@
     "title": "fall of the Umayyad Caliphate",
     "description": "",
     "time": [
-      750,
-      7
+      750
     ],
     "emoji": "🏚️",
     "priority": 841,
@@ -1665,8 +1594,7 @@
     "title": "rise of the Chalukya Dynasty",
     "description": "",
     "time": [
-      750,
-      7
+      750
     ],
     "emoji": "👑",
     "priority": 1,
@@ -1676,8 +1604,7 @@
     "title": "fall of the Chalukya Dynasty",
     "description": "",
     "time": [
-      753,
-      3
+      753
     ],
     "emoji": "🏚️",
     "priority": 1920,
@@ -1688,8 +1615,7 @@
     "title": "rise of the Rashtrakuta Dynasty",
     "description": "",
     "time": [
-      753,
-      7
+      753
     ],
     "emoji": "👑",
     "priority": 130,
@@ -1700,8 +1626,7 @@
     "title": "rise of the Caliphate of Córdoba",
     "description": "",
     "time": [
-      756,
-      11
+      756
     ],
     "emoji": "👑",
     "priority": 809,
@@ -1712,8 +1637,7 @@
     "title": "fall of the Turgesh Khaganate",
     "description": "",
     "time": [
-      766,
-      3
+      766
     ],
     "emoji": "🏚️",
     "priority": 37,
@@ -1723,8 +1647,7 @@
     "title": "rise of the Tibetan Empire",
     "description": "",
     "time": [
-      780,
-      9
+      780
     ],
     "emoji": "👑",
     "priority": 2026,
@@ -1735,8 +1658,7 @@
     "title": "rise of the Ghana Empire",
     "description": "",
     "time": [
-      790,
-      5
+      790
     ],
     "emoji": "👑",
     "priority": 2365,
@@ -1747,8 +1669,7 @@
     "title": "rise of the Khmer Empire",
     "description": "",
     "time": [
-      802,
-      3
+      802
     ],
     "emoji": "👑",
     "priority": 2669,
@@ -1759,8 +1680,7 @@
     "title": "rise of the Samanid Dynasty",
     "description": "",
     "time": [
-      819,
-      5
+      819
     ],
     "emoji": "👑",
     "priority": 691,
@@ -1770,8 +1690,7 @@
     "title": "rise of the Tahirid Dynasty",
     "description": "",
     "time": [
-      821,
-      7
+      821
     ],
     "emoji": "👑",
     "priority": 626,
@@ -1782,8 +1701,7 @@
     "title": "rise of the Great Moravian Empire",
     "description": "",
     "time": [
-      833,
-      7
+      833
     ],
     "emoji": "👑",
     "priority": 3818,
@@ -1794,8 +1712,7 @@
     "title": "rise of the Kara-Khanid Khanate",
     "description": "",
     "time": [
-      840,
-      7
+      840
     ],
     "emoji": "👑",
     "priority": 2063,
@@ -1806,8 +1723,7 @@
     "title": "fall of the Uyghur Khaganate",
     "description": "",
     "time": [
-      848,
-      8
+      848
     ],
     "emoji": "🏚️",
     "priority": 1711,
@@ -1818,8 +1734,7 @@
     "title": "rise of the Saffarid Dynasty",
     "description": "",
     "time": [
-      867,
-      8
+      867
     ],
     "emoji": "👑",
     "priority": 790,
@@ -1830,8 +1745,7 @@
     "title": "fall of the Tibetan Empire",
     "description": "",
     "time": [
-      870,
-      4
+      870
     ],
     "emoji": "🏚️",
     "priority": 2026,
@@ -1853,8 +1767,7 @@
     "title": "fall of the Great Moravian Empire",
     "description": "",
     "time": [
-      900,
-      11
+      900
     ],
     "emoji": "🏚️",
     "priority": 2818,
@@ -1865,8 +1778,7 @@
     "title": "rise of the Tu'i Tonga Empire",
     "description": "",
     "time": [
-      900,
-      4
+      900
     ],
     "emoji": "👑",
     "priority": 1748,
@@ -1877,8 +1789,7 @@
     "title": "fall of the Tang Dynasty",
     "description": "",
     "time": [
-      907,
-      10
+      907
     ],
     "emoji": "🏚️",
     "priority": 737,
@@ -1889,8 +1800,7 @@
     "title": "rise of the Liao Dynasty",
     "description": "",
     "time": [
-      915,
-      2
+      915
     ],
     "emoji": "👑",
     "priority": 411,
@@ -1901,8 +1811,7 @@
     "title": "rise of the Goryeo",
     "description": "",
     "time": [
-      918,
-      8
+      918
     ],
     "emoji": "👑",
     "priority": 502,
@@ -1913,8 +1822,7 @@
     "title": "fall of the Goguryeo kingdom",
     "description": "",
     "time": [
-      926,
-      3
+      926
     ],
     "emoji": "🏚️",
     "priority": 2596,
@@ -1924,8 +1832,7 @@
     "title": "rise of the Buyid Dynasty",
     "description": "",
     "time": [
-      934,
-      9
+      934
     ],
     "emoji": "👑",
     "priority": 1661,
@@ -1936,8 +1843,7 @@
     "title": "fall of the Silla",
     "description": "",
     "time": [
-      935,
-      7
+      935
     ],
     "emoji": "🏚️",
     "priority": 1502,
@@ -1948,8 +1854,7 @@
     "title": "fall of the Aksumite Empire",
     "description": "",
     "time": [
-      940,
-      9
+      940
     ],
     "emoji": "🏚️",
     "priority": 2926,
@@ -1959,8 +1864,7 @@
     "title": "fall of the Frankish Empire",
     "description": "",
     "time": [
-      950,
-      5
+      950
     ],
     "emoji": "🏚️",
     "priority": 1568,
@@ -1970,8 +1874,7 @@
     "title": "rise of the Song Dynasty",
     "description": "",
     "time": [
-      960,
-      2
+      960
     ],
     "emoji": "👑",
     "priority": 914,
@@ -1982,8 +1885,7 @@
     "title": "rise of the Holy Roman Empire",
     "description": "",
     "time": [
-      962,
-      11
+      962
     ],
     "emoji": "👑",
     "priority": 4087,
@@ -1994,8 +1896,7 @@
     "title": "rise of the Ghaznavid Dynasty",
     "description": "",
     "time": [
-      963,
-      10
+      963
     ],
     "emoji": "👑",
     "priority": 1671,
@@ -2006,8 +1907,7 @@
     "title": "rise of the Western Chalukya Empire",
     "description": "",
     "time": [
-      973,
-      4
+      973
     ],
     "emoji": "👑",
     "priority": 263,
@@ -2018,8 +1918,7 @@
     "title": "fall of the Rashtrakuta Dynasty",
     "description": "",
     "time": [
-      982,
-      7
+      982
     ],
     "emoji": "🏚️",
     "priority": 130,
@@ -2030,8 +1929,7 @@
     "title": "fall of the Samanid Dynasty",
     "description": "",
     "time": [
-      999,
-      11
+      999
     ],
     "emoji": "🏚️",
     "priority": 691,
@@ -2041,8 +1939,7 @@
     "title": "rise of the Micronesian Empire",
     "description": "",
     "time": [
-      1000,
-      10
+      1000
     ],
     "emoji": "👑",
     "priority": 2243,
@@ -2053,8 +1950,7 @@
     "title": "fall of the Khazar Khaganate",
     "description": "",
     "time": [
-      1000,
-      4
+      1000
     ],
     "emoji": "🏚️",
     "priority": 150,
@@ -2064,8 +1960,7 @@
     "title": "fall of the Saffarid Dynasty",
     "description": "",
     "time": [
-      1002,
-      7
+      1002
     ],
     "emoji": "🏚️",
     "priority": 790,
@@ -2076,8 +1971,7 @@
     "title": "the Viking expansion",
     "description": "",
     "time": [
-      1016,
-      5
+      1016
     ],
     "emoji": "👑",
     "priority": 6091,
@@ -2087,8 +1981,7 @@
     "title": "fall of the First Bulgarian Empire",
     "description": "",
     "time": [
-      1018,
-      10
+      1018
     ],
     "emoji": "🏚️",
     "priority": 2442,
@@ -2099,8 +1992,7 @@
     "title": "rise of the Hoysala Empire",
     "description": "",
     "time": [
-      1026,
-      5
+      1026
     ],
     "emoji": "👑",
     "priority": 2213,
@@ -2111,8 +2003,7 @@
     "title": "fall of the Caliphate of Córdoba",
     "description": "",
     "time": [
-      1031,
-      10
+      1031
     ],
     "emoji": "🏚️",
     "priority": 809,
@@ -2123,8 +2014,7 @@
     "title": "fall of the Viking expansion",
     "description": "",
     "time": [
-      1035,
-      8
+      1035
     ],
     "emoji": "🏚️",
     "priority": 2176,
@@ -2135,8 +2025,7 @@
     "title": "rise of the Great Seljuq Empire",
     "description": "",
     "time": [
-      1037,
-      10
+      1037
     ],
     "emoji": "👑",
     "priority": 1846,
@@ -2147,8 +2036,7 @@
     "title": "rise of the Western Xia Dynasty",
     "description": "",
     "time": [
-      1038,
-      9
+      1038
     ],
     "emoji": "👑",
     "priority": 1176,
@@ -2159,8 +2047,7 @@
     "title": "rise of the Almoravid Dynasty",
     "description": "",
     "time": [
-      1040,
-      7
+      1040
     ],
     "emoji": "👑",
     "priority": 1995,
@@ -2171,8 +2058,7 @@
     "title": "fall of the Buyid Dynasty",
     "description": "",
     "time": [
-      1055,
-      11
+      1055
     ],
     "emoji": "🏚️",
     "priority": 1661,
@@ -2183,8 +2069,7 @@
     "title": "rise of the Uyunid dynasty",
     "description": "",
     "time": [
-      1076,
-      7
+      1076
     ],
     "emoji": "👑",
     "priority": 462,
@@ -2195,8 +2080,7 @@
     "title": "rise of the Khwarezmid Dynasty",
     "description": "",
     "time": [
-      1077,
-      11
+      1077
     ],
     "emoji": "⚔️",
     "priority": 946,
@@ -2207,8 +2091,7 @@
     "title": "fall of the Wari Empire",
     "description": "",
     "time": [
-      1100,
-      7
+      1100
     ],
     "emoji": "🏚️",
     "priority": 474,
@@ -2219,8 +2102,7 @@
     "title": "rise of the Jin Dynasty",
     "description": "",
     "time": [
-      1115,
-      2
+      1115
     ],
     "emoji": "👑",
     "priority": 205,
@@ -2231,8 +2113,7 @@
     "title": "fall of the Toltec Empire",
     "description": "",
     "time": [
-      1122,
-      11
+      1122
     ],
     "emoji": "🏚️",
     "priority": 1604,
@@ -2243,8 +2124,7 @@
     "title": "fall of the Liao Dynasty",
     "description": "",
     "time": [
-      1125,
-      2
+      1125
     ],
     "emoji": "🏚️",
     "priority": 411,
@@ -2255,8 +2135,7 @@
     "title": "rise of the Ethiopian Empire",
     "description": "",
     "time": [
-      1137,
-      11
+      1137
     ],
     "emoji": "👑",
     "priority": 2657,
@@ -2267,8 +2146,7 @@
     "title": "fall of the Almoravid Dynasty",
     "description": "",
     "time": [
-      1147,
-      7
+      1147
     ],
     "emoji": "🏚️",
     "priority": 1995,
@@ -2279,8 +2157,7 @@
     "title": "rise of the Almohad Dynasty",
     "description": "",
     "time": [
-      1147,
-      11
+      1147
     ],
     "emoji": "👑",
     "priority": 1534,
@@ -2290,8 +2167,7 @@
     "title": "rise of the Ghurid Dynasty",
     "description": "",
     "time": [
-      1148,
-      5
+      1148
     ],
     "emoji": "👑",
     "priority": 1266,
@@ -2302,8 +2178,7 @@
     "title": "rise of the Angevin Empire",
     "description": "",
     "time": [
-      1154,
-      4
+      1154
     ],
     "emoji": "👑",
     "priority": 3634,
@@ -2314,8 +2189,7 @@
     "title": "rise of the Ayyubid Dynasty",
     "description": "",
     "time": [
-      1171,
-      8
+      1171
     ],
     "emoji": "👑",
     "priority": 3504,
@@ -2326,8 +2200,7 @@
     "title": "fall of the Fatimid Caliphate",
     "description": "",
     "time": [
-      1171,
-      2
+      1171
     ],
     "emoji": "🏚️",
     "priority": 2060,
@@ -2338,8 +2211,7 @@
     "title": "rise of the Fatimid Caliphate",
     "description": "",
     "time": [
-      1171,
-      7
+      1171
     ],
     "emoji": "👑",
     "priority": 2060,
@@ -2350,8 +2222,7 @@
     "title": "fall of the Pala Empire",
     "description": "",
     "time": [
-      1174,
-      7
+      1174
     ],
     "emoji": "🏚️",
     "priority": 2285,
@@ -2362,8 +2233,7 @@
     "title": "rise of the Bulgarian Empire",
     "description": "",
     "time": [
-      1185,
-      5
+      1185
     ],
     "emoji": "👑",
     "priority": 2442,
@@ -2374,8 +2244,7 @@
     "title": "fall of the Ghaznavid Dynasty",
     "description": "",
     "time": [
-      1187,
-      2
+      1187
     ],
     "emoji": "🏚️",
     "priority": 1671,
@@ -2397,8 +2266,7 @@
     "title": "fall of the Great Seljuq Empire",
     "description": "",
     "time": [
-      1194,
-      6
+      1194
     ],
     "emoji": "🏚️",
     "priority": 1846,
@@ -2409,8 +2277,7 @@
     "title": "rise of the Inca Empire",
     "description": "",
     "time": [
-      1200,
-      11
+      1200
     ],
     "emoji": "👑",
     "priority": 7003,
@@ -2421,8 +2288,7 @@
     "title": "rise of the Empire of Trebizond",
     "description": "",
     "time": [
-      1204,
-      2
+      1204
     ],
     "emoji": "👑",
     "priority": 2013,
@@ -2433,8 +2299,7 @@
     "title": "rise of the Latin Empire",
     "description": "",
     "time": [
-      1204,
-      7
+      1204
     ],
     "emoji": "👑",
     "priority": 1195,
@@ -2445,8 +2310,7 @@
     "title": "rise of the Empire of Nicaea",
     "description": "",
     "time": [
-      1204,
-      3
+      1204
     ],
     "emoji": "👑",
     "priority": 1160,
@@ -2468,8 +2332,7 @@
     "title": "rise of the Delhi Sultanate",
     "description": "",
     "time": [
-      1206,
-      7
+      1206
     ],
     "emoji": "👑",
     "priority": 1,
@@ -2479,8 +2342,7 @@
     "title": "fall of the Kara-Khanid Khanate",
     "description": "",
     "time": [
-      1212,
-      5
+      1212
     ],
     "emoji": "🏚️",
     "priority": 2063,
@@ -2491,8 +2353,7 @@
     "title": "fall of the Ghurid Dynasty",
     "description": "",
     "time": [
-      1215,
-      5
+      1215
     ],
     "emoji": "🏚️",
     "priority": 1266,
@@ -2503,8 +2364,7 @@
     "title": "fall of the Khwarezmid Dynasty",
     "description": "",
     "time": [
-      1221,
-      7
+      1221
     ],
     "emoji": "🏚️",
     "priority": 946,
@@ -2515,8 +2375,7 @@
     "title": "rise of the Chagatai Khanate",
     "description": "",
     "time": [
-      1225,
-      8
+      1225
     ],
     "emoji": "👑",
     "priority": 938,
@@ -2527,8 +2386,7 @@
     "title": "fall of the Western Xia Dynasty",
     "description": "",
     "time": [
-      1227,
-      10
+      1227
     ],
     "emoji": "🏚️",
     "priority": 1176,
@@ -2539,8 +2397,7 @@
     "title": "fall of the Jin Dynasty",
     "description": "",
     "time": [
-      1234,
-      11
+      1234
     ],
     "emoji": "🏚️",
     "priority": 205,
@@ -2551,8 +2408,7 @@
     "title": "rise of the Mali Empire",
     "description": "",
     "time": [
-      1235,
-      7
+      1235
     ],
     "emoji": "👑",
     "priority": 3530,
@@ -2563,8 +2419,7 @@
     "title": "rise of the Tlemcen",
     "description": "",
     "time": [
-      1235,
-      11
+      1235
     ],
     "emoji": "👑",
     "priority": 966,
@@ -2575,8 +2430,7 @@
     "title": "fall of the Ghana Empire",
     "description": "",
     "time": [
-      1240,
-      4
+      1240
     ],
     "emoji": "🏚️",
     "priority": 2365,
@@ -2587,8 +2441,7 @@
     "title": "rise of the Golden Horde",
     "description": "",
     "time": [
-      1240,
-      10
+      1240
     ],
     "emoji": "👑",
     "priority": 2361,
@@ -2599,8 +2452,7 @@
     "title": "fall of the Angevin Empire",
     "description": "",
     "time": [
-      1242,
-      11
+      1242
     ],
     "emoji": "🏚️",
     "priority": 3634,
@@ -2611,8 +2463,7 @@
     "title": "rise of the Mamluk Sultanate",
     "description": "",
     "time": [
-      1250,
-      3
+      1250
     ],
     "emoji": "👑",
     "priority": 129,
@@ -2622,8 +2473,7 @@
     "title": "fall of the Uyunid dynasty",
     "description": "",
     "time": [
-      1253,
-      10
+      1253
     ],
     "emoji": "🏚️",
     "priority": 462,
@@ -2634,8 +2484,7 @@
     "title": "rise of the Ilkhanate",
     "description": "",
     "time": [
-      1256,
-      5
+      1256
     ],
     "emoji": "👑",
     "priority": 1329,
@@ -2646,8 +2495,7 @@
     "title": "fall of the Latin Empire",
     "description": "",
     "time": [
-      1261,
-      9
+      1261
     ],
     "emoji": "🏚️",
     "priority": 1195,
@@ -2658,8 +2506,7 @@
     "title": "fall of the Empire of Nicaea",
     "description": "",
     "time": [
-      1261,
-      7
+      1261
     ],
     "emoji": "🏚️",
     "priority": 1160,
@@ -2670,8 +2517,7 @@
     "title": "fall of the Almohad Dynasty",
     "description": "",
     "time": [
-      1269,
-      6
+      1269
     ],
     "emoji": "🏚️",
     "priority": 1534,
@@ -2681,8 +2527,7 @@
     "title": "rise of the Yuan Dynasty",
     "description": "",
     "time": [
-      1271,
-      5
+      1271
     ],
     "emoji": "👑",
     "priority": 769,
@@ -2693,8 +2538,7 @@
     "title": "fall of the Song Dynasty",
     "description": "",
     "time": [
-      1279,
-      7
+      1279
     ],
     "emoji": "🏚️",
     "priority": 914,
@@ -2705,8 +2549,7 @@
     "title": "fall of the Chola Dynasty",
     "description": "",
     "time": [
-      1279,
-      11
+      1279
     ],
     "emoji": "🏚️",
     "priority": 749,
@@ -2728,8 +2571,7 @@
     "title": "fall of the Srivijaya Empire",
     "description": "",
     "time": [
-      1293,
-      7
+      1293
     ],
     "emoji": "🏚️",
     "priority": 2739,
@@ -2749,8 +2591,7 @@
     "title": "rise of the Ottoman Empire",
     "description": "",
     "time": [
-      1299,
-      8
+      1299
     ],
     "emoji": "👑",
     "priority": 4987,
@@ -2761,8 +2602,7 @@
     "title": "fall of the Khilji Dynasty",
     "description": "",
     "time": [
-      1320,
-      11
+      1320
     ],
     "emoji": "🏚️",
     "priority": 1867,
@@ -2773,8 +2613,7 @@
     "title": "fall of the Ilkhanate",
     "description": "",
     "time": [
-      1335,
-      3
+      1335
     ],
     "emoji": "🏚️",
     "priority": 1329,
@@ -2785,8 +2624,7 @@
     "title": "rise of the Vijayanagara Empire",
     "description": "",
     "time": [
-      1336,
-      8
+      1336
     ],
     "emoji": "👑",
     "priority": 1860,
@@ -2797,8 +2635,7 @@
     "title": "rise of the Songhai Empire",
     "description": "",
     "time": [
-      1340,
-      5
+      1340
     ],
     "emoji": "👑",
     "priority": 1989,
@@ -2809,8 +2646,7 @@
     "title": "fall of the Ayyubid Dynasty",
     "description": "",
     "time": [
-      1341,
-      2
+      1341
     ],
     "emoji": "🏚️",
     "priority": 2504,
@@ -2821,8 +2657,7 @@
     "title": "fall of the Hoysala Empire",
     "description": "",
     "time": [
-      1343,
-      10
+      1343
     ],
     "emoji": "🏚️",
     "priority": 2213,
@@ -2833,8 +2668,7 @@
     "title": "rise of the Serbian Empire",
     "description": "",
     "time": [
-      1346,
-      10
+      1346
     ],
     "emoji": "👑",
     "priority": 1402,
@@ -2845,8 +2679,7 @@
     "title": "fall of the Pandyan Empire",
     "description": "",
     "time": [
-      1350,
-      5
+      1350
     ],
     "emoji": "🏚️",
     "priority": 1907,
@@ -2856,8 +2689,7 @@
     "title": "rise of the Danish colonial empire",
     "description": "",
     "time": [
-      1350,
-      10
+      1350
     ],
     "emoji": "👑",
     "priority": 1791,
@@ -2879,8 +2711,7 @@
     "title": "rise of the Ming Dynasty",
     "description": "",
     "time": [
-      1368,
-      8
+      1368
     ],
     "emoji": "👑",
     "priority": 2809,
@@ -2891,8 +2722,7 @@
     "title": "fall of the Yuan Dynasty",
     "description": "",
     "time": [
-      1368,
-      7
+      1368
     ],
     "emoji": "🏚️",
     "priority": 769,
@@ -2903,8 +2733,7 @@
     "title": "rise of the Northern Yuan Dynasty",
     "description": "",
     "time": [
-      1368,
-      11
+      1368
     ],
     "emoji": "👑",
     "priority": 295,
@@ -2914,8 +2743,7 @@
     "title": "rise of the Timurid Empire",
     "description": "",
     "time": [
-      1370,
-      10
+      1370
     ],
     "emoji": "👑",
     "priority": 1130,
@@ -2925,8 +2753,7 @@
     "title": "fall of the Serbian Empire",
     "description": "",
     "time": [
-      1371,
-      8
+      1371
     ],
     "emoji": "🏚️",
     "priority": 1402,
@@ -2937,8 +2764,7 @@
     "title": "fall of the Kanem Empire",
     "description": "",
     "time": [
-      1387,
-      8
+      1387
     ],
     "emoji": "🏚️",
     "priority": 2703,
@@ -2949,8 +2775,7 @@
     "title": "rise of the Bornu Empire",
     "description": "",
     "time": [
-      1387,
-      9
+      1387
     ],
     "emoji": "👑",
     "priority": 1,
@@ -2960,8 +2785,7 @@
     "title": "fall of the Goryeo",
     "description": "",
     "time": [
-      1392,
-      7
+      1392
     ],
     "emoji": "🏚️",
     "priority": 502,
@@ -2972,8 +2796,7 @@
     "title": "rise of the Oyo Empire",
     "description": "",
     "time": [
-      1400,
-      7
+      1400
     ],
     "emoji": "👑",
     "priority": 2806,
@@ -2995,8 +2818,7 @@
     "title": "fall of the Second Bulgarian Empire",
     "description": "",
     "time": [
-      1422,
-      11
+      1422
     ],
     "emoji": "🏚️",
     "priority": 2176,
@@ -3007,8 +2829,7 @@
     "title": "rise of the Aztec Empire",
     "description": "",
     "time": [
-      1428,
-      4
+      1428
     ],
     "emoji": "👑",
     "priority": 5039,
@@ -3019,8 +2840,7 @@
     "title": "fall of the Khmer Empire",
     "description": "",
     "time": [
-      1431,
-      12
+      1431
     ],
     "emoji": "🏚️",
     "priority": 2669,
@@ -3031,8 +2851,7 @@
     "title": "rise of the Benin Empire",
     "description": "",
     "time": [
-      1440,
-      12
+      1440
     ],
     "emoji": "👑",
     "priority": 1972,
@@ -3043,8 +2862,7 @@
     "title": "rise of the Lodi Sultanate",
     "description": "",
     "time": [
-      1451,
-      6
+      1451
     ],
     "emoji": "👑",
     "priority": 133,
@@ -3054,8 +2872,7 @@
     "title": "fall of the Byzantine Empire",
     "description": "",
     "time": [
-      1453,
-      10
+      1453
     ],
     "emoji": "🏚️",
     "priority": 8222,
@@ -3066,8 +2883,7 @@
     "title": "fall of the Empire of Trebizond",
     "description": "",
     "time": [
-      1461,
-      8
+      1461
     ],
     "emoji": "🏚️",
     "priority": 2013,
@@ -3078,8 +2894,7 @@
     "title": "rise of the Spanish Empire",
     "description": "",
     "time": [
-      1492,
-      11
+      1492
     ],
     "emoji": "👑",
     "priority": 7563,
@@ -3090,8 +2905,7 @@
     "title": "fall of the Micronesian Empire",
     "description": "",
     "time": [
-      1500,
-      5
+      1500
     ],
     "emoji": "🏚️",
     "priority": 2243,
@@ -3102,8 +2916,7 @@
     "title": "rise of the Safavid Dynasty",
     "description": "",
     "time": [
-      1501,
-      9
+      1501
     ],
     "emoji": "👑",
     "priority": 270,
@@ -3114,8 +2927,7 @@
     "title": "fall of the Golden Horde",
     "description": "",
     "time": [
-      1502,
-      4
+      1502
     ],
     "emoji": "🏚️",
     "priority": 1361,
@@ -3126,8 +2938,7 @@
     "title": "rise of the Empire of Great Fulo",
     "description": "",
     "time": [
-      1514,
-      11
+      1514
     ],
     "emoji": "👑",
     "priority": 361,
@@ -3138,8 +2949,7 @@
     "title": "fall of the Mamluk Sultanate",
     "description": "",
     "time": [
-      1517,
-      12
+      1517
     ],
     "emoji": "🏚️",
     "priority": 129,
@@ -3149,8 +2959,7 @@
     "title": "fall of the Aztec Empire",
     "description": "",
     "time": [
-      1519,
-      5
+      1519
     ],
     "emoji": "🏚️",
     "priority": 2039,
@@ -3161,8 +2970,7 @@
     "title": "rise of the Mughal Empire",
     "description": "",
     "time": [
-      1526,
-      12
+      1526
     ],
     "emoji": "👑",
     "priority": 2766,
@@ -3173,8 +2981,7 @@
     "title": "fall of the Timurid Empire",
     "description": "",
     "time": [
-      1526,
-      11
+      1526
     ],
     "emoji": "🏚️",
     "priority": 1130,
@@ -3184,8 +2991,7 @@
     "title": "fall of the Lodi Sultanate",
     "description": "",
     "time": [
-      1526,
-      9
+      1526
     ],
     "emoji": "🏚️",
     "priority": 133,
@@ -3195,8 +3001,7 @@
     "title": "fall of the Majapahit Empire",
     "description": "",
     "time": [
-      1527,
-      12
+      1527
     ],
     "emoji": "🏚️",
     "priority": 2712,
@@ -3206,8 +3011,7 @@
     "title": "fall of the Delhi Sultanate",
     "description": "",
     "time": [
-      1527,
-      2
+      1527
     ],
     "emoji": "🏚️",
     "priority": 1,
@@ -3217,8 +3021,7 @@
     "title": "fall of the Inca Empire",
     "description": "",
     "time": [
-      1533,
-      8
+      1533
     ],
     "emoji": "🏚️",
     "priority": 6003,
@@ -3229,8 +3032,7 @@
     "title": "rise of the French colonial empires",
     "description": "",
     "time": [
-      1534,
-      9
+      1534
     ],
     "emoji": "👑",
     "priority": 2134,
@@ -3241,8 +3043,7 @@
     "title": "fall of the Tlemcen",
     "description": "",
     "time": [
-      1556,
-      11
+      1556
     ],
     "emoji": "🏚️",
     "priority": 966,
@@ -3253,8 +3054,7 @@
     "title": "rise of the Dutch Empire",
     "description": "",
     "time": [
-      1568,
-      10
+      1568
     ],
     "emoji": "👑",
     "priority": 2871,
@@ -3265,8 +3065,7 @@
     "title": "fall of the Songhai Empire",
     "description": "",
     "time": [
-      1591,
-      10
+      1591
     ],
     "emoji": "🏚️",
     "priority": 1989,
@@ -3277,8 +3076,7 @@
     "title": "rise of the Gorkha Empire",
     "description": "",
     "time": [
-      1600,
-      11
+      1600
     ],
     "emoji": "👑",
     "priority": 2125,
@@ -3288,8 +3086,7 @@
     "title": "Rise of the British Empire",
     "description": "",
     "time": [
-      1603,
-      9
+      1603
     ],
     "emoji": "👑",
     "priority": 11359,
@@ -3301,8 +3098,7 @@
     "title": "fall of the Mali Empire",
     "description": "",
     "time": [
-      1610,
-      5
+      1610
     ],
     "emoji": "🏚️",
     "priority": 1530,
@@ -3313,8 +3109,7 @@
     "title": "rise of the Swedish Empire",
     "description": "",
     "time": [
-      1611,
-      10
+      1611
     ],
     "emoji": "👑",
     "priority": 5651,
@@ -3325,8 +3120,7 @@
     "title": "fall of the Northern Yuan Dynasty",
     "description": "",
     "time": [
-      1635,
-      2
+      1635
     ],
     "emoji": "🏚️",
     "priority": 295,
@@ -3336,8 +3130,7 @@
     "title": "fall of the Ming Dynasty",
     "description": "",
     "time": [
-      1644,
-      2
+      1644
     ],
     "emoji": "🏚️",
     "priority": 809,
@@ -3348,8 +3141,7 @@
     "title": "rise of the Qing Dynasty",
     "description": "",
     "time": [
-      1644,
-      7
+      1644
     ],
     "emoji": "👑",
     "priority": 104,
@@ -3360,8 +3152,7 @@
     "title": "fall of the Vijayanagara Empire",
     "description": "",
     "time": [
-      1646,
-      11
+      1646
     ],
     "emoji": "🏚️",
     "priority": 1860,
@@ -3372,8 +3163,7 @@
     "title": "rise of the Ashanti Empire",
     "description": "",
     "time": [
-      1670,
-      11
+      1670
     ],
     "emoji": "👑",
     "priority": 2248,
@@ -3384,8 +3174,7 @@
     "title": "rise of the Maratha Empire",
     "description": "",
     "time": [
-      1674,
-      9
+      1674
     ],
     "emoji": "👑",
     "priority": 3389,
@@ -3396,8 +3185,7 @@
     "title": "fall of the Chagatai Khanate",
     "description": "",
     "time": [
-      1687,
-      7
+      1687
     ],
     "emoji": "🏚️",
     "priority": 938,
@@ -3408,8 +3196,7 @@
     "title": "rise of the Omani Empire",
     "description": "",
     "time": [
-      1698,
-      10
+      1698
     ],
     "emoji": "👑",
     "priority": 2228,
@@ -3419,8 +3206,7 @@
     "title": "fall of the Tu'i Tonga Empire",
     "description": "",
     "time": [
-      1700,
-      11
+      1700
     ],
     "emoji": "🏚️",
     "priority": 1748,
@@ -3431,8 +3217,7 @@
     "title": "rise of the Hotaki Dynasty",
     "description": "",
     "time": [
-      1709,
-      10
+      1709
     ],
     "emoji": "👑",
     "priority": 761,
@@ -3443,8 +3228,7 @@
     "title": "fall of the Swedish Empire",
     "description": "",
     "time": [
-      1718,
-      10
+      1718
     ],
     "emoji": "🏚️",
     "priority": 2651,
@@ -3455,8 +3239,7 @@
     "title": "rise of the Russian Empire",
     "description": "",
     "time": [
-      1721,
-      8
+      1721
     ],
     "emoji": "👑",
     "priority": 4599,
@@ -3467,8 +3250,7 @@
     "title": "rise of the Sikh Empire",
     "description": "",
     "time": [
-      1733,
-      7
+      1733
     ],
     "emoji": "👑",
     "priority": 1898,
@@ -3479,8 +3261,7 @@
     "title": "rise of the Afsharid Dynasty",
     "description": "",
     "time": [
-      1736,
-      10
+      1736
     ],
     "emoji": "👑",
     "priority": 1081,
@@ -3491,8 +3272,7 @@
     "title": "fall of the Safavid Dynasty",
     "description": "",
     "time": [
-      1736,
-      10
+      1736
     ],
     "emoji": "🏚️",
     "priority": 270,
@@ -3503,8 +3283,7 @@
     "title": "fall of the Hotaki Dynasty",
     "description": "",
     "time": [
-      1738,
-      6
+      1738
     ],
     "emoji": "🏚️",
     "priority": 761,
@@ -3515,8 +3294,7 @@
     "title": "rise of the Durrani Empire",
     "description": "",
     "time": [
-      1747,
-      8
+      1747
     ],
     "emoji": "👑",
     "priority": 1649,
@@ -3527,8 +3305,7 @@
     "title": "rise of the Zand Dynasty",
     "description": "",
     "time": [
-      1750,
-      4
+      1750
     ],
     "emoji": "👑",
     "priority": 850,
@@ -3539,8 +3316,7 @@
     "title": "fall of the Empire of Great Fulo",
     "description": "",
     "time": [
-      1776,
-      10
+      1776
     ],
     "emoji": "🏚️",
     "priority": 361,
@@ -3551,8 +3327,7 @@
     "title": "rise of the Tay Son Dynasty",
     "description": "",
     "time": [
-      1778,
-      8
+      1778
     ],
     "emoji": "👑",
     "priority": 683,
@@ -3562,8 +3337,7 @@
     "title": "rise of the Siam Empire",
     "description": "",
     "time": [
-      1782,
-      8
+      1782
     ],
     "emoji": "👑",
     "priority": 2665,
@@ -3573,8 +3347,7 @@
     "title": "fall of the Zand Dynasty",
     "description": "",
     "time": [
-      1794,
-      11
+      1794
     ],
     "emoji": "🏚️",
     "priority": 850,
@@ -3585,8 +3358,7 @@
     "title": "rise of the Qajar Dynasty",
     "description": "",
     "time": [
-      1794,
-      6
+      1794
     ],
     "emoji": "👑",
     "priority": 1,
@@ -3596,8 +3368,7 @@
     "title": "fall of the Afsharid Dynasty",
     "description": "",
     "time": [
-      1796,
-      2
+      1796
     ],
     "emoji": "🏚️",
     "priority": 1081,
@@ -3608,8 +3379,7 @@
     "title": "rise of the Nguyễn Dynasty",
     "description": "",
     "time": [
-      1802,
-      3
+      1802
     ],
     "emoji": "👑",
     "priority": 815,
@@ -3619,8 +3389,7 @@
     "title": "fall of the Tay Son Dynasty",
     "description": "",
     "time": [
-      1802,
-      8
+      1802
     ],
     "emoji": "🏚️",
     "priority": 683,
@@ -3630,8 +3399,7 @@
     "title": "fall of the Holy Roman Empire",
     "description": "",
     "time": [
-      1806,
-      2
+      1806
     ],
     "emoji": "🏚️",
     "priority": 5087,
@@ -3642,8 +3410,7 @@
     "title": "rise of the Zulu Empire",
     "description": "",
     "time": [
-      1816,
-      7
+      1816
     ],
     "emoji": "👑",
     "priority": 4567,
@@ -3653,8 +3420,7 @@
     "title": "fall of the Zulu Empire",
     "description": "",
     "time": [
-      1816,
-      5
+      1816
     ],
     "emoji": "🏚️",
     "priority": 567,
@@ -3664,8 +3430,7 @@
     "title": "fall of the Maratha Empire",
     "description": "",
     "time": [
-      1818,
-      4
+      1818
     ],
     "emoji": "🏚️",
     "priority": 2389,
@@ -3676,8 +3441,7 @@
     "title": "rise of the First Mexican Empire",
     "description": "",
     "time": [
-      1821,
-      5
+      1821
     ],
     "emoji": "👑",
     "priority": 5161,
@@ -3688,8 +3452,7 @@
     "title": "rise of the Empire of Brazil",
     "description": "",
     "time": [
-      1822,
-      7
+      1822
     ],
     "emoji": "👑",
     "priority": 3586,
@@ -3700,8 +3463,7 @@
     "title": "fall of the Durrani Empire",
     "description": "",
     "time": [
-      1823,
-      5
+      1823
     ],
     "emoji": "🏚️",
     "priority": 1649,
@@ -3712,8 +3474,7 @@
     "title": "fall of the First Mexican Empire",
     "description": "",
     "time": [
-      1823,
-      7
+      1823
     ],
     "emoji": "🏚️",
     "priority": 161,
@@ -3724,8 +3485,7 @@
     "title": "fall of the Sikh Empire",
     "description": "",
     "time": [
-      1849,
-      9
+      1849
     ],
     "emoji": "🏚️",
     "priority": 1898,
@@ -3736,8 +3496,7 @@
     "title": "fall of the Gorkha Empire",
     "description": "",
     "time": [
-      1850,
-      3
+      1850
     ],
     "emoji": "🏚️",
     "priority": 2125,
@@ -3747,8 +3506,7 @@
     "title": "rise of the Second French Empire",
     "description": "",
     "time": [
-      1852,
-      3
+      1852
     ],
     "emoji": "👑",
     "priority": 1789,
@@ -3759,8 +3517,7 @@
     "title": "rise of the British Raj",
     "description": "",
     "time": [
-      1858,
-      7
+      1858
     ],
     "emoji": "👑",
     "priority": 4446,
@@ -3772,8 +3529,7 @@
     "title": "fall of the Mughal Empire",
     "description": "",
     "time": [
-      1858,
-      10
+      1858
     ],
     "emoji": "🏚️",
     "priority": 2766,
@@ -3784,8 +3540,7 @@
     "title": "rise of the Second Mexican Empire",
     "description": "",
     "time": [
-      1864,
-      7
+      1864
     ],
     "emoji": "👑",
     "priority": 1002,
@@ -3796,8 +3551,8 @@
     "title": "rise of the Austro-Hungarian Empire",
     "description": "",
     "time": [
-      1866,
-      8
+      1867,
+      3
     ],
     "emoji": "👑",
     "priority": 4845,
@@ -3807,8 +3562,8 @@
     "title": "rise of the Austrian Empire",
     "description": "",
     "time": [
-      1867,
-      7
+      1804,
+      8
     ],
     "emoji": "👑",
     "priority": 4907,
@@ -3819,8 +3574,7 @@
     "title": "fall of the Austrian Empire",
     "description": "",
     "time": [
-      1867,
-      2
+      1867
     ],
     "emoji": "🏚️",
     "priority": 1907,
@@ -3831,8 +3585,7 @@
     "title": "fall of the Second Mexican Empire",
     "description": "",
     "time": [
-      1867,
-      12
+      1867
     ],
     "emoji": "🏚️",
     "priority": 1002,
@@ -3843,8 +3596,7 @@
     "title": "rise of the Empire of Japan",
     "description": "",
     "time": [
-      1868,
-      5
+      1868
     ],
     "emoji": "👑",
     "priority": 4443,
@@ -3855,8 +3607,7 @@
     "title": "fall of the Second French Empire",
     "description": "",
     "time": [
-      1870,
-      4
+      1870
     ],
     "emoji": "🏚️",
     "priority": 1789,
@@ -3867,8 +3618,7 @@
     "title": "rise of the German Empire",
     "description": "",
     "time": [
-      1871,
-      9
+      1871
     ],
     "emoji": "👑",
     "priority": 5127,
@@ -3879,8 +3629,7 @@
     "title": "rise of the Italian Colonial Empire",
     "description": "",
     "time": [
-      1885,
-      10
+      1885
     ],
     "emoji": "👑",
     "priority": 1628,
@@ -3891,8 +3640,7 @@
     "title": "rise of the Belgian Colonial Empire",
     "description": "",
     "time": [
-      1885,
-      4
+      1885
     ],
     "emoji": "👑",
     "priority": 1055,
@@ -3903,8 +3651,7 @@
     "title": "fall of the Bruneian Empire",
     "description": "",
     "time": [
-      1888,
-      7
+      1888
     ],
     "emoji": "🏚️",
     "priority": 2824,
@@ -3915,8 +3662,7 @@
     "title": "fall of the Empire of Brazil",
     "description": "",
     "time": [
-      1889,
-      6
+      1889
     ],
     "emoji": "🏚️",
     "priority": 2586,
@@ -3927,8 +3673,7 @@
     "title": "fall of the Bornu Empire",
     "description": "",
     "time": [
-      1893,
-      11
+      1893
     ],
     "emoji": "🏚️",
     "priority": 2794,
@@ -3939,8 +3684,7 @@
     "title": "fall of the Benin Empire",
     "description": "",
     "time": [
-      1897,
-      8
+      1897
     ],
     "emoji": "🏚️",
     "priority": 1972,
@@ -3951,8 +3695,7 @@
     "title": "rise of the Korean Empire",
     "description": "",
     "time": [
-      1897,
-      9
+      1897
     ],
     "emoji": "👑",
     "priority": 1401,
@@ -3963,8 +3706,7 @@
     "title": "fall of the Ashanti Empire",
     "description": "",
     "time": [
-      1902,
-      2
+      1902
     ],
     "emoji": "🏚️",
     "priority": 2248,
@@ -3975,8 +3717,7 @@
     "title": "fall of the Oyo Empire",
     "description": "",
     "time": [
-      1905,
-      9
+      1905
     ],
     "emoji": "🏚️",
     "priority": 2806,
@@ -3987,8 +3728,7 @@
     "title": "fall of the Korean Empire",
     "description": "",
     "time": [
-      1910,
-      10
+      1910
     ],
     "emoji": "🏚️",
     "priority": 1401,
@@ -3999,8 +3739,7 @@
     "title": "fall of the Qing Dynasty",
     "description": "",
     "time": [
-      1912,
-      7
+      1912
     ],
     "emoji": "🏚️",
     "priority": 104,
@@ -4011,8 +3750,7 @@
     "title": "fall of the Russian Empire",
     "description": "",
     "time": [
-      1917,
-      2
+      1917
     ],
     "emoji": "🏚️",
     "priority": 3599,
@@ -4023,8 +3761,7 @@
     "title": "fall of the Austro-Hungarian Empire",
     "description": "",
     "time": [
-      1918,
-      5
+      1918
     ],
     "emoji": "🏚️",
     "priority": 3845,
@@ -4034,8 +3771,7 @@
     "title": "fall of the German Empire",
     "description": "",
     "time": [
-      1918,
-      11
+      1918
     ],
     "emoji": "🏚️",
     "priority": 3127,
@@ -4046,8 +3782,7 @@
     "title": "fall of the Ottoman Empire",
     "description": "",
     "time": [
-      1922,
-      3
+      1922
     ],
     "emoji": "🏚️",
     "priority": 4987,
@@ -4058,8 +3793,7 @@
     "title": "rise of the Imperial State of Iran",
     "description": "",
     "time": [
-      1925,
-      4
+      1925
     ],
     "emoji": "👑",
     "priority": 2001,
@@ -4069,8 +3803,7 @@
     "title": "fall of the Qajar Dynasty",
     "description": "",
     "time": [
-      1925,
-      4
+      1925
     ],
     "emoji": "🏚️",
     "priority": 1,
@@ -4080,8 +3813,7 @@
     "title": "fall of the Siam Empire",
     "description": "",
     "time": [
-      1932,
-      2
+      1932
     ],
     "emoji": "🏚️",
     "priority": 665,
@@ -4091,8 +3823,7 @@
     "title": "rise of the Manchukuo",
     "description": "",
     "time": [
-      1932,
-      11
+      1932
     ],
     "emoji": "👑",
     "priority": 116,
@@ -4103,8 +3834,7 @@
     "title": "rise of the Greater German Reich",
     "description": "",
     "time": [
-      1933,
-      4
+      1933
     ],
     "emoji": "👑",
     "priority": 189,
@@ -4115,8 +3845,7 @@
     "title": "fall of the Italian Empire",
     "description": "",
     "time": [
-      1943,
-      11
+      1943
     ],
     "emoji": "🏚️",
     "priority": 2134,
@@ -4127,8 +3856,7 @@
     "title": "fall of the Nguyễn Dynasty",
     "description": "",
     "time": [
-      1945,
-      5
+      1945
     ],
     "emoji": "🏚️",
     "priority": 815,
@@ -4138,8 +3866,7 @@
     "title": "fall of the Greater German Reich",
     "description": "",
     "time": [
-      1945,
-      7
+      1945
     ],
     "emoji": "🏚️",
     "priority": 189,
@@ -4150,8 +3877,7 @@
     "title": "fall of the Manchukuo",
     "description": "",
     "time": [
-      1945,
-      7
+      1945
     ],
     "emoji": "🏚️",
     "priority": 116,
@@ -4162,8 +3888,7 @@
     "title": "fall of the British Raj",
     "description": "",
     "time": [
-      1947,
-      2
+      1947
     ],
     "emoji": "🏚️",
     "priority": 6446,
@@ -4175,8 +3900,7 @@
     "title": "fall of Japan Empire",
     "description": "",
     "time": [
-      1947,
-      5
+      1947
     ],
     "emoji": "🏚️",
     "priority": 29,
@@ -4186,8 +3910,7 @@
     "title": "fall of the Danish colonial empire",
     "description": "",
     "time": [
-      1953,
-      11
+      1953
     ],
     "emoji": "🏚️",
     "priority": 791,
@@ -4198,8 +3921,7 @@
     "title": "fall of the Omani Empire",
     "description": "",
     "time": [
-      1958,
-      4
+      1958
     ],
     "emoji": "🏚️",
     "priority": 2228,
@@ -4209,8 +3931,7 @@
     "title": "fall of the Belgian Colonial Empire",
     "description": "",
     "time": [
-      1962,
-      11
+      1962
     ],
     "emoji": "🏚️",
     "priority": 1055,
@@ -4221,8 +3942,7 @@
     "title": "fall of the Ethiopian Empire",
     "description": "",
     "time": [
-      1974,
-      7
+      1974
     ],
     "emoji": "🏚️",
     "priority": 657,
@@ -4233,8 +3953,7 @@
     "title": "fall of the Spanish Empire",
     "description": "",
     "time": [
-      1975,
-      10
+      1975
     ],
     "emoji": "🏚️",
     "priority": 5563,
@@ -4245,8 +3964,7 @@
     "title": "fall of the Dutch Empire",
     "description": "",
     "time": [
-      1975,
-      7
+      1975
     ],
     "emoji": "🏚️",
     "priority": 2871,
@@ -4257,8 +3975,7 @@
     "title": "fall of the Imperial State of Iran",
     "description": "",
     "time": [
-      1979,
-      10
+      1979
     ],
     "emoji": "🏚️",
     "priority": 4001,
@@ -4268,8 +3985,7 @@
     "title": "fall of the French colonial empires",
     "description": "",
     "time": [
-      1980,
-      3
+      1980
     ],
     "emoji": "🏚️",
     "priority": 3134,
@@ -4280,8 +3996,7 @@
     "title": "Fall of Communism in Eastern Europe",
     "description": "",
     "time": [
-      1989,
-      7
+      1989
     ],
     "emoji": "🏚️",
     "priority": 68,
@@ -4291,8 +4006,7 @@
     "title": "fall of the Soviet Union",
     "description": "",
     "time": [
-      1991,
-      10
+      1991
     ],
     "emoji": "🏚️",
     "priority": 18663,
@@ -4304,8 +4018,7 @@
     "title": "end of the British Empire",
     "description": "",
     "time": [
-      1997,
-      7
+      1997
     ],
     "emoji": "🏚️",
     "priority": 8720,
@@ -4317,8 +4030,7 @@
     "title": "fall of the Portuguese Empire",
     "description": "",
     "time": [
-      1999,
-      12
+      1999
     ],
     "emoji": "🏚️",
     "priority": 6016,

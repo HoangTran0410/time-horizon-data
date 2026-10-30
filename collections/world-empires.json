@@ -90,8 +90,8 @@
   {
     "title": { "vi": "Nhà Tần", "en": "Qin Dynasty" },
     "description": {
-      "vi": "Tần Thủy Hoàng thống nhất Trung Quốc năm 221 TCN, trở thành hoàng đế đầu tiên, chuẩn hóa chữ viết, tiền tệ và khởi đầu Vạn Lý Trường Thành. Triều đại ngắn ngủi nhưng đặt nền móng cho đế chế Trung Hoa.",
-      "en": "Qin Shi Huang unified China in 221 BCE as its first emperor, standardizing script and currency and beginning the Great Wall. Short-lived, but it laid the foundation of imperial China."
+      "vi": "Tần Thủy Hoàng thống nhất Trung Quốc năm 221 TCN, trở thành hoàng đế đầu tiên, chuẩn hóa chữ viết, tiền tệ và nối các đoạn tường thành cũ thành Vạn Lý Trường Thành đầu tiên. Triều đại ngắn ngủi nhưng đặt nền móng cho đế chế Trung Hoa.",
+      "en": "Qin Shi Huang unified China in 221 BCE as its first emperor, standardizing script and currency and linking earlier walls into the first Great Wall. Short-lived, but it laid the foundation of imperial China."
     },
     "time": [-221],
     "endTime": [-206],
@@ -299,8 +299,8 @@
   {
     "title": { "vi": "Nhà Minh", "en": "Ming Dynasty" },
     "description": {
-      "vi": "Triều đại do Chu Nguyên Chương sáng lập sau khi đánh đuổi quân Nguyên, xây Tử Cấm Thành và cử Trịnh Hòa dẫn các hạm đội viễn dương tới tận Đông Phi. Sụp đổ năm 1644 khi quân Mãn Châu vào Bắc Kinh.",
-      "en": "Founded by Zhu Yuanzhang after expelling the Yuan, the Ming built the Forbidden City and sent Zheng He's treasure fleets as far as East Africa. It fell in 1644 when the Manchus entered Beijing."
+      "vi": "Triều đại do Chu Nguyên Chương sáng lập sau khi đánh đuổi quân Nguyên, xây Tử Cấm Thành và cử Trịnh Hòa dẫn các hạm đội viễn dương tới tận Đông Phi. Sụp đổ năm 1644 khi quân khởi nghĩa của Lý Tự Thành chiếm Bắc Kinh, ngay sau đó quân Mãn Châu tiến vào kinh thành.",
+      "en": "Founded by Zhu Yuanzhang after expelling the Yuan, the Ming built the Forbidden City and sent Zheng He's treasure fleets as far as East Africa. It fell in 1644 when Li Zicheng's rebels took Beijing, and the Manchus soon seized the capital."
     },
     "time": [1368],
     "endTime": [1644],
