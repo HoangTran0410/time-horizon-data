@@ -1,6 +1,5 @@
 [
   {
-    "id": "ls6-001",
     "title": "Người Ai Cập cổ đại thống nhất quốc gia",
     "description": "Khoảng năm 3200 TCN, vua Mê-nét thống nhất Thượng và Hạ Ai Cập, lập ra nhà nước Ai Cập cổ đại, đặt nền móng cho nền văn minh sông Nin kéo dài hàng nghìn năm.",
     "time": [-3200],
@@ -8,7 +7,6 @@
     "priority": 75
   },
   {
-    "id": "ls6-002",
     "title": "Nước Văn Lang ra đời",
     "description": "Khoảng thế kỉ VII TCN, thủ lĩnh bộ lạc Văn Lang thu phục các bộ lạc khác ở lưu vực sông Hồng, sông Mã, sông Cả, lập ra nước Văn Lang, xưng là Hùng Vương, đóng đô ở Phong Châu (Việt Trì, Phú Thọ ngày nay). Đây là nhà nước đầu tiên trong lịch sử Việt Nam, tồn tại đến khoảng năm 208 TCN.",
     "time": [-650],
@@ -17,7 +15,6 @@
     "priority": 88
   },
   {
-    "id": "ls6-003",
     "title": "Lăng mộ Tần Thuỷ Hoàng được xây dựng",
     "description": "Ngay sau khi lên ngôi Tần vương năm 246 TCN, Tần Thuỷ Hoàng cho khởi công xây dựng lăng mộ của mình ở chân núi Ly Sơn (gần Tây An, Trung Quốc ngày nay). Công trình kéo dài gần bốn thập kỉ, nổi tiếng với hơn 8.000 tượng binh sĩ bằng đất nung, thể hiện quyền lực và tham vọng của nhà Tần.",
     "time": [-246],
@@ -26,7 +23,6 @@
     "priority": 74
   },
   {
-    "id": "ls6-004",
     "title": "Nhà Tần thống nhất Trung Quốc",
     "description": "Năm 221 TCN, Tần Thuỷ Hoàng thôn tính sáu nước chư hầu, kết thúc thời Chiến Quốc, lập ra triều đại phong kiến thống nhất đầu tiên của Trung Quốc, cho thống nhất đo lường, tiền tệ và chữ viết trên cả nước.",
     "time": [-221],
@@ -34,7 +30,6 @@
     "priority": 76
   },
   {
-    "id": "ls6-005",
     "title": "Vạn Lý Trường Thành được xây dựng",
     "description": "Sau khi thống nhất Trung Quốc, Tần Thuỷ Hoàng cho nối liền và xây mới các đoạn thành luỹ ở phía bắc thành Vạn Lý Trường Thành bằng đất nện và đá, kéo dài hàng nghìn ki-lô-mét nhằm ngăn chặn người Hung Nô xâm nhập; các triều đại sau tiếp tục tu bổ, mở rộng công trình phòng thủ khổng lồ này.",
     "time": [-215],
@@ -42,7 +37,6 @@
     "priority": 73
   },
   {
-    "id": "ls6-006",
     "title": "Nước Âu Lạc ra đời",
     "description": "Khoảng năm 208 TCN, sau khi lãnh đạo người Âu Việt và Lạc Việt kháng chiến chống quân Tần thắng lợi, Thục Phán lên ngôi, xưng là An Dương Vương, lập nước Âu Lạc, đóng đô ở Cổ Loa (Hà Nội ngày nay), cho xây thành Cổ Loa và chế tạo nỏ để giữ nước. Năm 179 TCN, Âu Lạc bị Triệu Đà thôn tính.",
     "time": [-208],
@@ -51,7 +45,6 @@
     "priority": 87
   },
   {
-    "id": "ls6-007",
     "title": "Nhà Hán thiết lập và mở rộng quyền lực",
     "description": "Nhà Hán (206 TCN – 220) kế tục nhà Tần, xây dựng chế độ quân chủ trung ương tập quyền, mở rộng lãnh thổ qua nhiều cuộc chinh phục, đưa văn hoá và kinh tế Trung Quốc phát triển rực rỡ trong hơn 400 năm.",
     "time": [-206],
@@ -60,7 +53,6 @@
     "priority": 75
   },
   {
-    "id": "ls6-008",
     "title": "Khởi nghĩa Spartacus ở La Mã",
     "description": "Năm 73 TCN, Xpác-ta-cút, một đấu sĩ nô lệ người Tơ-ra-xơ, lãnh đạo hàng chục nghìn nô lệ nổi dậy chống chính quyền La Mã, nhiều lần đánh bại quân đội La Mã. Đây là cuộc khởi nghĩa nô lệ lớn nhất thời cổ đại, bị đàn áp vào năm 71 TCN.",
     "time": [-73],
@@ -69,7 +61,6 @@
     "priority": 75
   },
   {
-    "id": "ls6-009",
     "title": "Hoàng đế Augustus cai trị La Mã",
     "description": "Năm 27 TCN, Óc-ta-vi-út được Viện Nguyên lão trao danh hiệu Augustus, trở thành hoàng đế đầu tiên của La Mã, chấm dứt thời kì nội chiến kéo dài, mở đầu giai đoạn hoà bình và thịnh vượng khoảng 200 năm của đế quốc La Mã (Pax Romana).",
     "time": [-27],
@@ -77,7 +68,6 @@
     "priority": 76
   },
   {
-    "id": "ls6-010",
     "title": "Khởi nghĩa Hai Bà Trưng",
     "description": "Mùa xuân năm 40, Hai Bà Trưng (Trưng Trắc, Trưng Nhị) phất cờ khởi nghĩa ở Hát Môn, đánh chiếm Mê Linh, Cổ Loa, Luy Lâu, lật đổ ách cai trị của nhà Hán; Trưng Trắc lên làm vua, đóng đô ở Mê Linh. Năm 43, nhà Hán đem quân sang đàn áp, cuộc khởi nghĩa thất bại nhưng đã mở đầu truyền thống đấu tranh giành lại độc lập thời Bắc thuộc.",
     "time": [40],
@@ -86,7 +76,6 @@
     "priority": 88
   },
   {
-    "id": "ls6-011",
     "title": "Phật giáo du nhập vào Trung Quốc",
     "description": "Khoảng thế kỉ I, Phật giáo từ Ấn Độ du nhập vào Trung Quốc qua con đường Tơ lụa, mở đầu quá trình phát triển kéo dài nhiều thế kỉ, ảnh hưởng sâu rộng đến văn hoá, nghệ thuật và đời sống tinh thần của người Trung Quốc.",
     "time": [50],
@@ -94,7 +83,6 @@
     "priority": 74
   },
   {
-    "id": "ls6-012",
     "title": "Vương quốc Phù Nam ra đời",
     "description": "Khoảng thế kỉ I, trên cơ sở văn hoá Óc Eo, Vương quốc Phù Nam ra đời ở khu vực hạ lưu và châu thổ sông Mê Công (Nam Bộ ngày nay), từng là một trung tâm thương mại đường biển sầm uất của Đông Nam Á. Khoảng đầu thế kỉ VII, Phù Nam suy yếu và bị Chân Lạp thôn tính.",
     "time": [50],
@@ -103,7 +91,6 @@
     "priority": 80
   },
   {
-    "id": "ls6-013",
     "title": "Khởi nghĩa Boudica ở Britannia",
     "description": "Năm 60, Bu-đi-ca, nữ thủ lĩnh bộ tộc Iceni ở Britannia (nước Anh ngày nay), lãnh đạo cuộc khởi nghĩa lớn chống ách cai trị của đế quốc La Mã, đánh phá nhiều thành thị La Mã trước khi bị đàn áp.",
     "time": [60],
@@ -111,7 +98,6 @@
     "priority": 74
   },
   {
-    "id": "ls6-014",
     "title": "Cuộc nổi dậy của người Do Thái chống La Mã",
     "description": "Năm 66, người Do Thái ở Giu-đê nổi dậy chống ách thống trị của La Mã. Cuộc khởi nghĩa kéo dài đến năm 73 mới bị dập tắt, thành Giê-ru-sa-lem và Đền Thánh bị phá huỷ năm 70, mở đầu chuỗi xung đột kéo dài giữa người Do Thái và đế quốc La Mã.",
     "time": [66],
@@ -120,7 +106,6 @@
     "priority": 74
   },
   {
-    "id": "ls6-015",
     "title": "Chùa Dâu được xây dựng",
     "description": "Chùa Dâu (còn gọi là chùa Diên Ứng hay chùa Pháp Vân) ở trung tâm Luy Lâu (Thuận Thành, Bắc Ninh) được khởi dựng từ thời Sĩ Nhiếp và hoàn thành khoảng năm 226. Đây là một trong những ngôi chùa cổ nhất Việt Nam, đánh dấu sự phát triển sớm của Phật giáo ở Giao Châu.",
     "time": [226],
@@ -128,7 +113,6 @@
     "priority": 72
   },
   {
-    "id": "ls6-016",
     "title": "Khởi nghĩa Bà Triệu",
     "description": "Năm 248, Bà Triệu (Triệu Thị Trinh) cùng anh là Triệu Quốc Đạt lãnh đạo nhân dân vùng Cửu Chân nổi dậy chống ách cai trị của nhà Ngô. Cuộc khởi nghĩa lan rộng khắp Giao Châu, khiến chính quyền đô hộ lo sợ; tuy bị đàn áp, Bà Triệu trở thành biểu tượng cho tinh thần bất khuất của phụ nữ Việt Nam.",
     "time": [248],
@@ -136,7 +120,6 @@
     "priority": 86
   },
   {
-    "id": "ls6-017",
     "title": "Khởi nghĩa Lý Bí",
     "description": "Đầu năm 542, Lý Bí lãnh đạo nhân dân khởi nghĩa, đánh đuổi quan lại đô hộ nhà Lương, làm chủ Giao Châu; nghĩa quân hai lần đánh bại quân Lương phản công trong các năm 542–543, tạo tiền đề cho việc thành lập nước Vạn Xuân năm 544.",
     "time": [542],
@@ -145,7 +128,6 @@
     "priority": 85
   },
   {
-    "id": "ls6-018",
     "title": "Nước Vạn Xuân thành lập",
     "description": "Mùa xuân năm 544, Lý Bí lên ngôi vua (Lý Nam Đế), đặt quốc hiệu là Vạn Xuân, dựng kinh đô ở vùng cửa sông Tô Lịch (Hà Nội ngày nay). Nhà nước Vạn Xuân tồn tại đến năm 602 thì bị nhà Tuỳ xâm chiếm.",
     "time": [544],
@@ -154,7 +136,6 @@
     "priority": 86
   },
   {
-    "id": "ls6-019",
     "title": "Bia Xá Lợi Tháp Minh — tấm bia cổ nhất Việt Nam",
     "description": "Năm 601, dưới thời thuộc Tuỳ, bia Xá Lợi Tháp Minh được khắc, ghi việc dựng tháp thờ xá lợi Phật tại chùa Thiền Chúng ở Giao Châu. Tấm bia được tìm thấy ở xã Trí Quả, Thuận Thành (Bắc Ninh) và được Bảo tàng Bắc Ninh sưu tầm năm 2012; đây là tấm bia đá có niên đại cổ nhất Việt Nam, được công nhận bảo vật quốc gia năm 2013.",
     "time": [601],
@@ -162,7 +143,6 @@
     "priority": 72
   },
   {
-    "id": "ls6-020",
     "title": "Khởi nghĩa Mai Thúc Loan",
     "description": "Năm 713, Mai Thúc Loan lãnh đạo nhân dân khởi nghĩa chống ách đô hộ của nhà Đường, làm chủ vùng Hoan Châu (Nghệ An – Hà Tĩnh ngày nay), xưng đế (Mai Hắc Đế) và xây thành Vạn An. Năm 722, nhà Đường đem quân sang đàn áp, cuộc khởi nghĩa thất bại.",
     "time": [713],
@@ -171,7 +151,6 @@
     "priority": 82
   },
   {
-    "id": "ls6-021",
     "title": "Khởi nghĩa Phùng Hưng",
     "description": "Khoảng năm 776, Phùng Hưng cùng em là Phùng Hải khởi nghĩa ở Đường Lâm (Sơn Tây, Hà Nội), được nhân dân khắp nơi hưởng ứng, chiếm được phủ thành Tống Bình, giành quyền tự chủ trong nhiều năm. Đến năm 791, nhà Đường đem quân sang đàn áp.",
     "time": [776],
@@ -180,7 +159,6 @@
     "priority": 82
   },
   {
-    "id": "ls6-022",
     "title": "Quả chuông Thanh Mai được đúc",
     "description": "Quả chuông Thanh Mai được đúc năm 798 dưới thời thuộc Đường, phát hiện năm 1986 tại xã Thanh Mai (Thanh Oai, Hà Nội). Đây là quả chuông đồng có niên đại cổ nhất được tìm thấy ở Việt Nam, khắc hơn 1.500 chữ Hán, minh chứng cho trình độ đúc đồng tinh xảo đương thời và đã được công nhận bảo vật quốc gia.",
     "time": [798],
@@ -188,7 +166,6 @@
     "priority": 72
   },
   {
-    "id": "ls6-023",
     "title": "Khúc Thừa Dụ dựng quyền tự chủ",
     "description": "Giữa năm 905, nhân lúc nhà Đường suy yếu, hào trưởng Khúc Thừa Dụ đánh chiếm thành Đại La, tự xưng Tiết độ sứ, xây dựng chính quyền tự chủ của người Việt; năm 906, nhà Đường buộc phải công nhận. Sự kiện mở đầu quá trình giành lại nền độc lập hoàn toàn của dân tộc.",
     "time": [905],
@@ -196,7 +173,6 @@
     "priority": 83
   },
   {
-    "id": "ls6-024",
     "title": "Dương Đình Nghệ đánh đuổi quân Nam Hán",
     "description": "Năm 931, Dương Đình Nghệ từ Ái Châu (Thanh Hoá) đem quân ra đánh chiếm thành Đại La, đánh tan quân Nam Hán sang tiếp viện, tự xưng Tiết độ sứ, khôi phục nền tự chủ, mở đường cho chiến thắng Bạch Đằng năm 938.",
     "time": [931],
@@ -204,7 +180,6 @@
     "priority": 84
   },
   {
-    "id": "ls6-025",
     "title": "Chiến thắng Bạch Đằng",
     "description": "Cuối năm 938, Ngô Quyền cho đóng cọc gỗ đầu bịt sắt nhọn xuống lòng sông Bạch Đằng, nhử đoàn thuyền quân Nam Hán vượt qua bãi cọc lúc thuỷ triều lên; khi triều rút, quân ta phản công dữ dội, thuyền giặc va vào cọc tan vỡ, chủ tướng Lưu Hoằng Tháo tử trận. Chiến thắng Bạch Đằng chấm dứt hơn một nghìn năm Bắc thuộc, mở ra kỉ nguyên độc lập, tự chủ lâu dài của dân tộc.",
     "time": [938],
