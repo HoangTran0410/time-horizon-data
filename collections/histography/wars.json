@@ -1011,7 +1011,7 @@
     ],
     "emoji": "🛡️",
     "priority": 385,
-    "link": "Battle_of_Salamis_(306_BC)",
+    "link": "Battle_of_Salamis",
     "image": "https://histography.io/images/16717.jpg"
   },
   {
@@ -2265,7 +2265,7 @@
     "title": "Roman conquest of Egypt",
     "description": "",
     "time": [
-      -40
+      -30
     ],
     "emoji": "🔥",
     "priority": 5365,
@@ -4151,8 +4151,7 @@
     "title": "the Mongol invasion",
     "description": "",
     "time": [
-      1206,
-      7
+      1236
     ],
     "emoji": "🪖",
     "priority": 8112,
@@ -13255,7 +13254,7 @@
     ],
     "emoji": "⚔️",
     "priority": 1416,
-    "link": "Albanian_Revolt_of_1847",
+    "link": "Albanian_revolt_of_1910",
     "image": "https://histography.io/images/1432.jpg"
   },
   {
@@ -13364,7 +13363,7 @@
     "image": "https://histography.io/images/1440.jpg"
   },
   {
-    "title": "Albanian Revolt of",
+    "title": "Albanian Revolt of 1912",
     "description": "",
     "time": [
       1912,
@@ -13372,7 +13371,7 @@
     ],
     "emoji": "⚔️",
     "priority": 516,
-    "link": "Albanian_Revolt_of_1847",
+    "link": "Albanian_revolt_of_1912",
     "image": "https://histography.io/images/1437.jpg"
   },
   {

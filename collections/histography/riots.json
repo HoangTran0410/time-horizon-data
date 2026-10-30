@@ -2707,7 +2707,7 @@
     ],
     "emoji": "✊",
     "priority": 1512,
-    "link": "2011_Northern_Ireland_riots",
+    "link": "1969_Northern_Ireland_riots",
     "image": "https://histography.io/images/3114.jpg"
   },
   {
@@ -2810,7 +2810,7 @@
     ],
     "emoji": "✊",
     "priority": 77,
-    "link": "2002_Gujarat_riots",
+    "link": "1969_Gujarat_riots",
     "image": "https://histography.io/images/3117.jpg"
   },
   {
@@ -2915,7 +2915,7 @@
     ],
     "emoji": "✊",
     "priority": 8277,
-    "link": "Bloody_Sunday_(1920)",
+    "link": "Bloody_Sunday_(1972)",
     "image": "https://histography.io/images/3127.jpg",
     "video": "3s1iH3z8EhY"
   },
@@ -5464,7 +5464,7 @@
     "title": "Riots in Indonesia",
     "description": "",
     "time": [
-      2010,
+      1998,
       5
     ],
     "emoji": "✊",
@@ -5476,7 +5476,7 @@
     "title": "Riots in Indonesia",
     "description": "",
     "time": [
-      2010,
+      1998,
       5
     ],
     "emoji": "✊",
@@ -6047,8 +6047,7 @@
     "title": "Slaves Riots In Rome",
     "description": "",
     "time": [
-      2011,
-      2
+      -73
     ],
     "emoji": "✊",
     "priority": 8137,
@@ -7604,7 +7603,7 @@
     ],
     "emoji": "✊",
     "priority": 474,
-    "link": "1964_race_riots_in_Singapore",
+    "link": "2013_Little_India_riot",
     "image": "https://histography.io/images/3569.jpg"
   },
   {

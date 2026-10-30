@@ -46,7 +46,7 @@
     "title": "\"The Great Sphinx Of Giza\" built",
     "description": "",
     "time": [
-      -6500
+      -2500
     ],
     "emoji": "🗿",
     "priority": 3822,
@@ -399,7 +399,7 @@
     "title": "The Parthenon construction",
     "description": "",
     "time": [
-      -477
+      -447
     ],
     "emoji": "🏗️",
     "priority": 4288,
@@ -1285,8 +1285,8 @@
     "title": "Leaning Tower of Pisa construction",
     "description": "",
     "time": [
-      1063,
-      10
+      1173,
+      8
     ],
     "emoji": "🏗️",
     "priority": 1038,
